@@ -2,9 +2,9 @@ import React, { Component } from 'react';
 import Select from 'react-select';
 import './App.css';
 import { repPrs } from './repPrs.js'
-import { Line, Bar } from 'react-chartjs-2';
+import { Line } from 'react-chartjs-2';
 
-const options = {
+const graphOptions = {
   scales: {
     xAxes: [{
       type: 'linear'
@@ -13,73 +13,120 @@ const options = {
 }
 
 
-const selectedExercise = 'back squats';
+// const selectedExercise = 'back squats';
 
-const datasets = Object.keys(repPrs[selectedExercise]).map(repNumber => {
-  const data = repPrs[selectedExercise][repNumber].map(set => {
+// const datasets = Object.keys(repPrs[selectedExercise]).map(repNumber => {
+//   const data = repPrs[selectedExercise][repNumber].map(set => {
+//     return {
+//       x: set.week + (set.day / 10),
+//       y: set.weight
+//     }
+//   })
+
+//   return {
+//     label: `${selectedExercise} ${repNumber}RM`,
+//     fill: false,
+//     lineTension: 0.1,
+//     backgroundColor: 'rgba(75,192,192,0.4)',
+//     borderColor: 'rgba(75,192,192,1)',
+//     borderCapStyle: 'butt',
+//     borderDash: [],
+//     borderDashOffset: 0.0,
+//     borderJoinStyle: 'miter',
+//     pointBorderColor: 'rgba(75,192,192,1)',
+//     pointBackgroundColor: '#fff',
+//     pointBorderWidth: 1,
+//     pointHoverRadius: 5,
+//     pointHoverBackgroundColor: 'rgba(75,192,192,1)',
+//     pointHoverBorderColor: 'rgba(220,220,220,1)',
+//     pointHoverBorderWidth: 2,
+//     pointRadius: 1,
+//     pointHitRadius: 10,
+//     spanGaps: true,
+//     data: data
+//   }
+// })
+
+// const data = {
+//   datasets: datasets
+// }
+
+//console.log(data)
+
+function getGraphData(selectedExercise) {
+  const datasets = Object.keys(repPrs[selectedExercise]).map(repNumber => {
+    const data = repPrs[selectedExercise][repNumber].map(set => {
+      return {
+        x: set.week + (set.day / 10),
+        y: set.weight
+      }
+    })
+
     return {
-      x: set.week + (set.day / 10),
-      y: set.weight
+      label: `${selectedExercise} ${repNumber}RM`,
+      fill: false,
+      lineTension: 0.1,
+      backgroundColor: 'rgba(75,192,192,0.4)',
+      borderColor: 'rgba(75,192,192,1)',
+      borderCapStyle: 'butt',
+      borderDash: [],
+      borderDashOffset: 0.0,
+      borderJoinStyle: 'miter',
+      pointBorderColor: 'rgba(75,192,192,1)',
+      pointBackgroundColor: '#fff',
+      pointBorderWidth: 1,
+      pointHoverRadius: 5,
+      pointHoverBackgroundColor: 'rgba(75,192,192,1)',
+      pointHoverBorderColor: 'rgba(220,220,220,1)',
+      pointHoverBorderWidth: 2,
+      pointRadius: 1,
+      pointHitRadius: 10,
+      spanGaps: true,
+      steppedLine: 'before',
+      data: data
     }
   })
 
-  return {
-    label: `${selectedExercise} ${repNumber}RM`,
-    fill: false,
-    lineTension: 0.1,
-    backgroundColor: 'rgba(75,192,192,0.4)',
-    borderColor: 'rgba(75,192,192,1)',
-    borderCapStyle: 'butt',
-    borderDash: [],
-    borderDashOffset: 0.0,
-    borderJoinStyle: 'miter',
-    pointBorderColor: 'rgba(75,192,192,1)',
-    pointBackgroundColor: '#fff',
-    pointBorderWidth: 1,
-    pointHoverRadius: 5,
-    pointHoverBackgroundColor: 'rgba(75,192,192,1)',
-    pointHoverBorderColor: 'rgba(220,220,220,1)',
-    pointHoverBorderWidth: 2,
-    pointRadius: 1,
-    pointHitRadius: 10,
-    spanGaps: true,
-    data: data
+  const data = {
+    datasets: datasets
   }
-})
 
-const data = {
-  datasets: datasets
+  return data;
 }
-
-console.log(data)
-
-
 
 
 const exercises = Object.keys(repPrs).sort().map(k => {
-  return {value: k, label: k};
+  return { value: k, label: k };
 })
 
 class App extends Component {
-  constructor(){
+  constructor() {
     super();
     this.state = {
-      selectedExercise: null,
+      selectedExercise: exercises.filter(ex => ex.value === 'back squats')[0],
+      graphData: getGraphData('back squats')
     }
   }
-  handleChange = (selectedOption) => {
-    this.setState({ selectedOption });
-    console.log(`Option selected:`, selectedOption);
+
+  handleChange = (selectedExercise) => {
+    const graphData = getGraphData(selectedExercise.value);
+    this.setState({
+      selectedExercise,
+      graphData
+    });
+    console.log(`Option selected: `, selectedExercise);
+    console.log(`graphData: `, graphData);
   }
+
   render() {
     return (
       <div className="App">
         <Select
-          value={this.selectedOption}
+          // value={this.selectedOption}
           onChange={this.handleChange}
           options={exercises}
         />
-        <Line data={data} options={options} />    
+        <Line data={this.state.graphData} options={graphOptions} />
 
       </div>
     );
