@@ -7,7 +7,8 @@ import { Line } from 'react-chartjs-2';
 const graphOptions = {
   scales: {
     xAxes: [{
-      type: 'linear'
+      type: 'time',
+      time: { parser: 'YYYY-MM-DD' }
     }]
   }
 }
@@ -57,7 +58,7 @@ function getGraphData(selectedExercise) {
   const datasets = Object.keys(repPrs[selectedExercise]).map(repNumber => {
     const data = repPrs[selectedExercise][repNumber].map(set => {
       return {
-        x: set.week + (set.day / 10),
+        x: set.inferredDate,
         y: set.weight
       }
     })

@@ -2,7 +2,9 @@ export const repPrs = {
    "back squats": {
       "1": [
          {
-            "id": "9fc9b1be-2d92-4162-be7d-40465e5a3252",
+            "id": "13e603b8-c899-407e-899b-3033a6bd13fc",
+            "inferredDate": "2015-08-31",
+            "weekStartDate": "2015-08-29",
             "week": 1,
             "day": 1,
             "exercise": "back squats",
@@ -18,7 +20,27 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "ebf5dc2b-e612-4e5c-b418-993b69440313",
+            "id": "cca0a2e1-bb38-42ff-ac2b-896adbf8a2cc",
+            "inferredDate": "2015-11-23",
+            "weekStartDate": "2015-11-21",
+            "week": 13,
+            "day": 1,
+            "exercise": "back squats",
+            "originalExerciseName": "Back Squats",
+            "setNumber": 2,
+            "reps": 1,
+            "instructions": "Work up to 92.5% of your 1 RM",
+            "weight": 385,
+            "notes": "Belt on for 385 and 405",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "051bef1d-facb-40dd-9c95-69f405910ff5",
+            "inferredDate": "2015-11-23",
+            "weekStartDate": "2015-11-21",
             "week": 13,
             "day": 1,
             "exercise": "back squats",
@@ -34,7 +56,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "71915b72-bf24-4115-92e4-a955131de26f",
+            "id": "a028ac9d-a9f0-4e8f-bc33-e93e1e657599",
+            "inferredDate": "2015-11-30",
+            "weekStartDate": "2015-11-28",
             "week": 14,
             "day": 1,
             "exercise": "back squats",
@@ -50,7 +74,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "84a8a907-c7df-44d6-9c13-6f6524032814",
+            "id": "3979fb63-c06d-4b41-a378-f1f829337559",
+            "inferredDate": "2016-03-14",
+            "weekStartDate": "2016-03-12",
             "week": 27,
             "day": 1,
             "exercise": "back squats",
@@ -64,16 +90,36 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
-         }
-      ],
-      "2": [
+         },
          {
-            "id": "3093af88-85b3-45c9-b917-b5a6b1a380f9",
-            "week": 2,
+            "id": "bedb5f48-297b-4aeb-8a4e-41dba335ab4d",
+            "inferredDate": "2019-06-10",
+            "weekStartDate": "2019-06-08",
+            "week": 172,
             "day": 1,
             "exercise": "back squats",
             "originalExerciseName": "Back Squats",
             "setNumber": 3,
+            "reps": 1,
+            "instructions": "Using 90, 92.5, 95% of your 1 RM",
+            "weight": 425,
+            "notes": "these felt ok. I was pretty distracted as I was troubleshooting a production issue from my phone for work in between sets.",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "2": [
+         {
+            "id": "e7490dc7-b00d-40d5-b5e2-99ed4a782fdb",
+            "inferredDate": "2015-09-07",
+            "weekStartDate": "2015-09-05",
+            "week": 2,
+            "day": 1,
+            "exercise": "back squats",
+            "originalExerciseName": "Back Squats",
+            "setNumber": 1,
             "reps": 2,
             "instructions": "Using 85% of your 1 RM",
             "weight": 355,
@@ -84,7 +130,27 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "79a3b14a-fd3f-4ab6-a542-a061051ba432",
+            "id": "b43e38b8-5b71-44c6-9b60-9634958569c5",
+            "inferredDate": "2015-11-16",
+            "weekStartDate": "2015-11-14",
+            "week": 12,
+            "day": 1,
+            "exercise": "back squats",
+            "originalExerciseName": "Back Squats",
+            "setNumber": 2,
+            "reps": 2,
+            "instructions": "Work up to 90% of your 1 RM",
+            "weight": 365,
+            "notes": "Belt on for 385",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "baaa9cfa-d3a9-44f4-be01-f716d103976e",
+            "inferredDate": "2015-11-16",
+            "weekStartDate": "2015-11-14",
             "week": 12,
             "day": 1,
             "exercise": "back squats",
@@ -98,16 +164,36 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "8d14443f-b878-4ca1-88d7-51e503f0e0b8",
+            "inferredDate": "2019-07-01",
+            "weekStartDate": "2019-06-29",
+            "week": 175,
+            "day": 1,
+            "exercise": "back squats",
+            "originalExerciseName": "Back Squats",
+            "setNumber": 1,
+            "reps": 2,
+            "instructions": "",
+            "weight": 405,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ],
       "3": [
          {
-            "id": "36f4df22-2abc-4e5f-8b01-e2ee6432981f",
+            "id": "f0ef490a-f596-4f33-9bf3-4be3f6567c1d",
+            "inferredDate": "2015-08-31",
+            "weekStartDate": "2015-08-29",
             "week": 1,
             "day": 1,
             "exercise": "back squats",
             "originalExerciseName": "Back Squats",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 3,
             "instructions": "Using 80% of your 1 RM",
             "weight": 335,
@@ -118,23 +204,45 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "814199d2-4320-415a-99ae-bc9e10d55ead",
+            "id": "9fef113e-ff3d-4542-ac22-0aed5a4d6e94",
+            "inferredDate": "2015-12-07",
+            "weekStartDate": "2015-12-05",
             "week": 15,
             "day": 1,
             "exercise": "back squats",
             "originalExerciseName": "Back Squats",
             "setNumber": 1,
             "reps": 3,
-            "instructions": "Using 85% of your 1 RM",
-            "weight": 365,
-            "notes": "only doing one set figuring it's better to not grind out garbage reps.",
+            "instructions": "Work up to 87.5% of your 1 RM",
+            "weight": 345,
+            "notes": "Belt on for 375 because I feel like garbage: spent the weekend ripping off vinyl on my kitchen floor to sand and refinish, only to find possibly asbestos tiles under the last 4 feet. Legs and back are sore from the labor, and I'm a bit stressed/under recovered.",
             "supersetId": "",
             "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
+            "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
          },
          {
-            "id": "682ea5e8-8632-4b6c-90de-5f4adf0f0e98",
+            "id": "7541eb04-1537-423a-abd5-55cc8871cacd",
+            "inferredDate": "2015-12-07",
+            "weekStartDate": "2015-12-05",
+            "week": 15,
+            "day": 1,
+            "exercise": "back squats",
+            "originalExerciseName": "Back Squats",
+            "setNumber": 2,
+            "reps": 3,
+            "instructions": "Work up to 87.5% of your 1 RM",
+            "weight": 365,
+            "notes": "Belt on for 375 because I feel like garbage: spent the weekend ripping off vinyl on my kitchen floor to sand and refinish, only to find possibly asbestos tiles under the last 4 feet. Legs and back are sore from the labor, and I'm a bit stressed/under recovered.",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "74ca1d35-5f7b-43e4-9cdc-dfd22306293c",
+            "inferredDate": "2015-12-07",
+            "weekStartDate": "2015-12-05",
             "week": 15,
             "day": 1,
             "exercise": "back squats",
@@ -152,12 +260,14 @@ export const repPrs = {
       ],
       "4": [
          {
-            "id": "28e512b2-a3e9-45a2-a600-50d78becd657",
+            "id": "897e59ec-436c-47f1-9d48-a5e0b67465d8",
+            "inferredDate": "2015-09-07",
+            "weekStartDate": "2015-09-05",
             "week": 2,
             "day": 1,
             "exercise": "back squats",
             "originalExerciseName": "Back Squats",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 4,
             "instructions": "Using 82.5% of your 1 RM",
             "weight": 345,
@@ -168,7 +278,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "2ef19c27-a8be-4174-bcb8-99f23ff88d4e",
+            "id": "87fa36e0-dff6-4f0e-9909-a84083965e52",
+            "inferredDate": "2015-11-09",
+            "weekStartDate": "2015-11-07",
             "week": 11,
             "day": 1,
             "exercise": "back squats",
@@ -184,7 +296,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "e3b81c62-76c1-4af3-9cc1-9b20cb7b5a41",
+            "id": "b64a7a8f-a114-47bd-a6ce-cd0047e711ae",
+            "inferredDate": "2015-11-23",
+            "weekStartDate": "2015-11-21",
             "week": 13,
             "day": 1,
             "exercise": "back squats",
@@ -200,7 +314,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "eea3951c-a1f9-4ff1-90e0-c50092fc2596",
+            "id": "27a67bb4-b6f7-4935-a15a-0db4168f0289",
+            "inferredDate": "2016-12-12",
+            "weekStartDate": "2016-12-10",
             "week": 70,
             "day": 1,
             "exercise": "back squats",
@@ -218,12 +334,14 @@ export const repPrs = {
       ],
       "5": [
          {
-            "id": "49172e15-d6c9-4e18-a19f-47e1cf409a7c",
+            "id": "a8263d5a-a55f-4caf-809a-f436f0b4559d",
+            "inferredDate": "2015-11-16",
+            "weekStartDate": "2015-11-14",
             "week": 12,
             "day": 1,
             "exercise": "back squats",
             "originalExerciseName": "Back Squats",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 5,
             "instructions": "Using 80% of your 1 RM",
             "weight": 345,
@@ -232,16 +350,36 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "setRangeInParenthesisStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "0300aa02-364d-4d9d-9b10-6a1b00db4c7b",
+            "inferredDate": "2019-06-24",
+            "weekStartDate": "2019-06-22",
+            "week": 174,
+            "day": 1,
+            "exercise": "back squats",
+            "originalExerciseName": "Back Squats",
+            "setNumber": 1,
+            "reps": 5,
+            "instructions": "",
+            "weight": 405,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ],
       "6": [
          {
-            "id": "f3cae686-ca86-4997-94a4-399781ba1129",
+            "id": "8292339e-cc5f-4607-b0d2-c77a95bcea74",
+            "inferredDate": "2016-01-11",
+            "weekStartDate": "2016-01-09",
             "week": 20,
             "day": 1,
             "exercise": "back squats",
             "originalExerciseName": "Back Squats",
-            "setNumber": 5,
+            "setNumber": 1,
             "reps": 6,
             "instructions": "Using 70% of your 1 RM (Use 430) Set up just slightly wider than you have been, only an inch",
             "weight": 300,
@@ -252,12 +390,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "60f767de-1549-4608-a56f-49f424c812d9",
+            "id": "3d2f4bb5-b2c6-4b4c-b52f-e2b4b546ea1a",
+            "inferredDate": "2016-01-25",
+            "weekStartDate": "2016-01-23",
             "week": 22,
             "day": 1,
             "exercise": "back squats",
             "originalExerciseName": "Back Squats",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 6,
             "instructions": "Using 70% of your 1 RM",
             "weight": 305,
@@ -268,7 +408,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "bf736a16-2642-4bde-9a92-87ffd8b92704",
+            "id": "4a03a001-5e6e-4527-9e3b-8afa12d62767",
+            "inferredDate": "2016-10-24",
+            "weekStartDate": "2016-10-22",
             "week": 63,
             "day": 1,
             "exercise": "back squats",
@@ -284,7 +426,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "c88a2afa-5265-4445-8b75-b1d15e2e7a0f",
+            "id": "3c7fa13f-5e12-422f-93ae-a8cffe6aeb45",
+            "inferredDate": "2017-04-24",
+            "weekStartDate": "2017-04-22",
             "week": 85,
             "day": 1,
             "exercise": "back squats",
@@ -302,7 +446,9 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "6d586b56-9686-463a-885f-c3a815fdfc69",
+            "id": "f114cfd9-d1d7-4b34-871b-380f1b96c5a3",
+            "inferredDate": "2016-08-22",
+            "weekStartDate": "2016-08-20",
             "week": 53,
             "day": 1,
             "exercise": "back squats",
@@ -316,16 +462,36 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "failureSpecifiedInRepsColumnWithWeightStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "74e6c54d-3975-4761-956d-440eea5179c5",
+            "inferredDate": "2019-03-25",
+            "weekStartDate": "2019-03-23",
+            "week": 162,
+            "day": 1,
+            "exercise": "back squats",
+            "originalExerciseName": "Back Squats",
+            "setNumber": 1,
+            "reps": 8,
+            "instructions": "Using 75% of your 1 RM",
+            "weight": 335,
+            "notes": "Might be the switch to low bar, but these were cruising! Dealing with forearm splints in my left arm right now, but luckily this position didn’t aggravate them: I was thinking this was going to be a struggle session. Hopefully the splints won’t be an issue for benching tomorrow.",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ],
       "10": [
          {
-            "id": "6bbc16fc-05eb-4622-9424-391f6552f7b6",
+            "id": "9fe6975d-a25f-403e-b8ef-b262c2fdc5e3",
+            "inferredDate": "2016-01-04",
+            "weekStartDate": "2016-01-02",
             "week": 19,
             "day": 1,
             "exercise": "back squats",
             "originalExerciseName": "Back Squats",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "Using 60% of your 1 RM (Use 430) Set up just slightly wider than you have been, only an inch",
             "weight": 260,
@@ -336,7 +502,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "50441580-7da8-47aa-8a2d-5aa100bdc935",
+            "id": "ed47d537-627c-4e97-b8fc-9216519ebfe0",
+            "inferredDate": "2016-04-25",
+            "weekStartDate": "2016-04-23",
             "week": 33,
             "day": 1,
             "exercise": "back squats",
@@ -354,7 +522,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "5f01f6c9-f638-48c0-802e-224a735509d9",
+            "id": "ca040f8d-e862-49da-9b9b-6508820aa937",
+            "inferredDate": "2017-07-10",
+            "weekStartDate": "2017-07-08",
             "week": 96,
             "day": 1,
             "exercise": "back squats",
@@ -370,12 +540,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "af7e5a71-61a3-4f9f-8f85-41dd5e0ad831",
+            "id": "7beb725c-46a2-482f-8034-271b17e0bd48",
+            "inferredDate": "2018-08-13",
+            "weekStartDate": "2018-08-11",
             "week": 130,
             "day": 1,
             "exercise": "back squats",
             "originalExerciseName": "Back Squats",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "Using 70% of your 1 RM",
             "weight": 315,
@@ -386,9 +558,31 @@ export const repPrs = {
             "dropSetId": ""
          }
       ],
+      "15": [
+         {
+            "id": "b1bc0019-d22b-4eb5-afd3-f7b4eff88360",
+            "inferredDate": "2019-09-17",
+            "weekStartDate": "2019-09-14",
+            "week": 186,
+            "day": 1,
+            "exercise": "back squats",
+            "originalExerciseName": "Seated hamstring curl",
+            "setNumber": 1,
+            "reps": 15,
+            "instructions": "",
+            "weight": 120,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
       "335": [
          {
-            "id": "dd18dc3c-e96a-4ee8-978b-a712253f01a3",
+            "id": "1fb0e5c9-5e12-4fcf-9ea3-c0ef01de1215",
+            "inferredDate": "2017-10-10",
+            "weekStartDate": "2017-10-08",
             "week": 110,
             "day": 1,
             "exercise": "back squats",
@@ -408,7 +602,9 @@ export const repPrs = {
    "bench press": {
       "0": [
          {
-            "id": "c580e623-d6d3-423e-82c7-8c6eb74bcab4",
+            "id": "7b3e264d-7321-4c31-94dc-936fbe87b285",
+            "inferredDate": "2017-01-31",
+            "weekStartDate": "2017-01-28",
             "week": 72,
             "day": 2,
             "exercise": "bench press",
@@ -426,7 +622,9 @@ export const repPrs = {
       ],
       "1": [
          {
-            "id": "c9507700-d673-48d8-b4c9-34a9179f684e",
+            "id": "bb909a3f-2b31-4b9f-a8d6-f8e940d1668f",
+            "inferredDate": "2015-08-31",
+            "weekStartDate": "2015-08-29",
             "week": 1,
             "day": 1,
             "exercise": "bench press",
@@ -442,7 +640,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "3c2e77f8-f030-4817-a782-993171078ca0",
+            "id": "5189180e-4537-4739-851f-2c2177f79102",
+            "inferredDate": "2015-11-23",
+            "weekStartDate": "2015-11-21",
             "week": 13,
             "day": 1,
             "exercise": "bench press",
@@ -458,7 +658,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "c560fc28-5008-45db-b0d5-1448ec04780c",
+            "id": "10f56ce9-4bae-47ea-8111-33e876626826",
+            "inferredDate": "2015-11-30",
+            "weekStartDate": "2015-11-28",
             "week": 14,
             "day": 1,
             "exercise": "bench press",
@@ -474,7 +676,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "ab45c634-1ffd-4102-b738-15b807d0e13c",
+            "id": "72b5d291-7249-465f-a9f9-0a8a441068a8",
+            "inferredDate": "2015-12-25",
+            "weekStartDate": "2015-12-19",
             "week": 17,
             "day": 4,
             "exercise": "bench press",
@@ -490,7 +694,27 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "5ebfee0a-2ebe-4c85-9fbc-658a7b1a4a86",
+            "id": "bc54f386-6cc9-40de-9701-57f596e73d00",
+            "inferredDate": "2016-03-04",
+            "weekStartDate": "2016-02-27",
+            "week": 25,
+            "day": 4,
+            "exercise": "bench press",
+            "originalExerciseName": "Bench Press",
+            "setNumber": 2,
+            "reps": 1,
+            "instructions": "Using 90, 92.5, 95% of your 1 RM",
+            "weight": 310,
+            "notes": "315 wasn't specified today, but the prior 3 lifts were super smooth and I just wanted to hit 3 plates: getting to the point of 315 being an everyday max has been a goal of mine",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "85b99686-3c8a-4273-b541-baf250b96f75",
+            "inferredDate": "2016-03-04",
+            "weekStartDate": "2016-02-27",
             "week": 25,
             "day": 4,
             "exercise": "bench press",
@@ -506,7 +730,27 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "33735e77-65d1-4f4d-a093-3f711b76df16",
+            "id": "dd165394-b244-43f1-8882-e8be3c7958e3",
+            "inferredDate": "2016-03-11",
+            "weekStartDate": "2016-03-05",
+            "week": 26,
+            "day": 4,
+            "exercise": "bench press",
+            "originalExerciseName": "Bench Press",
+            "setNumber": 2,
+            "reps": 1,
+            "instructions": "Work up to a 1 RM",
+            "weight": 335,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "f8db1dbb-148a-4f61-9392-2b420964b413",
+            "inferredDate": "2016-03-11",
+            "weekStartDate": "2016-03-05",
             "week": 26,
             "day": 4,
             "exercise": "bench press",
@@ -524,12 +768,14 @@ export const repPrs = {
       ],
       "2": [
          {
-            "id": "ca7d6062-9698-4dc2-85b4-02f0b9b9fe6f",
+            "id": "884ddd77-7338-4e53-a2b7-084a89ddc0a3",
+            "inferredDate": "2015-09-07",
+            "weekStartDate": "2015-09-05",
             "week": 2,
             "day": 1,
             "exercise": "bench press",
             "originalExerciseName": "Contest Pause Bench Press",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 2,
             "instructions": "Using 90% of your 1 RM",
             "weight": 285,
@@ -540,12 +786,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "b45ba356-eb4a-4fd8-b65b-c3e2b49900a9",
+            "id": "81734084-2fa1-4d84-beaa-66b65f879053",
+            "inferredDate": "2016-05-12",
+            "weekStartDate": "2016-05-07",
             "week": 35,
             "day": 2,
             "exercise": "bench press",
             "originalExerciseName": "Bench Press",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 2,
             "instructions": "Using 87.5% of your 1 RM",
             "weight": 295,
@@ -556,7 +804,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "6bae4909-2069-4dcc-859d-24bcd3c7651d",
+            "id": "4514d85e-9f44-4f85-b4f4-57deae9cd501",
+            "inferredDate": "2016-05-17",
+            "weekStartDate": "2016-05-14",
             "week": 36,
             "day": 2,
             "exercise": "bench press",
@@ -574,7 +824,9 @@ export const repPrs = {
       ],
       "3": [
          {
-            "id": "20f4eee5-f179-4df7-919c-871880cdd22b",
+            "id": "f65474bb-776c-44fc-a784-cab96528f188",
+            "inferredDate": "2015-08-31",
+            "weekStartDate": "2015-08-29",
             "week": 1,
             "day": 1,
             "exercise": "bench press",
@@ -590,7 +842,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "c378cc9e-d1be-43ff-9f28-3c5e3229ca56",
+            "id": "56c4ee3a-8215-4549-9bd1-6e6dd4e7395c",
+            "inferredDate": "2015-12-07",
+            "weekStartDate": "2015-12-05",
             "week": 15,
             "day": 1,
             "exercise": "bench press",
@@ -606,7 +860,27 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "f390efdc-fc2a-4334-bd6e-99f8b5932920",
+            "id": "be745fe4-3d1b-4cb0-bea9-5e11b1c35ff3",
+            "inferredDate": "2015-12-07",
+            "weekStartDate": "2015-12-05",
+            "week": 15,
+            "day": 1,
+            "exercise": "bench press",
+            "originalExerciseName": "Bench Press",
+            "setNumber": 2,
+            "reps": 3,
+            "instructions": "Work up to 87.5% of your 1 RM",
+            "weight": 270,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "1b428aba-5cae-4205-a38f-6f4a8d1157f8",
+            "inferredDate": "2015-12-07",
+            "weekStartDate": "2015-12-05",
             "week": 15,
             "day": 1,
             "exercise": "bench press",
@@ -622,15 +896,35 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "080e2b08-f630-4f9d-a536-2b6ae1062144",
+            "id": "3baacace-8f73-44ba-9026-af98bbdc7a56",
+            "inferredDate": "2016-05-03",
+            "weekStartDate": "2016-04-30",
             "week": 34,
             "day": 2,
             "exercise": "bench press",
             "originalExerciseName": "Bench Press",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 3,
             "instructions": "Using 85% of your 1 RM",
             "weight": 285,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "589fe989-895c-4c22-ae6b-b3ac837d5ed7",
+            "inferredDate": "2019-06-25",
+            "weekStartDate": "2019-06-22",
+            "week": 174,
+            "day": 2,
+            "exercise": "bench press",
+            "originalExerciseName": "Flat Barbell Bench Press",
+            "setNumber": 1,
+            "reps": 3,
+            "instructions": "",
+            "weight": 315,
             "notes": "",
             "supersetId": "",
             "anomalous": "",
@@ -640,7 +934,9 @@ export const repPrs = {
       ],
       "4": [
          {
-            "id": "ff67d5c1-6613-4d5a-a438-ce4979ed06b8",
+            "id": "b6ff210b-9710-42ec-859c-859b8de2bc75",
+            "inferredDate": "2015-11-09",
+            "weekStartDate": "2015-11-07",
             "week": 11,
             "day": 1,
             "exercise": "bench press",
@@ -656,7 +952,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "9f53a030-9eb1-4af4-98c1-1e1dece454a7",
+            "id": "e88db7f9-4842-42f0-9d9b-37b64d943562",
+            "inferredDate": "2015-11-09",
+            "weekStartDate": "2015-11-07",
             "week": 11,
             "day": 1,
             "exercise": "bench press",
@@ -672,7 +970,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "54bf1f34-81e5-44b7-823a-2d4e76a4711e",
+            "id": "1e83e497-069b-40c7-94d2-2b7489ee0c78",
+            "inferredDate": "2015-11-09",
+            "weekStartDate": "2015-11-07",
             "week": 11,
             "day": 1,
             "exercise": "bench press",
@@ -688,7 +988,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "1515cdc6-b5fb-4478-a6c4-6d31f2dce475",
+            "id": "088e4278-6a4b-4dfc-88fb-509ff1e7a09b",
+            "inferredDate": "2015-11-23",
+            "weekStartDate": "2015-11-21",
             "week": 13,
             "day": 1,
             "exercise": "bench press",
@@ -704,7 +1006,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "7147acc9-c3d5-447c-bf3d-b9bcdfb18465",
+            "id": "b76d74ba-1f54-4f30-8a99-d938e30d977a",
+            "inferredDate": "2016-04-27",
+            "weekStartDate": "2016-04-23",
             "week": 33,
             "day": 2,
             "exercise": "bench press",
@@ -722,23 +1026,45 @@ export const repPrs = {
       ],
       "5": [
          {
-            "id": "ea43c324-d8d6-4988-af9b-b32038232d20",
+            "id": "cb93a679-5933-46f0-8f78-7b7e60c76450",
+            "inferredDate": "2015-10-05",
+            "weekStartDate": "2015-10-03",
+            "week": 6,
+            "day": 1,
+            "exercise": "bench press",
+            "originalExerciseName": "Bench Press",
+            "setNumber": 1,
+            "reps": 5,
+            "instructions": "Work up to 80% of your 1 RM",
+            "weight": 245,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "2713e25f-d169-47df-8a44-eff271ac3574",
+            "inferredDate": "2015-10-05",
+            "weekStartDate": "2015-10-03",
             "week": 6,
             "day": 1,
             "exercise": "bench press",
             "originalExerciseName": "Bench Press",
             "setNumber": 2,
             "reps": 5,
-            "instructions": "Using 70% of your 1 RM",
-            "weight": 225,
+            "instructions": "Work up to 80% of your 1 RM",
+            "weight": 250,
             "notes": "",
             "supersetId": "",
             "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
+            "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
          },
          {
-            "id": "38810d5c-9871-4b5b-8cb8-fbc005171cc6",
+            "id": "1ebb7f13-e63e-4ff9-a236-18cd7c466561",
+            "inferredDate": "2015-10-05",
+            "weekStartDate": "2015-10-03",
             "week": 6,
             "day": 1,
             "exercise": "bench press",
@@ -754,7 +1080,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "ba0e63be-4654-4f5a-9183-cfd3ecebc35a",
+            "id": "065e2fd2-d75c-40f4-89dd-894ba9b0749e",
+            "inferredDate": "2015-10-26",
+            "weekStartDate": "2015-10-24",
             "week": 9,
             "day": 1,
             "exercise": "bench press",
@@ -770,7 +1098,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "d71daef4-08bd-44dd-afed-8a22969db5c7",
+            "id": "ccfba128-4910-4c03-b988-7046555f9c93",
+            "inferredDate": "2017-03-28",
+            "weekStartDate": "2017-03-25",
             "week": 80,
             "day": 2,
             "exercise": "bench press",
@@ -788,7 +1118,9 @@ export const repPrs = {
       ],
       "6": [
          {
-            "id": "19e14c04-e002-47ec-b7df-e85aecfe4b23",
+            "id": "218bc575-919d-45d8-bf63-3adf51237e3f",
+            "inferredDate": "2015-09-28",
+            "weekStartDate": "2015-09-26",
             "week": 5,
             "day": 1,
             "exercise": "bench press",
@@ -804,7 +1136,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "3d491bdb-d4ef-4769-88f2-afb2d27971a9",
+            "id": "e7512265-79f1-4880-8d55-2d26a5b3970c",
+            "inferredDate": "2015-09-28",
+            "weekStartDate": "2015-09-26",
             "week": 5,
             "day": 1,
             "exercise": "bench press",
@@ -820,7 +1154,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "ff51036c-c1c1-4b97-b2fb-e6cc48fbda71",
+            "id": "ad24ad1d-1bb6-42f9-87b7-88ef48bd7423",
+            "inferredDate": "2015-09-28",
+            "weekStartDate": "2015-09-26",
             "week": 5,
             "day": 1,
             "exercise": "bench press",
@@ -836,14 +1172,36 @@ export const repPrs = {
             "dropSetId": ""
          }
       ],
+      "7": [
+         {
+            "id": "d1cd69c5-201c-449b-9f92-d7cbdcc5bca7",
+            "inferredDate": "2019-12-31",
+            "weekStartDate": "2019-12-28",
+            "week": 202,
+            "day": 2,
+            "exercise": "bench press",
+            "originalExerciseName": "Overhead press",
+            "setNumber": 1,
+            "reps": 7,
+            "instructions": "",
+            "weight": 135,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
       "8": [
          {
-            "id": "ff6060ba-589a-445a-b8c6-a2715a940185",
+            "id": "9865af96-7c2f-49f7-89db-2d7a932ea754",
+            "inferredDate": "2015-10-12",
+            "weekStartDate": "2015-10-10",
             "week": 7,
             "day": 1,
             "exercise": "bench press",
             "originalExerciseName": "Bench Press",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 8,
             "instructions": "Work up to 70% of your 1 RM",
             "weight": 225,
@@ -854,7 +1212,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "3252096c-ba26-4332-997e-c42a00fd5ccb",
+            "id": "da0dd5ad-fbb0-41ba-be65-1f64e8b207ac",
+            "inferredDate": "2016-05-03",
+            "weekStartDate": "2016-04-30",
             "week": 34,
             "day": 2,
             "exercise": "bench press",
@@ -870,7 +1230,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "600d9a7e-56de-453c-8d9c-ebf5d8bc6f51",
+            "id": "dd52134f-2d72-474a-9c77-465cca912b29",
+            "inferredDate": "2017-06-06",
+            "weekStartDate": "2017-06-03",
             "week": 91,
             "day": 2,
             "exercise": "bench press",
@@ -888,12 +1250,14 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "099ebf64-cfd2-4cef-b1ea-1aca0caa6bb1",
+            "id": "a710187a-f7b5-4a15-ade6-507c1d81aaf9",
+            "inferredDate": "2016-03-18",
+            "weekStartDate": "2016-03-12",
             "week": 27,
             "day": 4,
             "exercise": "bench press",
             "originalExerciseName": "Bench Press",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "Using 65% of your 1 RM",
             "weight": 225,
@@ -904,7 +1268,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "5b26200c-71c1-44c6-abbd-8b0d053c7f02",
+            "id": "8f870c3c-87b4-40fb-910f-e268ba772d54",
+            "inferredDate": "2016-11-15",
+            "weekStartDate": "2016-11-12",
             "week": 66,
             "day": 2,
             "exercise": "bench press",
@@ -920,7 +1286,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "d8191cb2-e27e-410b-9a41-0097879c0ce2",
+            "id": "c29630b4-2a26-44b6-b8b9-b31ef8f91bac",
+            "inferredDate": "2017-03-21",
+            "weekStartDate": "2017-03-18",
             "week": 79,
             "day": 2,
             "exercise": "bench press",
@@ -938,15 +1306,75 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "b7bfc336-f873-4e79-bff1-450e48e52518",
+            "id": "b9e5cfcf-9f90-4f64-9ad0-9ad8a04aed7a",
+            "inferredDate": "2016-05-31",
+            "weekStartDate": "2016-05-28",
             "week": 38,
             "day": 2,
             "exercise": "bench press",
             "originalExerciseName": "Bench Press",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "Using 60% of your 1 RM",
             "weight": 205,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "15": [
+         {
+            "id": "080235d3-53f3-4571-9310-171e229dd54e",
+            "inferredDate": "2019-06-25",
+            "weekStartDate": "2019-06-22",
+            "week": 174,
+            "day": 2,
+            "exercise": "bench press",
+            "originalExerciseName": "Lateral raise",
+            "setNumber": 1,
+            "reps": 15,
+            "instructions": "",
+            "weight": 25,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "fec7e952-953e-4e6f-bd04-e6393eda913c",
+            "inferredDate": "2019-07-24",
+            "weekStartDate": "2019-07-20",
+            "week": 178,
+            "day": 2,
+            "exercise": "bench press",
+            "originalExerciseName": "Incline DB fly",
+            "setNumber": 1,
+            "reps": 15,
+            "instructions": "",
+            "weight": 45,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "20": [
+         {
+            "id": "2fde3f45-4c63-4c20-a06e-1151cc7da3cc",
+            "inferredDate": "2019-06-25",
+            "weekStartDate": "2019-06-22",
+            "week": 174,
+            "day": 2,
+            "exercise": "bench press",
+            "originalExerciseName": "Tricep pushdown",
+            "setNumber": 1,
+            "reps": 20,
+            "instructions": "",
+            "weight": 60.5,
             "notes": "",
             "supersetId": "",
             "anomalous": "",
@@ -958,7 +1386,9 @@ export const repPrs = {
    "buffalo bar bench press": {
       "4": [
          {
-            "id": "b943477d-dfe0-460e-93be-33c88dacf1f2",
+            "id": "47ce9d8c-df8c-407d-9e9a-9ba33947262f",
+            "inferredDate": "2015-08-31",
+            "weekStartDate": "2015-08-29",
             "week": 1,
             "day": 1,
             "exercise": "buffalo bar bench press",
@@ -974,7 +1404,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "0f8c9ebc-1a72-4ee1-ba77-c2c853eed746",
+            "id": "7ffa4b2f-ee81-4364-ab6b-83f5d6a29641",
+            "inferredDate": "2015-08-31",
+            "weekStartDate": "2015-08-29",
             "week": 1,
             "day": 1,
             "exercise": "buffalo bar bench press",
@@ -990,7 +1422,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "182afd1d-e592-4a1a-be5e-ae11adae1bfb",
+            "id": "c26e3cf0-9a6d-46cd-8c63-127c2e9a8790",
+            "inferredDate": "2015-08-31",
+            "weekStartDate": "2015-08-29",
             "week": 1,
             "day": 1,
             "exercise": "buffalo bar bench press",
@@ -1006,7 +1440,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "ea5178a5-ee78-4042-a6fe-44955cb1f4ce",
+            "id": "c6449c25-dfcd-473c-89e8-f20c443d1326",
+            "inferredDate": "2015-12-21",
+            "weekStartDate": "2015-12-19",
             "week": 17,
             "day": 1,
             "exercise": "buffalo bar bench press",
@@ -1022,7 +1458,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "db59f497-2282-4b33-8321-8b9b42cfd2d4",
+            "id": "1acb7ce5-1138-407f-bd90-ea65cdc492f6",
+            "inferredDate": "2015-12-21",
+            "weekStartDate": "2015-12-19",
             "week": 17,
             "day": 1,
             "exercise": "buffalo bar bench press",
@@ -1042,7 +1480,9 @@ export const repPrs = {
    "spread eagle weighted sit ups": {
       "10": [
          {
-            "id": "161dc2a9-5062-4707-9386-42cbf60f1f9a",
+            "id": "f36fced8-a682-4ca5-90e7-c838edc052a1",
+            "inferredDate": "2015-08-31",
+            "weekStartDate": "2015-08-29",
             "week": 1,
             "day": 1,
             "exercise": "spread eagle weighted sit ups",
@@ -1058,7 +1498,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "5ad31941-215b-429b-9eeb-82d403a4b73f",
+            "id": "df2bb3d4-5ea9-41e8-a962-b13270746edd",
+            "inferredDate": "2015-08-31",
+            "weekStartDate": "2015-08-29",
             "week": 1,
             "day": 1,
             "exercise": "spread eagle weighted sit ups",
@@ -1074,12 +1516,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "f0203963-751b-44cc-9ab5-01a1c019337f",
+            "id": "7af3d3fd-78d1-4107-bd6f-2f6532a6275d",
+            "inferredDate": "2015-09-07",
+            "weekStartDate": "2015-09-05",
             "week": 2,
             "day": 1,
             "exercise": "spread eagle weighted sit ups",
             "originalExerciseName": "Spread Eagle Weighted Sit Ups",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "",
             "weight": 35,
@@ -1090,7 +1534,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "6306b9ca-6807-4822-8c4e-fb8b49369266",
+            "id": "f4472c09-b313-4f5e-b3eb-3303acd877c5",
+            "inferredDate": "2015-09-21",
+            "weekStartDate": "2015-09-19",
             "week": 4,
             "day": 1,
             "exercise": "spread eagle weighted sit ups",
@@ -1106,7 +1552,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "aa286994-3a4e-4daa-a909-7e83a9ddf4a2",
+            "id": "0f45b9f4-9d3a-405a-9143-279dcc3f296a",
+            "inferredDate": "2015-09-28",
+            "weekStartDate": "2015-09-26",
             "week": 5,
             "day": 1,
             "exercise": "spread eagle weighted sit ups",
@@ -1122,7 +1570,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "127fc74c-0fa4-4074-a311-2590e48e5624",
+            "id": "c6ffc129-bb24-4a01-a337-287ebb922ba7",
+            "inferredDate": "2015-12-07",
+            "weekStartDate": "2015-12-05",
             "week": 15,
             "day": 1,
             "exercise": "spread eagle weighted sit ups",
@@ -1139,236 +1589,12 @@ export const repPrs = {
          }
       ]
    },
-   "paused back squats": {
-      "1": [
-         {
-            "id": "e52cc26c-b187-4541-a905-4744af3e6b5e",
-            "week": 83,
-            "day": 1,
-            "exercise": "paused back squats",
-            "originalExerciseName": "Paused Back Squats",
-            "setNumber": 1,
-            "reps": 1,
-            "instructions": "Using 80% of your 1 RM, 1 second pause",
-            "weight": 345,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "2": [
-         {
-            "id": "32b8ef10-6d62-4fbd-9445-eaad355ec7b2",
-            "week": 2,
-            "day": 2,
-            "exercise": "paused back squats",
-            "originalExerciseName": "Paused Back Squats",
-            "setNumber": 3,
-            "reps": 2,
-            "instructions": "Using 70% of your 1 RM, 3 second pause",
-            "weight": 295,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "2578fd7c-427d-4ef0-92f4-bb1d4b1bf845",
-            "week": 2,
-            "day": 2,
-            "exercise": "paused back squats",
-            "originalExerciseName": "Paused Back Squats",
-            "setNumber": 3,
-            "reps": 2,
-            "instructions": "Using 75% of your 1 RM for back squats, 3 second pause",
-            "weight": 315,
-            "notes": "decided not to use belt because these were feeling good. let me know if I should have",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "3": [
-         {
-            "id": "47aebeb1-4c09-4285-89f6-f5410aec3e5a",
-            "week": 1,
-            "day": 2,
-            "exercise": "paused back squats",
-            "originalExerciseName": "Paused Back Squats",
-            "setNumber": 2,
-            "reps": 3,
-            "instructions": "Using 70% of your 1 RM, 1 second pause",
-            "weight": 295,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "bc0b6c43-681f-43a7-82cf-9881172f64c5",
-            "week": 1,
-            "day": 2,
-            "exercise": "paused back squats",
-            "originalExerciseName": "Paused Back Squats",
-            "setNumber": 1,
-            "reps": 3,
-            "instructions": "Using 75% of your 1 RM for back squats, 1 second pause",
-            "weight": 315,
-            "notes": "ran out of time on my lunch break, so i did squats and rows after work. definitely feeling soreness in my quads and adductors from yesterday.",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "cd799934-e765-440f-8a50-5618c1958b88",
-            "week": 17,
-            "day": 2,
-            "exercise": "paused back squats",
-            "originalExerciseName": "Paused Back Squats",
-            "setNumber": 3,
-            "reps": 3,
-            "instructions": "Using 75% of your 1 RM for back squats, 1 second pause",
-            "weight": 325,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "4": [
-         {
-            "id": "852dde08-9461-4d28-834f-3159c8a46eea",
-            "week": 21,
-            "day": 1,
-            "exercise": "paused back squats",
-            "originalExerciseName": "Paused Back Squats",
-            "setNumber": 2,
-            "reps": 4,
-            "instructions": "Using 65% of your 1 RM, same setup, 3 second pause",
-            "weight": 285,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "5": [
-         {
-            "id": "7b4cad0a-5315-4db9-a28b-d08ce63d8104",
-            "week": 20,
-            "day": 1,
-            "exercise": "paused back squats",
-            "originalExerciseName": "Paused Back Squats",
-            "setNumber": 1,
-            "reps": 5,
-            "instructions": "Using 60% of your 1 RM, same setup, 3 second pause",
-            "weight": 255,
-            "notes": "Breathed out and in at the bottom to get a pause without having to maintain a brace for too long (headache prevention)",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "9ea3888a-2e90-42af-b782-d879523b22c7",
-            "week": 75,
-            "day": 1,
-            "exercise": "paused back squats",
-            "originalExerciseName": "Paused Back Squats",
-            "setNumber": 5,
-            "reps": 5,
-            "instructions": "Using 60% of your 1 RM, 3 second pause",
-            "weight": 275,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "e68ed6af-e289-416b-a27f-ee0e95fb19ee",
-            "week": 76,
-            "day": 1,
-            "exercise": "paused back squats",
-            "originalExerciseName": "Paused Back Squats",
-            "setNumber": 3,
-            "reps": 5,
-            "instructions": "Using 65% of your 1 RM, 3 second pause",
-            "weight": 285,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "6": [
-         {
-            "id": "e776edd2-86d5-418c-91d1-6d48c06eea15",
-            "week": 77,
-            "day": 1,
-            "exercise": "paused back squats",
-            "originalExerciseName": "Paused Back Squats",
-            "setNumber": 3,
-            "reps": 6,
-            "instructions": "Using 65% of your 1 RM, 3 second pause",
-            "weight": 285,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "8": [
-         {
-            "id": "6d865833-f471-4c4f-996f-2710ea163433",
-            "week": 79,
-            "day": 1,
-            "exercise": "paused back squats",
-            "originalExerciseName": "Paused Back Squats",
-            "setNumber": 1,
-            "reps": 8,
-            "instructions": "Using 65% of your 1 RM, 3 second pause",
-            "weight": 285,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "10": [
-         {
-            "id": "f7917c34-66b2-4a01-91a7-5e489a14966b",
-            "week": 19,
-            "day": 1,
-            "exercise": "paused back squats",
-            "originalExerciseName": "Paused Back Squats",
-            "setNumber": 2,
-            "reps": 10,
-            "instructions": "Using 55% of your 1 RM, same setup, 3 second pause",
-            "weight": 235,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         }
-      ]
-   },
    "deadlift": {
       "1": [
          {
-            "id": "fb25e6b9-e861-4a71-8f64-29980dd29296",
+            "id": "74c228e6-5a3b-4f5a-974a-3db707d76a6e",
+            "inferredDate": "2015-09-01",
+            "weekStartDate": "2015-08-29",
             "week": 1,
             "day": 2,
             "exercise": "deadlift",
@@ -1384,7 +1610,27 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "a35f47c7-05ee-4ac1-974c-58b5b8317fa0",
+            "id": "2094ae07-8e6c-4183-b5ca-221199e74792",
+            "inferredDate": "2015-12-04",
+            "weekStartDate": "2015-11-28",
+            "week": 14,
+            "day": 4,
+            "exercise": "deadlift",
+            "originalExerciseName": "Deadlifts",
+            "setNumber": 2,
+            "reps": 1,
+            "instructions": "Work up to 92.5% of your 1 RM",
+            "weight": 425,
+            "notes": "Belt on for 425 and 430. Belt felt shitty, only because I'm full of 1lb of sweet potatoes and 8oz of chicken right now.",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "d4d19139-3fe5-4550-9f02-a3ab501c295c",
+            "inferredDate": "2015-12-04",
+            "weekStartDate": "2015-11-28",
             "week": 14,
             "day": 4,
             "exercise": "deadlift",
@@ -1400,7 +1646,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "d1df8a37-f60b-4f9b-8099-a981b8d66da3",
+            "id": "9cd89fb8-bc35-46a8-ab09-61d56b9de3a9",
+            "inferredDate": "2016-03-24",
+            "weekStartDate": "2016-03-19",
             "week": 28,
             "day": 3,
             "exercise": "deadlift",
@@ -1416,7 +1664,27 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "38337528-0245-45e2-b4df-dd913e9d0ea4",
+            "id": "b2e7ee6b-7949-4ef9-908a-e4a2b46929aa",
+            "inferredDate": "2017-04-06",
+            "weekStartDate": "2017-04-01",
+            "week": 81,
+            "day": 3,
+            "exercise": "deadlift",
+            "originalExerciseName": "Deadlifts",
+            "setNumber": 1,
+            "reps": 1,
+            "instructions": "Using 90% of your 1 RM",
+            "weight": 445,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "979789ab-47fc-4a88-9661-74bc00893212",
+            "inferredDate": "2017-04-06",
+            "weekStartDate": "2017-04-01",
             "week": 81,
             "day": 3,
             "exercise": "deadlift",
@@ -1434,28 +1702,14 @@ export const repPrs = {
       ],
       "2": [
          {
-            "id": "1b61a441-6d24-4d11-a1bb-eb91a229d306",
+            "id": "43d8470a-9c13-40a9-8c17-c7fb52af3052",
+            "inferredDate": "2015-09-08",
+            "weekStartDate": "2015-09-05",
             "week": 2,
             "day": 2,
             "exercise": "deadlift",
             "originalExerciseName": "Deadlift",
-            "setNumber": 2,
-            "reps": 2,
-            "instructions": "Using 82.5% of your 1 RM",
-            "weight": 355,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "ebc03be5-704e-47ab-8dc7-4e0a4abf6a93",
-            "week": 2,
-            "day": 2,
-            "exercise": "deadlift",
-            "originalExerciseName": "Deadlift",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 2,
             "instructions": "Using 85% of your 1 RM (Use 425 as a max)",
             "weight": 365,
@@ -1466,7 +1720,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "e3d7f2af-e0e7-4c97-9355-90892abcd4b6",
+            "id": "78fa4dbe-9065-4b5e-aa7c-b8c2a7fbbce3",
+            "inferredDate": "2015-12-04",
+            "weekStartDate": "2015-11-28",
             "week": 14,
             "day": 4,
             "exercise": "deadlift",
@@ -1482,12 +1738,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "38f9a490-b85d-41d9-b63c-a9a90bddcb1b",
+            "id": "d446204e-ec28-4d62-8f9f-c04bace52c23",
+            "inferredDate": "2016-03-10",
+            "weekStartDate": "2016-03-05",
             "week": 26,
             "day": 3,
             "exercise": "deadlift",
             "originalExerciseName": "Deadlifts",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 2,
             "instructions": "Using 80% of your 1 RM",
             "weight": 395,
@@ -1498,12 +1756,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "f5fc86da-72c9-4251-bd33-587e0063a142",
+            "id": "8abb5833-df2c-4132-94c9-5257402210a0",
+            "inferredDate": "2016-05-05",
+            "weekStartDate": "2016-04-30",
             "week": 34,
             "day": 3,
             "exercise": "deadlift",
             "originalExerciseName": "Deadlifts",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 2,
             "instructions": "Using 90% of your 1 RM",
             "weight": 440,
@@ -1516,12 +1776,14 @@ export const repPrs = {
       ],
       "3": [
          {
-            "id": "4f85928a-93f7-451f-acc1-40a0700f3b41",
+            "id": "348ed67d-7a05-4659-8222-43e0663c8583",
+            "inferredDate": "2015-09-01",
+            "weekStartDate": "2015-08-29",
             "week": 1,
             "day": 2,
             "exercise": "deadlift",
             "originalExerciseName": "Deadlift",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 3,
             "instructions": "Using 80% of your 1 RM",
             "weight": 365,
@@ -1532,7 +1794,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "0a6cc4b5-53dc-402e-966d-9eea23ae7286",
+            "id": "2f556274-6eb9-4643-a7e0-d1a87a740681",
+            "inferredDate": "2015-10-09",
+            "weekStartDate": "2015-10-03",
             "week": 6,
             "day": 4,
             "exercise": "deadlift",
@@ -1548,7 +1812,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "c98d88b3-a03b-4557-93df-f345f7366d05",
+            "id": "b216a890-27e4-4a14-9ed4-4bd0114e9016",
+            "inferredDate": "2015-10-09",
+            "weekStartDate": "2015-10-03",
             "week": 6,
             "day": 4,
             "exercise": "deadlift",
@@ -1564,12 +1830,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "a7506d3f-b90d-4214-9ff3-a112458c5cfc",
+            "id": "722603a0-12e2-4201-afeb-d8caf321881f",
+            "inferredDate": "2016-12-15",
+            "weekStartDate": "2016-12-10",
             "week": 70,
             "day": 3,
             "exercise": "deadlift",
             "originalExerciseName": "Deadlifts",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 3,
             "instructions": "Using 85% of your 1 RM",
             "weight": 420,
@@ -1582,23 +1850,45 @@ export const repPrs = {
       ],
       "4": [
          {
-            "id": "b6af43d7-898b-47a7-b6a4-bc250f761c99",
+            "id": "68f2cd35-d2fe-4760-858d-bef23aba5296",
+            "inferredDate": "2015-10-16",
+            "weekStartDate": "2015-10-10",
             "week": 7,
             "day": 4,
             "exercise": "deadlift",
             "originalExerciseName": "Deadlifts",
             "setNumber": 1,
             "reps": 4,
-            "instructions": "Drop down to 70% of your 1 RM and do 1-3 more sets",
-            "weight": 325,
+            "instructions": "Work up to 80% of your 1 RM",
+            "weight": 345,
             "notes": "",
             "supersetId": "",
             "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
+            "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
          },
          {
-            "id": "db4afea9-b247-4e7c-80db-2a46020fa975",
+            "id": "f6ad4741-f71c-4068-9095-714faf1faa83",
+            "inferredDate": "2015-10-16",
+            "weekStartDate": "2015-10-10",
+            "week": 7,
+            "day": 4,
+            "exercise": "deadlift",
+            "originalExerciseName": "Deadlifts",
+            "setNumber": 2,
+            "reps": 4,
+            "instructions": "Work up to 80% of your 1 RM",
+            "weight": 355,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "93d2f5a9-c9aa-4781-80dc-ba86f35dfe7d",
+            "inferredDate": "2015-10-16",
+            "weekStartDate": "2015-10-10",
             "week": 7,
             "day": 4,
             "exercise": "deadlift",
@@ -1614,7 +1904,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "251d729e-27cb-48e9-9f08-bfd57395342a",
+            "id": "89e27a87-1af5-43a6-ab5b-c9cf86169639",
+            "inferredDate": "2015-11-13",
+            "weekStartDate": "2015-11-07",
             "week": 11,
             "day": 4,
             "exercise": "deadlift",
@@ -1630,7 +1922,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "7d69a3aa-c044-4871-b298-8ed51a57b6e2",
+            "id": "33174a85-4f70-4300-8653-d722f3ad7684",
+            "inferredDate": "2015-11-13",
+            "weekStartDate": "2015-11-07",
             "week": 11,
             "day": 4,
             "exercise": "deadlift",
@@ -1646,7 +1940,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "186fb688-a47f-410c-834b-ea1ca4a104ed",
+            "id": "cc8be052-684d-40d3-b54a-4c15da1716ad",
+            "inferredDate": "2015-11-13",
+            "weekStartDate": "2015-11-07",
             "week": 11,
             "day": 4,
             "exercise": "deadlift",
@@ -1662,14 +1958,16 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "d86febb4-2980-4bcc-bb96-e9d8e14097ec",
+            "id": "2b4d85f2-302f-4d02-8779-12be9dd8d151",
+            "inferredDate": "2016-12-01",
+            "weekStartDate": "2016-11-26",
             "week": 68,
             "day": 3,
             "exercise": "deadlift",
             "originalExerciseName": "Deadlifts",
             "setNumber": 1,
             "reps": 4,
-            "instructions": "1 set of max reps using 85%",
+            "instructions": "1 set of max reps using 85% ",
             "weight": 405,
             "notes": "Way too much liquid in my stomach. Pulled one rep and realized my lever belt was way too tight. Loosened it, and still felt like I was going to barf for the 4 reps. I think I could have had more if I didn't have that on my mind",
             "supersetId": "",
@@ -1680,23 +1978,45 @@ export const repPrs = {
       ],
       "5": [
          {
-            "id": "c53274ae-8717-4c58-9dbd-866dc9dee5ad",
+            "id": "dbf6eef8-d378-47bc-935c-79bbe06bf67b",
+            "inferredDate": "2015-10-30",
+            "weekStartDate": "2015-10-24",
             "week": 9,
             "day": 4,
             "exercise": "deadlift",
             "originalExerciseName": "Deadlifts",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 5,
-            "instructions": "Using 72.5% of your 1 RM",
+            "instructions": "Work up to 82.5% of your 1 RM",
             "weight": 335,
             "notes": "",
             "supersetId": "",
             "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
+            "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
          },
          {
-            "id": "3d0bb8a0-15ae-46f5-93e8-e698bb07a85e",
+            "id": "ebc5dfd9-5f11-484b-8815-8c333812e361",
+            "inferredDate": "2015-10-30",
+            "weekStartDate": "2015-10-24",
+            "week": 9,
+            "day": 4,
+            "exercise": "deadlift",
+            "originalExerciseName": "Deadlifts",
+            "setNumber": 2,
+            "reps": 5,
+            "instructions": "Work up to 82.5% of your 1 RM",
+            "weight": 365,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "0cd08a42-a368-46c7-b9ea-89e6075ebfd3",
+            "inferredDate": "2015-10-30",
+            "weekStartDate": "2015-10-24",
             "week": 9,
             "day": 4,
             "exercise": "deadlift",
@@ -1712,12 +2032,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "1cbd2124-1ebe-4b9d-8f8c-b277592dd1fd",
+            "id": "67d6ee00-ead2-4b4b-bf4d-9995c04ef03e",
+            "inferredDate": "2016-05-19",
+            "weekStartDate": "2016-05-14",
             "week": 36,
             "day": 3,
             "exercise": "deadlift",
             "originalExerciseName": "Deadlifts",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 5,
             "instructions": "Using 80% of your 1 RM",
             "weight": 395,
@@ -1726,11 +2048,49 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "f7df934b-aeaa-47c2-9840-90d2633ad563",
+            "inferredDate": "2019-07-04",
+            "weekStartDate": "2019-06-29",
+            "week": 175,
+            "day": 3,
+            "exercise": "deadlift",
+            "originalExerciseName": "Deadlifts",
+            "setNumber": 1,
+            "reps": 5,
+            "instructions": "",
+            "weight": 405,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ],
       "6": [
          {
-            "id": "fba5e897-d9dc-4ed8-8251-c949933276cc",
+            "id": "ff770cb7-e112-4563-8c64-80911c088810",
+            "inferredDate": "2015-10-02",
+            "weekStartDate": "2015-09-26",
+            "week": 5,
+            "day": 4,
+            "exercise": "deadlift",
+            "originalExerciseName": "Deadlifts",
+            "setNumber": 1,
+            "reps": 6,
+            "instructions": "Work up to 75% of your 1 RM",
+            "weight": 325,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "f9b4509f-cf92-470a-aa54-449ea874af96",
+            "inferredDate": "2015-10-02",
+            "weekStartDate": "2015-09-26",
             "week": 5,
             "day": 4,
             "exercise": "deadlift",
@@ -1746,7 +2106,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "a2303ba9-f744-4200-8aa0-7ff65e7ee102",
+            "id": "d3199eb2-38ab-4ed2-b688-3fd589a0d696",
+            "inferredDate": "2015-10-02",
+            "weekStartDate": "2015-09-26",
             "week": 5,
             "day": 4,
             "exercise": "deadlift",
@@ -1762,7 +2124,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "b7b08dfc-0eb5-4b71-8992-918217660078",
+            "id": "c47abd8e-4d73-4f91-bbe7-4a7ba806e491",
+            "inferredDate": "2015-10-23",
+            "weekStartDate": "2015-10-17",
             "week": 8,
             "day": 4,
             "exercise": "deadlift",
@@ -1778,7 +2142,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "fe8d256e-beda-413e-aa3b-174e739f442a",
+            "id": "71ba5054-9821-41fc-a89e-13142803d39d",
+            "inferredDate": "2015-10-23",
+            "weekStartDate": "2015-10-17",
             "week": 8,
             "day": 4,
             "exercise": "deadlift",
@@ -1796,7 +2162,9 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "8e81eaa8-2cbf-4d9f-8b16-15652ad1036f",
+            "id": "31f7263d-a656-4ab1-a3ac-cf0c66f7a252",
+            "inferredDate": "2016-01-28",
+            "weekStartDate": "2016-01-23",
             "week": 22,
             "day": 3,
             "exercise": "deadlift",
@@ -1812,12 +2180,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "88ba3f78-1f53-45e9-912b-5d569f0bf968",
+            "id": "9815e077-7888-4c6d-9c56-5edb03a552d3",
+            "inferredDate": "2016-02-11",
+            "weekStartDate": "2016-02-06",
             "week": 24,
             "day": 3,
             "exercise": "deadlift",
             "originalExerciseName": "Deadlifts",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 8,
             "instructions": "Using 70% of your 1 RM",
             "weight": 345,
@@ -1826,16 +2196,36 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "4a0cf63e-2def-4c67-9964-cffe60aa1f33",
+            "inferredDate": "2019-10-18",
+            "weekStartDate": "2019-10-12",
+            "week": 190,
+            "day": 3,
+            "exercise": "deadlift",
+            "originalExerciseName": "Deadlifts",
+            "setNumber": 1,
+            "reps": 8,
+            "instructions": "Using 70% of your 1 RM",
+            "weight": 365,
+            "notes": "Taken from week 136",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ],
       "10": [
          {
-            "id": "ac688369-a8a0-4960-b85b-1058edb4c341",
+            "id": "6d5a3068-3f5c-4332-9987-b7abbcec5c3d",
+            "inferredDate": "2016-10-27",
+            "weekStartDate": "2016-10-22",
             "week": 63,
             "day": 3,
             "exercise": "deadlift",
             "originalExerciseName": "Deadlifts",
-            "setNumber": 5,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "Using 60% of your 1 RM",
             "weight": 275,
@@ -1846,7 +2236,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "c050c4e1-0fa5-417b-beef-6b51479c4d61",
+            "id": "4b447972-f8df-4913-b59e-d41644a155fe",
+            "inferredDate": "2017-03-23",
+            "weekStartDate": "2017-03-18",
             "week": 79,
             "day": 3,
             "exercise": "deadlift",
@@ -1862,9 +2254,31 @@ export const repPrs = {
             "dropSetId": ""
          }
       ],
+      "12": [
+         {
+            "id": "fe052188-bfa1-4302-8f94-162f3bc1fb9a",
+            "inferredDate": "2020-03-03",
+            "weekStartDate": "2020-02-29",
+            "week": 210,
+            "day": 1,
+            "exercise": "deadlift",
+            "originalExerciseName": "Wide Neutral Grip Cable Rows",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 143,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
       "16": [
          {
-            "id": "a19705e5-f657-4007-b161-9f5ea735a19e",
+            "id": "81fad38b-19bc-44f7-87f1-72760e3ce8ea",
+            "inferredDate": "2017-03-02",
+            "weekStartDate": "2017-02-25",
             "week": 76,
             "day": 3,
             "exercise": "deadlift",
@@ -1882,7 +2296,9 @@ export const repPrs = {
       ],
       "345": [
          {
-            "id": "9bbf5c85-133b-4ae2-9d2f-42c16a123198",
+            "id": "d5095625-d7d7-4a6c-ad5e-d88602d0aac3",
+            "inferredDate": "2017-03-16",
+            "weekStartDate": "2017-03-11",
             "week": 78,
             "day": 3,
             "exercise": "deadlift",
@@ -1900,7 +2316,9 @@ export const repPrs = {
       ],
       "365": [
          {
-            "id": "7e16942b-9294-48f7-aa4b-a7c82147468d",
+            "id": "c1e073f6-287c-4f70-bfaf-ef306c592f28",
+            "inferredDate": "2017-02-23",
+            "weekStartDate": "2017-02-18",
             "week": 75,
             "day": 3,
             "exercise": "deadlift",
@@ -1918,7 +2336,9 @@ export const repPrs = {
       ],
       "425": [
          {
-            "id": "56974861-e65a-47ff-a68c-d6ac0110d071",
+            "id": "3b7a9d2c-d994-4884-a6d3-ea0da35d5523",
+            "inferredDate": "2016-08-04",
+            "weekStartDate": "2016-07-30",
             "week": 50,
             "day": 3,
             "exercise": "deadlift",
@@ -1938,12 +2358,14 @@ export const repPrs = {
    "axle bench vs doubled minis": {
       "6": [
          {
-            "id": "4a416265-c6ce-442a-b4a4-88fd75b137c6",
+            "id": "b2513982-31e1-4cf4-8a5e-fbfdabd54dd2",
+            "inferredDate": "2015-09-01",
+            "weekStartDate": "2015-08-29",
             "week": 1,
             "day": 2,
             "exercise": "axle bench vs doubled minis",
             "originalExerciseName": "Axle Bench Vs Doubled Minis",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 6,
             "instructions": "Work up to a hard set of 6 leave one rep in the tank",
             "weight": 155,
@@ -1954,7 +2376,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "f09baca7-edff-4aff-bf8b-ecc986dd42cf",
+            "id": "fb854dff-e1a9-4196-a061-f20ca2e0764b",
+            "inferredDate": "2015-09-01",
+            "weekStartDate": "2015-08-29",
             "week": 1,
             "day": 2,
             "exercise": "axle bench vs doubled minis",
@@ -1970,7 +2394,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "2b210b30-319e-4e5e-a0e2-a61497382be0",
+            "id": "178ac2f8-40e8-4de9-9d96-393ee5edcd83",
+            "inferredDate": "2015-12-22",
+            "weekStartDate": "2015-12-19",
             "week": 17,
             "day": 2,
             "exercise": "axle bench vs doubled minis",
@@ -1987,15 +2413,329 @@ export const repPrs = {
          }
       ]
    },
-   "db row": {
+   "paused back squats": {
+      "1": [
+         {
+            "id": "ba1f2f26-e42a-4c54-9856-d3283e8cad15",
+            "inferredDate": "2017-04-17",
+            "weekStartDate": "2017-04-15",
+            "week": 83,
+            "day": 1,
+            "exercise": "paused back squats",
+            "originalExerciseName": "Paused Back Squats",
+            "setNumber": 1,
+            "reps": 1,
+            "instructions": "Using 80% of your 1 RM, 1 second pause",
+            "weight": 345,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "fb650171-09a3-4b7b-8160-e97ea147498b",
+            "inferredDate": "2019-05-20",
+            "weekStartDate": "2019-05-18",
+            "week": 170,
+            "day": 1,
+            "exercise": "paused back squats",
+            "originalExerciseName": "Paused Back Squats",
+            "setNumber": 1,
+            "reps": 1,
+            "instructions": "Using 80% of your 1 RM",
+            "weight": 365,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "2": [
+         {
+            "id": "1921263c-5e9e-4bbd-8649-4d4326505803",
+            "inferredDate": "2015-09-08",
+            "weekStartDate": "2015-09-05",
+            "week": 2,
+            "day": 2,
+            "exercise": "paused back squats",
+            "originalExerciseName": "Paused Back Squats",
+            "setNumber": 1,
+            "reps": 2,
+            "instructions": "Using 75% of your 1 RM for back squats, 3 second pause",
+            "weight": 315,
+            "notes": "decided not to use belt because these were feeling good. let me know if I should have",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "1a3a7556-6ac5-4ea3-9383-78b9977478d4",
+            "inferredDate": "2019-05-13",
+            "weekStartDate": "2019-05-11",
+            "week": 169,
+            "day": 1,
+            "exercise": "paused back squats",
+            "originalExerciseName": "Paused Back Squats",
+            "setNumber": 1,
+            "reps": 2,
+            "instructions": "Using 75% of your 1 RM",
+            "weight": 335,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "3": [
+         {
+            "id": "d7af5e53-4520-4aef-9559-acad28405546",
+            "inferredDate": "2015-09-01",
+            "weekStartDate": "2015-08-29",
+            "week": 1,
+            "day": 2,
+            "exercise": "paused back squats",
+            "originalExerciseName": "Paused Back Squats",
+            "setNumber": 1,
+            "reps": 3,
+            "instructions": "Using 75% of your 1 RM for back squats, 1 second pause",
+            "weight": 315,
+            "notes": "ran out of time on my lunch break, so i did squats and rows after work. definitely feeling soreness in my quads and adductors from yesterday.",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "829c5ab5-994d-44e9-ab79-708cab2cf85f",
+            "inferredDate": "2015-12-22",
+            "weekStartDate": "2015-12-19",
+            "week": 17,
+            "day": 2,
+            "exercise": "paused back squats",
+            "originalExerciseName": "Paused Back Squats",
+            "setNumber": 1,
+            "reps": 3,
+            "instructions": "Using 75% of your 1 RM for back squats, 1 second pause",
+            "weight": 325,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "4": [
+         {
+            "id": "c9f02c43-75eb-4417-a9f5-7343865b5b74",
+            "inferredDate": "2016-01-18",
+            "weekStartDate": "2016-01-16",
+            "week": 21,
+            "day": 1,
+            "exercise": "paused back squats",
+            "originalExerciseName": "Paused Back Squats",
+            "setNumber": 1,
+            "reps": 4,
+            "instructions": "Using 65% of your 1 RM, same setup, 3 second pause",
+            "weight": 285,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "5": [
+         {
+            "id": "9806f0f1-9e90-4833-b8cb-15e7db288b6f",
+            "inferredDate": "2016-01-11",
+            "weekStartDate": "2016-01-09",
+            "week": 20,
+            "day": 1,
+            "exercise": "paused back squats",
+            "originalExerciseName": "Paused Back Squats",
+            "setNumber": 1,
+            "reps": 5,
+            "instructions": "Using 60% of your 1 RM, same setup, 3 second pause",
+            "weight": 255,
+            "notes": "Breathed out and in at the bottom to get a pause without having to maintain a brace for too long (headache prevention)",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "ece7393f-bdf6-4aaf-a2b4-bec3627a0731",
+            "inferredDate": "2017-02-20",
+            "weekStartDate": "2017-02-18",
+            "week": 75,
+            "day": 1,
+            "exercise": "paused back squats",
+            "originalExerciseName": "Paused Back Squats",
+            "setNumber": 1,
+            "reps": 5,
+            "instructions": "Using 60% of your 1 RM, 3 second pause",
+            "weight": 275,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "55c9f124-7f4e-45f2-9875-575a99cacf05",
+            "inferredDate": "2017-02-27",
+            "weekStartDate": "2017-02-25",
+            "week": 76,
+            "day": 1,
+            "exercise": "paused back squats",
+            "originalExerciseName": "Paused Back Squats",
+            "setNumber": 1,
+            "reps": 5,
+            "instructions": "Using 65% of your 1 RM, 3 second pause",
+            "weight": 285,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
       "6": [
          {
-            "id": "fa6d4ad0-83a0-4b66-b1f5-244d9cf46cf9",
+            "id": "7feb74bd-bdb1-4f25-abdb-09929d27af08",
+            "inferredDate": "2017-03-06",
+            "weekStartDate": "2017-03-04",
+            "week": 77,
+            "day": 1,
+            "exercise": "paused back squats",
+            "originalExerciseName": "Paused Back Squats",
+            "setNumber": 1,
+            "reps": 6,
+            "instructions": "Using 65% of your 1 RM, 3 second pause",
+            "weight": 285,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "8": [
+         {
+            "id": "9a980b37-54fe-4039-bead-fe8089f26ff1",
+            "inferredDate": "2017-03-20",
+            "weekStartDate": "2017-03-18",
+            "week": 79,
+            "day": 1,
+            "exercise": "paused back squats",
+            "originalExerciseName": "Paused Back Squats",
+            "setNumber": 1,
+            "reps": 8,
+            "instructions": "Using 65% of your 1 RM, 3 second pause",
+            "weight": 285,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "10": [
+         {
+            "id": "cc70d301-0798-4f22-b1da-ef97cfd5547f",
+            "inferredDate": "2016-01-04",
+            "weekStartDate": "2016-01-02",
+            "week": 19,
+            "day": 1,
+            "exercise": "paused back squats",
+            "originalExerciseName": "Paused Back Squats",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "Using 55% of your 1 RM, same setup, 3 second pause",
+            "weight": 235,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ]
+   },
+   "db row": {
+      "2": [
+         {
+            "id": "ec0a2cbe-ba31-4e15-a77a-18b281f1fb65",
+            "inferredDate": "2020-04-03",
+            "weekStartDate": "2020-03-28",
+            "week": 214,
+            "day": 4,
+            "exercise": "db row",
+            "originalExerciseName": "Overhead Press",
+            "setNumber": 1,
+            "reps": 2,
+            "instructions": "",
+            "weight": 165,
+            "notes": "EMOM",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "3": [
+         {
+            "id": "2149f72f-2f88-4251-8fe0-fa065170108a",
+            "inferredDate": "2020-04-10",
+            "weekStartDate": "2020-04-04",
+            "week": 215,
+            "day": 4,
+            "exercise": "db row",
+            "originalExerciseName": "Overhead Press",
+            "setNumber": 1,
+            "reps": 3,
+            "instructions": "",
+            "weight": 165,
+            "notes": "EMOM, set 6 failed at rep 3",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "5": [
+         {
+            "id": "ac7fdeca-8a49-41e2-a945-f74b4d39b6d6",
+            "inferredDate": "2019-06-27",
+            "weekStartDate": "2019-06-22",
+            "week": 174,
+            "day": 3,
+            "exercise": "db row",
+            "originalExerciseName": "front lever",
+            "setNumber": 1,
+            "reps": 5,
+            "instructions": "",
+            "weight": 0,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "noWeightStraightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "6": [
+         {
+            "id": "6c0dd29b-2b9e-4008-a15d-15854f3569c2",
+            "inferredDate": "2016-05-05",
+            "weekStartDate": "2016-04-30",
             "week": 34,
             "day": 3,
             "exercise": "db row",
             "originalExerciseName": "DB Rows",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 6,
             "instructions": "Go Heavy",
             "weight": 120,
@@ -2006,7 +2746,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "21c8e7fe-1063-4b12-9e0f-49fa646bbb94",
+            "id": "02932ca1-cdbd-4450-aaac-7239b8c53601",
+            "inferredDate": "2016-06-09",
+            "weekStartDate": "2016-06-04",
             "week": 39,
             "day": 3,
             "exercise": "db row",
@@ -2024,7 +2766,9 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "09738328-1501-4131-bfb2-1b9f4f963dfe",
+            "id": "05fbf790-835a-4291-9c99-f8ac42bfa565",
+            "inferredDate": "2016-04-21",
+            "weekStartDate": "2016-04-16",
             "week": 32,
             "day": 3,
             "exercise": "db row",
@@ -2040,7 +2784,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "eb23cfd4-9d32-47e4-be8e-380d60627b74",
+            "id": "18bb4446-084c-4bf0-ad75-7393272e6a01",
+            "inferredDate": "2016-05-26",
+            "weekStartDate": "2016-05-21",
             "week": 37,
             "day": 3,
             "exercise": "db row",
@@ -2056,15 +2802,35 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "3eadda67-0ddd-4f2b-8141-a8ac09d00083",
+            "id": "9c5367ea-72a4-45ac-8a7f-1945cae7248a",
+            "inferredDate": "2016-08-04",
+            "weekStartDate": "2016-07-30",
             "week": 50,
             "day": 3,
             "exercise": "db row",
             "originalExerciseName": "DB Rows",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 8,
             "instructions": "",
             "weight": 135,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "7481615b-df0b-48c7-9fea-7e64a01f5be7",
+            "inferredDate": "2020-03-27",
+            "weekStartDate": "2020-03-21",
+            "week": 213,
+            "day": 5,
+            "exercise": "db row",
+            "originalExerciseName": "Overhead Press",
+            "setNumber": 1,
+            "reps": 8,
+            "instructions": "",
+            "weight": 155,
             "notes": "",
             "supersetId": "",
             "anomalous": "",
@@ -2074,15 +2840,53 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "3a11a3e5-3d90-48fd-971a-587c55f5c0c2",
+            "id": "8227baa2-2ad3-4b22-8f9d-55781a7f554b",
+            "inferredDate": "2016-01-14",
+            "weekStartDate": "2016-01-09",
             "week": 20,
             "day": 3,
             "exercise": "db row",
             "originalExerciseName": "DB Rows",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "Go Heavy here",
             "weight": 110,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "6ba54e5d-c01a-46a8-a75a-75d19129a726",
+            "inferredDate": "2019-12-23",
+            "weekStartDate": "2019-12-21",
+            "week": 200,
+            "day": 1,
+            "exercise": "db row",
+            "originalExerciseName": "DB Rows",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "",
+            "weight": 115,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "8ec29f33-9de4-4dfe-9751-18539cba6ee3",
+            "inferredDate": "2020-03-19",
+            "weekStartDate": "2020-03-14",
+            "week": 212,
+            "day": 2,
+            "exercise": "db row",
+            "originalExerciseName": "Overhead Press",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "",
+            "weight": 135,
             "notes": "",
             "supersetId": "",
             "anomalous": "",
@@ -2092,7 +2896,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "558c74bf-e59b-43fc-8d17-234679815d94",
+            "id": "460637a2-c836-4a72-acc8-db270b7dd9be",
+            "inferredDate": "2015-09-01",
+            "weekStartDate": "2015-08-29",
             "week": 1,
             "day": 2,
             "exercise": "db row",
@@ -2108,12 +2914,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "5e1df1ca-1dd9-4cf9-8be9-e7dc258408b7",
+            "id": "d654109d-1394-477c-8a9d-71af3e06652f",
+            "inferredDate": "2015-12-22",
+            "weekStartDate": "2015-12-19",
             "week": 17,
             "day": 2,
             "exercise": "db row",
             "originalExerciseName": "DB Rows",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 75,
@@ -2124,12 +2932,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "ec6a3a52-2236-4aae-ad85-1cc5aab11e0f",
+            "id": "8aa4ead1-c60e-4d9b-861f-3a024dd65101",
+            "inferredDate": "2016-05-19",
+            "weekStartDate": "2016-05-14",
             "week": 36,
             "day": 3,
             "exercise": "db row",
             "originalExerciseName": "DB Rows",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 100,
@@ -2140,7 +2950,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "2a883d09-222c-4832-97b3-0056764909bb",
+            "id": "519ae28a-caba-432b-8ae9-43234647d323",
+            "inferredDate": "2017-02-16",
+            "weekStartDate": "2017-02-11",
             "week": 74,
             "day": 3,
             "exercise": "db row",
@@ -2154,13 +2966,95 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "baf2f0a5-791f-440c-992a-d77ed99a0f13",
+            "inferredDate": "2019-05-23",
+            "weekStartDate": "2019-05-18",
+            "week": 170,
+            "day": 3,
+            "exercise": "db row",
+            "originalExerciseName": "Bentover Supinated Barbell Rows",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 155,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "15": [
+         {
+            "id": "c10e1003-42f8-434b-9e88-d35cafa7f58f",
+            "inferredDate": "2020-04-02",
+            "weekStartDate": "2020-03-28",
+            "week": 214,
+            "day": 3,
+            "exercise": "db row",
+            "originalExerciseName": "DB Rows",
+            "setNumber": 1,
+            "reps": 15,
+            "instructions": "",
+            "weight": 115,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "21": [
+         {
+            "id": "a9b513ec-43ba-45b7-949d-494abb35d9c2",
+            "inferredDate": "2020-03-19",
+            "weekStartDate": "2020-03-14",
+            "week": 212,
+            "day": 2,
+            "exercise": "db row",
+            "originalExerciseName": "DB 21s",
+            "setNumber": 1,
+            "reps": 21,
+            "instructions": "",
+            "weight": 25,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ]
+   },
+   "close stance high bar squats": {
+      "5": [
+         {
+            "id": "73450ed7-0937-4182-81cb-c41e07adde7d",
+            "inferredDate": "2015-09-03",
+            "weekStartDate": "2015-08-29",
+            "week": 1,
+            "day": 3,
+            "exercise": "close stance high bar squats",
+            "originalExerciseName": "Close Stance High Bar Squats",
+            "setNumber": 1,
+            "reps": 5,
+            "instructions": "Work up to a hard set of 5 but leave a rep in the tank",
+            "weight": 225,
+            "notes": "i can normally do much more than this (I was thinking 315 for top set, 295 for the 95%), but my adductors are UNBELIEVABLY sore. They almost cramped up warming up with the bar. META: original data 3x225",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ]
    },
    "floor press": {
       "1": [
          {
-            "id": "8115e592-45fe-49cd-87ed-99f84bbdaa39",
+            "id": "3dc4651a-e8b9-4d73-821f-f5440f546081",
+            "inferredDate": "2016-05-27",
+            "weekStartDate": "2016-05-21",
             "week": 37,
             "day": 4,
             "exercise": "floor press",
@@ -2178,7 +3072,9 @@ export const repPrs = {
       ],
       "2": [
          {
-            "id": "e12a7fa9-ec2d-41dc-9c5b-7c39f8afd47a",
+            "id": "cf1642aa-bc55-4a8e-b9c7-1a0c48ed6091",
+            "inferredDate": "2015-10-26",
+            "weekStartDate": "2015-10-24",
             "week": 9,
             "day": 1,
             "exercise": "floor press",
@@ -2194,7 +3090,27 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "c768f043-c5dc-4e44-9bc1-81b4f94d1878",
+            "id": "0ce1a82c-bf0b-4c32-a587-6a4c4b076bbc",
+            "inferredDate": "2015-10-26",
+            "weekStartDate": "2015-10-24",
+            "week": 9,
+            "day": 1,
+            "exercise": "floor press",
+            "originalExerciseName": "Floor Press",
+            "setNumber": 2,
+            "reps": 2,
+            "instructions": "Work up to a hard set of 2 leave a rep in the tank",
+            "weight": 290,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "ca82e691-8719-46e3-b916-a0dd3fa47228",
+            "inferredDate": "2015-10-26",
+            "weekStartDate": "2015-10-24",
             "week": 9,
             "day": 1,
             "exercise": "floor press",
@@ -2212,7 +3128,9 @@ export const repPrs = {
       ],
       "3": [
          {
-            "id": "31b104a3-5cd2-4959-b64e-f99b01fe7674",
+            "id": "e77182f4-f72b-4b09-905a-94e061bde0d7",
+            "inferredDate": "2015-12-07",
+            "weekStartDate": "2015-12-05",
             "week": 15,
             "day": 1,
             "exercise": "floor press",
@@ -2228,7 +3146,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "71de1961-dbbc-436c-82ca-3867ea8b29ba",
+            "id": "623a5ffc-6677-463e-850d-3b1ac5235977",
+            "inferredDate": "2015-12-07",
+            "weekStartDate": "2015-12-05",
             "week": 15,
             "day": 1,
             "exercise": "floor press",
@@ -2244,7 +3164,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "1b6323b9-dffa-46a4-b5e0-94a7770bbcf3",
+            "id": "7827b319-482b-48c0-bd2b-fbef95b5a65a",
+            "inferredDate": "2015-12-07",
+            "weekStartDate": "2015-12-05",
             "week": 15,
             "day": 1,
             "exercise": "floor press",
@@ -2262,7 +3184,27 @@ export const repPrs = {
       ],
       "4": [
          {
-            "id": "8009168f-3a45-4558-8195-5aee000e792c",
+            "id": "4d689044-c286-4015-826e-021facfb531f",
+            "inferredDate": "2015-11-16",
+            "weekStartDate": "2015-11-14",
+            "week": 12,
+            "day": 1,
+            "exercise": "floor press",
+            "originalExerciseName": "Floor Press",
+            "setNumber": 1,
+            "reps": 4,
+            "instructions": "Work up to a hard set of 4 leave a rep in the tank",
+            "weight": 225,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "344f753d-efc5-456e-a3dc-dec6e3494c5f",
+            "inferredDate": "2015-11-16",
+            "weekStartDate": "2015-11-14",
             "week": 12,
             "day": 1,
             "exercise": "floor press",
@@ -2278,7 +3220,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "c9b6dfed-4855-4b23-8402-ccebb92214db",
+            "id": "3afc9c7b-559d-4109-97bb-9208af411d76",
+            "inferredDate": "2015-11-16",
+            "weekStartDate": "2015-11-14",
             "week": 12,
             "day": 1,
             "exercise": "floor press",
@@ -2296,7 +3240,9 @@ export const repPrs = {
       ],
       "5": [
          {
-            "id": "a309c585-b2aa-4ed9-bc39-1997fd9673e4",
+            "id": "82a51a8e-84b5-4662-b842-0ae21f031da1",
+            "inferredDate": "2015-12-07",
+            "weekStartDate": "2015-12-05",
             "week": 15,
             "day": 1,
             "exercise": "floor press",
@@ -2312,7 +3258,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "a5350275-bf63-4862-a23c-f51fe4fde7a8",
+            "id": "0bf1df12-f0c6-42df-99e6-a4500b400899",
+            "inferredDate": "2016-04-15",
+            "weekStartDate": "2016-04-09",
             "week": 31,
             "day": 4,
             "exercise": "floor press",
@@ -2328,12 +3276,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "2c5d868a-f0c2-4306-8e3a-2d4ab0ca4451",
+            "id": "21061ffa-06f8-44dc-b84c-cce9be641b53",
+            "inferredDate": "2016-05-06",
+            "weekStartDate": "2016-04-30",
             "week": 34,
             "day": 4,
             "exercise": "floor press",
             "originalExerciseName": "Floor Press",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 5,
             "instructions": "Use 80% of your 1 RM",
             "weight": 265,
@@ -2346,7 +3296,9 @@ export const repPrs = {
       ],
       "6": [
          {
-            "id": "b2a277eb-1093-4363-a549-afb644068005",
+            "id": "560fdcf0-705d-4f5d-ab81-c0fe5d9bff2d",
+            "inferredDate": "2015-09-03",
+            "weekStartDate": "2015-08-29",
             "week": 1,
             "day": 3,
             "exercise": "floor press",
@@ -2362,7 +3314,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "419276a0-29b0-4412-9813-d401e451264b",
+            "id": "0b68f338-a91c-4732-91bc-4f58243cebf8",
+            "inferredDate": "2015-09-03",
+            "weekStartDate": "2015-08-29",
             "week": 1,
             "day": 3,
             "exercise": "floor press",
@@ -2378,7 +3332,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "bb65ab71-e413-44c1-b27d-916c22075fd7",
+            "id": "d92dccae-1f35-4ef5-9800-fbf336c56190",
+            "inferredDate": "2015-09-03",
+            "weekStartDate": "2015-08-29",
             "week": 1,
             "day": 3,
             "exercise": "floor press",
@@ -2394,7 +3350,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "e04a965d-31f6-49d7-b521-f0125ae27b1a",
+            "id": "a52fff1f-8a24-4f94-82cb-39d8a22d2736",
+            "inferredDate": "2016-04-08",
+            "weekStartDate": "2016-04-02",
             "week": 30,
             "day": 4,
             "exercise": "floor press",
@@ -2410,7 +3368,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "4753e0d6-98c0-421a-ba43-9847079f84bb",
+            "id": "380b0eca-b6d4-4998-863c-95354d438c2f",
+            "inferredDate": "2016-04-08",
+            "weekStartDate": "2016-04-02",
             "week": 30,
             "day": 4,
             "exercise": "floor press",
@@ -2428,12 +3388,14 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "08450a22-8a4a-4660-8ca1-f5d0e03bdf04",
+            "id": "93455526-746f-4beb-b479-968ad4fc36f8",
+            "inferredDate": "2016-04-22",
+            "weekStartDate": "2016-04-16",
             "week": 32,
             "day": 4,
             "exercise": "floor press",
             "originalExerciseName": "Floor Press",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 8,
             "instructions": "Use 65% of your 1 RM",
             "weight": 225,
@@ -2446,12 +3408,14 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "c8a0939c-a47e-4997-8fe3-3ec834349c2d",
+            "id": "9fd7b182-b2d6-46be-83c4-5cb8d1e874f7",
+            "inferredDate": "2016-04-01",
+            "weekStartDate": "2016-03-26",
             "week": 29,
             "day": 4,
             "exercise": "floor press",
             "originalExerciseName": "Floor Press",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "Using 185",
             "weight": 185,
@@ -2466,7 +3430,9 @@ export const repPrs = {
    "axle overhead press": {
       "6": [
          {
-            "id": "c5c68f2e-28c4-41d4-b7f5-590dee7f774f",
+            "id": "94b9ec51-b7e6-4eea-ac23-7cc9f3b8bf37",
+            "inferredDate": "2015-09-03",
+            "weekStartDate": "2015-08-29",
             "week": 1,
             "day": 3,
             "exercise": "axle overhead press",
@@ -2482,7 +3448,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "08d0c622-8ad2-41eb-ad5c-0f9266eb2753",
+            "id": "82fc72a8-93f8-4d07-b5a5-efc211aecb19",
+            "inferredDate": "2015-09-03",
+            "weekStartDate": "2015-08-29",
             "week": 1,
             "day": 3,
             "exercise": "axle overhead press",
@@ -2498,7 +3466,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "626473e9-5ee3-4869-9d54-ac5d15b177c5",
+            "id": "40405bb7-f0ac-4606-b110-987439fcd96d",
+            "inferredDate": "2015-09-03",
+            "weekStartDate": "2015-08-29",
             "week": 1,
             "day": 3,
             "exercise": "axle overhead press",
@@ -2518,7 +3488,9 @@ export const repPrs = {
    "standing cable rope crunches": {
       "20": [
          {
-            "id": "95cd4a8d-e3c9-4556-a102-e515cb34dc13",
+            "id": "f776b043-e313-4d6d-9b24-9c718de4cf91",
+            "inferredDate": "2015-09-03",
+            "weekStartDate": "2015-08-29",
             "week": 1,
             "day": 3,
             "exercise": "standing cable rope crunches",
@@ -2534,7 +3506,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "f7194aa4-44be-41d8-aba1-ec3d8318d8a2",
+            "id": "15075ba7-899d-42fd-b30a-0c39f899c089",
+            "inferredDate": "2015-09-03",
+            "weekStartDate": "2015-08-29",
             "week": 1,
             "day": 3,
             "exercise": "standing cable rope crunches",
@@ -2550,12 +3524,32 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "3f2e384b-a7b3-40bd-b130-a5859d684de0",
+            "id": "5433ff95-7c5d-4605-a0fb-4cef9cb60d2c",
+            "inferredDate": "2015-09-10",
+            "weekStartDate": "2015-09-05",
             "week": 2,
             "day": 3,
             "exercise": "standing cable rope crunches",
             "originalExerciseName": "Standing Cable Rope Crunches",
-            "setNumber": 3,
+            "setNumber": 1,
+            "reps": 20,
+            "instructions": "",
+            "weight": 90,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "a26512dd-5121-4d7d-8c1c-9b6d8b8f3225",
+            "inferredDate": "2015-09-10",
+            "weekStartDate": "2015-09-05",
+            "week": 2,
+            "day": 3,
+            "exercise": "standing cable rope crunches",
+            "originalExerciseName": "Standing Cable Rope Crunches",
+            "setNumber": 2,
             "reps": 20,
             "instructions": "",
             "weight": 100,
@@ -2567,30 +3561,12 @@ export const repPrs = {
          }
       ]
    },
-   "close stance high bar squats": {
-      "5": [
-         {
-            "id": "ee80417f-d9dd-433f-b520-53d5b0ac5161",
-            "week": 1,
-            "day": 3,
-            "exercise": "close stance high bar squats",
-            "originalExerciseName": "Close Stance High Bar Squats",
-            "setNumber": 1,
-            "reps": 5,
-            "instructions": "Work up to a hard set of 5 but leave a rep in the tank",
-            "weight": 225,
-            "notes": "i can normally do much more than this (I was thinking 315 for top set, 295 for the 95%), but my adductors are UNBELIEVABLY sore. They almost cramped up warming up with the bar. META: original data 3x225",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         }
-      ]
-   },
    "deficit deadlift": {
       "1": [
          {
-            "id": "995741d5-0976-4652-ab4e-0f46d28b8897",
+            "id": "ca7bc41a-5672-4fa5-b74f-117b59704198",
+            "inferredDate": "2016-08-04",
+            "weekStartDate": "2016-07-30",
             "week": 47,
             "day": 3,
             "exercise": "deficit deadlift",
@@ -2608,7 +3584,9 @@ export const repPrs = {
       ],
       "2": [
          {
-            "id": "30881756-08d5-493f-a001-1680871b956d",
+            "id": "ccfd932f-b4e0-41eb-9008-20667c61f2ef",
+            "inferredDate": "2015-12-01",
+            "weekStartDate": "2015-11-28",
             "week": 14,
             "day": 2,
             "exercise": "deficit deadlift",
@@ -2624,7 +3602,27 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "b4c4083e-9d91-47e3-990a-dfdddff96242",
+            "id": "40717578-3536-45d5-9c8d-3fd2e8f4d0f6",
+            "inferredDate": "2015-12-01",
+            "weekStartDate": "2015-11-28",
+            "week": 14,
+            "day": 2,
+            "exercise": "deficit deadlift",
+            "originalExerciseName": "Deficit DL",
+            "setNumber": 2,
+            "reps": 2,
+            "instructions": "Work up to a hard set of 2",
+            "weight": 405,
+            "notes": "no belt. first pulling in a while where I felt pretty solid. 425x2 turned out to be a pretty decent sized deficit PR",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "74ce7a87-c6cd-4410-89bc-75ae2edfd98f",
+            "inferredDate": "2015-12-01",
+            "weekStartDate": "2015-11-28",
             "week": 14,
             "day": 2,
             "exercise": "deficit deadlift",
@@ -2642,28 +3640,14 @@ export const repPrs = {
       ],
       "3": [
          {
-            "id": "cf7e8fb9-1c95-469d-a35a-653975ce28fa",
+            "id": "ab1e8c36-d34b-4966-9c25-af0404be0369",
+            "inferredDate": "2015-09-04",
+            "weekStartDate": "2015-08-29",
             "week": 1,
             "day": 4,
             "exercise": "deficit deadlift",
             "originalExerciseName": "2 Inch Deficit DL",
-            "setNumber": 2,
-            "reps": 3,
-            "instructions": "Drop down to 95% of your top set and do 2-3 more sets",
-            "weight": 365,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "43dc7077-a1b8-4a89-ad49-1ebf71274cf2",
-            "week": 1,
-            "day": 4,
-            "exercise": "deficit deadlift",
-            "originalExerciseName": "2 Inch Deficit DL",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 3,
             "instructions": "Work up to a heavy triple, leave a rep in te tank",
             "weight": 385,
@@ -2676,7 +3660,9 @@ export const repPrs = {
       ],
       "5": [
          {
-            "id": "f9761e1e-f1a3-44e8-beda-32fe1058b022",
+            "id": "c3f71efb-da3c-47eb-b218-46cbe479341c",
+            "inferredDate": "2015-10-20",
+            "weekStartDate": "2015-10-17",
             "week": 8,
             "day": 2,
             "exercise": "deficit deadlift",
@@ -2692,7 +3678,27 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "d7df7463-e745-48e1-95e1-6a27f4360d4c",
+            "id": "43b91617-3726-4c6a-a81b-4e8fa55c9714",
+            "inferredDate": "2015-10-20",
+            "weekStartDate": "2015-10-17",
+            "week": 8,
+            "day": 2,
+            "exercise": "deficit deadlift",
+            "originalExerciseName": "Deficit DL",
+            "setNumber": 2,
+            "reps": 5,
+            "instructions": "Work up to 70% of your 1 RM from the floor",
+            "weight": 320,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "0ddf0271-0176-40c8-814c-079c8bdd3ac5",
+            "inferredDate": "2015-10-20",
+            "weekStartDate": "2015-10-17",
             "week": 8,
             "day": 2,
             "exercise": "deficit deadlift",
@@ -2708,7 +3714,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "c9e42943-ec07-458b-91f8-b886f0ed5880",
+            "id": "743707bf-6672-4f13-b598-7cfc8bb58400",
+            "inferredDate": "2015-12-01",
+            "weekStartDate": "2015-11-28",
             "week": 14,
             "day": 2,
             "exercise": "deficit deadlift",
@@ -2726,7 +3734,9 @@ export const repPrs = {
       ],
       "6": [
          {
-            "id": "94bf1789-a2c1-4f44-ae50-36954d373243",
+            "id": "84020008-a5e6-453e-b862-02f53bc83f28",
+            "inferredDate": "2015-09-22",
+            "weekStartDate": "2015-09-19",
             "week": 4,
             "day": 2,
             "exercise": "deficit deadlift",
@@ -2746,7 +3756,9 @@ export const repPrs = {
    "close grip bench press": {
       "1": [
          {
-            "id": "75588481-22af-4890-af7b-ec29cd04697e",
+            "id": "1bea8038-2d34-414b-baf1-4f81039f4354",
+            "inferredDate": "2016-03-04",
+            "weekStartDate": "2016-02-27",
             "week": 25,
             "day": 4,
             "exercise": "close grip bench press",
@@ -2762,7 +3774,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "579e8f61-3719-4057-b007-889569f0b575",
+            "id": "340a4746-35d5-42a3-b251-de0f207a2940",
+            "inferredDate": "2016-03-11",
+            "weekStartDate": "2016-03-05",
             "week": 26,
             "day": 4,
             "exercise": "close grip bench press",
@@ -2780,7 +3794,9 @@ export const repPrs = {
       ],
       "2": [
          {
-            "id": "1e6177c2-6141-416c-9413-14f83433b1f6",
+            "id": "c5f57972-5829-47f4-90cb-4dff6c5736ad",
+            "inferredDate": "2016-02-12",
+            "weekStartDate": "2016-02-06",
             "week": 24,
             "day": 4,
             "exercise": "close grip bench press",
@@ -2798,7 +3814,9 @@ export const repPrs = {
       ],
       "3": [
          {
-            "id": "650a3927-edf1-45f8-8ce1-bcc4a51d75f0",
+            "id": "8cbdd4c2-f032-4472-a867-3493ff342aa8",
+            "inferredDate": "2016-01-29",
+            "weekStartDate": "2016-01-23",
             "week": 22,
             "day": 4,
             "exercise": "close grip bench press",
@@ -2814,12 +3832,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "5a068eca-8559-4cfa-87d9-8ea777661940",
+            "id": "0b4cc41d-3239-498d-b22c-b4b747b0b709",
+            "inferredDate": "2016-02-05",
+            "weekStartDate": "2016-01-30",
             "week": 23,
             "day": 4,
             "exercise": "close grip bench press",
             "originalExerciseName": "Close Grip Bench Press",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 3,
             "instructions": "Using 82.5% of your 1 RM",
             "weight": 265,
@@ -2832,7 +3852,9 @@ export const repPrs = {
       ],
       "4": [
          {
-            "id": "9eebfa72-ec2b-432b-b102-7509d53482e6",
+            "id": "8ce11123-472c-48fc-81a3-f25b9b666df6",
+            "inferredDate": "2016-01-22",
+            "weekStartDate": "2016-01-16",
             "week": 21,
             "day": 4,
             "exercise": "close grip bench press",
@@ -2850,12 +3872,14 @@ export const repPrs = {
       ],
       "5": [
          {
-            "id": "65f43ac2-8a98-4de3-85a3-1ed52616f28d",
+            "id": "0fea19c6-1c7d-4602-8f71-0ee27ee37885",
+            "inferredDate": "2016-01-15",
+            "weekStartDate": "2016-01-09",
             "week": 20,
             "day": 4,
             "exercise": "close grip bench press",
             "originalExerciseName": "Close Grip Bench Press",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 5,
             "instructions": "Using 70% of your 1 RM",
             "weight": 225,
@@ -2868,7 +3892,9 @@ export const repPrs = {
       ],
       "6": [
          {
-            "id": "88358fb8-9d92-404a-9dbc-6466d1f4efd5",
+            "id": "6622c8e0-71de-421f-8d86-d8b13528e8a1",
+            "inferredDate": "2016-01-08",
+            "weekStartDate": "2016-01-02",
             "week": 19,
             "day": 4,
             "exercise": "close grip bench press",
@@ -2884,7 +3910,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "bdebdc04-401e-4f8b-a2d8-eaef6404bc7b",
+            "id": "d1d47261-9558-41f0-9049-5ffd4cc04b10",
+            "inferredDate": "2016-03-25",
+            "weekStartDate": "2016-03-19",
             "week": 28,
             "day": 4,
             "exercise": "close grip bench press",
@@ -2902,23 +3930,27 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "b0aaefe8-2092-40bc-b4fe-9bf06bd5b9ff",
+            "id": "a37d1047-e36c-4f26-8c84-a47675105aeb",
+            "inferredDate": "2015-09-04",
+            "weekStartDate": "2015-08-29",
             "week": 1,
             "day": 4,
             "exercise": "close grip bench press",
             "originalExerciseName": "Close Grip Bench Press",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 8,
-            "instructions": "Drop down to 95% of your top set and do 2-3 more sets",
+            "instructions": "Work up to a hard set of 8 reps",
             "weight": 245,
-            "notes": "",
+            "notes": "35lb rep PR. I'll take it :)",
             "supersetId": "",
             "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
+            "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
          },
          {
-            "id": "996c0939-046a-47f6-acc6-b9b85face97a",
+            "id": "996b99dd-54c7-4c2d-a298-26883fd63d44",
+            "inferredDate": "2015-09-04",
+            "weekStartDate": "2015-08-29",
             "week": 1,
             "day": 4,
             "exercise": "close grip bench press",
@@ -2934,7 +3966,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "376264f7-7856-4bbf-8b8b-05eebb934135",
+            "id": "77a53a11-8638-496a-aae0-e4ecd3dc5a0f",
+            "inferredDate": "2015-09-04",
+            "weekStartDate": "2015-08-29",
             "week": 1,
             "day": 4,
             "exercise": "close grip bench press",
@@ -2952,12 +3986,14 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "0105e887-cc94-4f98-ad2c-a229d6e1b37f",
+            "id": "d39e603f-191c-4076-aef5-a45f8f486861",
+            "inferredDate": "2017-02-21",
+            "weekStartDate": "2017-02-18",
             "week": 75,
             "day": 2,
             "exercise": "close grip bench press",
             "originalExerciseName": "Close Grip Bench Press",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "Using 60% of your 1 RM",
             "weight": 185,
@@ -2970,7 +4006,9 @@ export const repPrs = {
       ],
       "20": [
          {
-            "id": "b0b9f060-9c74-470d-a0af-88558677ddc9",
+            "id": "417a89d8-cc48-47ba-a1b0-9332d2c69131",
+            "inferredDate": "2016-11-11",
+            "weekStartDate": "2016-11-05",
             "week": 65,
             "day": 4,
             "exercise": "close grip bench press",
@@ -2990,23 +4028,27 @@ export const repPrs = {
    "3 second pause bench press": {
       "3": [
          {
-            "id": "a4b03fcb-0f86-47bd-898a-29b4818c8e53",
+            "id": "000e4d3c-ea09-4bd9-90e4-241e4430789b",
+            "inferredDate": "2015-10-05",
+            "weekStartDate": "2015-10-03",
             "week": 6,
             "day": 1,
             "exercise": "3 second pause bench press",
             "originalExerciseName": "3 second pause Bench",
             "setNumber": 1,
             "reps": 3,
-            "instructions": "Drop down to 90% of your top set and do 3-5 more sets",
+            "instructions": "Work up to a hard set of 3 leave a rep in the tank",
             "weight": 255,
-            "notes": "",
+            "notes": "had my friend use a stopwatch and count off 3 seconds for me. very different than counting myself!",
             "supersetId": "",
             "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
+            "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
          },
          {
-            "id": "a28a9020-dbe2-4a20-a600-fcd25759c524",
+            "id": "7c114f6e-5ed7-40e6-8076-590336885b44",
+            "inferredDate": "2015-10-05",
+            "weekStartDate": "2015-10-03",
             "week": 6,
             "day": 1,
             "exercise": "3 second pause bench press",
@@ -3022,7 +4064,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "1ae20b9b-a89a-4ea0-bbf4-db87eab7e210",
+            "id": "24f2f956-7898-4f24-b028-fa4035e8f36b",
+            "inferredDate": "2015-10-05",
+            "weekStartDate": "2015-10-03",
             "week": 6,
             "day": 1,
             "exercise": "3 second pause bench press",
@@ -3040,7 +4084,45 @@ export const repPrs = {
       ],
       "4": [
          {
-            "id": "28ac01e5-f646-49d9-8431-8085d3929512",
+            "id": "720faf95-1270-456d-8e45-d2ed677405a1",
+            "inferredDate": "2015-10-19",
+            "weekStartDate": "2015-10-17",
+            "week": 8,
+            "day": 1,
+            "exercise": "3 second pause bench press",
+            "originalExerciseName": "3 second pause Bench",
+            "setNumber": 1,
+            "reps": 4,
+            "instructions": "Work up to a hard set of 3 leave a rep in the tank",
+            "weight": 225,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "34c4cf87-a84d-44b5-b8fd-501f0fe06662",
+            "inferredDate": "2015-10-19",
+            "weekStartDate": "2015-10-17",
+            "week": 8,
+            "day": 1,
+            "exercise": "3 second pause bench press",
+            "originalExerciseName": "3 second pause Bench",
+            "setNumber": 2,
+            "reps": 4,
+            "instructions": "Work up to a hard set of 3 leave a rep in the tank",
+            "weight": 230,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "dc52d7e9-c0c4-4f94-9c81-1ae461e40f6b",
+            "inferredDate": "2015-10-19",
+            "weekStartDate": "2015-10-17",
             "week": 8,
             "day": 1,
             "exercise": "3 second pause bench press",
@@ -3056,7 +4138,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "4060fc87-537d-48fd-b349-f8a68a809881",
+            "id": "78f1dc8f-de2f-4019-bf50-6f7c4d497d15",
+            "inferredDate": "2015-11-09",
+            "weekStartDate": "2015-11-07",
             "week": 11,
             "day": 1,
             "exercise": "3 second pause bench press",
@@ -3074,23 +4158,45 @@ export const repPrs = {
       ],
       "5": [
          {
-            "id": "004a877a-3197-48a2-8831-f9d6857c1397",
+            "id": "cf6f2c2e-f829-48d0-8ba7-a800c9056fbd",
+            "inferredDate": "2015-09-07",
+            "weekStartDate": "2015-09-05",
             "week": 2,
             "day": 1,
             "exercise": "3 second pause bench press",
             "originalExerciseName": "3 Second Pause Bench Press",
             "setNumber": 1,
             "reps": 5,
-            "instructions": "Drop down to 97.5% of your top set and do 1-3 more sets",
-            "weight": 255,
-            "notes": "",
+            "instructions": "Work up to a hard set of 5 leave a rep in the tank",
+            "weight": 225,
+            "notes": "also felt pretty damned great.",
             "supersetId": "",
             "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
+            "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
          },
          {
-            "id": "f19f97d0-78dd-4d9c-b5df-4f98b9f43041",
+            "id": "1108f4cd-e4e0-46ab-afde-f98463fb22c2",
+            "inferredDate": "2015-09-07",
+            "weekStartDate": "2015-09-05",
+            "week": 2,
+            "day": 1,
+            "exercise": "3 second pause bench press",
+            "originalExerciseName": "3 Second Pause Bench Press",
+            "setNumber": 2,
+            "reps": 5,
+            "instructions": "Work up to a hard set of 5 leave a rep in the tank",
+            "weight": 245,
+            "notes": "also felt pretty damned great.",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "0fc20e42-a74f-4960-9994-ec9f01da2959",
+            "inferredDate": "2015-09-07",
+            "weekStartDate": "2015-09-05",
             "week": 2,
             "day": 1,
             "exercise": "3 second pause bench press",
@@ -3110,23 +4216,45 @@ export const repPrs = {
    "floor press vs doubled minis": {
       "5": [
          {
-            "id": "f87e204d-e132-4473-b673-8885ee44564c",
+            "id": "f84c54f5-aea5-4ba1-be45-1b6cdda84772",
+            "inferredDate": "2015-09-08",
+            "weekStartDate": "2015-09-05",
             "week": 2,
             "day": 2,
             "exercise": "floor press vs doubled minis",
             "originalExerciseName": "Floor Press Vs Doubled Minis",
             "setNumber": 1,
             "reps": 5,
-            "instructions": "Drop down to 97.5% of your top set and do 1-3 more sets",
-            "weight": 250,
-            "notes": "",
+            "instructions": "Work up to a hard set of 5 leave one rep in the tank",
+            "weight": 225,
+            "notes": "Not sure if this was the intent, or if I set them up wrong, but the bands provided only a very small amount of tension at the very top. Here's a pic: http://imgur.com/KK9nwgZ",
             "supersetId": "",
             "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
+            "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
          },
          {
-            "id": "e9ab039e-937a-41e3-b26d-d2a768f7b439",
+            "id": "25fcfc82-4885-4209-9b4e-cd4ba2789d9c",
+            "inferredDate": "2015-09-08",
+            "weekStartDate": "2015-09-05",
+            "week": 2,
+            "day": 2,
+            "exercise": "floor press vs doubled minis",
+            "originalExerciseName": "Floor Press Vs Doubled Minis",
+            "setNumber": 2,
+            "reps": 5,
+            "instructions": "Work up to a hard set of 5 leave one rep in the tank",
+            "weight": 255,
+            "notes": "Not sure if this was the intent, or if I set them up wrong, but the bands provided only a very small amount of tension at the very top. Here's a pic: http://imgur.com/KK9nwgZ",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "e20957c9-0a6a-435b-8488-74a505fbb392",
+            "inferredDate": "2015-09-08",
+            "weekStartDate": "2015-09-05",
             "week": 2,
             "day": 2,
             "exercise": "floor press vs doubled minis",
@@ -3143,402 +4271,12 @@ export const repPrs = {
          }
       ]
    },
-   "seated axle overhead press": {
-      "4": [
-         {
-            "id": "22b84d83-8755-4bf8-9f96-75d274cb7945",
-            "week": 6,
-            "day": 3,
-            "exercise": "seated axle overhead press",
-            "originalExerciseName": "Seated Axle Strict Press",
-            "setNumber": 1,
-            "reps": 4,
-            "instructions": "Work up to a hard set of 4 but leave a rep in the tank",
-            "weight": 125,
-            "notes": "185 was a little too hard: had to cheat the 4th rep",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "e554bc6f-d5a1-4722-a36e-933cd1243bdd",
-            "week": 6,
-            "day": 3,
-            "exercise": "seated axle overhead press",
-            "originalExerciseName": "Seated Axle Strict Press",
-            "setNumber": 2,
-            "reps": 4,
-            "instructions": "Work up to a hard set of 4 but leave a rep in the tank",
-            "weight": 165,
-            "notes": "185 was a little too hard: had to cheat the 4th rep",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "3ae460c9-c4ac-4fae-a3d3-dec9fce0abec",
-            "week": 6,
-            "day": 3,
-            "exercise": "seated axle overhead press",
-            "originalExerciseName": "Seated Axle Strict Press",
-            "setNumber": 3,
-            "reps": 4,
-            "instructions": "Work up to a hard set of 4 but leave a rep in the tank",
-            "weight": 185,
-            "notes": "185 was a little too hard: had to cheat the 4th rep",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "6": [
-         {
-            "id": "9bafadd7-a96b-4fb0-b498-b6c8dc84ea0f",
-            "week": 2,
-            "day": 3,
-            "exercise": "seated axle overhead press",
-            "originalExerciseName": "Seated Axle Strict Press",
-            "setNumber": 1,
-            "reps": 6,
-            "instructions": "Work up to a hard set of 6 but leave 1 rep in the tanks",
-            "weight": 135,
-            "notes": "Shoulders feeling pretty tired at this point",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "14c4a92c-bc81-49a3-861b-7ae17239a8de",
-            "week": 2,
-            "day": 3,
-            "exercise": "seated axle overhead press",
-            "originalExerciseName": "Seated Axle Strict Press",
-            "setNumber": 1,
-            "reps": 6,
-            "instructions": "Drop down to 97.5% of your top set and do 1-3 more sets",
-            "weight": 140,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "2dfe8a85-8bd9-40d5-9e33-805979a1069a",
-            "week": 2,
-            "day": 3,
-            "exercise": "seated axle overhead press",
-            "originalExerciseName": "Seated Axle Strict Press",
-            "setNumber": 3,
-            "reps": 6,
-            "instructions": "Work up to a hard set of 6 but leave 1 rep in the tanks",
-            "weight": 150,
-            "notes": "Shoulders feeling pretty tired at this point",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "7faece4a-a011-4fc9-ab79-1e977564e674",
-            "week": 8,
-            "day": 3,
-            "exercise": "seated axle overhead press",
-            "originalExerciseName": "Seated Axle Strict Press",
-            "setNumber": 1,
-            "reps": 6,
-            "instructions": "Drop down to 97.5% of your top set and do 1-2 more sets",
-            "weight": 160,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "f87994bd-dc42-4a69-8410-80f589133abf",
-            "week": 8,
-            "day": 3,
-            "exercise": "seated axle overhead press",
-            "originalExerciseName": "Seated Axle Strict Press",
-            "setNumber": 3,
-            "reps": 6,
-            "instructions": "Work up to a hard set of 6 but leave a rep in the tank",
-            "weight": 165,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         }
-      ]
-   },
-   "close grip floor press": {
-      "1": [
-         {
-            "id": "a46eda27-7af7-439b-8102-62dad936d495",
-            "week": 15,
-            "day": 3,
-            "exercise": "close grip floor press",
-            "originalExerciseName": "Close Grip Floor Press",
-            "setNumber": 1,
-            "reps": 1,
-            "instructions": "Work up to a hard set of 1 but leave a rep in the tank",
-            "weight": 275,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "174fff3c-ae74-4955-8e52-3b005639c3cf",
-            "week": 15,
-            "day": 3,
-            "exercise": "close grip floor press",
-            "originalExerciseName": "Close Grip Floor Press",
-            "setNumber": 2,
-            "reps": 1,
-            "instructions": "Work up to a hard set of 1 but leave a rep in the tank",
-            "weight": 295,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "1d34a39a-7388-4e9b-bba8-1080f0d72f1f",
-            "week": 15,
-            "day": 3,
-            "exercise": "close grip floor press",
-            "originalExerciseName": "Close Grip Floor Press",
-            "setNumber": 3,
-            "reps": 1,
-            "instructions": "Work up to a hard set of 1 but leave a rep in the tank",
-            "weight": 315,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "2": [
-         {
-            "id": "f08777ad-463c-482f-bcd5-00a389f0d8de",
-            "week": 16,
-            "day": 2,
-            "exercise": "close grip floor press",
-            "originalExerciseName": "Close Grip Floor Press",
-            "setNumber": 1,
-            "reps": 2,
-            "instructions": "",
-            "weight": 295,
-            "notes": "META: continuation of previous sets",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "3": [
-         {
-            "id": "915e0ea2-749b-4864-8f53-5da87574cd2f",
-            "week": 9,
-            "day": 3,
-            "exercise": "close grip floor press",
-            "originalExerciseName": "Close Grip Floor Press",
-            "setNumber": 1,
-            "reps": 3,
-            "instructions": "Drop down to 90% of your top set and do 3-5 more sets",
-            "weight": 255,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "991ebae0-ef6c-4730-803a-f21b67a7c3ce",
-            "week": 9,
-            "day": 3,
-            "exercise": "close grip floor press",
-            "originalExerciseName": "Close Grip Floor Press",
-            "setNumber": 3,
-            "reps": 3,
-            "instructions": "Work up to a hard set of 3 but leave a rep in the tank",
-            "weight": 285,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "4": [
-         {
-            "id": "f298557c-62df-4567-8966-a6a9d2285aa8",
-            "week": 2,
-            "day": 3,
-            "exercise": "close grip floor press",
-            "originalExerciseName": "Close Grip Floor Press",
-            "setNumber": 2,
-            "reps": 4,
-            "instructions": "Drop down to 97.5% of your top set and do 2-4 more sets",
-            "weight": 245,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "54e27d4e-c66f-4fbd-933a-41a41e5b8244",
-            "week": 2,
-            "day": 3,
-            "exercise": "close grip floor press",
-            "originalExerciseName": "Close Grip Floor Press",
-            "setNumber": 3,
-            "reps": 4,
-            "instructions": "Work up to a hard set of 4 but leave 1 rep in the tanks",
-            "weight": 260,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "5e5e53f7-e96b-4ec2-95e7-394c96e2cb94",
-            "week": 15,
-            "day": 3,
-            "exercise": "close grip floor press",
-            "originalExerciseName": "Close Grip Floor Press",
-            "setNumber": 1,
-            "reps": 4,
-            "instructions": "Drop down to 85% of your top set and do 1-5 more sets",
-            "weight": 265,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "5": [
-         {
-            "id": "893826a0-8520-44f9-9013-83535c89576a",
-            "week": 12,
-            "day": 3,
-            "exercise": "close grip floor press",
-            "originalExerciseName": "Close Grip Floor Press",
-            "setNumber": 3,
-            "reps": 5,
-            "instructions": "Drop down to 85% of your top set and do 3-5 more sets",
-            "weight": 235,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "bd7209cf-3a44-4e8a-ba99-d94c7e94d71c",
-            "week": 40,
-            "day": 4,
-            "exercise": "close grip floor press",
-            "originalExerciseName": "Close Grip Floor Press",
-            "setNumber": 1,
-            "reps": 5,
-            "instructions": "Use 75% of your 1 RM",
-            "weight": 245,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "6": [
-         {
-            "id": "0c196da9-9e5e-41e6-bafb-901c6be64c04",
-            "week": 39,
-            "day": 4,
-            "exercise": "close grip floor press",
-            "originalExerciseName": "Close Grip Floor Press",
-            "setNumber": 1,
-            "reps": 6,
-            "instructions": "Use 70% of your 1 RM",
-            "weight": 235,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "4e7e0148-ce4e-4d87-a422-330762eaf65e",
-            "week": 50,
-            "day": 4,
-            "exercise": "close grip floor press",
-            "originalExerciseName": "Close Grip Floor Press",
-            "setNumber": 2,
-            "reps": 6,
-            "instructions": "",
-            "weight": 245,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "8": [
-         {
-            "id": "720be7ab-abd3-4787-94f1-87103252bea9",
-            "week": 49,
-            "day": 4,
-            "exercise": "close grip floor press",
-            "originalExerciseName": "Close Grip Floor Press",
-            "setNumber": 1,
-            "reps": 8,
-            "instructions": "",
-            "weight": 225,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "10": [
-         {
-            "id": "03ec0115-6b55-4c04-9a12-11ca82d5ef7c",
-            "week": 38,
-            "day": 4,
-            "exercise": "close grip floor press",
-            "originalExerciseName": "Close Grip Floor Press",
-            "setNumber": 1,
-            "reps": 10,
-            "instructions": "Use 65% of your 1 RM",
-            "weight": 215,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         }
-      ]
-   },
    "front squats": {
       "1": [
          {
-            "id": "2aebf6d1-57fc-4ba8-9f1b-d3ef993dbe5e",
+            "id": "b423cc0d-eb66-4a1e-9603-e745ff7123c2",
+            "inferredDate": "2016-03-24",
+            "weekStartDate": "2016-03-19",
             "week": 28,
             "day": 3,
             "exercise": "front squats",
@@ -3556,7 +4294,9 @@ export const repPrs = {
       ],
       "2": [
          {
-            "id": "e82ce9e5-4159-4612-b205-c36c0dabd86d",
+            "id": "4cea36e5-5c7c-42a8-8c35-88de0d19c6d5",
+            "inferredDate": "2015-12-08",
+            "weekStartDate": "2015-12-05",
             "week": 15,
             "day": 2,
             "exercise": "front squats",
@@ -3572,7 +4312,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "c68e7822-66d5-4865-bcab-465b852ecbbf",
+            "id": "7e55ead7-9338-4799-89e2-6470ab9ff02a",
+            "inferredDate": "2015-12-08",
+            "weekStartDate": "2015-12-05",
             "week": 15,
             "day": 2,
             "exercise": "front squats",
@@ -3588,7 +4330,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "2a9ce38e-b171-4750-8857-e8c969c80653",
+            "id": "359ca010-9cfe-4624-ba36-76fa063a3514",
+            "inferredDate": "2015-12-08",
+            "weekStartDate": "2015-12-05",
             "week": 15,
             "day": 2,
             "exercise": "front squats",
@@ -3606,7 +4350,9 @@ export const repPrs = {
       ],
       "3": [
          {
-            "id": "0fa716b8-a50c-4575-8a5a-c35ea350031d",
+            "id": "9380c82a-0bbe-4fac-8f69-3c35ce59e488",
+            "inferredDate": "2015-12-01",
+            "weekStartDate": "2015-11-28",
             "week": 14,
             "day": 2,
             "exercise": "front squats",
@@ -3622,7 +4368,27 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "05ac051d-880b-404e-8c13-ec92e3961bd8",
+            "id": "82b13309-a424-4488-a803-98abee9fcd7c",
+            "inferredDate": "2015-12-01",
+            "weekStartDate": "2015-11-28",
+            "week": 14,
+            "day": 2,
+            "exercise": "front squats",
+            "originalExerciseName": "Front Squats",
+            "setNumber": 2,
+            "reps": 3,
+            "instructions": "Work up to a hard set of 3",
+            "weight": 255,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "e73aa8b2-4d3c-4d1c-9df5-17549fd7bba0",
+            "inferredDate": "2015-12-01",
+            "weekStartDate": "2015-11-28",
             "week": 14,
             "day": 2,
             "exercise": "front squats",
@@ -3640,7 +4406,9 @@ export const repPrs = {
       ],
       "4": [
          {
-            "id": "af37cd4c-0b96-425b-8794-50b8a7b0ca55",
+            "id": "da89caf8-3e7a-4779-99c2-e099efda39df",
+            "inferredDate": "2015-10-06",
+            "weekStartDate": "2015-10-03",
             "week": 6,
             "day": 2,
             "exercise": "front squats",
@@ -3656,7 +4424,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "0126cafd-c496-48e2-9f03-9149cdceb592",
+            "id": "7348c18c-15d5-4234-bd52-1a893aa6b0d2",
+            "inferredDate": "2015-10-06",
+            "weekStartDate": "2015-10-03",
             "week": 6,
             "day": 2,
             "exercise": "front squats",
@@ -3672,7 +4442,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "ff1fa84b-c78b-4496-8e54-cda4ffe3e9f3",
+            "id": "95afd49b-dbb9-40f1-9b73-36abe656bce9",
+            "inferredDate": "2015-10-06",
+            "weekStartDate": "2015-10-03",
             "week": 6,
             "day": 2,
             "exercise": "front squats",
@@ -3690,7 +4462,9 @@ export const repPrs = {
       ],
       "5": [
          {
-            "id": "e4882491-ad5f-4cb7-8a01-1f4938d942fc",
+            "id": "99f161ac-8530-418d-97f3-d5da6de2015a",
+            "inferredDate": "2015-11-10",
+            "weekStartDate": "2015-11-07",
             "week": 11,
             "day": 2,
             "exercise": "front squats",
@@ -3706,7 +4480,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "4e31d2f9-acb4-4381-adcf-7d4776e5246c",
+            "id": "0f4e9571-4d15-4b19-97dc-a01ac2402556",
+            "inferredDate": "2015-11-10",
+            "weekStartDate": "2015-11-07",
             "week": 11,
             "day": 2,
             "exercise": "front squats",
@@ -3722,7 +4498,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "3954b18a-e652-44ea-b01b-1b9bff8c9b6f",
+            "id": "e7f6f982-3cac-4c08-b620-3b289c229a95",
+            "inferredDate": "2015-11-10",
+            "weekStartDate": "2015-11-07",
             "week": 11,
             "day": 2,
             "exercise": "front squats",
@@ -3740,23 +4518,45 @@ export const repPrs = {
       ],
       "6": [
          {
-            "id": "e65059af-8d0e-4651-8687-2fd35a9cf0e6",
+            "id": "6eaac705-a2e3-4f7a-b21d-7cb80c9c1713",
+            "inferredDate": "2015-09-10",
+            "weekStartDate": "2015-09-05",
             "week": 2,
             "day": 3,
             "exercise": "front squats",
             "originalExerciseName": "Front Squats",
             "setNumber": 1,
             "reps": 6,
-            "instructions": "Drop down to 97.5% of your 1 RM and do 1-3 more sets",
-            "weight": 250,
-            "notes": "",
+            "instructions": "Work up to a hard set of 6 but leave a rep in the tank",
+            "weight": 225,
+            "notes": "used a belt for these. i was shooting for a top set of 275 for both this and floor press, but I could tell at 255 that it wasn't going down today",
             "supersetId": "",
             "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
+            "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
          },
          {
-            "id": "64708a67-46f2-4aac-b65b-f4952f25cede",
+            "id": "a6242d5e-3b1c-4f4c-b66d-82e5f2f62eea",
+            "inferredDate": "2015-09-10",
+            "weekStartDate": "2015-09-05",
+            "week": 2,
+            "day": 3,
+            "exercise": "front squats",
+            "originalExerciseName": "Front Squats",
+            "setNumber": 2,
+            "reps": 6,
+            "instructions": "Work up to a hard set of 6 but leave a rep in the tank",
+            "weight": 255,
+            "notes": "used a belt for these. i was shooting for a top set of 275 for both this and floor press, but I could tell at 255 that it wasn't going down today",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "4ca7f3d1-6b3f-4b95-8cc8-924621de6a76",
+            "inferredDate": "2015-09-10",
+            "weekStartDate": "2015-09-05",
             "week": 2,
             "day": 3,
             "exercise": "front squats",
@@ -3774,7 +4574,9 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "0c52b790-aff6-4bcf-b720-cd3a1b6bb723",
+            "id": "cf512c46-b44d-4e1c-b17d-b5c6e72c3471",
+            "inferredDate": "2016-02-11",
+            "weekStartDate": "2016-02-06",
             "week": 24,
             "day": 3,
             "exercise": "front squats",
@@ -3790,12 +4592,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "47867037-c5bd-4b82-99b6-345ea755ca1a",
+            "id": "a9fdc8c9-2629-45f1-9275-e17c3c4e2424",
+            "inferredDate": "2017-02-23",
+            "weekStartDate": "2017-02-18",
             "week": 75,
             "day": 3,
             "exercise": "front squats",
             "originalExerciseName": "Front Squats",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 8,
             "instructions": "Using 70% of your 1 RM",
             "weight": 225,
@@ -3806,7 +4610,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "fb1c0a1a-c866-46b6-a8ec-a86df29b9dd4",
+            "id": "2b68cc16-ecc3-47c3-bd80-31829f80c9bc",
+            "inferredDate": "2018-11-26",
+            "weekStartDate": "2018-11-24",
             "week": 145,
             "day": 1,
             "exercise": "front squats",
@@ -3824,7 +4630,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "30b1086d-cb1b-47d2-a43f-2d007f5bb486",
+            "id": "41355611-92c1-4de8-9e16-9e8a4b065d61",
+            "inferredDate": "2016-01-21",
+            "weekStartDate": "2016-01-16",
             "week": 21,
             "day": 3,
             "exercise": "front squats",
@@ -3840,7 +4648,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "46512c1c-2eb9-4fb9-a8c4-0fe8855da703",
+            "id": "98f6cb5c-c227-467f-abcb-08e2decf786c",
+            "inferredDate": "2016-11-07",
+            "weekStartDate": "2016-11-05",
             "week": 65,
             "day": 1,
             "exercise": "front squats",
@@ -3853,12 +4663,14 @@ export const repPrs = {
             "supersetId": "",
             "anomalous": "",
             "strategyUsed": "delimitedRepsDropSetStrategy",
-            "dropSetId": "8ce120e4-bf82-4ada-bb76-bd07a1ce4b9c"
+            "dropSetId": "ee347f77-0f9d-40c7-a14f-127250dc7831"
          }
       ],
       "12": [
          {
-            "id": "ad8ed1b1-f24d-4561-95d1-7868db4b311d",
+            "id": "abb07679-8421-4ac7-a20e-0ecd14559d13",
+            "inferredDate": "2017-12-26",
+            "weekStartDate": "2017-12-24",
             "week": 121,
             "day": 1,
             "exercise": "front squats",
@@ -3874,7 +4686,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "2ca7f82e-a1f1-4ddb-9e5d-4095579e8e52",
+            "id": "52b64a38-08c1-472b-a91c-916fd618a5f8",
+            "inferredDate": "2018-10-29",
+            "weekStartDate": "2018-10-27",
             "week": 141,
             "day": 1,
             "exercise": "front squats",
@@ -3890,7 +4704,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "c66bf616-a602-4c50-a0e2-a6e041444e76",
+            "id": "4041bd53-bc6d-4dd3-8548-c2cc29a62222",
+            "inferredDate": "2018-10-29",
+            "weekStartDate": "2018-10-27",
             "week": 141,
             "day": 1,
             "exercise": "front squats",
@@ -3906,7 +4722,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "c58fdd7b-90da-43b6-a9d9-0f60a5e1befe",
+            "id": "3b633794-f6de-451a-90f7-02b8c8f0319e",
+            "inferredDate": "2018-10-29",
+            "weekStartDate": "2018-10-27",
             "week": 141,
             "day": 1,
             "exercise": "front squats",
@@ -3924,7 +4742,9 @@ export const repPrs = {
       ],
       "15": [
          {
-            "id": "cf08d86c-cd8a-4cc1-8f12-e763f86af55b",
+            "id": "01e6ba3f-9585-4e58-8a48-0538742f491b",
+            "inferredDate": "2016-11-07",
+            "weekStartDate": "2016-11-05",
             "week": 65,
             "day": 1,
             "exercise": "front squats",
@@ -3937,56 +4757,24 @@ export const repPrs = {
             "supersetId": "",
             "anomalous": "",
             "strategyUsed": "delimitedRepsDropSetStrategy",
-            "dropSetId": "8ce120e4-bf82-4ada-bb76-bd07a1ce4b9c"
+            "dropSetId": "ee347f77-0f9d-40c7-a14f-127250dc7831"
          }
       ]
    },
-   "spoto press": {
-      "4": [
+   "close grip floor press": {
+      "1": [
          {
-            "id": "985fb735-2f93-4f19-94a4-54165459034f",
-            "week": 2,
-            "day": 4,
-            "exercise": "spoto press",
-            "originalExerciseName": "Spoto Press",
-            "setNumber": 2,
-            "reps": 4,
-            "instructions": "Work up to a hard set of 4 reps, leave one in the tank",
-            "weight": 245,
-            "notes": "I knew better than to shoot for 275 based off yesterday :)",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "0a579ab6-7234-40a8-8961-e97b50db3cd3",
-            "week": 2,
-            "day": 4,
-            "exercise": "spoto press",
-            "originalExerciseName": "Spoto Press",
-            "setNumber": 3,
-            "reps": 4,
-            "instructions": "Work up to a hard set of 4 reps, leave one in the tank",
-            "weight": 265,
-            "notes": "I knew better than to shoot for 275 based off yesterday :)",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "5": [
-         {
-            "id": "ff396047-a6f5-4a6d-9997-c1c4d5bf7a8b",
-            "week": 4,
-            "day": 1,
-            "exercise": "spoto press",
-            "originalExerciseName": "Spoto Presses",
+            "id": "f8e6f6e8-0136-42af-8348-5f956fc80fa0",
+            "inferredDate": "2015-12-10",
+            "weekStartDate": "2015-12-05",
+            "week": 15,
+            "day": 3,
+            "exercise": "close grip floor press",
+            "originalExerciseName": "Close Grip Floor Press",
             "setNumber": 1,
-            "reps": 5,
-            "instructions": "Work up to a hard set of 5 leave a rep in the tank",
-            "weight": 185,
+            "reps": 1,
+            "instructions": "Work up to a hard set of 1 but leave a rep in the tank",
+            "weight": 275,
             "notes": "",
             "supersetId": "",
             "anomalous": "",
@@ -3994,14 +4782,130 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "5785af86-0573-4e2c-aa86-cb95effa54b1",
-            "week": 4,
-            "day": 1,
-            "exercise": "spoto press",
-            "originalExerciseName": "Spoto Presses",
+            "id": "f5b35370-cef8-488c-8e1f-1e5e27fe6f27",
+            "inferredDate": "2015-12-10",
+            "weekStartDate": "2015-12-05",
+            "week": 15,
+            "day": 3,
+            "exercise": "close grip floor press",
+            "originalExerciseName": "Close Grip Floor Press",
             "setNumber": 2,
-            "reps": 5,
-            "instructions": "Work up to a hard set of 5 leave a rep in the tank",
+            "reps": 1,
+            "instructions": "Work up to a hard set of 1 but leave a rep in the tank",
+            "weight": 295,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "0e4ffdec-083b-498d-a280-ed6bc380d84c",
+            "inferredDate": "2015-12-10",
+            "weekStartDate": "2015-12-05",
+            "week": 15,
+            "day": 3,
+            "exercise": "close grip floor press",
+            "originalExerciseName": "Close Grip Floor Press",
+            "setNumber": 3,
+            "reps": 1,
+            "instructions": "Work up to a hard set of 1 but leave a rep in the tank",
+            "weight": 315,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "2": [
+         {
+            "id": "6a1737ac-e8d1-4963-9cbf-7ace64a1655f",
+            "inferredDate": "2015-12-15",
+            "weekStartDate": "2015-12-12",
+            "week": 16,
+            "day": 2,
+            "exercise": "close grip floor press",
+            "originalExerciseName": "Close Grip Floor Press",
+            "setNumber": 1,
+            "reps": 2,
+            "instructions": "",
+            "weight": 295,
+            "notes": "META: continuation of previous sets",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "3": [
+         {
+            "id": "4011d158-2dbd-4117-8415-d115e208ce2b",
+            "inferredDate": "2015-10-29",
+            "weekStartDate": "2015-10-24",
+            "week": 9,
+            "day": 3,
+            "exercise": "close grip floor press",
+            "originalExerciseName": "Close Grip Floor Press",
+            "setNumber": 1,
+            "reps": 3,
+            "instructions": "Work up to a hard set of 3 but leave a rep in the tank",
+            "weight": 275,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "96aca78f-2e63-4474-92fe-918ea2463bd5",
+            "inferredDate": "2015-10-29",
+            "weekStartDate": "2015-10-24",
+            "week": 9,
+            "day": 3,
+            "exercise": "close grip floor press",
+            "originalExerciseName": "Close Grip Floor Press",
+            "setNumber": 2,
+            "reps": 3,
+            "instructions": "Work up to a hard set of 3 but leave a rep in the tank",
+            "weight": 280,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "e65451dc-b7ed-43d7-8549-a67e14070b7d",
+            "inferredDate": "2015-10-29",
+            "weekStartDate": "2015-10-24",
+            "week": 9,
+            "day": 3,
+            "exercise": "close grip floor press",
+            "originalExerciseName": "Close Grip Floor Press",
+            "setNumber": 3,
+            "reps": 3,
+            "instructions": "Work up to a hard set of 3 but leave a rep in the tank",
+            "weight": 285,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "4": [
+         {
+            "id": "7403cd4a-5e54-482e-b805-5a5a13853476",
+            "inferredDate": "2015-09-10",
+            "weekStartDate": "2015-09-05",
+            "week": 2,
+            "day": 3,
+            "exercise": "close grip floor press",
+            "originalExerciseName": "Close Grip Floor Press",
+            "setNumber": 1,
+            "reps": 4,
+            "instructions": "Work up to a hard set of 4 but leave 1 rep in the tanks",
             "weight": 225,
             "notes": "",
             "supersetId": "",
@@ -4010,15 +4914,319 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "12a78c26-07f4-4d78-bf3b-14e87862b12e",
-            "week": 4,
-            "day": 1,
-            "exercise": "spoto press",
-            "originalExerciseName": "Spoto Presses",
+            "id": "377af3c1-fb7c-49c3-b774-1d9a5fd9bc6c",
+            "inferredDate": "2015-09-10",
+            "weekStartDate": "2015-09-05",
+            "week": 2,
+            "day": 3,
+            "exercise": "close grip floor press",
+            "originalExerciseName": "Close Grip Floor Press",
+            "setNumber": 2,
+            "reps": 4,
+            "instructions": "Work up to a hard set of 4 but leave 1 rep in the tanks",
+            "weight": 255,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "1c03facc-045f-4858-840e-7ceebf4b766a",
+            "inferredDate": "2015-09-10",
+            "weekStartDate": "2015-09-05",
+            "week": 2,
+            "day": 3,
+            "exercise": "close grip floor press",
+            "originalExerciseName": "Close Grip Floor Press",
             "setNumber": 3,
+            "reps": 4,
+            "instructions": "Work up to a hard set of 4 but leave 1 rep in the tanks",
+            "weight": 260,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "61fac96d-bbaa-4f8d-b2b9-4d838daaf68e",
+            "inferredDate": "2015-12-10",
+            "weekStartDate": "2015-12-05",
+            "week": 15,
+            "day": 3,
+            "exercise": "close grip floor press",
+            "originalExerciseName": "Close Grip Floor Press",
+            "setNumber": 1,
+            "reps": 4,
+            "instructions": "Drop down to 85% of your top set and do 1-5 more sets",
+            "weight": 265,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "setRangeInParenthesisStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "5": [
+         {
+            "id": "448ace49-67c7-4572-bd3b-7c86fec8121c",
+            "inferredDate": "2015-11-19",
+            "weekStartDate": "2015-11-14",
+            "week": 12,
+            "day": 3,
+            "exercise": "close grip floor press",
+            "originalExerciseName": "Close Grip Floor Press",
+            "setNumber": 1,
             "reps": 5,
-            "instructions": "Work up to a hard set of 5 leave a rep in the tank",
+            "instructions": "Drop down to 85% of your top set and do 3-5 more sets",
             "weight": 235,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "setRangeInParenthesisStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "f2314d8e-d0df-4526-8e20-73fa44b3dae3",
+            "inferredDate": "2016-06-17",
+            "weekStartDate": "2016-06-11",
+            "week": 40,
+            "day": 4,
+            "exercise": "close grip floor press",
+            "originalExerciseName": "Close Grip Floor Press",
+            "setNumber": 1,
+            "reps": 5,
+            "instructions": "Use 75% of your 1 RM",
+            "weight": 245,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "6": [
+         {
+            "id": "cb6288dd-c74d-4743-a4de-231a3e82e782",
+            "inferredDate": "2016-06-10",
+            "weekStartDate": "2016-06-04",
+            "week": 39,
+            "day": 4,
+            "exercise": "close grip floor press",
+            "originalExerciseName": "Close Grip Floor Press",
+            "setNumber": 1,
+            "reps": 6,
+            "instructions": "Use 70% of your 1 RM",
+            "weight": 235,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "c0ee6b19-7a62-4134-8390-ed8c447ccb7a",
+            "inferredDate": "2016-08-05",
+            "weekStartDate": "2016-07-30",
+            "week": 50,
+            "day": 4,
+            "exercise": "close grip floor press",
+            "originalExerciseName": "Close Grip Floor Press",
+            "setNumber": 1,
+            "reps": 6,
+            "instructions": "",
+            "weight": 245,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "8": [
+         {
+            "id": "e59d9e83-e7a1-4b61-b1d1-5e7ad453e908",
+            "inferredDate": "2016-08-19",
+            "weekStartDate": "2016-08-13",
+            "week": 49,
+            "day": 4,
+            "exercise": "close grip floor press",
+            "originalExerciseName": "Close Grip Floor Press",
+            "setNumber": 1,
+            "reps": 8,
+            "instructions": "",
+            "weight": 225,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "10": [
+         {
+            "id": "83774eb3-aa2c-4f3a-96ad-1a51ded2cc19",
+            "inferredDate": "2016-06-03",
+            "weekStartDate": "2016-05-28",
+            "week": 38,
+            "day": 4,
+            "exercise": "close grip floor press",
+            "originalExerciseName": "Close Grip Floor Press",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "Use 65% of your 1 RM",
+            "weight": 215,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ]
+   },
+   "seated axle overhead press": {
+      "4": [
+         {
+            "id": "879d4c03-3c16-4015-9925-4fa56a8e3feb",
+            "inferredDate": "2015-10-08",
+            "weekStartDate": "2015-10-03",
+            "week": 6,
+            "day": 3,
+            "exercise": "seated axle overhead press",
+            "originalExerciseName": "Seated Axle Strict Press",
+            "setNumber": 1,
+            "reps": 4,
+            "instructions": "Work up to a hard set of 4 but leave a rep in the tank",
+            "weight": 125,
+            "notes": "185 was a little too hard: had to cheat the 4th rep",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "519942b7-20e2-49da-afa9-732ba8bf39b7",
+            "inferredDate": "2015-10-08",
+            "weekStartDate": "2015-10-03",
+            "week": 6,
+            "day": 3,
+            "exercise": "seated axle overhead press",
+            "originalExerciseName": "Seated Axle Strict Press",
+            "setNumber": 2,
+            "reps": 4,
+            "instructions": "Work up to a hard set of 4 but leave a rep in the tank",
+            "weight": 165,
+            "notes": "185 was a little too hard: had to cheat the 4th rep",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "207f76ac-2409-4035-b264-b5112db1833c",
+            "inferredDate": "2015-10-08",
+            "weekStartDate": "2015-10-03",
+            "week": 6,
+            "day": 3,
+            "exercise": "seated axle overhead press",
+            "originalExerciseName": "Seated Axle Strict Press",
+            "setNumber": 3,
+            "reps": 4,
+            "instructions": "Work up to a hard set of 4 but leave a rep in the tank",
+            "weight": 185,
+            "notes": "185 was a little too hard: had to cheat the 4th rep",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "6": [
+         {
+            "id": "edf0f4fb-a355-4dae-aede-c0ffe18423b6",
+            "inferredDate": "2015-09-10",
+            "weekStartDate": "2015-09-05",
+            "week": 2,
+            "day": 3,
+            "exercise": "seated axle overhead press",
+            "originalExerciseName": "Seated Axle Strict Press",
+            "setNumber": 1,
+            "reps": 6,
+            "instructions": "Work up to a hard set of 6 but leave 1 rep in the tanks",
+            "weight": 135,
+            "notes": "Shoulders feeling pretty tired at this point",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "580b86c5-7877-4a72-b068-b5d9556456e8",
+            "inferredDate": "2015-09-10",
+            "weekStartDate": "2015-09-05",
+            "week": 2,
+            "day": 3,
+            "exercise": "seated axle overhead press",
+            "originalExerciseName": "Seated Axle Strict Press",
+            "setNumber": 2,
+            "reps": 6,
+            "instructions": "Work up to a hard set of 6 but leave 1 rep in the tanks",
+            "weight": 145,
+            "notes": "Shoulders feeling pretty tired at this point",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "fe29d570-0b2f-43de-91e6-774072ef7358",
+            "inferredDate": "2015-09-10",
+            "weekStartDate": "2015-09-05",
+            "week": 2,
+            "day": 3,
+            "exercise": "seated axle overhead press",
+            "originalExerciseName": "Seated Axle Strict Press",
+            "setNumber": 3,
+            "reps": 6,
+            "instructions": "Work up to a hard set of 6 but leave 1 rep in the tanks",
+            "weight": 150,
+            "notes": "Shoulders feeling pretty tired at this point",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "e878b50e-7b90-491f-a4ad-cd012a6caa6d",
+            "inferredDate": "2015-10-22",
+            "weekStartDate": "2015-10-17",
+            "week": 8,
+            "day": 3,
+            "exercise": "seated axle overhead press",
+            "originalExerciseName": "Seated Axle Strict Press",
+            "setNumber": 2,
+            "reps": 6,
+            "instructions": "Work up to a hard set of 6 but leave a rep in the tank",
+            "weight": 155,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "b0faab11-20f1-45bb-98a6-f294ca4b6104",
+            "inferredDate": "2015-10-22",
+            "weekStartDate": "2015-10-17",
+            "week": 8,
+            "day": 3,
+            "exercise": "seated axle overhead press",
+            "originalExerciseName": "Seated Axle Strict Press",
+            "setNumber": 3,
+            "reps": 6,
+            "instructions": "Work up to a hard set of 6 but leave a rep in the tank",
+            "weight": 165,
             "notes": "",
             "supersetId": "",
             "anomalous": "",
@@ -4030,7 +5238,9 @@ export const repPrs = {
    "rack pull": {
       "1": [
          {
-            "id": "59e94ad5-7b8e-4a63-959e-7063d4832ded",
+            "id": "0e012255-884a-4e0f-905e-fc0e2877ae27",
+            "inferredDate": "2015-09-11",
+            "weekStartDate": "2015-09-05",
             "week": 2,
             "day": 4,
             "exercise": "rack pull",
@@ -4046,7 +5256,27 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "f46a84ff-d0d3-49d4-bbbb-7e14a9d35a81",
+            "id": "d3eb8773-1497-49ce-8f7b-62e9f5af5a0e",
+            "inferredDate": "2015-09-11",
+            "weekStartDate": "2015-09-05",
+            "week": 2,
+            "day": 4,
+            "exercise": "rack pull",
+            "originalExerciseName": "Rack Pulls - Mid Shin",
+            "setNumber": 2,
+            "reps": 1,
+            "instructions": "Work up to a heavy single, I would love for this final weight to be what you'd shoot for on your third attempt at the meet.",
+            "weight": 455,
+            "notes": "Used 3 blocks. Definitely the best block/rack pulling I've ever done. Went for 495 but missed. I really think a big part of the problem with my pull is mental/confidence related. As soon as I feel my back start to round, I get sketched out about injury and bail (you'll see it in the video of my miss).",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "d83a5ff5-694d-45d9-bf49-fa8d6ba50c7d",
+            "inferredDate": "2015-09-11",
+            "weekStartDate": "2015-09-05",
             "week": 2,
             "day": 4,
             "exercise": "rack pull",
@@ -4064,7 +5294,9 @@ export const repPrs = {
       ],
       "2": [
          {
-            "id": "5468740a-47d5-447b-90e5-78dd3f68e8c8",
+            "id": "8a52dee4-0497-44a8-9534-7586e017b2a5",
+            "inferredDate": "2016-08-11",
+            "weekStartDate": "2016-08-06",
             "week": 48,
             "day": 3,
             "exercise": "rack pull",
@@ -4082,7 +5314,9 @@ export const repPrs = {
       ],
       "3": [
          {
-            "id": "95deae61-6e29-4d69-9a45-b317955d5082",
+            "id": "7252769c-0d2d-46d0-869e-9aabe03cc47a",
+            "inferredDate": "2016-09-08",
+            "weekStartDate": "2016-09-03",
             "week": 55,
             "day": 3,
             "exercise": "rack pull",
@@ -4098,7 +5332,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "bbcf4a96-0b84-45da-94b5-3e46e579e5c0",
+            "id": "46ee7f52-98f1-4347-ad14-2f3e173bb6cf",
+            "inferredDate": "2016-10-13",
+            "weekStartDate": "2016-10-08",
             "week": 60,
             "day": 3,
             "exercise": "rack pull",
@@ -4116,7 +5352,9 @@ export const repPrs = {
       ],
       "4": [
          {
-            "id": "ba7e4a1c-5df5-468f-95ae-7fc22ebe2310",
+            "id": "3e04670c-2009-4fe9-b083-76ef0a44a6d8",
+            "inferredDate": "2016-09-01",
+            "weekStartDate": "2016-08-27",
             "week": 54,
             "day": 3,
             "exercise": "rack pull",
@@ -4134,7 +5372,9 @@ export const repPrs = {
       ],
       "5": [
          {
-            "id": "c68dbd21-b1b6-4128-b399-ccc7f7201c36",
+            "id": "1a8fda06-bedc-4a1f-bf62-f4f7452e3daa",
+            "inferredDate": "2016-08-18",
+            "weekStartDate": "2016-08-13",
             "week": 52,
             "day": 3,
             "exercise": "rack pull",
@@ -4150,7 +5390,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "ca0414d0-4c65-445f-b611-f88e8cefd61d",
+            "id": "5c4e01d0-417d-4334-a5ff-5b946680a8f4",
+            "inferredDate": "2017-07-27",
+            "weekStartDate": "2017-07-22",
             "week": 98,
             "day": 3,
             "exercise": "rack pull",
@@ -4166,7 +5408,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "94d8f3d3-31cf-404d-a433-5e8b8f5eb29f",
+            "id": "6ef836cf-e96f-4f56-99b7-359f751f499b",
+            "inferredDate": "2017-07-27",
+            "weekStartDate": "2017-07-22",
             "week": 98,
             "day": 3,
             "exercise": "rack pull",
@@ -4182,7 +5426,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "76971533-aab5-4c89-b79e-367e0ab1bb1b",
+            "id": "5fd1c2d8-76e0-4cc3-ae77-a9b640f5c713",
+            "inferredDate": "2017-07-27",
+            "weekStartDate": "2017-07-22",
             "week": 98,
             "day": 3,
             "exercise": "rack pull",
@@ -4200,7 +5446,9 @@ export const repPrs = {
       ],
       "6": [
          {
-            "id": "6a3111a6-4d8f-44e4-903d-5213918a16d9",
+            "id": "debb2396-ad72-482b-9ae9-ec9aa4c2663b",
+            "inferredDate": "2016-09-29",
+            "weekStartDate": "2016-09-24",
             "week": 58,
             "day": 3,
             "exercise": "rack pull",
@@ -4217,58 +5465,116 @@ export const repPrs = {
          }
       ]
    },
-   "barbell curls": {
-      "8": [
+   "spoto press": {
+      "4": [
          {
-            "id": "b3776417-5c63-4bd5-988e-ad0abb6f5dd3",
-            "week": 107,
+            "id": "9a7684c6-41bc-4451-8df0-df302a02d18b",
+            "inferredDate": "2015-09-11",
+            "weekStartDate": "2015-09-05",
+            "week": 2,
             "day": 4,
-            "exercise": "barbell curls",
-            "originalExerciseName": "Barbell Curls",
+            "exercise": "spoto press",
+            "originalExerciseName": "Spoto Press",
             "setNumber": 1,
-            "reps": 8,
-            "instructions": "",
-            "weight": 40,
-            "notes": "",
+            "reps": 4,
+            "instructions": "Work up to a hard set of 4 reps, leave one in the tank",
+            "weight": 225,
+            "notes": "I knew better than to shoot for 275 based off yesterday :)",
             "supersetId": "",
             "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
+            "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
-         }
-      ],
-      "10": [
+         },
          {
-            "id": "f408c202-73a3-47b4-9e97-91e7160b6d17",
-            "week": 3,
-            "day": 3,
-            "exercise": "barbell curls",
-            "originalExerciseName": "Barbell Curls",
+            "id": "abd79ee0-b2c7-4cc8-bb03-071aad0f04a9",
+            "inferredDate": "2015-09-11",
+            "weekStartDate": "2015-09-05",
+            "week": 2,
+            "day": 4,
+            "exercise": "spoto press",
+            "originalExerciseName": "Spoto Press",
+            "setNumber": 2,
+            "reps": 4,
+            "instructions": "Work up to a hard set of 4 reps, leave one in the tank",
+            "weight": 245,
+            "notes": "I knew better than to shoot for 275 based off yesterday :)",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "f63fd3ff-34c5-4fe4-bbb3-7efd49755f70",
+            "inferredDate": "2015-09-11",
+            "weekStartDate": "2015-09-05",
+            "week": 2,
+            "day": 4,
+            "exercise": "spoto press",
+            "originalExerciseName": "Spoto Press",
             "setNumber": 3,
-            "reps": 10,
-            "instructions": "Strict, get a good squeeze at the top, again just pump keep it light",
-            "weight": 0,
-            "notes": "",
+            "reps": 4,
+            "instructions": "Work up to a hard set of 4 reps, leave one in the tank",
+            "weight": 265,
+            "notes": "I knew better than to shoot for 275 based off yesterday :)",
             "supersetId": "",
             "anomalous": "",
-            "strategyUsed": "noWeightStraightSetStrategy",
+            "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
          }
       ],
-      "21": [
+      "5": [
          {
-            "id": "5949e4a6-38dc-4cc8-9aa1-bfe99a04c115",
-            "week": 65,
-            "day": 4,
-            "exercise": "barbell curls",
-            "originalExerciseName": "Barbell Curls 21s",
+            "id": "b0df0199-7e41-41a0-995f-7bc861f6ebd3",
+            "inferredDate": "2015-09-21",
+            "weekStartDate": "2015-09-19",
+            "week": 4,
+            "day": 1,
+            "exercise": "spoto press",
+            "originalExerciseName": "Spoto Presses",
             "setNumber": 1,
-            "reps": 21,
-            "instructions": "Contracted position, then stretched position, then full reps",
-            "weight": 60,
+            "reps": 5,
+            "instructions": "Work up to a hard set of 5 leave a rep in the tank",
+            "weight": 185,
             "notes": "",
             "supersetId": "",
             "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "cfd320d0-8e26-4c14-ba2e-79e6134fcc1e",
+            "inferredDate": "2015-09-21",
+            "weekStartDate": "2015-09-19",
+            "week": 4,
+            "day": 1,
+            "exercise": "spoto press",
+            "originalExerciseName": "Spoto Presses",
+            "setNumber": 2,
+            "reps": 5,
+            "instructions": "Work up to a hard set of 5 leave a rep in the tank",
+            "weight": 225,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "13ff2036-45b2-424a-8bc2-795f9a61fb9f",
+            "inferredDate": "2015-09-21",
+            "weekStartDate": "2015-09-19",
+            "week": 4,
+            "day": 1,
+            "exercise": "spoto press",
+            "originalExerciseName": "Spoto Presses",
+            "setNumber": 3,
+            "reps": 5,
+            "instructions": "Work up to a hard set of 5 leave a rep in the tank",
+            "weight": 235,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
          }
       ]
@@ -4276,7 +5582,9 @@ export const repPrs = {
    "alternating db curls": {
       "8": [
          {
-            "id": "778ce465-607a-4e75-b5e3-8b34738d37fe",
+            "id": "5e45dc16-36f5-42fc-aa63-14bea18c65aa",
+            "inferredDate": "2017-03-10",
+            "weekStartDate": "2017-03-04",
             "week": 77,
             "day": 4,
             "exercise": "alternating db curls",
@@ -4294,7 +5602,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "a71cdf3a-d4b9-4210-8936-5e8a525c63ec",
+            "id": "54ce9a74-e19a-4e8c-bd25-cbe2bdc34209",
+            "inferredDate": "2016-09-27",
+            "weekStartDate": "2016-09-24",
             "week": 58,
             "day": 2,
             "exercise": "alternating db curls",
@@ -4310,7 +5620,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "610237eb-b1b1-4165-a0ab-15cc778ba342",
+            "id": "10efa4fd-863f-4a54-b3e4-6543d9cdc77e",
+            "inferredDate": "2016-10-04",
+            "weekStartDate": "2016-10-01",
             "week": 59,
             "day": 2,
             "exercise": "alternating db curls",
@@ -4326,12 +5638,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "09b93650-98f8-4044-8a3f-9570344395dc",
+            "id": "288326e5-4e5e-4458-8c9a-98c31406040b",
+            "inferredDate": "2016-10-19",
+            "weekStartDate": "2016-10-15",
             "week": 61,
             "day": 2,
             "exercise": "alternating db curls",
             "originalExerciseName": "Alternating DB Curls",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "",
             "weight": 40,
@@ -4344,7 +5658,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "c2647379-d780-4798-8f54-19a8b27c628b",
+            "id": "de0716b9-caa1-4280-8490-d5db697fcf87",
+            "inferredDate": "2015-09-18",
+            "weekStartDate": "2015-09-12",
             "week": 3,
             "day": 3,
             "exercise": "alternating db curls",
@@ -4361,10 +5677,94 @@ export const repPrs = {
          }
       ]
    },
+   "barbell curls": {
+      "8": [
+         {
+            "id": "db433916-7c90-4696-9685-d5ad0920deb9",
+            "inferredDate": "2017-09-23",
+            "weekStartDate": "2017-09-17",
+            "week": 107,
+            "day": 4,
+            "exercise": "barbell curls",
+            "originalExerciseName": "Barbell Curls",
+            "setNumber": 1,
+            "reps": 8,
+            "instructions": "",
+            "weight": 40,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "10": [
+         {
+            "id": "f4dcb82b-70f9-4409-8621-c7e3b812a372",
+            "inferredDate": "2015-09-18",
+            "weekStartDate": "2015-09-12",
+            "week": 3,
+            "day": 3,
+            "exercise": "barbell curls",
+            "originalExerciseName": "Barbell Curls",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "Strict, get a good squeeze at the top, again just pump keep it light",
+            "weight": 0,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "noWeightStraightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "21": [
+         {
+            "id": "abb1763f-5795-4d54-85b5-2c88f413bd60",
+            "inferredDate": "2016-11-11",
+            "weekStartDate": "2016-11-05",
+            "week": 65,
+            "day": 4,
+            "exercise": "barbell curls",
+            "originalExerciseName": "Barbell Curls 21s",
+            "setNumber": 1,
+            "reps": 21,
+            "instructions": "Contracted position, then stretched position, then full reps",
+            "weight": 60,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "100": [
+         {
+            "id": "f08ca221-911a-4020-a417-fbe44b569d1e",
+            "inferredDate": "2020-04-03",
+            "weekStartDate": "2020-03-28",
+            "week": 214,
+            "day": 4,
+            "exercise": "barbell curls",
+            "originalExerciseName": "Barbell Curls",
+            "setNumber": 1,
+            "reps": 100,
+            "instructions": "giant set",
+            "weight": 45,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ]
+   },
    "rolling db tricep extensions": {
       "10": [
          {
-            "id": "8d74824b-fd86-4bf2-88f2-00ff144d882d",
+            "id": "cf795709-3dad-42e6-8e9c-cd56797aeb97",
+            "inferredDate": "2016-08-16",
+            "weekStartDate": "2016-08-13",
             "week": 52,
             "day": 2,
             "exercise": "rolling db tricep extensions",
@@ -4382,7 +5782,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "2d387f99-713a-4040-a9af-2f11d4d4e982",
+            "id": "1fea6755-daf0-4ec2-9460-5453aeabbdbf",
+            "inferredDate": "2016-01-08",
+            "weekStartDate": "2016-01-02",
             "week": 19,
             "day": 4,
             "exercise": "rolling db tricep extensions",
@@ -4398,7 +5800,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "c7deea50-26ec-470c-98c2-8f05b3ff6cac",
+            "id": "6cabe117-d74c-4b5b-9f64-9d2164cf50ee",
+            "inferredDate": "2016-03-29",
+            "weekStartDate": "2016-03-26",
             "week": 29,
             "day": 2,
             "exercise": "rolling db tricep extensions",
@@ -4412,11 +5816,31 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "cac63766-0c27-4b97-9f27-586c2050b360",
+            "inferredDate": "2019-10-14",
+            "weekStartDate": "2019-10-12",
+            "week": 190,
+            "day": 1,
+            "exercise": "rolling db tricep extensions",
+            "originalExerciseName": "Lying Leg Curl",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 100,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ],
       "20": [
          {
-            "id": "bf73be8f-4c79-4427-92e1-2ff656d6bcf3",
+            "id": "d6586920-d74b-4c87-b6bd-cab642056517",
+            "inferredDate": "2015-09-18",
+            "weekStartDate": "2015-09-12",
             "week": 3,
             "day": 3,
             "exercise": "rolling db tricep extensions",
@@ -4433,30 +5857,12 @@ export const repPrs = {
          }
       ]
    },
-   "axle bench press": {
-      "8": [
-         {
-            "id": "dcb8e3de-f8e3-44c7-bde5-8c3de8213e9d",
-            "week": 4,
-            "day": 1,
-            "exercise": "axle bench press",
-            "originalExerciseName": "Axle Bench Press",
-            "setNumber": 1,
-            "reps": 8,
-            "instructions": "Work up to 75% of your 1 RM",
-            "weight": 230,
-            "notes": "Had to rest pause twice during the last set",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         }
-      ]
-   },
    "safety squat bar squats": {
       "1": [
          {
-            "id": "246f0fc4-4b23-485f-a189-b570090cf6ed",
+            "id": "ffa84dc2-ddcd-46b5-a958-3e2517793653",
+            "inferredDate": "2016-03-21",
+            "weekStartDate": "2016-03-19",
             "week": 28,
             "day": 1,
             "exercise": "safety squat bar squats",
@@ -4474,7 +5880,9 @@ export const repPrs = {
       ],
       "2": [
          {
-            "id": "bebef521-faec-4f15-8775-da06302fac14",
+            "id": "f29c4c0f-f09e-445e-9463-3c34eb2c3deb",
+            "inferredDate": "2016-03-14",
+            "weekStartDate": "2016-03-12",
             "week": 27,
             "day": 1,
             "exercise": "safety squat bar squats",
@@ -4492,7 +5900,9 @@ export const repPrs = {
       ],
       "3": [
          {
-            "id": "60f9b07c-8bea-4fcf-8ef1-cd946ec87252",
+            "id": "cdd79c4e-c046-4a2c-86a6-5959311e8c59",
+            "inferredDate": "2016-03-07",
+            "weekStartDate": "2016-03-05",
             "week": 26,
             "day": 1,
             "exercise": "safety squat bar squats",
@@ -4510,12 +5920,14 @@ export const repPrs = {
       ],
       "4": [
          {
-            "id": "d34cd74b-6dfd-45a1-a46c-4250b2f43c4c",
+            "id": "ffbdd6a5-0592-4dea-8f2b-51e64cee8108",
+            "inferredDate": "2015-10-05",
+            "weekStartDate": "2015-10-03",
             "week": 6,
             "day": 1,
             "exercise": "safety squat bar squats",
             "originalExerciseName": "SSB Squats",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 4,
             "instructions": "Using 65% of your 1 RM",
             "weight": 260,
@@ -4526,7 +5938,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "5724fb26-4e30-4932-8ff5-087b24871a10",
+            "id": "c556be0a-8d91-4e4a-b1be-16c0984e4ed9",
+            "inferredDate": "2016-02-08",
+            "weekStartDate": "2016-02-06",
             "week": 24,
             "day": 1,
             "exercise": "safety squat bar squats",
@@ -4544,23 +5958,45 @@ export const repPrs = {
       ],
       "5": [
          {
-            "id": "07505760-07d0-4417-8789-0346d6f1d523",
+            "id": "04c95157-b54d-4f7a-a0d6-d28de7f164f2",
+            "inferredDate": "2015-10-26",
+            "weekStartDate": "2015-10-24",
             "week": 9,
             "day": 1,
             "exercise": "safety squat bar squats",
             "originalExerciseName": "SSB Squats",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 5,
-            "instructions": "Using 72.5% of your 1 RM",
-            "weight": 290,
-            "notes": "",
+            "instructions": "Work up to 82.5% of your 1 RM",
+            "weight": 305,
+            "notes": "Went rock climbing yesterday which included a ball busting, quad pumping uphill hike to the crag. Paradoxically, I felt EXPLOSIVE today 😀",
             "supersetId": "",
             "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
+            "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
          },
          {
-            "id": "a32723b8-4da0-4156-a740-4467098b00b9",
+            "id": "1ab8fbd0-6ecb-4122-99a4-7f7688e3df13",
+            "inferredDate": "2015-10-26",
+            "weekStartDate": "2015-10-24",
+            "week": 9,
+            "day": 1,
+            "exercise": "safety squat bar squats",
+            "originalExerciseName": "SSB Squats",
+            "setNumber": 2,
+            "reps": 5,
+            "instructions": "Work up to 82.5% of your 1 RM",
+            "weight": 320,
+            "notes": "Went rock climbing yesterday which included a ball busting, quad pumping uphill hike to the crag. Paradoxically, I felt EXPLOSIVE today 😀",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "906c66a7-6b8d-4d9c-a72b-037b691e2fcd",
+            "inferredDate": "2015-10-26",
+            "weekStartDate": "2015-10-24",
             "week": 9,
             "day": 1,
             "exercise": "safety squat bar squats",
@@ -4578,7 +6014,9 @@ export const repPrs = {
       ],
       "6": [
          {
-            "id": "db778cea-39cd-485b-88b8-4f40649f02dc",
+            "id": "9449290e-a030-40a6-bae7-c8942d0549a2",
+            "inferredDate": "2015-09-28",
+            "weekStartDate": "2015-09-26",
             "week": 5,
             "day": 1,
             "exercise": "safety squat bar squats",
@@ -4594,7 +6032,27 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "c6e5269b-1e5b-44ab-a58c-31a672a42120",
+            "id": "cf04c70d-c374-4218-85dc-7ce950dcb03c",
+            "inferredDate": "2015-09-28",
+            "weekStartDate": "2015-09-26",
+            "week": 5,
+            "day": 1,
+            "exercise": "safety squat bar squats",
+            "originalExerciseName": "SSB Squats",
+            "setNumber": 2,
+            "reps": 6,
+            "instructions": "Work up to 75% of your 1 RM",
+            "weight": 275,
+            "notes": "Unassisted 😅. Way better than last Monday.",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "87c73448-e21c-4683-b745-22d76ce4c8fd",
+            "inferredDate": "2015-09-28",
+            "weekStartDate": "2015-09-26",
             "week": 5,
             "day": 1,
             "exercise": "safety squat bar squats",
@@ -4610,7 +6068,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "6f641ac6-af68-4fb7-82ec-557b287a3b87",
+            "id": "49db79c4-d85c-42a3-8a21-4f3a6c6a1746",
+            "inferredDate": "2015-10-19",
+            "weekStartDate": "2015-10-17",
             "week": 8,
             "day": 1,
             "exercise": "safety squat bar squats",
@@ -4628,7 +6088,45 @@ export const repPrs = {
       ],
       "7": [
          {
-            "id": "e46191ba-69fc-4417-ba8c-be9ab179801e",
+            "id": "92a26c48-522a-4ac8-930b-efc1f6975940",
+            "inferredDate": "2015-10-05",
+            "weekStartDate": "2015-10-03",
+            "week": 6,
+            "day": 1,
+            "exercise": "safety squat bar squats",
+            "originalExerciseName": "SSB Squats",
+            "setNumber": 1,
+            "reps": 7,
+            "instructions": "Work up to 75% of your 1 RM",
+            "weight": 275,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "2358682a-381b-453d-8163-546f65647d20",
+            "inferredDate": "2015-10-05",
+            "weekStartDate": "2015-10-03",
+            "week": 6,
+            "day": 1,
+            "exercise": "safety squat bar squats",
+            "originalExerciseName": "SSB Squats",
+            "setNumber": 2,
+            "reps": 7,
+            "instructions": "Work up to 75% of your 1 RM",
+            "weight": 295,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "28780db4-809f-49d2-bf5e-dd7f509c466d",
+            "inferredDate": "2015-10-05",
+            "weekStartDate": "2015-10-03",
             "week": 6,
             "day": 1,
             "exercise": "safety squat bar squats",
@@ -4646,28 +6144,14 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "4cbd927e-76a6-444b-9ece-8fcd4c753895",
+            "id": "754f612b-233d-40e2-b0ac-87015bc8ae6a",
+            "inferredDate": "2015-09-21",
+            "weekStartDate": "2015-09-19",
             "week": 4,
             "day": 1,
             "exercise": "safety squat bar squats",
             "originalExerciseName": "SSB Squats",
             "setNumber": 1,
-            "reps": 8,
-            "instructions": "Using 70% of your 1 RM",
-            "weight": 255,
-            "notes": "Dropped the weight from 280 (70%) to 255 so I could do unassisted reps. These still felt hard.",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "75643dbd-c50e-408e-88bb-612419beea38",
-            "week": 4,
-            "day": 1,
-            "exercise": "safety squat bar squats",
-            "originalExerciseName": "SSB Squats",
-            "setNumber": 3,
             "reps": 8,
             "instructions": "Work up to 75% of your 1 RM",
             "weight": 300,
@@ -4679,54 +6163,24 @@ export const repPrs = {
          }
       ]
    },
-   "paused ssb squats vs bands": {
-      "6": [
+   "axle bench press": {
+      "8": [
          {
-            "id": "b34f2e8e-d3cf-4843-9bc9-c869f2812b4a",
+            "id": "073c8dd5-dfdd-4598-84b5-a0cec8ecfa74",
+            "inferredDate": "2015-09-21",
+            "weekStartDate": "2015-09-19",
             "week": 4,
-            "day": 2,
-            "exercise": "paused ssb squats vs bands",
-            "originalExerciseName": "Paused SSB Squats vs bands",
+            "day": 1,
+            "exercise": "axle bench press",
+            "originalExerciseName": "Axle Bench Press",
             "setNumber": 1,
-            "reps": 6,
-            "instructions": "Work up to a hard set of 6, use choked light bands, pause in the hole for 3 seconds",
-            "weight": 165,
-            "notes": "These felt surprisingly crisp given the sore legs",
+            "reps": 8,
+            "instructions": "Work up to 75% of your 1 RM",
+            "weight": 230,
+            "notes": "Had to rest pause twice during the last set",
             "supersetId": "",
             "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "31135171-f002-45ba-8ede-ddd3f15675e4",
-            "week": 4,
-            "day": 2,
-            "exercise": "paused ssb squats vs bands",
-            "originalExerciseName": "Paused SSB Squats vs bands",
-            "setNumber": 2,
-            "reps": 6,
-            "instructions": "Work up to a hard set of 6, use choked light bands, pause in the hole for 3 seconds",
-            "weight": 195,
-            "notes": "These felt surprisingly crisp given the sore legs",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "d1c05d02-d238-41d1-ad8a-cb27a88433ad",
-            "week": 4,
-            "day": 2,
-            "exercise": "paused ssb squats vs bands",
-            "originalExerciseName": "Paused SSB Squats vs bands",
-            "setNumber": 3,
-            "reps": 6,
-            "instructions": "Work up to a hard set of 6, use choked light bands, pause in the hole for 3 seconds",
-            "weight": 215,
-            "notes": "These felt surprisingly crisp given the sore legs",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
+            "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
          }
       ]
@@ -4734,7 +6188,9 @@ export const repPrs = {
    "football bar floor presses": {
       "8": [
          {
-            "id": "867c8f4f-597b-4903-b11f-09841c2e09e0",
+            "id": "c75cffa7-6c08-4d7a-9c04-4cb6932aaae1",
+            "inferredDate": "2015-09-22",
+            "weekStartDate": "2015-09-19",
             "week": 4,
             "day": 2,
             "exercise": "football bar floor presses",
@@ -4750,7 +6206,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "652449a5-387f-4309-87fb-f5637a251612",
+            "id": "ed39297f-6ec3-4160-bded-db8d2b2b6ae2",
+            "inferredDate": "2015-09-22",
+            "weekStartDate": "2015-09-19",
             "week": 4,
             "day": 2,
             "exercise": "football bar floor presses",
@@ -4766,7 +6224,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "c1886095-2a34-43fb-b0ce-9495b8071669",
+            "id": "682da197-9c6b-4245-9275-7e8732fcbc17",
+            "inferredDate": "2015-09-22",
+            "weekStartDate": "2015-09-19",
             "week": 4,
             "day": 2,
             "exercise": "football bar floor presses",
@@ -4783,15 +6243,75 @@ export const repPrs = {
          }
       ]
    },
+   "paused ssb squats vs bands": {
+      "6": [
+         {
+            "id": "77ad71b1-9068-423e-a3f0-1f58879f53f9",
+            "inferredDate": "2015-09-22",
+            "weekStartDate": "2015-09-19",
+            "week": 4,
+            "day": 2,
+            "exercise": "paused ssb squats vs bands",
+            "originalExerciseName": "Paused SSB Squats vs bands",
+            "setNumber": 1,
+            "reps": 6,
+            "instructions": "Work up to a hard set of 6, use choked light bands, pause in the hole for 3 seconds",
+            "weight": 165,
+            "notes": "These felt surprisingly crisp given the sore legs",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "2fd37c03-2aec-44c7-a44a-354c6b24d431",
+            "inferredDate": "2015-09-22",
+            "weekStartDate": "2015-09-19",
+            "week": 4,
+            "day": 2,
+            "exercise": "paused ssb squats vs bands",
+            "originalExerciseName": "Paused SSB Squats vs bands",
+            "setNumber": 2,
+            "reps": 6,
+            "instructions": "Work up to a hard set of 6, use choked light bands, pause in the hole for 3 seconds",
+            "weight": 195,
+            "notes": "These felt surprisingly crisp given the sore legs",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "cc5da296-d998-46c0-9094-22d3b3ceed87",
+            "inferredDate": "2015-09-22",
+            "weekStartDate": "2015-09-19",
+            "week": 4,
+            "day": 2,
+            "exercise": "paused ssb squats vs bands",
+            "originalExerciseName": "Paused SSB Squats vs bands",
+            "setNumber": 3,
+            "reps": 6,
+            "instructions": "Work up to a hard set of 6, use choked light bands, pause in the hole for 3 seconds",
+            "weight": 215,
+            "notes": "These felt surprisingly crisp given the sore legs",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         }
+      ]
+   },
    "snatch grip pendlay row": {
       "8": [
          {
-            "id": "6dea2e4f-519e-4126-a9a6-84024be7e90b",
+            "id": "e8218f24-32ea-45fb-ba69-c359dec94de1",
+            "inferredDate": "2016-05-26",
+            "weekStartDate": "2016-05-21",
             "week": 37,
             "day": 3,
             "exercise": "snatch grip pendlay row",
             "originalExerciseName": "Snatch Grip Pendlay Row",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 8,
             "instructions": "",
             "weight": 135,
@@ -4802,7 +6322,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "f875767e-f810-456b-9783-97bfae8c2007",
+            "id": "37ace9c0-b372-4fdb-b211-887945121b12",
+            "inferredDate": "2016-06-02",
+            "weekStartDate": "2016-05-28",
             "week": 38,
             "day": 3,
             "exercise": "snatch grip pendlay row",
@@ -4820,7 +6342,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "3540b8dd-6f2f-45cd-9a26-5b0193d2327f",
+            "id": "60a1b379-4822-4721-8b1a-7da0b6f3f86a",
+            "inferredDate": "2016-06-09",
+            "weekStartDate": "2016-06-04",
             "week": 39,
             "day": 3,
             "exercise": "snatch grip pendlay row",
@@ -4838,7 +6362,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "a63e6db6-e05c-4cf8-9363-cfdfd525a5d7",
+            "id": "ad10a49c-cc48-455f-af38-87d7ee6021a7",
+            "inferredDate": "2015-09-22",
+            "weekStartDate": "2015-09-19",
             "week": 4,
             "day": 2,
             "exercise": "snatch grip pendlay row",
@@ -4858,7 +6384,45 @@ export const repPrs = {
    "high bar close stance pause squats": {
       "2": [
          {
-            "id": "643b13d7-8e97-4c2e-85bd-a6b863a0652e",
+            "id": "eb1f81af-efbe-44fa-989e-0e6459650e79",
+            "inferredDate": "2015-11-19",
+            "weekStartDate": "2015-11-14",
+            "week": 12,
+            "day": 3,
+            "exercise": "high bar close stance pause squats",
+            "originalExerciseName": "High Bar Close Stance Pause Squats",
+            "setNumber": 1,
+            "reps": 2,
+            "instructions": "Work up to a hard set of 2 but leave a rep in the tank, pause above the hole",
+            "weight": 225,
+            "notes": "Didn't push the weight too heavy today to spare my lumbar. Just concentrated on good bracing, staying upright, and quality form",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "03ebc003-00c2-42d6-ba57-7a147eef404d",
+            "inferredDate": "2015-11-19",
+            "weekStartDate": "2015-11-14",
+            "week": 12,
+            "day": 3,
+            "exercise": "high bar close stance pause squats",
+            "originalExerciseName": "High Bar Close Stance Pause Squats",
+            "setNumber": 2,
+            "reps": 2,
+            "instructions": "Work up to a hard set of 2 but leave a rep in the tank, pause above the hole",
+            "weight": 275,
+            "notes": "Didn't push the weight too heavy today to spare my lumbar. Just concentrated on good bracing, staying upright, and quality form",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "c48403b1-e661-41de-81df-aa23e43096e4",
+            "inferredDate": "2015-11-19",
+            "weekStartDate": "2015-11-14",
             "week": 12,
             "day": 3,
             "exercise": "high bar close stance pause squats",
@@ -4874,7 +6438,27 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "6c64f700-7fb2-4d17-a28f-f8fa8c39b768",
+            "id": "7a59abcb-0e76-4882-9174-c8f976c4eecd",
+            "inferredDate": "2015-12-03",
+            "weekStartDate": "2015-11-28",
+            "week": 14,
+            "day": 3,
+            "exercise": "high bar close stance pause squats",
+            "originalExerciseName": "High Bar Close Stance Squats",
+            "setNumber": 2,
+            "reps": 2,
+            "instructions": "Work up to a hard set of 2 but leave a rep in the tank, pause above the hole",
+            "weight": 315,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "8277eb4d-beec-4a23-b99e-111d16bb90e9",
+            "inferredDate": "2015-12-03",
+            "weekStartDate": "2015-11-28",
             "week": 14,
             "day": 3,
             "exercise": "high bar close stance pause squats",
@@ -4892,7 +6476,9 @@ export const repPrs = {
       ],
       "3": [
          {
-            "id": "1dded4a1-321a-40b4-8114-d0592b679848",
+            "id": "376252fa-3061-43ba-befb-d5d260d35b52",
+            "inferredDate": "2015-11-05",
+            "weekStartDate": "2015-10-31",
             "week": 10,
             "day": 3,
             "exercise": "high bar close stance pause squats",
@@ -4908,7 +6494,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "05bfca62-77c3-4a6e-a7ba-121b389b71ed",
+            "id": "c2d8263c-9320-4d83-bce2-23c2b448927d",
+            "inferredDate": "2015-11-26",
+            "weekStartDate": "2015-11-21",
             "week": 13,
             "day": 3,
             "exercise": "high bar close stance pause squats",
@@ -4924,14 +6512,16 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "a04d8e7e-da60-43de-bac1-af61b9dbf8d6",
+            "id": "f25b55e3-89e0-4bc4-a3b4-19615efe82c8",
+            "inferredDate": "2015-12-24",
+            "weekStartDate": "2015-12-19",
             "week": 17,
             "day": 3,
             "exercise": "high bar close stance pause squats",
             "originalExerciseName": "High Bar Close Stance Paused Squats",
             "setNumber": 2,
             "reps": 3,
-            "instructions": "Try to hit your sets last week for triples this week since you were more conservative",
+            "instructions": "Try to hit your sets last week for triples this week since you were more conservative ",
             "weight": 335,
             "notes": "Felt easy today",
             "supersetId": "",
@@ -4940,14 +6530,16 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "6208775f-e26b-446c-bf16-157bc4a1e33d",
+            "id": "48318b4c-0775-45b7-82b5-35266d713394",
+            "inferredDate": "2015-12-24",
+            "weekStartDate": "2015-12-19",
             "week": 17,
             "day": 3,
             "exercise": "high bar close stance pause squats",
             "originalExerciseName": "High Bar Close Stance Paused Squats",
             "setNumber": 3,
             "reps": 3,
-            "instructions": "Try to hit your sets last week for triples this week since you were more conservative",
+            "instructions": "Try to hit your sets last week for triples this week since you were more conservative ",
             "weight": 345,
             "notes": "Felt easy today",
             "supersetId": "",
@@ -4958,23 +6550,45 @@ export const repPrs = {
       ],
       "4": [
          {
-            "id": "99f77afa-7ebd-4f04-a3a6-0693bf4a11c6",
+            "id": "6c194ee5-884d-4666-bc1c-76d1dd4a3626",
+            "inferredDate": "2015-10-29",
+            "weekStartDate": "2015-10-24",
             "week": 9,
             "day": 3,
             "exercise": "high bar close stance pause squats",
             "originalExerciseName": "High Bar Close Stance Pause Squats",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 4,
-            "instructions": "Drop down to 90% of your top set and do 3-5 more sets",
-            "weight": 300,
+            "instructions": "Work up to a hard set of 4 but leave a rep in the tank, pause above the hole",
+            "weight": 275,
             "notes": "",
             "supersetId": "",
             "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
+            "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
          },
          {
-            "id": "3c29e2f1-faa9-4f15-9734-809cf4a1ede0",
+            "id": "81f0fdc0-f5a7-4969-ae98-f7cddac38440",
+            "inferredDate": "2015-10-29",
+            "weekStartDate": "2015-10-24",
+            "week": 9,
+            "day": 3,
+            "exercise": "high bar close stance pause squats",
+            "originalExerciseName": "High Bar Close Stance Pause Squats",
+            "setNumber": 2,
+            "reps": 4,
+            "instructions": "Work up to a hard set of 4 but leave a rep in the tank, pause above the hole",
+            "weight": 315,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "a8e6ecfc-26eb-4597-97f0-33655f580b9e",
+            "inferredDate": "2015-10-29",
+            "weekStartDate": "2015-10-24",
             "week": 9,
             "day": 3,
             "exercise": "high bar close stance pause squats",
@@ -4992,23 +6606,45 @@ export const repPrs = {
       ],
       "5": [
          {
-            "id": "bafbfe31-71a5-42b5-8a1f-37095a507f28",
+            "id": "4b3c6486-5e21-4822-9254-9f65208e6983",
+            "inferredDate": "2015-10-01",
+            "weekStartDate": "2015-09-26",
             "week": 5,
             "day": 3,
             "exercise": "high bar close stance pause squats",
             "originalExerciseName": "High Bar Close Stance Squats",
             "setNumber": 1,
             "reps": 5,
-            "instructions": "Drop down to 95% of your top set and do 1-3 more sets",
+            "instructions": "Work up to a hard set of 5 but leave a rep in the tank",
+            "weight": 275,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "bc025dd4-d6cd-4d39-b0b9-fdf0dc763375",
+            "inferredDate": "2015-10-01",
+            "weekStartDate": "2015-09-26",
+            "week": 5,
+            "day": 3,
+            "exercise": "high bar close stance pause squats",
+            "originalExerciseName": "High Bar Close Stance Squats",
+            "setNumber": 2,
+            "reps": 5,
+            "instructions": "Work up to a hard set of 5 but leave a rep in the tank",
             "weight": 315,
             "notes": "",
             "supersetId": "",
             "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
+            "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
          },
          {
-            "id": "d27e2197-2570-43ce-9437-511b581e712b",
+            "id": "17e2b6a1-5489-4c62-bac8-69ebdedaddd7",
+            "inferredDate": "2015-10-01",
+            "weekStartDate": "2015-09-26",
             "week": 5,
             "day": 3,
             "exercise": "high bar close stance pause squats",
@@ -5026,23 +6662,45 @@ export const repPrs = {
       ],
       "6": [
          {
-            "id": "98712c1f-f110-46cb-b585-5649092a4bb5",
+            "id": "556ab9f4-c9f7-4db5-9a13-bc545ee2f4d9",
+            "inferredDate": "2015-09-24",
+            "weekStartDate": "2015-09-19",
             "week": 4,
             "day": 3,
             "exercise": "high bar close stance pause squats",
             "originalExerciseName": "High Bar Close Stance Squats",
             "setNumber": 1,
             "reps": 6,
-            "instructions": "Drop down to 95% of your top set and do 1-3 more sets",
+            "instructions": "Work up to a hard set of 6 but leave a rep in the tank",
+            "weight": 275,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "a123682c-5edc-4048-bd43-29e763f9e573",
+            "inferredDate": "2015-09-24",
+            "weekStartDate": "2015-09-19",
+            "week": 4,
+            "day": 3,
+            "exercise": "high bar close stance pause squats",
+            "originalExerciseName": "High Bar Close Stance Squats",
+            "setNumber": 2,
+            "reps": 6,
+            "instructions": "Work up to a hard set of 6 but leave a rep in the tank",
             "weight": 295,
             "notes": "",
             "supersetId": "",
             "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
+            "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
          },
          {
-            "id": "576f7a81-72ed-4dd6-a918-df3e1a96aa72",
+            "id": "81259939-49fe-4cd2-83f8-75fdd51c6380",
+            "inferredDate": "2015-09-24",
+            "weekStartDate": "2015-09-19",
             "week": 4,
             "day": 3,
             "exercise": "high bar close stance pause squats",
@@ -5058,7 +6716,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "2a270a7a-8305-4684-9f0d-0303cf22a780",
+            "id": "6683f724-daa4-4ba4-ab7c-062077f8461f",
+            "inferredDate": "2015-10-15",
+            "weekStartDate": "2015-10-10",
             "week": 7,
             "day": 3,
             "exercise": "high bar close stance pause squats",
@@ -5076,7 +6736,27 @@ export const repPrs = {
       ],
       "7": [
          {
-            "id": "672ca8f8-5dd7-4946-bac0-63a013143e87",
+            "id": "a4803491-9838-4cbf-8f5a-cc404ca6feff",
+            "inferredDate": "2015-10-22",
+            "weekStartDate": "2015-10-17",
+            "week": 8,
+            "day": 3,
+            "exercise": "high bar close stance pause squats",
+            "originalExerciseName": "High Bar Close Stance Pause Squats",
+            "setNumber": 1,
+            "reps": 7,
+            "instructions": "Work up to a hard set of 7 but leave a rep in the tank, pause above the hole",
+            "weight": 275,
+            "notes": "I wanted to match my numbers from week 6, but this week I generally feel less fired up. I got out of position on the 3rd rep of 315 and just sort of gave up without grinding it out. Then got pissed for giving up on it, re racked the weight and hit 5 more reps. META: original data 275, 295, 2x315, 5x315",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "62bc37d2-cb4b-4b2e-a296-cb34580b4a66",
+            "inferredDate": "2015-10-22",
+            "weekStartDate": "2015-10-17",
             "week": 8,
             "day": 3,
             "exercise": "high bar close stance pause squats",
@@ -5092,7 +6772,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "3e24148b-37a7-42fc-970f-80f7e3b9a3d6",
+            "id": "a8f75732-abf6-4412-ac08-42de9e3bf16d",
+            "inferredDate": "2015-10-22",
+            "weekStartDate": "2015-10-17",
             "week": 8,
             "day": 3,
             "exercise": "high bar close stance pause squats",
@@ -5112,7 +6794,9 @@ export const repPrs = {
    "close grip pin presses": {
       "6": [
          {
-            "id": "c77b6e56-038d-48eb-b87e-4cf581c272d2",
+            "id": "837c052a-cc0b-4b3a-a68a-978db8866442",
+            "inferredDate": "2015-09-24",
+            "weekStartDate": "2015-09-19",
             "week": 4,
             "day": 3,
             "exercise": "close grip pin presses",
@@ -5128,7 +6812,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "3aba5f79-def8-4230-bdcd-7466d09c589d",
+            "id": "cc0bc478-e849-4839-abd5-85cf4c5b45a6",
+            "inferredDate": "2015-09-24",
+            "weekStartDate": "2015-09-19",
             "week": 4,
             "day": 3,
             "exercise": "close grip pin presses",
@@ -5144,7 +6830,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "64256d58-56d2-4bae-b99e-3da08b2cb38e",
+            "id": "3fda31a6-2f30-4bc9-846f-07117556fa30",
+            "inferredDate": "2015-09-24",
+            "weekStartDate": "2015-09-19",
             "week": 4,
             "day": 3,
             "exercise": "close grip pin presses",
@@ -5164,7 +6852,9 @@ export const repPrs = {
    "axle push presses": {
       "6": [
          {
-            "id": "75a306c9-87ae-44ee-9ff0-e57ed6d9d12a",
+            "id": "711b7cc7-885f-4998-b72e-081ed3c0628f",
+            "inferredDate": "2015-09-24",
+            "weekStartDate": "2015-09-19",
             "week": 4,
             "day": 3,
             "exercise": "axle push presses",
@@ -5180,7 +6870,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "97389494-3dff-4256-a66f-79cb2af8f4e6",
+            "id": "8348f087-00db-448b-8558-6c0a57363ab6",
+            "inferredDate": "2015-09-24",
+            "weekStartDate": "2015-09-19",
             "week": 4,
             "day": 3,
             "exercise": "axle push presses",
@@ -5196,7 +6888,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "6a25b00c-fec3-427d-9514-2d0368fd1d22",
+            "id": "2290d26e-39ad-43d6-93d6-9b766e9016df",
+            "inferredDate": "2015-09-24",
+            "weekStartDate": "2015-09-19",
             "week": 4,
             "day": 3,
             "exercise": "axle push presses",
@@ -5216,7 +6910,9 @@ export const repPrs = {
    "snatch grip deadlifts": {
       "5": [
          {
-            "id": "c653f50a-2ae3-4809-aae1-446475a1fbb5",
+            "id": "34988900-ced5-43b6-bd04-556116cd3502",
+            "inferredDate": "2015-09-25",
+            "weekStartDate": "2015-09-19",
             "week": 4,
             "day": 4,
             "exercise": "snatch grip deadlifts",
@@ -5232,7 +6928,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "b2cfb01a-2443-4afe-8010-078e6722d344",
+            "id": "7b425a24-b145-4fce-be5b-a5beb7c152e6",
+            "inferredDate": "2015-09-25",
+            "weekStartDate": "2015-09-19",
             "week": 4,
             "day": 4,
             "exercise": "snatch grip deadlifts",
@@ -5248,23 +6946,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "767340d7-47d8-4207-83e7-5fd3ed46f1b1",
-            "week": 4,
-            "day": 4,
-            "exercise": "snatch grip deadlifts",
-            "originalExerciseName": "Snatch Grip Deadlifts",
-            "setNumber": 1,
-            "reps": 5,
-            "instructions": "Drop down to 95% of your top set and do 1-3 more sets",
-            "weight": 345,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "d5bd8f39-e53d-40fa-9f2b-1dfe3229bfc8",
+            "id": "c7feb525-075c-418d-b7dd-b29d252ff4d6",
+            "inferredDate": "2015-09-25",
+            "weekStartDate": "2015-09-19",
             "week": 4,
             "day": 4,
             "exercise": "snatch grip deadlifts",
@@ -5284,23 +6968,45 @@ export const repPrs = {
    "reverse grip bench press": {
       "5": [
          {
-            "id": "2232f7cb-9c55-4c6f-9c45-60a6d4f3e1d0",
+            "id": "036a33aa-b1dd-4594-9b4b-c8ead7185eaf",
+            "inferredDate": "2015-09-25",
+            "weekStartDate": "2015-09-19",
             "week": 4,
             "day": 4,
             "exercise": "reverse grip bench press",
             "originalExerciseName": "Reverse Grip Bench Press",
             "setNumber": 1,
             "reps": 5,
-            "instructions": "Drop down to 95% of your top set and do 1-3 more sets",
-            "weight": 205,
-            "notes": "Did 95% of 225 since I only got one rep of 245",
+            "instructions": "Work up to a heavy set of 5 leaving 2 reps in the tank, use straps here",
+            "weight": 185,
+            "notes": "These felt real weird. I wasn't sure where I was strongest grip-wise, and played with a wider grip on 245. Looks like I'm stronger close grip, haha.",
             "supersetId": "",
             "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
+            "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
          },
          {
-            "id": "20e6d08d-9652-421e-961a-e420457293b0",
+            "id": "4cff24a3-d3fe-4d59-a291-f501912a658f",
+            "inferredDate": "2015-09-25",
+            "weekStartDate": "2015-09-19",
+            "week": 4,
+            "day": 4,
+            "exercise": "reverse grip bench press",
+            "originalExerciseName": "Reverse Grip Bench Press",
+            "setNumber": 2,
+            "reps": 5,
+            "instructions": "Work up to a heavy set of 5 leaving 2 reps in the tank, use straps here",
+            "weight": 225,
+            "notes": "These felt real weird. I wasn't sure where I was strongest grip-wise, and played with a wider grip on 245. Looks like I'm stronger close grip, haha.",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "75158110-ca0e-4f14-946d-b00f3f4a18e8",
+            "inferredDate": "2015-09-25",
+            "weekStartDate": "2015-09-19",
             "week": 4,
             "day": 4,
             "exercise": "reverse grip bench press",
@@ -5320,7 +7026,9 @@ export const repPrs = {
    "pause on the concentric bench": {
       "2": [
          {
-            "id": "723cfd23-8902-4583-aad1-98e39c0e19a7",
+            "id": "8f25c3a0-2091-4541-b829-13c59f91c7a6",
+            "inferredDate": "2015-11-23",
+            "weekStartDate": "2015-11-21",
             "week": 13,
             "day": 1,
             "exercise": "pause on the concentric bench",
@@ -5336,7 +7044,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "92960b76-ee98-456e-8577-dff82c9470b3",
+            "id": "9207336c-a8ca-44af-8ac5-7e1502ae536a",
+            "inferredDate": "2015-11-23",
+            "weekStartDate": "2015-11-21",
             "week": 13,
             "day": 1,
             "exercise": "pause on the concentric bench",
@@ -5352,7 +7062,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "2177e960-5f0d-492a-a167-fcdfd4c8738e",
+            "id": "9e00adc2-a0d3-4ea9-a6c8-215e237f4287",
+            "inferredDate": "2015-11-23",
+            "weekStartDate": "2015-11-21",
             "week": 13,
             "day": 1,
             "exercise": "pause on the concentric bench",
@@ -5370,7 +7082,9 @@ export const repPrs = {
       ],
       "3": [
          {
-            "id": "16b2da26-b6fd-446c-8aaf-e47e36eaee87",
+            "id": "3ef5de3a-1104-4ca1-85a3-aaad6fad97aa",
+            "inferredDate": "2015-10-12",
+            "weekStartDate": "2015-10-10",
             "week": 7,
             "day": 1,
             "exercise": "pause on the concentric bench",
@@ -5386,7 +7100,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "982e3da5-0c9f-422e-a270-72394d4e95b3",
+            "id": "0da34295-93ef-464a-80fd-a43935c31189",
+            "inferredDate": "2015-10-12",
+            "weekStartDate": "2015-10-10",
             "week": 7,
             "day": 1,
             "exercise": "pause on the concentric bench",
@@ -5402,7 +7118,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "cc840999-98ba-43ee-9cd3-e81c642bbdc2",
+            "id": "0777f337-4a6c-4246-8a5f-6d473b639bea",
+            "inferredDate": "2015-10-12",
+            "weekStartDate": "2015-10-10",
             "week": 7,
             "day": 1,
             "exercise": "pause on the concentric bench",
@@ -5418,7 +7136,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "68a45ccc-f0e5-46ae-863f-87950f8c5aa7",
+            "id": "89f8d4f6-1b03-4946-9848-6b061d720e29",
+            "inferredDate": "2015-11-02",
+            "weekStartDate": "2015-10-31",
             "week": 10,
             "day": 1,
             "exercise": "pause on the concentric bench",
@@ -5436,7 +7156,45 @@ export const repPrs = {
       ],
       "5": [
          {
-            "id": "53cf8a0c-0c54-4796-8691-db2f5f92f5ed",
+            "id": "f7fc8a23-4fd5-4018-b9d7-9bb69d8a811f",
+            "inferredDate": "2015-09-28",
+            "weekStartDate": "2015-09-26",
+            "week": 5,
+            "day": 1,
+            "exercise": "pause on the concentric bench",
+            "originalExerciseName": "Pause On the Concentric Bench",
+            "setNumber": 1,
+            "reps": 5,
+            "instructions": "Work up to a hard set of 5 leave a rep in the tank, you're going to touch, pause and press, then pause an inch above your chest then finish the press",
+            "weight": 185,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "369dbad2-7e46-40b0-9618-086086287708",
+            "inferredDate": "2015-09-28",
+            "weekStartDate": "2015-09-26",
+            "week": 5,
+            "day": 1,
+            "exercise": "pause on the concentric bench",
+            "originalExerciseName": "Pause On the Concentric Bench",
+            "setNumber": 2,
+            "reps": 5,
+            "instructions": "Work up to a hard set of 5 leave a rep in the tank, you're going to touch, pause and press, then pause an inch above your chest then finish the press",
+            "weight": 205,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "d4307d1c-445b-4eff-90a3-9cec292e5b57",
+            "inferredDate": "2015-09-28",
+            "weekStartDate": "2015-09-26",
             "week": 5,
             "day": 1,
             "exercise": "pause on the concentric bench",
@@ -5453,10 +7211,182 @@ export const repPrs = {
          }
       ]
    },
+   "paused deadlift": {
+      "2": [
+         {
+            "id": "8347ccbf-2ed2-42fb-ac96-1833805ec690",
+            "inferredDate": "2015-11-24",
+            "weekStartDate": "2015-11-21",
+            "week": 13,
+            "day": 2,
+            "exercise": "paused deadlift",
+            "originalExerciseName": "Paused DL",
+            "setNumber": 1,
+            "reps": 2,
+            "instructions": "Work up to 80% of your 1 RM",
+            "weight": 355,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "a9034949-d820-4413-8d5a-16c192714d5a",
+            "inferredDate": "2015-11-24",
+            "weekStartDate": "2015-11-21",
+            "week": 13,
+            "day": 2,
+            "exercise": "paused deadlift",
+            "originalExerciseName": "Paused DL",
+            "setNumber": 2,
+            "reps": 2,
+            "instructions": "Work up to 80% of your 1 RM",
+            "weight": 365,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "4a883248-e1b4-4e42-9d3b-dd04458cc9d8",
+            "inferredDate": "2015-11-24",
+            "weekStartDate": "2015-11-21",
+            "week": 13,
+            "day": 2,
+            "exercise": "paused deadlift",
+            "originalExerciseName": "Paused DL",
+            "setNumber": 3,
+            "reps": 2,
+            "instructions": "Work up to 80% of your 1 RM",
+            "weight": 370,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "4": [
+         {
+            "id": "1202c50b-829b-4663-9904-28eef9915eac",
+            "inferredDate": "2015-09-29",
+            "weekStartDate": "2015-09-26",
+            "week": 5,
+            "day": 2,
+            "exercise": "paused deadlift",
+            "originalExerciseName": "Paused DL",
+            "setNumber": 1,
+            "reps": 4,
+            "instructions": "Work up to 75% of your 1 RM from the floor, 2 second pause below the knee",
+            "weight": 325,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "b5b65639-02e3-405b-b83d-56fe639ca471",
+            "inferredDate": "2015-09-29",
+            "weekStartDate": "2015-09-26",
+            "week": 5,
+            "day": 2,
+            "exercise": "paused deadlift",
+            "originalExerciseName": "Paused DL",
+            "setNumber": 2,
+            "reps": 4,
+            "instructions": "Work up to 75% of your 1 RM from the floor, 2 second pause below the knee",
+            "weight": 335,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "99a2c2bc-e6a8-4d98-9bd4-1dd779039f13",
+            "inferredDate": "2015-09-29",
+            "weekStartDate": "2015-09-26",
+            "week": 5,
+            "day": 2,
+            "exercise": "paused deadlift",
+            "originalExerciseName": "Paused DL",
+            "setNumber": 3,
+            "reps": 4,
+            "instructions": "Work up to 75% of your 1 RM from the floor, 2 second pause below the knee",
+            "weight": 345,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "5": [
+         {
+            "id": "1e901d98-24c8-46bd-879c-e934f243ff00",
+            "inferredDate": "2015-10-13",
+            "weekStartDate": "2015-10-10",
+            "week": 7,
+            "day": 2,
+            "exercise": "paused deadlift",
+            "originalExerciseName": "Paused DL",
+            "setNumber": 1,
+            "reps": 5,
+            "instructions": "Work up to 70% of your 1 RM from the floor, 2 second pause below the knee",
+            "weight": 315,
+            "notes": "3 plates feels like more than 3 plates today.",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "6cd1a2a7-7d0a-4384-ab07-8988aeebf5e5",
+            "inferredDate": "2015-10-13",
+            "weekStartDate": "2015-10-10",
+            "week": 7,
+            "day": 2,
+            "exercise": "paused deadlift",
+            "originalExerciseName": "Paused DL",
+            "setNumber": 2,
+            "reps": 5,
+            "instructions": "Work up to 70% of your 1 RM from the floor, 2 second pause below the knee",
+            "weight": 320,
+            "notes": "3 plates feels like more than 3 plates today.",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "f49f1e4b-f252-4d7b-98f8-e20a6c3993c3",
+            "inferredDate": "2015-10-13",
+            "weekStartDate": "2015-10-10",
+            "week": 7,
+            "day": 2,
+            "exercise": "paused deadlift",
+            "originalExerciseName": "Paused DL",
+            "setNumber": 3,
+            "reps": 5,
+            "instructions": "Work up to 70% of your 1 RM from the floor, 2 second pause below the knee",
+            "weight": 325,
+            "notes": "3 plates feels like more than 3 plates today.",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         }
+      ]
+   },
    "close grip football bar floor presses": {
       "2": [
          {
-            "id": "370d71bf-6109-4f6b-a66e-2e26bfa474ae",
+            "id": "4399e09e-b67b-49ec-b63b-01cc3550ee4b",
+            "inferredDate": "2015-11-24",
+            "weekStartDate": "2015-11-21",
             "week": 13,
             "day": 2,
             "exercise": "close grip football bar floor presses",
@@ -5472,7 +7402,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "561df2ff-2502-4efa-8e9f-b8e006ba9acd",
+            "id": "52a57215-e1af-4cc5-ad17-c2ba257fcd98",
+            "inferredDate": "2015-11-24",
+            "weekStartDate": "2015-11-21",
             "week": 13,
             "day": 2,
             "exercise": "close grip football bar floor presses",
@@ -5488,7 +7420,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "e89fa279-fb5e-4e50-ae05-925cd590e886",
+            "id": "b6811599-0af8-455a-9bc2-ea6394ce1357",
+            "inferredDate": "2015-11-24",
+            "weekStartDate": "2015-11-21",
             "week": 13,
             "day": 2,
             "exercise": "close grip football bar floor presses",
@@ -5506,7 +7440,9 @@ export const repPrs = {
       ],
       "5": [
          {
-            "id": "9bc7cf1d-147e-4ab3-8ea0-2ace3a09c9f5",
+            "id": "3bbc99d2-00e0-4f08-88ec-3c9bb696dfd3",
+            "inferredDate": "2015-11-24",
+            "weekStartDate": "2015-11-21",
             "week": 13,
             "day": 2,
             "exercise": "close grip football bar floor presses",
@@ -5524,23 +7460,45 @@ export const repPrs = {
       ],
       "6": [
          {
-            "id": "89247089-1cf8-4f81-bc2e-1919c3e5a602",
+            "id": "d8ca8c1c-b54f-43ab-a728-2786bc623ad3",
+            "inferredDate": "2015-09-29",
+            "weekStartDate": "2015-09-26",
             "week": 5,
             "day": 2,
             "exercise": "close grip football bar floor presses",
             "originalExerciseName": "Close Grip Football Bar Floor Presses",
             "setNumber": 1,
             "reps": 6,
-            "instructions": "Drop down to 95% of your top set and do 1-3 more sets",
-            "weight": 225,
+            "instructions": "Work up to a hard set of 6 leave one rep in the tank",
+            "weight": 215,
             "notes": "",
             "supersetId": "",
             "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
+            "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
          },
          {
-            "id": "74d56f97-d6fe-481a-b6cf-ec23b7f7ef96",
+            "id": "ccde06e8-dd90-482e-b6e7-f18d3c7b9b26",
+            "inferredDate": "2015-09-29",
+            "weekStartDate": "2015-09-26",
+            "week": 5,
+            "day": 2,
+            "exercise": "close grip football bar floor presses",
+            "originalExerciseName": "Close Grip Football Bar Floor Presses",
+            "setNumber": 2,
+            "reps": 6,
+            "instructions": "Work up to a hard set of 6 leave one rep in the tank",
+            "weight": 235,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "68695624-9ca0-4f77-b180-f0f47e758a6b",
+            "inferredDate": "2015-09-29",
+            "weekStartDate": "2015-09-26",
             "week": 5,
             "day": 2,
             "exercise": "close grip football bar floor presses",
@@ -5558,7 +7516,9 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "69e6e454-82cb-4e1a-9fd4-4174be8c7d7f",
+            "id": "1076b548-01d7-4f59-b5cd-d2e3ce32ac3e",
+            "inferredDate": "2015-10-13",
+            "weekStartDate": "2015-10-10",
             "week": 7,
             "day": 2,
             "exercise": "close grip football bar floor presses",
@@ -5578,7 +7538,9 @@ export const repPrs = {
    "paused front squats": {
       "3": [
          {
-            "id": "07dd5040-1ce5-47b1-b829-e6063f16dfa2",
+            "id": "e2493744-e17c-4957-a565-8ffd9adf17c3",
+            "inferredDate": "2015-11-24",
+            "weekStartDate": "2015-11-21",
             "week": 13,
             "day": 2,
             "exercise": "paused front squats",
@@ -5594,7 +7556,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "3869bc16-4a36-48e5-8962-b26ceccabffb",
+            "id": "4ab0b0e4-2657-45bd-969f-a6b2c3a2fc04",
+            "inferredDate": "2015-11-24",
+            "weekStartDate": "2015-11-21",
             "week": 13,
             "day": 2,
             "exercise": "paused front squats",
@@ -5610,7 +7574,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "492d931e-49c7-448b-ad37-a810ae36259c",
+            "id": "94fbd8b4-08b3-4398-9db1-0dee8931ccc8",
+            "inferredDate": "2015-11-24",
+            "weekStartDate": "2015-11-21",
             "week": 13,
             "day": 2,
             "exercise": "paused front squats",
@@ -5628,7 +7594,45 @@ export const repPrs = {
       ],
       "5": [
          {
-            "id": "b19d639d-5691-4e51-98c0-2e4e72240c32",
+            "id": "3d97203b-1756-4c6d-97ce-06fa2973b1c7",
+            "inferredDate": "2015-09-29",
+            "weekStartDate": "2015-09-26",
+            "week": 5,
+            "day": 2,
+            "exercise": "paused front squats",
+            "originalExerciseName": "Paused Front Squats",
+            "setNumber": 1,
+            "reps": 5,
+            "instructions": "Work up to a hard set of 5, pause in the hole for 3 seconds",
+            "weight": 225,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "ffb830b5-52d8-4c76-b752-5efc5ba32109",
+            "inferredDate": "2015-09-29",
+            "weekStartDate": "2015-09-26",
+            "week": 5,
+            "day": 2,
+            "exercise": "paused front squats",
+            "originalExerciseName": "Paused Front Squats",
+            "setNumber": 2,
+            "reps": 5,
+            "instructions": "Work up to a hard set of 5, pause in the hole for 3 seconds",
+            "weight": 245,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "25ed2e3b-2313-4a14-bbce-ecd2d40096e2",
+            "inferredDate": "2015-09-29",
+            "weekStartDate": "2015-09-26",
             "week": 5,
             "day": 2,
             "exercise": "paused front squats",
@@ -5646,7 +7650,9 @@ export const repPrs = {
       ],
       "6": [
          {
-            "id": "3117a8b1-3ef6-4acb-8d6a-ecde307548d1",
+            "id": "69562ac5-88e5-47b6-b94c-5b51a94de9f0",
+            "inferredDate": "2015-09-29",
+            "weekStartDate": "2015-09-26",
             "week": 5,
             "day": 2,
             "exercise": "paused front squats",
@@ -5664,23 +7670,45 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "774bc8d7-c495-4350-b129-bc4d33a52a52",
+            "id": "fc905ff1-a522-42f2-a08b-52c39fed3479",
+            "inferredDate": "2015-10-13",
+            "weekStartDate": "2015-10-10",
             "week": 7,
             "day": 2,
             "exercise": "paused front squats",
             "originalExerciseName": "Paused Front Squats",
             "setNumber": 1,
             "reps": 8,
-            "instructions": "Drop down to 90% of your top set and do 1-3 more sets",
-            "weight": 165,
-            "notes": "",
+            "instructions": "Work up to a hard set of 8, pause in the hole for 3 seconds",
+            "weight": 135,
+            "notes": "Welp, everything's feeling pretty rough today, so I took it easy on these",
             "supersetId": "",
             "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
+            "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
          },
          {
-            "id": "73d4fa4e-aee9-490a-a1b7-bf6909282f35",
+            "id": "1b871248-f7fa-46ba-a1da-3afd092ac050",
+            "inferredDate": "2015-10-13",
+            "weekStartDate": "2015-10-10",
+            "week": 7,
+            "day": 2,
+            "exercise": "paused front squats",
+            "originalExerciseName": "Paused Front Squats",
+            "setNumber": 2,
+            "reps": 8,
+            "instructions": "Work up to a hard set of 8, pause in the hole for 3 seconds",
+            "weight": 165,
+            "notes": "Welp, everything's feeling pretty rough today, so I took it easy on these",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "5132e901-c78e-4519-b76a-facb7e9c5826",
+            "inferredDate": "2015-10-13",
+            "weekStartDate": "2015-10-10",
             "week": 7,
             "day": 2,
             "exercise": "paused front squats",
@@ -5696,7 +7724,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "6f1a7130-2a23-496d-b360-fbf1c65d812a",
+            "id": "05b659bb-2ee7-4b1b-ae9f-c48452a6de38",
+            "inferredDate": "2015-11-03",
+            "weekStartDate": "2015-10-31",
             "week": 10,
             "day": 2,
             "exercise": "paused front squats",
@@ -5716,7 +7746,9 @@ export const repPrs = {
    "yates rows": {
       "8": [
          {
-            "id": "bc5d0a2c-b6fe-40e7-a26a-2f12b470e11b",
+            "id": "99d9f9a4-b758-440c-aa3e-7bd7814001f8",
+            "inferredDate": "2015-11-24",
+            "weekStartDate": "2015-11-21",
             "week": 13,
             "day": 2,
             "exercise": "yates rows",
@@ -5734,7 +7766,27 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "08f07a5e-11cb-42c7-abc5-65c27db07184",
+            "id": "e84da974-9de7-449a-af65-609236b62f59",
+            "inferredDate": "2015-09-29",
+            "weekStartDate": "2015-09-26",
+            "week": 5,
+            "day": 2,
+            "exercise": "yates rows",
+            "originalExerciseName": "Yates Rows",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 135,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "1bebdb58-ef39-4953-97a1-5e46170e4ca3",
+            "inferredDate": "2015-09-29",
+            "weekStartDate": "2015-09-26",
             "week": 5,
             "day": 2,
             "exercise": "yates rows",
@@ -5750,7 +7802,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "b8e4a20e-5b88-40ff-b9c3-a7e00ca3c278",
+            "id": "218476c4-2374-45a2-9963-0fdc9bf40884",
+            "inferredDate": "2015-09-29",
+            "weekStartDate": "2015-09-26",
             "week": 5,
             "day": 2,
             "exercise": "yates rows",
@@ -5766,7 +7820,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "6563b540-1f5b-4c2d-a5a3-56db74d28127",
+            "id": "d9b2ea8b-9359-4aa3-a190-018d4b3fe628",
+            "inferredDate": "2015-10-13",
+            "weekStartDate": "2015-10-10",
             "week": 7,
             "day": 2,
             "exercise": "yates rows",
@@ -5782,12 +7838,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "c6d4f696-30fc-4cdf-9bc7-99fd64b60818",
+            "id": "b13737a6-4570-4d68-b653-cef789779871",
+            "inferredDate": "2015-11-03",
+            "weekStartDate": "2015-10-31",
             "week": 10,
             "day": 2,
             "exercise": "yates rows",
             "originalExerciseName": "Yates Rows",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 185,
@@ -5799,268 +7857,48 @@ export const repPrs = {
          }
       ]
    },
-   "paused deadlift": {
-      "2": [
-         {
-            "id": "ac97f597-bbf9-423a-af39-cda9b5bc6225",
-            "week": 13,
-            "day": 2,
-            "exercise": "paused deadlift",
-            "originalExerciseName": "Paused DL",
-            "setNumber": 1,
-            "reps": 2,
-            "instructions": "Work up to 80% of your 1 RM",
-            "weight": 355,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "0509bace-e880-4816-b867-59b5606666cb",
-            "week": 13,
-            "day": 2,
-            "exercise": "paused deadlift",
-            "originalExerciseName": "Paused DL",
-            "setNumber": 2,
-            "reps": 2,
-            "instructions": "Work up to 80% of your 1 RM",
-            "weight": 365,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "07dc3b29-df3e-48f2-8b64-0506ff6a36e0",
-            "week": 13,
-            "day": 2,
-            "exercise": "paused deadlift",
-            "originalExerciseName": "Paused DL",
-            "setNumber": 3,
-            "reps": 2,
-            "instructions": "Work up to 80% of your 1 RM",
-            "weight": 370,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "4": [
-         {
-            "id": "2bf2aa21-c0bb-4f82-8a29-c2dadf12bd14",
-            "week": 5,
-            "day": 2,
-            "exercise": "paused deadlift",
-            "originalExerciseName": "Paused DL",
-            "setNumber": 1,
-            "reps": 4,
-            "instructions": "Using 70% of your 1 RM",
-            "weight": 325,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "2228fb2e-530a-4d0b-be35-ff3112c84796",
-            "week": 5,
-            "day": 2,
-            "exercise": "paused deadlift",
-            "originalExerciseName": "Paused DL",
-            "setNumber": 3,
-            "reps": 4,
-            "instructions": "Work up to 75% of your 1 RM from the floor, 2 second pause below the knee",
-            "weight": 345,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "5": [
-         {
-            "id": "d916bc98-3708-49ae-b350-c93e752728e0",
-            "week": 7,
-            "day": 2,
-            "exercise": "paused deadlift",
-            "originalExerciseName": "Paused DL",
-            "setNumber": 1,
-            "reps": 5,
-            "instructions": "Work up to 70% of your 1 RM from the floor, 2 second pause below the knee",
-            "weight": 315,
-            "notes": "3 plates feels like more than 3 plates today.",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "741db53c-c548-45a7-a91d-f68162af5ada",
-            "week": 7,
-            "day": 2,
-            "exercise": "paused deadlift",
-            "originalExerciseName": "Paused DL",
-            "setNumber": 2,
-            "reps": 5,
-            "instructions": "Work up to 70% of your 1 RM from the floor, 2 second pause below the knee",
-            "weight": 320,
-            "notes": "3 plates feels like more than 3 plates today.",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "f699323e-fbcf-4287-bfb0-79bf397de718",
-            "week": 7,
-            "day": 2,
-            "exercise": "paused deadlift",
-            "originalExerciseName": "Paused DL",
-            "setNumber": 3,
-            "reps": 5,
-            "instructions": "Work up to 70% of your 1 RM from the floor, 2 second pause below the knee",
-            "weight": 325,
-            "notes": "3 plates feels like more than 3 plates today.",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         }
-      ]
-   },
-   "axle z presses": {
-      "2": [
-         {
-            "id": "d7357164-e281-483b-8914-d6e7a71ea8f0",
-            "week": 13,
-            "day": 3,
-            "exercise": "axle z presses",
-            "originalExerciseName": "Axle Z Presses",
-            "setNumber": 2,
-            "reps": 2,
-            "instructions": "Work up to a hard set of 2 but leave a rep in the tank",
-            "weight": 145,
-            "notes": "Had to rush through these, which is probably why they felt harder than expected",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "d931a432-ea7b-452b-9c81-ec4dd8507e8f",
-            "week": 13,
-            "day": 3,
-            "exercise": "axle z presses",
-            "originalExerciseName": "Axle Z Presses",
-            "setNumber": 3,
-            "reps": 2,
-            "instructions": "Work up to a hard set of 2 but leave a rep in the tank",
-            "weight": 155,
-            "notes": "Had to rush through these, which is probably why they felt harder than expected",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "3": [
-         {
-            "id": "c1590e94-cb6d-4989-80c0-23a32a946598",
-            "week": 5,
-            "day": 3,
-            "exercise": "axle z presses",
-            "originalExerciseName": "Axle Z Presses",
-            "setNumber": 1,
-            "reps": 3,
-            "instructions": "Drop down to 95% of your top set and do 1-3 more sets",
-            "weight": 125,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "6": [
-         {
-            "id": "ea55113a-d5a5-4a4f-9462-c305f50f0139",
-            "week": 5,
-            "day": 3,
-            "exercise": "axle z presses",
-            "originalExerciseName": "Axle Z Presses",
-            "setNumber": 3,
-            "reps": 6,
-            "instructions": "Work up to a hard set of 6 but leave a rep in the tank",
-            "weight": 140,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "8": [
-         {
-            "id": "ac6ad3c7-38ef-4c05-9247-7d62f805b6fa",
-            "week": 7,
-            "day": 3,
-            "exercise": "axle z presses",
-            "originalExerciseName": "Axle Z Presses",
-            "setNumber": 1,
-            "reps": 8,
-            "instructions": "Work up to a hard set of 8 but leave a rep in the tank",
-            "weight": 115,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "a68c0010-74ed-4d2d-9f2a-e35b5b836e31",
-            "week": 7,
-            "day": 3,
-            "exercise": "axle z presses",
-            "originalExerciseName": "Axle Z Presses",
-            "setNumber": 2,
-            "reps": 8,
-            "instructions": "Work up to a hard set of 8 but leave a rep in the tank",
-            "weight": 135,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "c4a3f032-347f-432c-aba1-6b1b55d8878e",
-            "week": 7,
-            "day": 3,
-            "exercise": "axle z presses",
-            "originalExerciseName": "Axle Z Presses",
-            "setNumber": 3,
-            "reps": 8,
-            "instructions": "Work up to a hard set of 8 but leave a rep in the tank",
-            "weight": 140,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         }
-      ]
-   },
    "pin presses": {
       "1": [
          {
-            "id": "5e09f24a-8646-4744-b5f0-72eab31bf8d1",
+            "id": "fb646b70-d48a-4246-a0c2-b15ac37d11e6",
+            "inferredDate": "2015-11-26",
+            "weekStartDate": "2015-11-21",
+            "week": 13,
+            "day": 3,
+            "exercise": "pin presses",
+            "originalExerciseName": "Pin Presses",
+            "setNumber": 1,
+            "reps": 1,
+            "instructions": "Work up to a hard set of 1 but leave a rep in the tank",
+            "weight": 295,
+            "notes": "Felt AWESOME! Definitely more in the tank.",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "1df63094-7766-4138-bb1b-af88238ae218",
+            "inferredDate": "2015-11-26",
+            "weekStartDate": "2015-11-21",
+            "week": 13,
+            "day": 3,
+            "exercise": "pin presses",
+            "originalExerciseName": "Pin Presses",
+            "setNumber": 2,
+            "reps": 1,
+            "instructions": "Work up to a hard set of 1 but leave a rep in the tank",
+            "weight": 315,
+            "notes": "Felt AWESOME! Definitely more in the tank.",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "58856524-6119-4150-8072-b5c7af43740d",
+            "inferredDate": "2015-11-26",
+            "weekStartDate": "2015-11-21",
             "week": 13,
             "day": 3,
             "exercise": "pin presses",
@@ -6076,7 +7914,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "f9a49607-fd09-49ae-9068-373469bcbf5e",
+            "id": "40343a96-6a69-4766-a203-bbdc8d1096f5",
+            "inferredDate": "2015-12-03",
+            "weekStartDate": "2015-11-28",
             "week": 14,
             "day": 3,
             "exercise": "pin presses",
@@ -6094,7 +7934,9 @@ export const repPrs = {
       ],
       "2": [
          {
-            "id": "03e011ba-e32d-49b2-bf66-7db9df6ddb06",
+            "id": "85f8e92a-ec4a-464a-82e5-480739f02607",
+            "inferredDate": "2016-09-27",
+            "weekStartDate": "2016-09-24",
             "week": 58,
             "day": 2,
             "exercise": "pin presses",
@@ -6110,12 +7952,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "153f12a2-2275-481f-a00b-b3928f2f141b",
+            "id": "5c0aa65e-fa90-40fa-932d-7bc5f7569b2d",
+            "inferredDate": "2016-10-04",
+            "weekStartDate": "2016-10-01",
             "week": 59,
             "day": 2,
             "exercise": "pin presses",
             "originalExerciseName": "Pin Presses",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 2,
             "instructions": "Using 95% of your 1 RM",
             "weight": 315,
@@ -6128,7 +7972,9 @@ export const repPrs = {
       ],
       "3": [
          {
-            "id": "3fb18058-72d8-443c-bf15-372e20222b05",
+            "id": "d190af77-6617-4a3f-95ab-3012145ee5ed",
+            "inferredDate": "2015-10-08",
+            "weekStartDate": "2015-10-03",
             "week": 6,
             "day": 3,
             "exercise": "pin presses",
@@ -6144,7 +7990,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "642045c7-0150-4467-be67-033aaa8b1889",
+            "id": "92d6479d-1313-4c75-a7a2-2279a439645f",
+            "inferredDate": "2015-10-08",
+            "weekStartDate": "2015-10-03",
             "week": 6,
             "day": 3,
             "exercise": "pin presses",
@@ -6160,7 +8008,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "1dafcc30-01c1-4263-97b9-3915eb730f5a",
+            "id": "5d81524f-40a5-4b59-8938-89a32408532a",
+            "inferredDate": "2015-10-08",
+            "weekStartDate": "2015-10-03",
             "week": 6,
             "day": 3,
             "exercise": "pin presses",
@@ -6176,7 +8026,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "5493a065-5595-415e-a0b7-662388511a0a",
+            "id": "d0969bfc-0d4a-47ef-93f5-95ab5b3c2fa5",
+            "inferredDate": "2015-12-24",
+            "weekStartDate": "2015-12-19",
             "week": 17,
             "day": 3,
             "exercise": "pin presses",
@@ -6194,7 +8046,45 @@ export const repPrs = {
       ],
       "4": [
          {
-            "id": "4bbb6805-836b-4479-9bb7-513856fc7577",
+            "id": "fe56d774-7e26-4b23-a2a1-30988208f291",
+            "inferredDate": "2015-10-15",
+            "weekStartDate": "2015-10-10",
+            "week": 7,
+            "day": 3,
+            "exercise": "pin presses",
+            "originalExerciseName": "Pin Presses",
+            "setNumber": 1,
+            "reps": 4,
+            "instructions": "Work up to a hard set of 4 but leave a rep in the tank, set pins 1 1/2 inches above your chest",
+            "weight": 275,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "11743c70-31ae-42c1-865b-5448ff59e33b",
+            "inferredDate": "2015-10-15",
+            "weekStartDate": "2015-10-10",
+            "week": 7,
+            "day": 3,
+            "exercise": "pin presses",
+            "originalExerciseName": "Pin Presses",
+            "setNumber": 2,
+            "reps": 4,
+            "instructions": "Work up to a hard set of 4 but leave a rep in the tank, set pins 1 1/2 inches above your chest",
+            "weight": 285,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "f9ef6e54-a4b1-47f5-86c6-ca2af346a643",
+            "inferredDate": "2015-10-15",
+            "weekStartDate": "2015-10-10",
             "week": 7,
             "day": 3,
             "exercise": "pin presses",
@@ -6210,7 +8100,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "ed45b903-3cd6-4239-9afa-86360bb24137",
+            "id": "a757f9a6-214d-4c78-bab3-58aa9bdca474",
+            "inferredDate": "2015-11-05",
+            "weekStartDate": "2015-10-31",
             "week": 10,
             "day": 3,
             "exercise": "pin presses",
@@ -6228,23 +8120,45 @@ export const repPrs = {
       ],
       "5": [
          {
-            "id": "7c8b97df-bcc3-4f4e-bcdc-ff0a00f83c73",
+            "id": "975823f8-8e7c-4ae0-9564-37626b96f095",
+            "inferredDate": "2015-10-01",
+            "weekStartDate": "2015-09-26",
             "week": 5,
             "day": 3,
             "exercise": "pin presses",
             "originalExerciseName": "Pin Presses",
             "setNumber": 1,
             "reps": 5,
-            "instructions": "Drop down to 95% of your top set and do 1-3 more sets",
+            "instructions": "Work up to a hard set of 5 but leave a rep in the tank, set pins 1 1/2 inches above your chest",
             "weight": 265,
-            "notes": "",
+            "notes": "285 was a grind. There was not 1 left in the tank, haha",
             "supersetId": "",
             "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
+            "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
          },
          {
-            "id": "6e7ce61a-da1b-4fee-a30e-9a708fc0fb2e",
+            "id": "1edc0682-869a-4a0e-b443-2a2372d366dc",
+            "inferredDate": "2015-10-01",
+            "weekStartDate": "2015-09-26",
+            "week": 5,
+            "day": 3,
+            "exercise": "pin presses",
+            "originalExerciseName": "Pin Presses",
+            "setNumber": 2,
+            "reps": 5,
+            "instructions": "Work up to a hard set of 5 but leave a rep in the tank, set pins 1 1/2 inches above your chest",
+            "weight": 275,
+            "notes": "285 was a grind. There was not 1 left in the tank, haha",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "42396e56-8a81-41c0-a81b-049996945c0a",
+            "inferredDate": "2015-10-01",
+            "weekStartDate": "2015-09-26",
             "week": 5,
             "day": 3,
             "exercise": "pin presses",
@@ -6260,7 +8174,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "d4e3d688-c1da-45a6-8772-ad7df38f2943",
+            "id": "29bfadc0-4164-48d3-a54d-54629868b99b",
+            "inferredDate": "2015-10-22",
+            "weekStartDate": "2015-10-17",
             "week": 8,
             "day": 3,
             "exercise": "pin presses",
@@ -6277,15 +8193,207 @@ export const repPrs = {
          }
       ]
    },
+   "axle z presses": {
+      "2": [
+         {
+            "id": "516e2f66-a882-4ada-8d62-d12e83627009",
+            "inferredDate": "2015-11-26",
+            "weekStartDate": "2015-11-21",
+            "week": 13,
+            "day": 3,
+            "exercise": "axle z presses",
+            "originalExerciseName": "Axle Z Presses",
+            "setNumber": 1,
+            "reps": 2,
+            "instructions": "Work up to a hard set of 2 but leave a rep in the tank",
+            "weight": 135,
+            "notes": "Had to rush through these, which is probably why they felt harder than expected",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "595a6844-43b8-4ced-b5d8-2d7b01031d32",
+            "inferredDate": "2015-11-26",
+            "weekStartDate": "2015-11-21",
+            "week": 13,
+            "day": 3,
+            "exercise": "axle z presses",
+            "originalExerciseName": "Axle Z Presses",
+            "setNumber": 2,
+            "reps": 2,
+            "instructions": "Work up to a hard set of 2 but leave a rep in the tank",
+            "weight": 145,
+            "notes": "Had to rush through these, which is probably why they felt harder than expected",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "386f83d6-70c7-4596-a589-1bcab7cef9ff",
+            "inferredDate": "2015-11-26",
+            "weekStartDate": "2015-11-21",
+            "week": 13,
+            "day": 3,
+            "exercise": "axle z presses",
+            "originalExerciseName": "Axle Z Presses",
+            "setNumber": 3,
+            "reps": 2,
+            "instructions": "Work up to a hard set of 2 but leave a rep in the tank",
+            "weight": 155,
+            "notes": "Had to rush through these, which is probably why they felt harder than expected",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "3": [
+         {
+            "id": "31d15e13-bb8a-4877-b745-704ce3f30686",
+            "inferredDate": "2015-10-01",
+            "weekStartDate": "2015-09-26",
+            "week": 5,
+            "day": 3,
+            "exercise": "axle z presses",
+            "originalExerciseName": "Axle Z Presses",
+            "setNumber": 1,
+            "reps": 3,
+            "instructions": "Drop down to 95% of your top set and do 1-3 more sets",
+            "weight": 125,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "setRangeInParenthesisStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "6": [
+         {
+            "id": "4e2cec12-271f-4f44-b017-d66d1dcdeeb5",
+            "inferredDate": "2015-10-01",
+            "weekStartDate": "2015-09-26",
+            "week": 5,
+            "day": 3,
+            "exercise": "axle z presses",
+            "originalExerciseName": "Axle Z Presses",
+            "setNumber": 1,
+            "reps": 6,
+            "instructions": "Work up to a hard set of 6 but leave a rep in the tank",
+            "weight": 125,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "125012c0-5ac1-4f8f-8d53-f1db8df65db1",
+            "inferredDate": "2015-10-01",
+            "weekStartDate": "2015-09-26",
+            "week": 5,
+            "day": 3,
+            "exercise": "axle z presses",
+            "originalExerciseName": "Axle Z Presses",
+            "setNumber": 2,
+            "reps": 6,
+            "instructions": "Work up to a hard set of 6 but leave a rep in the tank",
+            "weight": 135,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "4c3e98b0-8f08-41c6-99e8-6ad2faf65d8c",
+            "inferredDate": "2015-10-01",
+            "weekStartDate": "2015-09-26",
+            "week": 5,
+            "day": 3,
+            "exercise": "axle z presses",
+            "originalExerciseName": "Axle Z Presses",
+            "setNumber": 3,
+            "reps": 6,
+            "instructions": "Work up to a hard set of 6 but leave a rep in the tank",
+            "weight": 140,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "8": [
+         {
+            "id": "396f6a79-e60c-4a09-adec-b094c3d61169",
+            "inferredDate": "2015-10-15",
+            "weekStartDate": "2015-10-10",
+            "week": 7,
+            "day": 3,
+            "exercise": "axle z presses",
+            "originalExerciseName": "Axle Z Presses",
+            "setNumber": 1,
+            "reps": 8,
+            "instructions": "Work up to a hard set of 8 but leave a rep in the tank",
+            "weight": 115,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "d8e20cfd-638e-4b9f-8bc2-0571a3a427bc",
+            "inferredDate": "2015-10-15",
+            "weekStartDate": "2015-10-10",
+            "week": 7,
+            "day": 3,
+            "exercise": "axle z presses",
+            "originalExerciseName": "Axle Z Presses",
+            "setNumber": 2,
+            "reps": 8,
+            "instructions": "Work up to a hard set of 8 but leave a rep in the tank",
+            "weight": 135,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "9b69ae7e-90c4-416f-897c-8b763f29a1e6",
+            "inferredDate": "2015-10-15",
+            "weekStartDate": "2015-10-10",
+            "week": 7,
+            "day": 3,
+            "exercise": "axle z presses",
+            "originalExerciseName": "Axle Z Presses",
+            "setNumber": 3,
+            "reps": 8,
+            "instructions": "Work up to a hard set of 8 but leave a rep in the tank",
+            "weight": 140,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         }
+      ]
+   },
    "wide grip bench press": {
       "1": [
          {
-            "id": "da4cce91-ddcc-4b5b-b3ce-9888401b8fd7",
+            "id": "92702b2f-89a2-44a7-986a-ea34009f7e1d",
+            "inferredDate": "2016-03-15",
+            "weekStartDate": "2016-03-12",
             "week": 27,
             "day": 2,
             "exercise": "wide grip bench press",
             "originalExerciseName": "Wide Grip Bench",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 1,
             "instructions": "Using 87.5% of your 1RM, fingers 1 width wider than normal",
             "weight": 295,
@@ -6296,12 +8404,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "b4dbb90f-aefc-4e5f-b206-279bf8ca39eb",
+            "id": "1d8b8d1b-484d-4b2a-87fd-98b7060ed220",
+            "inferredDate": "2016-03-22",
+            "weekStartDate": "2016-03-19",
             "week": 28,
             "day": 2,
             "exercise": "wide grip bench press",
             "originalExerciseName": "Wide Grip Bench",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 1,
             "instructions": "Using 90% of your 1RM, fingers 1 width wider than normal",
             "weight": 305,
@@ -6314,12 +8424,14 @@ export const repPrs = {
       ],
       "2": [
          {
-            "id": "96949ff3-ce72-420d-b131-0848e54e5299",
+            "id": "f41a31ef-b9d0-4065-b3b5-9582a2614d2b",
+            "inferredDate": "2016-03-08",
+            "weekStartDate": "2016-03-05",
             "week": 26,
             "day": 2,
             "exercise": "wide grip bench press",
             "originalExerciseName": "Wide Grip Bench",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 2,
             "instructions": "Using 85% of your 1RM, fingers 1 width wider than normal",
             "weight": 275,
@@ -6332,7 +8444,27 @@ export const repPrs = {
       ],
       "3": [
          {
-            "id": "e976b57e-c37a-45df-b6f5-d834d40dd9c0",
+            "id": "0c0f9e00-d45f-4027-af81-712d48d47789",
+            "inferredDate": "2015-12-18",
+            "weekStartDate": "2015-12-12",
+            "week": 16,
+            "day": 4,
+            "exercise": "wide grip bench press",
+            "originalExerciseName": "Wide Grip Bench Press",
+            "setNumber": 1,
+            "reps": 3,
+            "instructions": "Work up to a heavy set of 3 leaving 1 rep in the tank",
+            "weight": 275,
+            "notes": "305 was sloppy. Butt came off bench",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "1c61fd7c-eee2-4fa5-bc59-cd778a4843da",
+            "inferredDate": "2015-12-18",
+            "weekStartDate": "2015-12-12",
             "week": 16,
             "day": 4,
             "exercise": "wide grip bench press",
@@ -6348,7 +8480,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "5857c122-dde3-41f9-b5ea-0bf2415b62e5",
+            "id": "183ac3f2-e9a5-4f42-b827-60a086d1da86",
+            "inferredDate": "2015-12-18",
+            "weekStartDate": "2015-12-12",
             "week": 16,
             "day": 4,
             "exercise": "wide grip bench press",
@@ -6366,7 +8500,9 @@ export const repPrs = {
       ],
       "4": [
          {
-            "id": "d420541a-d766-4e4b-a57b-c8154d7f1e64",
+            "id": "866f164d-63e4-4529-a352-d5e5ed8e1f37",
+            "inferredDate": "2015-11-27",
+            "weekStartDate": "2015-11-21",
             "week": 13,
             "day": 4,
             "exercise": "wide grip bench press",
@@ -6382,7 +8518,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "e8cc0ff0-8f55-426a-856c-b47d9a710d29",
+            "id": "0a4f2a7a-3de1-4c91-ae37-6b83c6a91dc1",
+            "inferredDate": "2015-11-27",
+            "weekStartDate": "2015-11-21",
             "week": 13,
             "day": 4,
             "exercise": "wide grip bench press",
@@ -6398,7 +8536,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "494cd916-673c-4f89-8562-c5921fbd67ef",
+            "id": "adb387b8-19d9-483f-806a-479a5f8ceaff",
+            "inferredDate": "2015-11-27",
+            "weekStartDate": "2015-11-21",
             "week": 13,
             "day": 4,
             "exercise": "wide grip bench press",
@@ -6416,23 +8556,45 @@ export const repPrs = {
       ],
       "5": [
          {
-            "id": "c45644c1-f29d-464a-b841-0c046b367ef5",
+            "id": "2c4d367e-2fd1-4d77-baa9-87a4dcccccac",
+            "inferredDate": "2015-10-02",
+            "weekStartDate": "2015-09-26",
             "week": 5,
             "day": 4,
             "exercise": "wide grip bench press",
             "originalExerciseName": "Wide Grip Bench Press",
             "setNumber": 1,
             "reps": 5,
-            "instructions": "Drop down to 95% of your top set and do 1-3 more sets",
-            "weight": 275,
+            "instructions": "Work up to a heavy set of 5 leaving 2 reps in the tank, 2 fingers wider than normal",
+            "weight": 245,
             "notes": "",
             "supersetId": "",
             "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
+            "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
          },
          {
-            "id": "5b666b70-6573-42cf-9c25-8dc713fbfa88",
+            "id": "980b38b2-6f87-4e4f-9d92-6fe9c668dcd4",
+            "inferredDate": "2015-10-02",
+            "weekStartDate": "2015-09-26",
+            "week": 5,
+            "day": 4,
+            "exercise": "wide grip bench press",
+            "originalExerciseName": "Wide Grip Bench Press",
+            "setNumber": 2,
+            "reps": 5,
+            "instructions": "Work up to a heavy set of 5 leaving 2 reps in the tank, 2 fingers wider than normal",
+            "weight": 265,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "357d8d32-4b90-4544-b704-fffb826bd19a",
+            "inferredDate": "2015-10-02",
+            "weekStartDate": "2015-09-26",
             "week": 5,
             "day": 4,
             "exercise": "wide grip bench press",
@@ -6450,23 +8612,45 @@ export const repPrs = {
       ],
       "6": [
          {
-            "id": "ab6159c6-f941-462d-909d-9afe46007280",
+            "id": "17b55b5a-cb89-4b84-9b51-5658e23cd5f1",
+            "inferredDate": "2015-10-16",
+            "weekStartDate": "2015-10-10",
             "week": 7,
             "day": 4,
             "exercise": "wide grip bench press",
             "originalExerciseName": "Wide Grip Bench Press",
             "setNumber": 1,
             "reps": 6,
-            "instructions": "Drop down to 90% of your top set and do 1-3 more sets",
+            "instructions": "Work up to a heavy set of 6 leaving 2 reps in the tank, 2 fingers wider than normal",
             "weight": 245,
             "notes": "",
             "supersetId": "",
             "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
+            "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
          },
          {
-            "id": "037b29ad-8e16-4cec-b795-d61b63ceb2fd",
+            "id": "79543258-1c01-4ad2-bfc5-b2546e76772f",
+            "inferredDate": "2015-10-16",
+            "weekStartDate": "2015-10-10",
+            "week": 7,
+            "day": 4,
+            "exercise": "wide grip bench press",
+            "originalExerciseName": "Wide Grip Bench Press",
+            "setNumber": 2,
+            "reps": 6,
+            "instructions": "Work up to a heavy set of 6 leaving 2 reps in the tank, 2 fingers wider than normal",
+            "weight": 265,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "95b60866-2a98-44fd-99b4-a7148f6f071a",
+            "inferredDate": "2015-10-16",
+            "weekStartDate": "2015-10-10",
             "week": 7,
             "day": 4,
             "exercise": "wide grip bench press",
@@ -6484,12 +8668,14 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "9b462a22-15a9-43ca-9cbd-f8e2e35a1642",
+            "id": "43ae3335-708c-4322-83f7-ebeec96855f2",
+            "inferredDate": "2016-01-05",
+            "weekStartDate": "2016-01-02",
             "week": 19,
             "day": 2,
             "exercise": "wide grip bench press",
             "originalExerciseName": "Wide Grip Bench",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 8,
             "instructions": "Using 65% of your 1RM, fingers 1 width wider than normal",
             "weight": 215,
@@ -6504,7 +8690,9 @@ export const repPrs = {
    "football bar incline bench presses": {
       "5": [
          {
-            "id": "099b672a-b923-4ab2-8580-c100ec9db579",
+            "id": "ff2222a9-8dc0-4238-905f-e3f2463696e9",
+            "inferredDate": "2015-10-06",
+            "weekStartDate": "2015-10-03",
             "week": 6,
             "day": 2,
             "exercise": "football bar incline bench presses",
@@ -6520,7 +8708,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "cedfb10a-8eec-464f-a24f-d12258b13959",
+            "id": "5a86ad43-538e-4f1a-8b62-c435786e40d9",
+            "inferredDate": "2015-10-06",
+            "weekStartDate": "2015-10-03",
             "week": 6,
             "day": 2,
             "exercise": "football bar incline bench presses",
@@ -6536,7 +8726,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "b5760b67-a08c-41bd-a186-697d6488f16f",
+            "id": "1b757422-e6b8-4a6f-b9cc-bd0338402588",
+            "inferredDate": "2015-10-06",
+            "weekStartDate": "2015-10-03",
             "week": 6,
             "day": 2,
             "exercise": "football bar incline bench presses",
@@ -6554,23 +8746,45 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "3ae95d52-9999-4aef-b175-48e52e6fd93a",
+            "id": "4f4de808-f5fb-4325-a283-2c43b1cd1323",
+            "inferredDate": "2015-10-20",
+            "weekStartDate": "2015-10-17",
             "week": 8,
             "day": 2,
             "exercise": "football bar incline bench presses",
             "originalExerciseName": "Football Bar Incline Bench Presses",
             "setNumber": 1,
             "reps": 8,
-            "instructions": "Drop down to 97.5% of your top set and do 1-2 more sets",
+            "instructions": "Work up to a hard set of 8 leave one rep in the tank",
             "weight": 175,
-            "notes": "",
+            "notes": "should have went lighter or used smaller jumps",
             "supersetId": "",
             "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
+            "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
          },
          {
-            "id": "84b0f1f1-44c5-4fd5-afb7-e8f1314c1a57",
+            "id": "144fa362-c911-4825-aad8-37bb9c6db266",
+            "inferredDate": "2015-10-20",
+            "weekStartDate": "2015-10-17",
+            "week": 8,
+            "day": 2,
+            "exercise": "football bar incline bench presses",
+            "originalExerciseName": "Football Bar Incline Bench Presses",
+            "setNumber": 2,
+            "reps": 8,
+            "instructions": "Work up to a hard set of 8 leave one rep in the tank",
+            "weight": 195,
+            "notes": "should have went lighter or used smaller jumps",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "1a7d4279-aef7-4bde-a965-8d777e186874",
+            "inferredDate": "2015-10-20",
+            "weekStartDate": "2015-10-17",
             "week": 8,
             "day": 2,
             "exercise": "football bar incline bench presses",
@@ -6590,12 +8804,14 @@ export const repPrs = {
    "inverted rows": {
       "8": [
          {
-            "id": "4c5b4f28-9a9a-4a00-a2c4-5f242f4646bb",
+            "id": "4cf4bf63-1ab4-403a-9806-196dd991aa15",
+            "inferredDate": "2015-12-01",
+            "weekStartDate": "2015-11-28",
             "week": 14,
             "day": 2,
             "exercise": "inverted rows",
             "originalExerciseName": "Inverted Rows",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 8,
             "instructions": "",
             "weight": 0,
@@ -6608,7 +8824,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "6ac74244-5529-489f-8a39-c4b4d9ba9200",
+            "id": "d4f5d0a6-c5d9-48af-af45-e5498c4375bc",
+            "inferredDate": "2015-10-06",
+            "weekStartDate": "2015-10-03",
             "week": 6,
             "day": 2,
             "exercise": "inverted rows",
@@ -6624,12 +8842,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "8557d96f-683e-44b7-b4aa-40c5fee13bae",
+            "id": "45c14336-71c0-4bbf-a48e-fb82de65c6d9",
+            "inferredDate": "2015-10-20",
+            "weekStartDate": "2015-10-17",
             "week": 8,
             "day": 2,
             "exercise": "inverted rows",
             "originalExerciseName": "Inverted Rows",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 40,
@@ -6640,11 +8860,13 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "80aa8ad3-55bb-4d63-a281-462b252a4c23",
+            "id": "1ab28a62-47fd-43bd-beec-0579c4ffaed5",
+            "inferredDate": "2018-11-15",
+            "weekStartDate": "2018-11-10",
             "week": 143,
             "day": 3,
             "exercise": "inverted rows",
-            "originalExerciseName": "Straight arm pull downs",
+            "originalExerciseName": "Straight arm pull downs ",
             "setNumber": 1,
             "reps": 12,
             "instructions": "",
@@ -6660,7 +8882,45 @@ export const repPrs = {
    "larsen press": {
       "4": [
          {
-            "id": "405735cc-a240-459f-a6fb-76998889d889",
+            "id": "2ca68701-49ee-4f8a-aec5-014ca2d42648",
+            "inferredDate": "2015-10-23",
+            "weekStartDate": "2015-10-17",
+            "week": 8,
+            "day": 4,
+            "exercise": "larsen press",
+            "originalExerciseName": "Larsen Press",
+            "setNumber": 1,
+            "reps": 4,
+            "instructions": "Work up to a heavy set of 4 leaving 2 reps in the tank",
+            "weight": 225,
+            "notes": "Tempted to go heavier to beat week 6 numbers, but I've been humbled enough time this week by the 97.5% drop sets to know better",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "f71db243-edb6-4672-ad35-b8693afb11e1",
+            "inferredDate": "2015-10-23",
+            "weekStartDate": "2015-10-17",
+            "week": 8,
+            "day": 4,
+            "exercise": "larsen press",
+            "originalExerciseName": "Larsen Press",
+            "setNumber": 2,
+            "reps": 4,
+            "instructions": "Work up to a heavy set of 4 leaving 2 reps in the tank",
+            "weight": 255,
+            "notes": "Tempted to go heavier to beat week 6 numbers, but I've been humbled enough time this week by the 97.5% drop sets to know better",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "595643fe-8b10-4922-9477-b2cffba97918",
+            "inferredDate": "2015-10-23",
+            "weekStartDate": "2015-10-17",
             "week": 8,
             "day": 4,
             "exercise": "larsen press",
@@ -6676,7 +8936,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "eeb0afb2-a8c4-4879-beeb-a699466a7150",
+            "id": "30319cb0-5648-4cf5-8de8-2738c6af9fa1",
+            "inferredDate": "2015-12-04",
+            "weekStartDate": "2015-11-28",
             "week": 14,
             "day": 4,
             "exercise": "larsen press",
@@ -6694,23 +8956,27 @@ export const repPrs = {
       ],
       "5": [
          {
-            "id": "b1a431ea-ba48-4982-b397-5ef5eb92454d",
+            "id": "24ac9be3-438b-42a8-a778-f3da3e05f854",
+            "inferredDate": "2015-10-09",
+            "weekStartDate": "2015-10-03",
             "week": 6,
             "day": 4,
             "exercise": "larsen press",
             "originalExerciseName": "Larsen Press",
             "setNumber": 1,
             "reps": 5,
-            "instructions": "Drop down to 90% of your top set and do 2-4 more sets",
-            "weight": 245,
+            "instructions": "Work up to a heavy set of 5 leaving 2 reps in the tank",
+            "weight": 225,
             "notes": "",
             "supersetId": "",
             "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
+            "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
          },
          {
-            "id": "dd9ece65-c4b8-440c-8294-ad44edd61ed7",
+            "id": "1bbb0378-4d36-4834-bc90-5c5d4be792bf",
+            "inferredDate": "2015-10-09",
+            "weekStartDate": "2015-10-03",
             "week": 6,
             "day": 4,
             "exercise": "larsen press",
@@ -6726,7 +8992,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "23a3d91f-2b79-4ffb-9414-cf484db6c13b",
+            "id": "d178c067-76a6-4c3f-bdc6-30abca25b9a9",
+            "inferredDate": "2015-10-09",
+            "weekStartDate": "2015-10-03",
             "week": 6,
             "day": 4,
             "exercise": "larsen press",
@@ -6744,7 +9012,9 @@ export const repPrs = {
       ],
       "6": [
          {
-            "id": "ec4c9d28-e448-4b8f-8c1d-0dc28889a0eb",
+            "id": "cbfe0db8-94c9-4c6a-8ed2-94497ba7befd",
+            "inferredDate": "2015-12-04",
+            "weekStartDate": "2015-11-28",
             "week": 14,
             "day": 4,
             "exercise": "larsen press",
@@ -6761,130 +9031,12 @@ export const repPrs = {
          }
       ]
    },
-   "close grip axle bench": {
-      "2": [
-         {
-            "id": "5c839aab-ca58-463c-94b8-982c22166fad",
-            "week": 15,
-            "day": 2,
-            "exercise": "close grip axle bench",
-            "originalExerciseName": "Close Grip Axle Bench",
-            "setNumber": 1,
-            "reps": 2,
-            "instructions": "Work up to a hard set of 2 leave one rep in the tank",
-            "weight": 255,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "b3c337b0-234d-40d9-9b87-a7614bb9c0c9",
-            "week": 15,
-            "day": 2,
-            "exercise": "close grip axle bench",
-            "originalExerciseName": "Close Grip Axle Bench",
-            "setNumber": 2,
-            "reps": 2,
-            "instructions": "Work up to a hard set of 2 leave one rep in the tank",
-            "weight": 275,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "942a253b-0b5e-47d3-a712-ab0c88b13cfc",
-            "week": 15,
-            "day": 2,
-            "exercise": "close grip axle bench",
-            "originalExerciseName": "Close Grip Axle Bench",
-            "setNumber": 3,
-            "reps": 2,
-            "instructions": "Work up to a hard set of 2 leave one rep in the tank",
-            "weight": 295,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "3": [
-         {
-            "id": "6ca57089-930b-4739-8505-29418eaa6903",
-            "week": 12,
-            "day": 2,
-            "exercise": "close grip axle bench",
-            "originalExerciseName": "Close Grip Axle Bench",
-            "setNumber": 1,
-            "reps": 3,
-            "instructions": "Work up to a hard set of 3 leave one rep in the tank",
-            "weight": 225,
-            "notes": "Doing these feet up, body builder style to minimize any lumbar straining",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "1615a595-b0e3-4165-90b1-eeaf831894da",
-            "week": 12,
-            "day": 2,
-            "exercise": "close grip axle bench",
-            "originalExerciseName": "Close Grip Axle Bench",
-            "setNumber": 2,
-            "reps": 3,
-            "instructions": "Work up to a hard set of 3 leave one rep in the tank",
-            "weight": 245,
-            "notes": "Doing these feet up, body builder style to minimize any lumbar straining",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "6f0a027a-db4a-44e2-9fa8-5edccbd52302",
-            "week": 12,
-            "day": 2,
-            "exercise": "close grip axle bench",
-            "originalExerciseName": "Close Grip Axle Bench",
-            "setNumber": 3,
-            "reps": 3,
-            "instructions": "Work up to a hard set of 3 leave one rep in the tank",
-            "weight": 265,
-            "notes": "Doing these feet up, body builder style to minimize any lumbar straining",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "5": [
-         {
-            "id": "8144d879-f877-4c60-9744-eaa39be3acf3",
-            "week": 9,
-            "day": 2,
-            "exercise": "close grip axle bench",
-            "originalExerciseName": "Close Grip Axle Bench",
-            "setNumber": 3,
-            "reps": 5,
-            "instructions": "Work up to a hard set of 5 leave one rep in the tank",
-            "weight": 265,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         }
-      ]
-   },
    "reverse band deadlift": {
       "1": [
          {
-            "id": "6b2d5ce5-2f78-43f4-8d12-1c086f23cebc",
+            "id": "a09b51d1-c1af-4853-a363-021ca670646b",
+            "inferredDate": "2015-12-08",
+            "weekStartDate": "2015-12-05",
             "week": 15,
             "day": 2,
             "exercise": "reverse band deadlift",
@@ -6900,7 +9052,27 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "477055ac-ca44-4bd6-8794-90681524e1e8",
+            "id": "65248d8d-c562-4570-af97-d01824e28b19",
+            "inferredDate": "2015-12-08",
+            "weekStartDate": "2015-12-05",
+            "week": 15,
+            "day": 2,
+            "exercise": "reverse band deadlift",
+            "originalExerciseName": "Reverse Band DL",
+            "setNumber": 2,
+            "reps": 1,
+            "instructions": "Work up to a hard set of 1, NOT A MAX",
+            "weight": 475,
+            "notes": "Used my friends fresh average bands. These felt real easy. No belt",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "fd582e67-bb68-4c37-8f8c-e120673ce9e4",
+            "inferredDate": "2015-12-08",
+            "weekStartDate": "2015-12-05",
             "week": 15,
             "day": 2,
             "exercise": "reverse band deadlift",
@@ -6918,7 +9090,9 @@ export const repPrs = {
       ],
       "2": [
          {
-            "id": "e1f104ae-bf9b-4ddb-b2e7-bf25bafd487c",
+            "id": "e176689d-3dce-43b8-9d0f-9377e539c159",
+            "inferredDate": "2015-11-17",
+            "weekStartDate": "2015-11-14",
             "week": 12,
             "day": 2,
             "exercise": "reverse band deadlift",
@@ -6936,7 +9110,27 @@ export const repPrs = {
       ],
       "3": [
          {
-            "id": "39cbfea4-cdb7-46a0-add8-beb503d49e2d",
+            "id": "ff365a86-32d2-4ded-a48b-abf0e903d9a7",
+            "inferredDate": "2015-10-27",
+            "weekStartDate": "2015-10-24",
+            "week": 9,
+            "day": 2,
+            "exercise": "reverse band deadlift",
+            "originalExerciseName": "Reverse Band DL",
+            "setNumber": 1,
+            "reps": 3,
+            "instructions": "Work up to 90% of your 1 RM from the floor, use light bands (these are orange in Elite FTS, otherwise they are about 1 inch thick)",
+            "weight": 405,
+            "notes": "these felt pretty easy with the band assist",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "3238e309-0b67-4cc7-b5f3-89dee7d5e441",
+            "inferredDate": "2015-10-27",
+            "weekStartDate": "2015-10-24",
             "week": 9,
             "day": 2,
             "exercise": "reverse band deadlift",
@@ -6952,7 +9146,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "bdc2667c-3448-4078-8759-3a4161cad217",
+            "id": "f92aa8c6-6b46-4155-8f2d-fb91b9297144",
+            "inferredDate": "2015-10-27",
+            "weekStartDate": "2015-10-24",
             "week": 9,
             "day": 2,
             "exercise": "reverse band deadlift",
@@ -6968,7 +9164,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "97c41f51-1469-4032-a7a8-367e5b646d1c",
+            "id": "190bbb60-e7d3-4fce-8b9e-90802514dc77",
+            "inferredDate": "2015-12-08",
+            "weekStartDate": "2015-12-05",
             "week": 15,
             "day": 2,
             "exercise": "reverse band deadlift",
@@ -6985,10 +9183,202 @@ export const repPrs = {
          }
       ]
    },
+   "close grip axle bench": {
+      "2": [
+         {
+            "id": "c0f1c068-6b10-4f62-8c08-a287d0f8166e",
+            "inferredDate": "2015-12-08",
+            "weekStartDate": "2015-12-05",
+            "week": 15,
+            "day": 2,
+            "exercise": "close grip axle bench",
+            "originalExerciseName": "Close Grip Axle Bench",
+            "setNumber": 1,
+            "reps": 2,
+            "instructions": "Work up to a hard set of 2 leave one rep in the tank",
+            "weight": 255,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "e10cd27f-5805-45d8-9525-8ee03c3c59b0",
+            "inferredDate": "2015-12-08",
+            "weekStartDate": "2015-12-05",
+            "week": 15,
+            "day": 2,
+            "exercise": "close grip axle bench",
+            "originalExerciseName": "Close Grip Axle Bench",
+            "setNumber": 2,
+            "reps": 2,
+            "instructions": "Work up to a hard set of 2 leave one rep in the tank",
+            "weight": 275,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "4458c1cb-576b-49bf-9356-40aec378b27c",
+            "inferredDate": "2015-12-08",
+            "weekStartDate": "2015-12-05",
+            "week": 15,
+            "day": 2,
+            "exercise": "close grip axle bench",
+            "originalExerciseName": "Close Grip Axle Bench",
+            "setNumber": 3,
+            "reps": 2,
+            "instructions": "Work up to a hard set of 2 leave one rep in the tank",
+            "weight": 295,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "3": [
+         {
+            "id": "bb88896f-dcef-42eb-865b-edf8ceabd597",
+            "inferredDate": "2015-11-17",
+            "weekStartDate": "2015-11-14",
+            "week": 12,
+            "day": 2,
+            "exercise": "close grip axle bench",
+            "originalExerciseName": "Close Grip Axle Bench",
+            "setNumber": 1,
+            "reps": 3,
+            "instructions": "Work up to a hard set of 3 leave one rep in the tank",
+            "weight": 225,
+            "notes": "Doing these feet up, body builder style to minimize any lumbar straining",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "d57f8791-36a6-45e1-a831-7e17c974e9cd",
+            "inferredDate": "2015-11-17",
+            "weekStartDate": "2015-11-14",
+            "week": 12,
+            "day": 2,
+            "exercise": "close grip axle bench",
+            "originalExerciseName": "Close Grip Axle Bench",
+            "setNumber": 2,
+            "reps": 3,
+            "instructions": "Work up to a hard set of 3 leave one rep in the tank",
+            "weight": 245,
+            "notes": "Doing these feet up, body builder style to minimize any lumbar straining",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "2ad2127d-2741-430d-af6f-9a17930d0a14",
+            "inferredDate": "2015-11-17",
+            "weekStartDate": "2015-11-14",
+            "week": 12,
+            "day": 2,
+            "exercise": "close grip axle bench",
+            "originalExerciseName": "Close Grip Axle Bench",
+            "setNumber": 3,
+            "reps": 3,
+            "instructions": "Work up to a hard set of 3 leave one rep in the tank",
+            "weight": 265,
+            "notes": "Doing these feet up, body builder style to minimize any lumbar straining",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "5": [
+         {
+            "id": "410db913-37a9-4b79-80f9-b014e2c12bfe",
+            "inferredDate": "2015-10-27",
+            "weekStartDate": "2015-10-24",
+            "week": 9,
+            "day": 2,
+            "exercise": "close grip axle bench",
+            "originalExerciseName": "Close Grip Axle Bench",
+            "setNumber": 1,
+            "reps": 5,
+            "instructions": "Work up to a hard set of 5 leave one rep in the tank",
+            "weight": 225,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "4a6ab8d8-1d13-4835-9486-92d954fa22e8",
+            "inferredDate": "2015-10-27",
+            "weekStartDate": "2015-10-24",
+            "week": 9,
+            "day": 2,
+            "exercise": "close grip axle bench",
+            "originalExerciseName": "Close Grip Axle Bench",
+            "setNumber": 2,
+            "reps": 5,
+            "instructions": "Work up to a hard set of 5 leave one rep in the tank",
+            "weight": 250,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "59589fe1-14d9-4c3f-ab70-01e36d5d8eb9",
+            "inferredDate": "2015-10-27",
+            "weekStartDate": "2015-10-24",
+            "week": 9,
+            "day": 2,
+            "exercise": "close grip axle bench",
+            "originalExerciseName": "Close Grip Axle Bench",
+            "setNumber": 3,
+            "reps": 5,
+            "instructions": "Work up to a hard set of 5 leave one rep in the tank",
+            "weight": 265,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         }
+      ]
+   },
    "chest supported row": {
+      "5": [
+         {
+            "id": "803a8c25-f577-45f0-a90d-54d9ee5b8270",
+            "inferredDate": "2019-07-18",
+            "weekStartDate": "2019-07-13",
+            "week": 177,
+            "day": 3,
+            "exercise": "chest supported row",
+            "originalExerciseName": "Front lever",
+            "setNumber": 1,
+            "reps": 5,
+            "instructions": "",
+            "weight": 0,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "noWeightStraightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
       "8": [
          {
-            "id": "6eb0413e-cc2d-4bd4-b1ea-ae975c8a4877",
+            "id": "0f9db5f2-677c-4389-a58d-d419038e0cd9",
+            "inferredDate": "2015-11-17",
+            "weekStartDate": "2015-11-14",
             "week": 12,
             "day": 2,
             "exercise": "chest supported row",
@@ -7004,7 +9394,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "adc94e90-63a5-4dc8-806a-1f308d0ab5a8",
+            "id": "04d9abb7-1ce0-41d4-aa6c-5b9f5c67a890",
+            "inferredDate": "2015-11-17",
+            "weekStartDate": "2015-11-14",
             "week": 12,
             "day": 2,
             "exercise": "chest supported row",
@@ -7020,7 +9412,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "e6ce602a-8afd-423c-8289-26c91c6267b8",
+            "id": "0ece6290-d487-424c-9c08-d7e333fa9e11",
+            "inferredDate": "2017-09-15",
+            "weekStartDate": "2017-09-10",
             "week": 106,
             "day": 3,
             "exercise": "chest supported row",
@@ -7036,7 +9430,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "a4aeb92c-8d99-44d1-975b-e75995c3d81e",
+            "id": "f82be6f5-c171-42d4-a586-7ad5ecc533e3",
+            "inferredDate": "2018-11-08",
+            "weekStartDate": "2018-11-03",
             "week": 142,
             "day": 3,
             "exercise": "chest supported row",
@@ -7052,7 +9448,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "dd4ac4df-b2ab-4f54-a2e3-71fd8233d7b3",
+            "id": "c662c5ba-5a73-4d95-bec4-ee441d8948ae",
+            "inferredDate": "2018-11-08",
+            "weekStartDate": "2018-11-03",
             "week": 142,
             "day": 3,
             "exercise": "chest supported row",
@@ -7070,12 +9468,14 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "df78ef28-c215-4e17-a8e0-94ca4a1177cd",
+            "id": "c9f32b6c-52f0-410d-ab4a-e137d7b4808f",
+            "inferredDate": "2016-05-05",
+            "weekStartDate": "2016-04-30",
             "week": 34,
             "day": 3,
             "exercise": "chest supported row",
             "originalExerciseName": "Chest Supported Rows",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "",
             "weight": 135,
@@ -7086,7 +9486,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "f567251e-65b7-47cb-95f3-22dd003b2494",
+            "id": "cb21e2c2-ca79-443c-afda-ecdab62c15dd",
+            "inferredDate": "2016-06-23",
+            "weekStartDate": "2016-06-18",
             "week": 41,
             "day": 3,
             "exercise": "chest supported row",
@@ -7102,7 +9504,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "4d1f6d76-ab21-4c39-99a7-cbaa3663e634",
+            "id": "745e2697-02ac-4944-b805-5409fa122b09",
+            "inferredDate": "2017-09-08",
+            "weekStartDate": "2017-09-03",
             "week": 105,
             "day": 3,
             "exercise": "chest supported row",
@@ -7118,7 +9522,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "a8d9896f-d3f1-48c9-871c-6a54e824a2e1",
+            "id": "88369232-ab39-402d-99f2-6fb05dddeda7",
+            "inferredDate": "2018-09-27",
+            "weekStartDate": "2018-09-22",
             "week": 136,
             "day": 3,
             "exercise": "chest supported row",
@@ -7136,7 +9542,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "3773d444-3ab7-4355-aea1-1000c8c29633",
+            "id": "6d771280-39e5-42a0-a95a-1049b7a8909f",
+            "inferredDate": "2015-10-27",
+            "weekStartDate": "2015-10-24",
             "week": 9,
             "day": 2,
             "exercise": "chest supported row",
@@ -7152,7 +9560,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "2d063484-c2a3-4ae7-9333-cb6045d7b381",
+            "id": "ef48b627-7ea5-4c66-9700-b60209720cc3",
+            "inferredDate": "2017-06-22",
+            "weekStartDate": "2017-06-17",
             "week": 93,
             "day": 3,
             "exercise": "chest supported row",
@@ -7168,7 +9578,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "51329b61-6759-4a5c-a3a4-376c4cfc95a3",
+            "id": "4089573c-8227-4356-b027-14511503f9b6",
+            "inferredDate": "2018-10-18",
+            "weekStartDate": "2018-10-13",
             "week": 139,
             "day": 3,
             "exercise": "chest supported row",
@@ -7184,7 +9596,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "ee7bd4ea-dc4b-4b95-8f46-6187aeaf7063",
+            "id": "8012b1b7-03ea-4de8-86e7-47d9aa377bbd",
+            "inferredDate": "2018-12-13",
+            "weekStartDate": "2018-12-08",
             "week": 147,
             "day": 3,
             "exercise": "chest supported row",
@@ -7202,7 +9616,9 @@ export const repPrs = {
       ],
       "15": [
          {
-            "id": "af026a77-16a7-419e-91db-94d51e4dbf5f",
+            "id": "9901cb8c-0429-4bdb-a00d-9b85767c757d",
+            "inferredDate": "2019-02-21",
+            "weekStartDate": "2019-02-16",
             "week": 157,
             "day": 3,
             "exercise": "chest supported row",
@@ -7220,12 +9636,14 @@ export const repPrs = {
       ],
       "20": [
          {
-            "id": "4fcfb6a9-a1e6-4589-884b-86f16f0dc6bf",
+            "id": "6eec9b76-e993-4d02-9567-1130fcf83387",
+            "inferredDate": "2018-07-19",
+            "weekStartDate": "2018-07-14",
             "week": 126,
             "day": 3,
             "exercise": "chest supported row",
             "originalExerciseName": "Chest Supported Rows",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 20,
             "instructions": "Get a rhythm going here. Don't do complete reps.",
             "weight": 180,
@@ -7240,7 +9658,27 @@ export const repPrs = {
    "overhead press": {
       "1": [
          {
-            "id": "14de69ea-d4e8-4f78-9c90-22774d327073",
+            "id": "3caafc01-cda8-4d3b-b008-5ebc0b367f7a",
+            "inferredDate": "2016-06-03",
+            "weekStartDate": "2016-05-28",
+            "week": 38,
+            "day": 4,
+            "exercise": "overhead press",
+            "originalExerciseName": "Standing Strict Press",
+            "setNumber": 1,
+            "reps": 1,
+            "instructions": "Using 90, 92.5, 95% of your 1 RM",
+            "weight": 185,
+            "notes": "these felt stronger than they have in a while. i actually was planning on tieing my PR of 205 and going for 210, but i made the mistake of answering a work call before my 205 attempt and my head hasn't focused, I let the bar drift too far forward, and missed. 205-210 feels very close though.",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "ce36d528-d5b2-49ab-b031-915f85046437",
+            "inferredDate": "2016-06-03",
+            "weekStartDate": "2016-05-28",
             "week": 38,
             "day": 4,
             "exercise": "overhead press",
@@ -7256,7 +9694,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "eec640e5-6af0-4a69-a86d-805ea850e7ec",
+            "id": "ec24bca8-614a-417c-be28-89308edb9048",
+            "inferredDate": "2016-06-03",
+            "weekStartDate": "2016-05-28",
             "week": 38,
             "day": 4,
             "exercise": "overhead press",
@@ -7274,7 +9714,9 @@ export const repPrs = {
       ],
       "2": [
          {
-            "id": "a3247bff-9590-4c36-bb6d-37f8343b0e86",
+            "id": "fff62821-4637-4206-a09c-c7c533394ac9",
+            "inferredDate": "2015-12-10",
+            "weekStartDate": "2015-12-05",
             "week": 15,
             "day": 3,
             "exercise": "overhead press",
@@ -7290,7 +9732,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "f4c7ed5d-3d25-4808-b4e3-9f939a22bf45",
+            "id": "b1e3522b-c220-4571-b6a4-91b500107195",
+            "inferredDate": "2015-12-10",
+            "weekStartDate": "2015-12-05",
             "week": 15,
             "day": 3,
             "exercise": "overhead press",
@@ -7306,7 +9750,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "e473ecf1-6ea3-44a9-a210-8caf711be955",
+            "id": "536064e7-d3d0-4f71-952d-6806dcba42ba",
+            "inferredDate": "2015-12-10",
+            "weekStartDate": "2015-12-05",
             "week": 15,
             "day": 3,
             "exercise": "overhead press",
@@ -7324,7 +9770,9 @@ export const repPrs = {
       ],
       "3": [
          {
-            "id": "cb63e3cf-c158-4387-b972-ae37ad08a26c",
+            "id": "73aa1eda-cfd3-47ea-8c41-3c72f9f0f425",
+            "inferredDate": "2015-11-19",
+            "weekStartDate": "2015-11-14",
             "week": 12,
             "day": 3,
             "exercise": "overhead press",
@@ -7340,7 +9788,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "e7898537-d039-4f44-834a-701d23f1ce94",
+            "id": "9cd1b903-2875-417e-92ee-8bb0066e9ffb",
+            "inferredDate": "2015-11-19",
+            "weekStartDate": "2015-11-14",
             "week": 12,
             "day": 3,
             "exercise": "overhead press",
@@ -7356,7 +9806,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "9a265e91-dd55-425d-a664-8b70cc7c6f4d",
+            "id": "b0fadb4d-4cc4-48ff-ba73-c0eb42afcd60",
+            "inferredDate": "2015-11-19",
+            "weekStartDate": "2015-11-14",
             "week": 12,
             "day": 3,
             "exercise": "overhead press",
@@ -7374,23 +9826,45 @@ export const repPrs = {
       ],
       "4": [
          {
-            "id": "b58847fc-2e76-4190-9c63-260fbcf5c45b",
+            "id": "dc19a531-2e77-4792-acac-08f36f896b74",
+            "inferredDate": "2015-10-29",
+            "weekStartDate": "2015-10-24",
             "week": 9,
             "day": 3,
             "exercise": "overhead press",
             "originalExerciseName": "Standing Strict Press",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 4,
-            "instructions": "Drop down to 90% of your top set and do 3-5 more sets",
-            "weight": 165,
-            "notes": "",
+            "instructions": "Work up to a hard set of 4 but leave a rep in the tank",
+            "weight": 135,
+            "notes": "FUCK YES I LOVE STRICT PRESS",
             "supersetId": "",
             "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
+            "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
          },
          {
-            "id": "b02ba444-ace7-447a-a1af-1de1ffaecae2",
+            "id": "106dc583-2029-4291-9f5a-9154960bc2a2",
+            "inferredDate": "2015-10-29",
+            "weekStartDate": "2015-10-24",
+            "week": 9,
+            "day": 3,
+            "exercise": "overhead press",
+            "originalExerciseName": "Standing Strict Press",
+            "setNumber": 2,
+            "reps": 4,
+            "instructions": "Work up to a hard set of 4 but leave a rep in the tank",
+            "weight": 165,
+            "notes": "FUCK YES I LOVE STRICT PRESS",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "ba1920ae-56a5-4135-9c32-10a472813d16",
+            "inferredDate": "2015-10-29",
+            "weekStartDate": "2015-10-24",
             "week": 9,
             "day": 3,
             "exercise": "overhead press",
@@ -7408,7 +9882,9 @@ export const repPrs = {
       ],
       "5": [
          {
-            "id": "e891c29f-6201-4ce6-8797-273474e0c6b9",
+            "id": "7ae7dced-d711-406d-8dc7-ed4670e75ab4",
+            "inferredDate": "2015-11-19",
+            "weekStartDate": "2015-11-14",
             "week": 12,
             "day": 3,
             "exercise": "overhead press",
@@ -7426,7 +9902,9 @@ export const repPrs = {
       ],
       "6": [
          {
-            "id": "220b0e48-6831-4f2f-8ad1-af6b8329abc8",
+            "id": "6b4e4eec-cdd8-46ab-a7ba-147f70c4b034",
+            "inferredDate": "2016-01-08",
+            "weekStartDate": "2016-01-02",
             "week": 19,
             "day": 4,
             "exercise": "overhead press",
@@ -7442,7 +9920,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "70d8e6e1-8da8-4aa2-8d8e-14dce52d5cf3",
+            "id": "8a3b0c14-242b-471f-8a28-6d0f0bf3aa76",
+            "inferredDate": "2016-04-15",
+            "weekStartDate": "2016-04-09",
             "week": 31,
             "day": 4,
             "exercise": "overhead press",
@@ -7460,12 +9940,14 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "bb9694dd-014f-47b4-a015-447a8ffb50aa",
+            "id": "458cdb68-0f80-43e7-905c-9054d2e84c30",
+            "inferredDate": "2016-04-08",
+            "weekStartDate": "2016-04-02",
             "week": 30,
             "day": 4,
             "exercise": "overhead press",
             "originalExerciseName": "Standing Strict Press",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 8,
             "instructions": "Using 65% of your 1 RM",
             "weight": 135,
@@ -7476,7 +9958,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "6ad6c493-2dfd-421f-a79a-d1ee0fe9f2e0",
+            "id": "2cb6a4f3-8ac3-4c99-b45c-a531580310ed",
+            "inferredDate": "2016-06-24",
+            "weekStartDate": "2016-06-18",
             "week": 41,
             "day": 4,
             "exercise": "overhead press",
@@ -7494,12 +9978,14 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "67bdf38e-99ba-4dd4-ba44-3ecc00f3fa1a",
+            "id": "cfcc7ccf-e5c5-40e6-8b31-47a69da83251",
+            "inferredDate": "2016-04-01",
+            "weekStartDate": "2016-03-26",
             "week": 29,
             "day": 4,
             "exercise": "overhead press",
             "originalExerciseName": "Standing Strict Press",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "Using 115",
             "weight": 115,
@@ -7512,9 +9998,31 @@ export const repPrs = {
       ]
    },
    "jm press": {
+      "3": [
+         {
+            "id": "68ca1bc1-8df1-4268-92c4-9a7099492974",
+            "inferredDate": "2020-02-07",
+            "weekStartDate": "2020-02-01",
+            "week": 206,
+            "day": 3,
+            "exercise": "jm press",
+            "originalExerciseName": "High Bar Back Squats",
+            "setNumber": 1,
+            "reps": 3,
+            "instructions": "Using 85% of your 1 RM",
+            "weight": 345,
+            "notes": "Taken from week 147. Did 77% instead: was feeling very fatigued from ARC'ing yesterday.",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
       "4": [
          {
-            "id": "4f5fdf6b-b9a1-4892-a786-c6a0873733a3",
+            "id": "32465604-5e41-48db-84d4-000df84afc9d",
+            "inferredDate": "2015-12-11",
+            "weekStartDate": "2015-12-05",
             "week": 15,
             "day": 4,
             "exercise": "jm press",
@@ -7530,7 +10038,27 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "f43289e5-6a98-4c7a-acca-5ac896ebf2f9",
+            "id": "f599704c-e112-408d-be37-40fa27b9a04f",
+            "inferredDate": "2015-12-11",
+            "weekStartDate": "2015-12-05",
+            "week": 15,
+            "day": 4,
+            "exercise": "jm press",
+            "originalExerciseName": "JM Press",
+            "setNumber": 2,
+            "reps": 4,
+            "instructions": "Work up to a heavy set of 4 leaving 1 rep in the tank",
+            "weight": 145,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "0fd62a93-8970-4cf3-abc5-743163ec8e8d",
+            "inferredDate": "2015-12-11",
+            "weekStartDate": "2015-12-05",
             "week": 15,
             "day": 4,
             "exercise": "jm press",
@@ -7546,25 +10074,67 @@ export const repPrs = {
             "dropSetId": ""
          }
       ],
+      "5": [
+         {
+            "id": "4e0b30e7-4b1b-4b3d-82a7-bef79c80e1fd",
+            "inferredDate": "2020-01-22",
+            "weekStartDate": "2020-01-18",
+            "week": 205,
+            "day": 2,
+            "exercise": "jm press",
+            "originalExerciseName": "High Bar Back Squats",
+            "setNumber": 1,
+            "reps": 5,
+            "instructions": "Using 75% of your 1 RM",
+            "weight": 335,
+            "notes": "taken from week 146",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
       "6": [
          {
-            "id": "bb918e7f-2698-48ef-b1a1-9123b5545c5e",
+            "id": "bc1f2fab-18c9-47a7-9c6e-b0ef8b0dbe0c",
+            "inferredDate": "2015-10-30",
+            "weekStartDate": "2015-10-24",
             "week": 9,
             "day": 4,
             "exercise": "jm press",
             "originalExerciseName": "JM Presses",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 6,
-            "instructions": "Drop down to 90% of your top set and do 3-5 more sets",
-            "weight": 105,
-            "notes": "https://www.youtube.com/watch?v=GoT12fwjoKk",
+            "instructions": "Work up to a heavy set of 6 leaving 1 rep in the tank",
+            "weight": 95,
+            "notes": "never done these before, and they felt sort of awkward/hard. didn't push it on the weight and just tried to blast my triceps",
             "supersetId": "",
             "anomalous": "",
-            "strategyUsed": "setRangeInParenthesisStrategy",
+            "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
          },
          {
-            "id": "97672777-0250-4884-8a5d-4ea86affe429",
+            "id": "f0facea7-7466-44c8-97a1-c664f2c453e2",
+            "inferredDate": "2015-10-30",
+            "weekStartDate": "2015-10-24",
+            "week": 9,
+            "day": 4,
+            "exercise": "jm press",
+            "originalExerciseName": "JM Presses",
+            "setNumber": 2,
+            "reps": 6,
+            "instructions": "Work up to a heavy set of 6 leaving 1 rep in the tank",
+            "weight": 105,
+            "notes": "never done these before, and they felt sort of awkward/hard. didn't push it on the weight and just tried to blast my triceps",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "d70f820b-a7b0-4195-b74f-bf254e8d86a6",
+            "inferredDate": "2015-10-30",
+            "weekStartDate": "2015-10-24",
             "week": 9,
             "day": 4,
             "exercise": "jm press",
@@ -7580,7 +10150,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "1466cb3d-97b9-4381-b20c-0a8ed62eaac2",
+            "id": "fb217242-0fc8-45cd-87f6-3d57adfe6331",
+            "inferredDate": "2015-11-20",
+            "weekStartDate": "2015-11-14",
             "week": 12,
             "day": 4,
             "exercise": "jm press",
@@ -7598,7 +10170,9 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "99cbd167-bde7-46c8-b704-597d7e4ed793",
+            "id": "f16de7c8-e957-4352-a3b4-9a40d63d8000",
+            "inferredDate": "2017-09-30",
+            "weekStartDate": "2017-09-24",
             "week": 108,
             "day": 4,
             "exercise": "jm press",
@@ -7612,11 +10186,31 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "76a20ba4-90bc-4506-bbce-77d8266d9600",
+            "inferredDate": "2019-12-30",
+            "weekStartDate": "2019-12-28",
+            "week": 202,
+            "day": 1,
+            "exercise": "jm press",
+            "originalExerciseName": "High Bar Back Squats",
+            "setNumber": 1,
+            "reps": 8,
+            "instructions": "Using 75% of your 1 RM",
+            "weight": 315,
+            "notes": "Taken from week 144",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ],
       "12": [
          {
-            "id": "82e4e320-41de-41e5-a23a-4bb30582c666",
+            "id": "705df19f-b934-4e87-a99e-29f66d3d7491",
+            "inferredDate": "2017-10-28",
+            "weekStartDate": "2017-10-22",
             "week": 112,
             "day": 4,
             "exercise": "jm press",
@@ -7630,13 +10224,125 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "304c9f33-d727-4ef7-b928-869129433270",
+            "inferredDate": "2019-12-24",
+            "weekStartDate": "2019-12-21",
+            "week": 200,
+            "day": 2,
+            "exercise": "jm press",
+            "originalExerciseName": "JM Presses",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 115,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "324c8bf2-f084-470b-bcef-c096b1eba7b9",
+            "inferredDate": "2019-12-26",
+            "weekStartDate": "2019-12-21",
+            "week": 200,
+            "day": 3,
+            "exercise": "jm press",
+            "originalExerciseName": "Lying Leg Curl",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 120,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "d819b8c5-945c-4e8b-86f1-bb9489f8a8f2",
+            "inferredDate": "2019-12-26",
+            "weekStartDate": "2019-12-21",
+            "week": 200,
+            "day": 3,
+            "exercise": "jm press",
+            "originalExerciseName": "High Bar Back Squats",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "Using 65% of your 1 RM",
+            "weight": 295,
+            "notes": "Taken from week 143",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ]
    },
    "incline barbell bench press": {
+      "1": [
+         {
+            "id": "d409ef54-40c9-4d55-988e-71a7aa59b03e",
+            "inferredDate": "2019-10-16",
+            "weekStartDate": "2019-10-12",
+            "week": 190,
+            "day": 2,
+            "exercise": "incline barbell bench press",
+            "originalExerciseName": "Incline Barbell Bench Press",
+            "setNumber": 1,
+            "reps": 1,
+            "instructions": "",
+            "weight": 275,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
       "2": [
          {
-            "id": "e6cc82a9-217c-4658-a738-be21e66862f3",
+            "id": "64944ba9-5e7a-473a-8833-328c41a75d84",
+            "inferredDate": "2015-12-01",
+            "weekStartDate": "2015-11-28",
+            "week": 14,
+            "day": 2,
+            "exercise": "incline barbell bench press",
+            "originalExerciseName": "Incline Bench Press",
+            "setNumber": 1,
+            "reps": 2,
+            "instructions": "Work up to a hard set of 2 leave one rep in the tank",
+            "weight": 225,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "eba8e188-7b15-4e9f-9532-faa550e3bdb2",
+            "inferredDate": "2015-12-01",
+            "weekStartDate": "2015-11-28",
+            "week": 14,
+            "day": 2,
+            "exercise": "incline barbell bench press",
+            "originalExerciseName": "Incline Bench Press",
+            "setNumber": 2,
+            "reps": 2,
+            "instructions": "Work up to a hard set of 2 leave one rep in the tank",
+            "weight": 255,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "4275594e-e8f9-499d-996e-b263e3871d1c",
+            "inferredDate": "2015-12-01",
+            "weekStartDate": "2015-11-28",
             "week": 14,
             "day": 2,
             "exercise": "incline barbell bench press",
@@ -7654,7 +10360,9 @@ export const repPrs = {
       ],
       "3": [
          {
-            "id": "b31651d9-aaff-42b4-b336-78c45b821b6a",
+            "id": "f81de852-11c2-4f3b-9b5f-c3bacb824a31",
+            "inferredDate": "2017-12-06",
+            "weekStartDate": "2017-12-03",
             "week": 118,
             "day": 2,
             "exercise": "incline barbell bench press",
@@ -7670,7 +10378,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "61deac66-91b4-478a-866b-d791bc197d69",
+            "id": "fd324dcf-dcb1-49b6-8bb0-7a8be2d34dcb",
+            "inferredDate": "2017-12-06",
+            "weekStartDate": "2017-12-03",
             "week": 118,
             "day": 2,
             "exercise": "incline barbell bench press",
@@ -7686,7 +10396,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "fe845f22-2c16-49a4-92da-f856d933bada",
+            "id": "2f2e968f-8696-4808-93c6-194da323abbf",
+            "inferredDate": "2017-12-06",
+            "weekStartDate": "2017-12-03",
             "week": 118,
             "day": 2,
             "exercise": "incline barbell bench press",
@@ -7702,7 +10414,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "8c5eecba-9103-4043-8c9e-f10ddab20cc1",
+            "id": "c9062b55-538a-4913-907e-08470fe753f3",
+            "inferredDate": "2017-12-06",
+            "weekStartDate": "2017-12-03",
             "week": 118,
             "day": 2,
             "exercise": "incline barbell bench press",
@@ -7716,11 +10430,51 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "e7e7f477-32f5-46f1-93e9-b4edb971a8b8",
+            "inferredDate": "2019-06-11",
+            "weekStartDate": "2019-06-08",
+            "week": 172,
+            "day": 2,
+            "exercise": "incline barbell bench press",
+            "originalExerciseName": "Incline Bench Press",
+            "setNumber": 4,
+            "reps": 3,
+            "instructions": "Work up heavy here",
+            "weight": 275,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "4": [
+         {
+            "id": "2b81b0df-2488-4ef1-8232-251364ce2765",
+            "inferredDate": "2019-12-11",
+            "weekStartDate": "2019-12-07",
+            "week": 198,
+            "day": 2,
+            "exercise": "incline barbell bench press",
+            "originalExerciseName": "Incline Bench Press",
+            "setNumber": 2,
+            "reps": 4,
+            "instructions": "Work up heavy",
+            "weight": 225,
+            "notes": "long rests, this workout feels hard today. Got pinned last rep second set, so dropped down for last set.",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "fullQualifiedWeightColumnStrategy",
+            "dropSetId": ""
          }
       ],
       "5": [
          {
-            "id": "ca97f2c0-222c-4eda-b73c-a1b87ced8c2e",
+            "id": "154091a8-9b36-41cc-bed6-3a4fa51a52e6",
+            "inferredDate": "2015-11-10",
+            "weekStartDate": "2015-11-07",
             "week": 11,
             "day": 2,
             "exercise": "incline barbell bench press",
@@ -7736,7 +10490,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "024707f6-e031-429d-8fbb-834821fd9213",
+            "id": "4e15b5c4-7385-41a7-a77d-41e8c379b575",
+            "inferredDate": "2015-11-10",
+            "weekStartDate": "2015-11-07",
             "week": 11,
             "day": 2,
             "exercise": "incline barbell bench press",
@@ -7752,7 +10508,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "3350d14a-6d09-476d-a5fe-852e993529dd",
+            "id": "16f168e3-8ba5-495a-9e5e-427b37ffe28a",
+            "inferredDate": "2015-11-10",
+            "weekStartDate": "2015-11-07",
             "week": 11,
             "day": 2,
             "exercise": "incline barbell bench press",
@@ -7770,7 +10528,9 @@ export const repPrs = {
       ],
       "6": [
          {
-            "id": "a6c6b7d7-fcac-4b84-911c-978218bf073d",
+            "id": "50bb6b27-dc77-4c63-993c-86ec4c4adaae",
+            "inferredDate": "2016-04-19",
+            "weekStartDate": "2016-04-16",
             "week": 32,
             "day": 2,
             "exercise": "incline barbell bench press",
@@ -7786,7 +10546,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "f0b87790-358b-4d93-bebf-94a2ad6bb30d",
+            "id": "a08b4aca-23ee-488c-bc94-2e8146412cfd",
+            "inferredDate": "2016-04-19",
+            "weekStartDate": "2016-04-16",
             "week": 32,
             "day": 2,
             "exercise": "incline barbell bench press",
@@ -7802,7 +10564,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "d340e919-26ce-4055-92d3-7bdbdf1f146e",
+            "id": "f96c59a1-8fb0-4c88-8721-b1a4f5d5b838",
+            "inferredDate": "2016-04-19",
+            "weekStartDate": "2016-04-16",
             "week": 32,
             "day": 2,
             "exercise": "incline barbell bench press",
@@ -7820,7 +10584,9 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "d38bd55a-e8aa-4a34-9fc2-95f581e3404a",
+            "id": "cbb49bcd-3d7a-4d50-b12b-d2b48f286cba",
+            "inferredDate": "2016-03-29",
+            "weekStartDate": "2016-03-26",
             "week": 29,
             "day": 2,
             "exercise": "incline barbell bench press",
@@ -7836,7 +10602,27 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "74daef38-3320-4afc-aab0-65dbb995fb19",
+            "id": "2c13f770-7fb8-4f66-87b0-e9886396a69c",
+            "inferredDate": "2016-04-05",
+            "weekStartDate": "2016-04-02",
+            "week": 30,
+            "day": 2,
+            "exercise": "incline barbell bench press",
+            "originalExerciseName": "Incline Barbell Bench",
+            "setNumber": 2,
+            "reps": 8,
+            "instructions": "Work up to a moderately hard set of 8 here",
+            "weight": 175,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "396d6013-b5cf-47da-b220-8daff1039c5c",
+            "inferredDate": "2016-04-05",
+            "weekStartDate": "2016-04-02",
             "week": 30,
             "day": 2,
             "exercise": "incline barbell bench press",
@@ -7852,7 +10638,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "5c11f34b-a8b5-4536-b828-ba9593a68dce",
+            "id": "6ccc5230-cc59-4d30-aeec-3b5f9dedd6ba",
+            "inferredDate": "2016-04-12",
+            "weekStartDate": "2016-04-09",
             "week": 31,
             "day": 2,
             "exercise": "incline barbell bench press",
@@ -7868,7 +10656,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "1b49e21e-6ad0-4e79-a376-1be10ff8529f",
+            "id": "42bc9bc7-8ed9-4513-9ee9-f62de0675d85",
+            "inferredDate": "2017-07-04",
+            "weekStartDate": "2017-07-01",
             "week": 95,
             "day": 2,
             "exercise": "incline barbell bench press",
@@ -7886,7 +10676,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "d165f0ff-640d-4f1c-8980-53e97db8c3d0",
+            "id": "86dd19e6-3e29-427b-9a73-929527be046a",
+            "inferredDate": "2017-07-25",
+            "weekStartDate": "2017-07-22",
             "week": 98,
             "day": 2,
             "exercise": "incline barbell bench press",
@@ -7902,7 +10694,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "7fab4349-23c6-45f4-adb6-7f4c434b1cf6",
+            "id": "3f06c04e-a803-4e32-b008-6f0db5ff8617",
+            "inferredDate": "2017-07-25",
+            "weekStartDate": "2017-07-22",
             "week": 98,
             "day": 2,
             "exercise": "incline barbell bench press",
@@ -7918,7 +10712,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "6364137b-cff6-47b2-94a9-45dd08e40f17",
+            "id": "03276402-e1a8-432b-80ae-0debf90212a8",
+            "inferredDate": "2018-10-09",
+            "weekStartDate": "2018-10-06",
             "week": 138,
             "day": 2,
             "exercise": "incline barbell bench press",
@@ -7936,7 +10732,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "fb726443-cc50-4402-bfa4-0ba9b61ec039",
+            "id": "1d826d5a-36a7-41d6-91d1-8fe727d71249",
+            "inferredDate": "2016-11-22",
+            "weekStartDate": "2016-11-19",
             "week": 67,
             "day": 2,
             "exercise": "incline barbell bench press",
@@ -7954,7 +10752,9 @@ export const repPrs = {
       ],
       "15": [
          {
-            "id": "13fe00d3-bfbc-4669-bd4d-3530929c0641",
+            "id": "6b1b3120-769b-4d67-9783-f613a5afbb25",
+            "inferredDate": "2016-11-22",
+            "weekStartDate": "2016-11-19",
             "week": 67,
             "day": 2,
             "exercise": "incline barbell bench press",
@@ -7972,7 +10772,9 @@ export const repPrs = {
       ],
       "20": [
          {
-            "id": "4d9f6a2b-e5f1-4449-b974-95ffc132b9c9",
+            "id": "8497e411-a001-4f06-a169-e0609b9ad8d6",
+            "inferredDate": "2016-11-22",
+            "weekStartDate": "2016-11-19",
             "week": 67,
             "day": 2,
             "exercise": "incline barbell bench press",
@@ -7992,12 +10794,14 @@ export const repPrs = {
    "seated overhead press": {
       "2": [
          {
-            "id": "44c6610d-2ab2-46d3-86aa-87ee3fd23569",
+            "id": "15f15dcf-bfcd-4a58-899e-6083a1815d97",
+            "inferredDate": "2015-12-03",
+            "weekStartDate": "2015-11-28",
             "week": 14,
             "day": 3,
             "exercise": "seated overhead press",
             "originalExerciseName": "Seated Strict Press",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 2,
             "instructions": "Work up to a hard set of 2 but leave a rep in the tank",
             "weight": 0,
@@ -8010,7 +10814,9 @@ export const repPrs = {
       ],
       "3": [
          {
-            "id": "8a70e2a8-ad98-41c4-a868-1f7fe6243dda",
+            "id": "d299aecf-c55b-499f-9337-3d8d1442b2be",
+            "inferredDate": "2015-12-24",
+            "weekStartDate": "2015-12-19",
             "week": 17,
             "day": 3,
             "exercise": "seated overhead press",
@@ -8026,7 +10832,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "876fe1b3-02b1-4897-be15-5c4d745c074f",
+            "id": "a64c71ca-33bd-4dfd-818b-03add598483a",
+            "inferredDate": "2015-12-24",
+            "weekStartDate": "2015-12-19",
             "week": 17,
             "day": 3,
             "exercise": "seated overhead press",
@@ -8042,7 +10850,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "e8d0e0c1-aed4-49be-abfc-acaa8c60403c",
+            "id": "6e1d89f0-78d3-4d5d-9d15-84849ad3254b",
+            "inferredDate": "2015-12-24",
+            "weekStartDate": "2015-12-19",
             "week": 17,
             "day": 3,
             "exercise": "seated overhead press",
@@ -8060,7 +10870,9 @@ export const repPrs = {
       ],
       "4": [
          {
-            "id": "532e17f2-ab49-469e-9327-906b15a29c60",
+            "id": "327bb1fc-61bc-4354-84f2-fd1d9770c128",
+            "inferredDate": "2015-12-03",
+            "weekStartDate": "2015-11-28",
             "week": 14,
             "day": 3,
             "exercise": "seated overhead press",
@@ -8078,7 +10890,9 @@ export const repPrs = {
       ],
       "5": [
          {
-            "id": "3a55df67-6513-46c3-8e07-1f791c158b3e",
+            "id": "65a64ad8-1af3-4061-a397-88306811a970",
+            "inferredDate": "2015-11-12",
+            "weekStartDate": "2015-11-07",
             "week": 11,
             "day": 3,
             "exercise": "seated overhead press",
@@ -8094,7 +10908,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "e5259642-620c-4648-8100-cde8b08b8905",
+            "id": "117ed617-c689-46a4-a310-b3ff651a261b",
+            "inferredDate": "2015-11-12",
+            "weekStartDate": "2015-11-07",
             "week": 11,
             "day": 3,
             "exercise": "seated overhead press",
@@ -8110,7 +10926,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "9d4cdc9e-46d0-47f4-88d6-fc81c844a06d",
+            "id": "aa582bbd-9632-46df-ad25-cab7e8cf33d9",
+            "inferredDate": "2015-11-12",
+            "weekStartDate": "2015-11-07",
             "week": 11,
             "day": 3,
             "exercise": "seated overhead press",
@@ -8128,7 +10946,9 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "f38d5b94-20eb-4659-b192-f4819bf74da9",
+            "id": "9072b265-d837-444b-a67c-756d423e057a",
+            "inferredDate": "2017-11-22",
+            "weekStartDate": "2017-11-19",
             "week": 116,
             "day": 2,
             "exercise": "seated overhead press",
@@ -8148,12 +10968,14 @@ export const repPrs = {
    "hanging leg raises": {
       "3": [
          {
-            "id": "90cf524d-84b6-45c9-8ec7-b56e7aafe3d7",
+            "id": "f3183ee5-9700-4785-a2e3-76d687cbfaea",
+            "inferredDate": "2016-11-24",
+            "weekStartDate": "2016-11-19",
             "week": 67,
             "day": 3,
             "exercise": "hanging leg raises",
             "originalExerciseName": "Hanging Leg Raises",
-            "setNumber": 3,
+            "setNumber": 2,
             "reps": 3,
             "instructions": "",
             "weight": 10,
@@ -8166,7 +10988,9 @@ export const repPrs = {
       ],
       "4": [
          {
-            "id": "15e54683-d6a5-4432-b3e6-6aa058aae868",
+            "id": "4fdc6208-4b8e-4c5f-9e90-ec3fe25f919f",
+            "inferredDate": "2017-05-18",
+            "weekStartDate": "2017-05-13",
             "week": 88,
             "day": 3,
             "exercise": "hanging leg raises",
@@ -8184,7 +11008,9 @@ export const repPrs = {
       ],
       "15": [
          {
-            "id": "602d78f6-e913-47dc-9e44-d56716500a60",
+            "id": "57b83a36-02b7-4642-af16-f978a52b7e97",
+            "inferredDate": "2016-11-24",
+            "weekStartDate": "2016-11-19",
             "week": 67,
             "day": 3,
             "exercise": "hanging leg raises",
@@ -8202,7 +11028,9 @@ export const repPrs = {
       ],
       "20": [
          {
-            "id": "ba5865b6-0382-43c3-9044-e920e6ec1363",
+            "id": "3c35c7a5-94b5-448e-b4e8-659d3a7c7382",
+            "inferredDate": "2015-11-12",
+            "weekStartDate": "2015-11-07",
             "week": 11,
             "day": 3,
             "exercise": "hanging leg raises",
@@ -8222,7 +11050,9 @@ export const repPrs = {
    "reverse band back squats": {
       "1": [
          {
-            "id": "95eb773b-1f21-44ef-933a-70c8f76f51d8",
+            "id": "fcc75367-6683-4e7d-b452-ac6dfd1dbccb",
+            "inferredDate": "2015-12-14",
+            "weekStartDate": "2015-12-12",
             "week": 16,
             "day": 1,
             "exercise": "reverse band back squats",
@@ -8238,7 +11068,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "859edd49-6bcc-4e09-996f-804c14c774ea",
+            "id": "1fa8e877-d146-420b-8d1b-bebb4df20951",
+            "inferredDate": "2015-12-14",
+            "weekStartDate": "2015-12-12",
             "week": 16,
             "day": 1,
             "exercise": "reverse band back squats",
@@ -8254,7 +11086,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "b5ee8c69-44b9-429c-adf0-c8f2eadcaf5a",
+            "id": "4b927a08-25b1-4bce-8bb2-a153112f2031",
+            "inferredDate": "2015-12-14",
+            "weekStartDate": "2015-12-12",
             "week": 16,
             "day": 1,
             "exercise": "reverse band back squats",
@@ -8270,7 +11104,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "7d6ce01d-4ed8-47e2-a010-4572b65740c2",
+            "id": "4ca1c575-6d85-4033-a3ed-cbb9e1eda2b6",
+            "inferredDate": "2016-10-03",
+            "weekStartDate": "2016-10-01",
             "week": 59,
             "day": 1,
             "exercise": "reverse band back squats",
@@ -8286,7 +11122,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "122ffed2-40cb-4228-b623-02852a36eb03",
+            "id": "491291d0-3193-4001-afd0-322be50c5573",
+            "inferredDate": "2016-10-17",
+            "weekStartDate": "2016-10-15",
             "week": 61,
             "day": 1,
             "exercise": "reverse band back squats",
@@ -8306,7 +11144,9 @@ export const repPrs = {
    "swiss bar floor press": {
       "5": [
          {
-            "id": "d2618745-1aa1-49ca-bb1b-8be652196bea",
+            "id": "fa8458e4-8555-4a35-855d-97d6eb4a8875",
+            "inferredDate": "2016-01-12",
+            "weekStartDate": "2016-01-09",
             "week": 20,
             "day": 2,
             "exercise": "swiss bar floor press",
@@ -8324,12 +11164,14 @@ export const repPrs = {
       ],
       "6": [
          {
-            "id": "086ccf54-342f-4db9-b6f1-283eaa8d8904",
+            "id": "06368a72-bb4c-4bad-b364-3807faea685d",
+            "inferredDate": "2016-01-05",
+            "weekStartDate": "2016-01-02",
             "week": 19,
             "day": 2,
             "exercise": "swiss bar floor press",
             "originalExerciseName": "Swiss Bar Floor Press",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 6,
             "instructions": "Using 75% of your 1 RM",
             "weight": 245,
@@ -8344,7 +11186,9 @@ export const repPrs = {
    "incline db bench press": {
       "5": [
          {
-            "id": "a7919f3a-d5ec-4873-8a5d-9433e443013c",
+            "id": "6b9ec298-336c-4b6e-8e83-b14079a63158",
+            "inferredDate": "2016-03-22",
+            "weekStartDate": "2016-03-19",
             "week": 28,
             "day": 2,
             "exercise": "incline db bench press",
@@ -8362,7 +11206,9 @@ export const repPrs = {
       ],
       "6": [
          {
-            "id": "0769994d-79d0-497b-9557-ebd3bbe8aaaa",
+            "id": "e9a3be1b-dcb0-43d5-8124-6312c2fc8da8",
+            "inferredDate": "2016-03-01",
+            "weekStartDate": "2016-02-27",
             "week": 25,
             "day": 2,
             "exercise": "incline db bench press",
@@ -8378,7 +11224,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "461212f7-5163-4ad9-b5f2-5750cfabace4",
+            "id": "071baabf-7805-4143-81b9-9e49893509eb",
+            "inferredDate": "2016-05-03",
+            "weekStartDate": "2016-04-30",
             "week": 34,
             "day": 2,
             "exercise": "incline db bench press",
@@ -8394,7 +11242,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "c26c9599-266f-4077-9f43-b37614dcbf38",
+            "id": "067d344b-2d3c-4548-b38b-6c9e751968fe",
+            "inferredDate": "2016-07-19",
+            "weekStartDate": "2016-07-16",
             "week": 45,
             "day": 2,
             "exercise": "incline db bench press",
@@ -8410,7 +11260,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "74974f62-2163-434d-ae06-1947571943d5",
+            "id": "5b0ba99e-a033-42ae-91a1-ca38afd5ac3c",
+            "inferredDate": "2016-08-23",
+            "weekStartDate": "2016-08-20",
             "week": 53,
             "day": 2,
             "exercise": "incline db bench press",
@@ -8428,7 +11280,9 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "d01d9ec7-5d09-499f-b2c3-fa5b1a2e82bd",
+            "id": "95563154-33e0-4496-a051-7224d67eef6b",
+            "inferredDate": "2016-02-09",
+            "weekStartDate": "2016-02-06",
             "week": 24,
             "day": 2,
             "exercise": "incline db bench press",
@@ -8444,7 +11298,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "93a5d03f-bf6d-4fa1-bf7d-d8b39ad20fc5",
+            "id": "80eccd9a-01e9-44d9-a467-fc0cda2356f3",
+            "inferredDate": "2016-04-27",
+            "weekStartDate": "2016-04-23",
             "week": 33,
             "day": 2,
             "exercise": "incline db bench press",
@@ -8460,7 +11316,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "f5684c4c-3f05-43d1-9986-b6d0e28a3c33",
+            "id": "e5ea674c-3385-4667-ae10-70b4d10be2e4",
+            "inferredDate": "2016-04-27",
+            "weekStartDate": "2016-04-23",
             "week": 33,
             "day": 2,
             "exercise": "incline db bench press",
@@ -8476,7 +11334,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "a77f925d-1089-4456-8ba8-61ed6acad81a",
+            "id": "07016c56-174d-44b2-99bf-c87ecedbeabd",
+            "inferredDate": "2016-08-02",
+            "weekStartDate": "2016-07-30",
             "week": 50,
             "day": 2,
             "exercise": "incline db bench press",
@@ -8494,7 +11354,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "9b33d728-6c6b-4d05-9d75-f0d287041023",
+            "id": "f008c223-e8a7-4240-9b9e-770a6959d7d2",
+            "inferredDate": "2016-01-26",
+            "weekStartDate": "2016-01-23",
             "week": 22,
             "day": 2,
             "exercise": "incline db bench press",
@@ -8510,12 +11372,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "f61ea936-3862-48e6-b600-552d168b8cf1",
+            "id": "dc9e7037-4787-4a45-bb6d-6893f0608737",
+            "inferredDate": "2017-01-24",
+            "weekStartDate": "2017-01-21",
             "week": 71,
             "day": 2,
             "exercise": "incline db bench press",
             "originalExerciseName": "Incline DB Press",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "",
             "weight": 90,
@@ -8526,12 +11390,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "19159eaf-fda3-4aa7-8029-241e81e0644d",
+            "id": "8855165f-988c-41c8-8a33-dcb5cbcef370",
+            "inferredDate": "2018-07-24",
+            "weekStartDate": "2018-07-21",
             "week": 127,
             "day": 2,
             "exercise": "incline db bench press",
             "originalExerciseName": "Incline DB Bench Press",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "",
             "weight": 95,
@@ -8542,15 +11408,35 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "529a810d-c190-4b63-9491-04b076c67f05",
+            "id": "c9267f13-f173-42df-af35-7561f28661f4",
+            "inferredDate": "2019-01-01",
+            "weekStartDate": "2018-12-29",
             "week": 150,
             "day": 2,
             "exercise": "incline db bench press",
             "originalExerciseName": "Incline DB Bench Press",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "",
             "weight": 100,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "3eaaa029-4afd-4071-8f61-1fa4da61b1d5",
+            "inferredDate": "2020-03-25",
+            "weekStartDate": "2020-03-21",
+            "week": 213,
+            "day": 3,
+            "exercise": "incline db bench press",
+            "originalExerciseName": "Incline DB Bench Press",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "",
+            "weight": 105,
             "notes": "",
             "supersetId": "",
             "anomalous": "",
@@ -8560,12 +11446,14 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "f9278f5e-2980-4718-bc57-c7d1ebaa84f6",
+            "id": "2dd6e6c6-b749-43e5-9208-39adbf6f94f3",
+            "inferredDate": "2016-01-05",
+            "weekStartDate": "2016-01-02",
             "week": 19,
             "day": 2,
             "exercise": "incline db bench press",
             "originalExerciseName": "Incline DB Bench",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 75,
@@ -8576,7 +11464,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "d6aaefa9-ec10-4191-8f05-3fef6206b8e8",
+            "id": "3e9293bd-85ab-453b-a00a-e6e4a626d125",
+            "inferredDate": "2016-01-12",
+            "weekStartDate": "2016-01-09",
             "week": 20,
             "day": 2,
             "exercise": "incline db bench press",
@@ -8592,7 +11482,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "52cd797b-0fd5-452b-89e8-0ee671281ed3",
+            "id": "6b112334-2df0-4de6-a24c-a8e8cef5a600",
+            "inferredDate": "2016-11-01",
+            "weekStartDate": "2016-10-29",
             "week": 64,
             "day": 2,
             "exercise": "incline db bench press",
@@ -8608,12 +11500,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "038e9999-1265-4df8-98b4-6b3abac92f63",
+            "id": "254f9d2c-1848-4808-a0eb-fbe33c62b40b",
+            "inferredDate": "2017-08-09",
+            "weekStartDate": "2017-08-06",
             "week": 100,
             "day": 2,
             "exercise": "incline db bench press",
             "originalExerciseName": "Incline DB Bench",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 90,
@@ -8624,12 +11518,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "6637ee1c-3560-455b-b16c-aef8304a06a7",
+            "id": "dc340353-ae4d-4fd6-ae0f-aa6b596a5001",
+            "inferredDate": "2018-08-28",
+            "weekStartDate": "2018-08-25",
             "week": 132,
             "day": 2,
             "exercise": "incline db bench press",
             "originalExerciseName": "Incline DB Bench Press",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 95,
@@ -8640,12 +11536,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "87a9e5d4-2250-4b92-8eb1-266746d93abb",
+            "id": "b940c198-ccb7-4eae-9d65-5ba052b02588",
+            "inferredDate": "2018-10-30",
+            "weekStartDate": "2018-10-27",
             "week": 141,
             "day": 2,
             "exercise": "incline db bench press",
             "originalExerciseName": "Incline DB Bench Press",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "On final set add in 8 reps drop down",
             "weight": 100,
@@ -8658,7 +11556,9 @@ export const repPrs = {
       ],
       "15": [
          {
-            "id": "5affc299-4689-4638-adff-6a8c0a7cba08",
+            "id": "ec8be5e9-6b71-4d5d-890b-006e120ac4f7",
+            "inferredDate": "2016-03-29",
+            "weekStartDate": "2016-03-26",
             "week": 29,
             "day": 2,
             "exercise": "incline db bench press",
@@ -8676,7 +11576,9 @@ export const repPrs = {
       ],
       "25": [
          {
-            "id": "383ae5d7-0c66-45b9-b9b6-2c481147fdec",
+            "id": "7a038794-ea38-43b0-862c-abacb376c8fa",
+            "inferredDate": "2016-12-13",
+            "weekStartDate": "2016-12-10",
             "week": 70,
             "day": 2,
             "exercise": "incline db bench press",
@@ -8692,23 +11594,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "36e18ed0-465a-407c-8905-53ce0e8e725f",
-            "week": 70,
-            "day": 2,
-            "exercise": "incline db bench press",
-            "originalExerciseName": "Incline DB Bench Press",
-            "setNumber": 4,
-            "reps": 25,
-            "instructions": "",
-            "weight": 50,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "fba55888-f194-4684-ad46-a83e54d41b59",
+            "id": "306a6b30-dd65-4de7-a088-8137d3d7bd07",
+            "inferredDate": "2016-12-13",
+            "weekStartDate": "2016-12-10",
             "week": 70,
             "day": 2,
             "exercise": "incline db bench press",
@@ -8724,7 +11612,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "20a4e20a-635e-4351-b60b-e173aba2fb1a",
+            "id": "3686eef3-b372-40b2-9a32-1c269b82ef27",
+            "inferredDate": "2017-05-30",
+            "weekStartDate": "2017-05-27",
             "week": 90,
             "day": 2,
             "exercise": "incline db bench press",
@@ -8744,7 +11634,9 @@ export const repPrs = {
    "dips": {
       "5": [
          {
-            "id": "de800d3e-ec32-4211-9f8e-85bb23f0264f",
+            "id": "912e137e-60f6-4149-9eb0-bcdda6098d87",
+            "inferredDate": "2017-10-25",
+            "weekStartDate": "2017-10-22",
             "week": 112,
             "day": 2,
             "exercise": "dips",
@@ -8760,7 +11652,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "bfe5196d-27a1-46b2-a572-47f7c0535e62",
+            "id": "1a78fc3e-08e9-4b88-bc16-47cb9cc5d5b9",
+            "inferredDate": "2017-10-25",
+            "weekStartDate": "2017-10-22",
             "week": 112,
             "day": 2,
             "exercise": "dips",
@@ -8776,7 +11670,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "8b098846-1d07-4c74-a9fd-24fbb7aaaa64",
+            "id": "67d55b8e-4e48-4b34-a3f6-5ca8069a6fe1",
+            "inferredDate": "2017-10-25",
+            "weekStartDate": "2017-10-22",
             "week": 112,
             "day": 2,
             "exercise": "dips",
@@ -8792,7 +11688,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "a66aea6a-2c96-4196-ad6e-848ad4f4a671",
+            "id": "773e57bd-059b-4591-b422-1a30f5c0d0ad",
+            "inferredDate": "2018-07-31",
+            "weekStartDate": "2018-07-28",
             "week": 128,
             "day": 2,
             "exercise": "dips",
@@ -8810,7 +11708,9 @@ export const repPrs = {
       ],
       "6": [
          {
-            "id": "40b8438d-8da7-4431-96e4-4ba332dbb98e",
+            "id": "9c304be2-ffde-4317-87bd-dd772808a98e",
+            "inferredDate": "2017-07-11",
+            "weekStartDate": "2017-07-08",
             "week": 96,
             "day": 2,
             "exercise": "dips",
@@ -8828,7 +11728,9 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "74a22b04-1602-4778-b0c0-a87e5f9991bc",
+            "id": "9a0c6722-2719-4a6e-ac0e-09bc7eb44a32",
+            "inferredDate": "2016-06-14",
+            "weekStartDate": "2016-06-11",
             "week": 40,
             "day": 2,
             "exercise": "dips",
@@ -8844,7 +11746,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "422ff3e5-e1d0-4e52-a500-411b849d5d09",
+            "id": "c7a59c07-09c5-465b-84a5-b5ed0c3fc34e",
+            "inferredDate": "2019-03-05",
+            "weekStartDate": "2019-03-02",
             "week": 159,
             "day": 2,
             "exercise": "dips",
@@ -8862,12 +11766,14 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "14a184ff-414b-4be7-b847-60026b6318dd",
+            "id": "3b011127-f10e-465a-b60b-357e9079932f",
+            "inferredDate": "2016-04-08",
+            "weekStartDate": "2016-04-02",
             "week": 30,
             "day": 4,
             "exercise": "dips",
             "originalExerciseName": "Chest Dips",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "",
             "weight": 0,
@@ -8878,7 +11784,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "84c8158e-1f42-4914-91eb-5ef6ecfaba37",
+            "id": "f18d35f7-2f49-41af-aa19-1d7f9a3c1e49",
+            "inferredDate": "2017-10-21",
+            "weekStartDate": "2017-10-15",
             "week": 111,
             "day": 4,
             "exercise": "dips",
@@ -8896,7 +11804,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "02da08ee-5275-44cb-b0e3-0b8345bbd2b4",
+            "id": "517db2c6-e6b1-416d-9015-62e0dd6a9aec",
+            "inferredDate": "2016-01-05",
+            "weekStartDate": "2016-01-02",
             "week": 19,
             "day": 2,
             "exercise": "dips",
@@ -8912,12 +11822,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "5577eda8-58ac-4f1f-bffe-e36c6b0fd2b2",
+            "id": "7ba91276-191c-4894-92d6-1fbc53f072c5",
+            "inferredDate": "2017-02-07",
+            "weekStartDate": "2017-02-04",
             "week": 73,
             "day": 2,
             "exercise": "dips",
             "originalExerciseName": "Dips",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 45,
@@ -8928,7 +11840,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "d451e83a-d646-4433-a2e4-888d0a4a2438",
+            "id": "bb1eeccd-079d-4126-8b04-42625e177985",
+            "inferredDate": "2019-01-22",
+            "weekStartDate": "2019-01-19",
             "week": 153,
             "day": 2,
             "exercise": "dips",
@@ -8942,11 +11856,31 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "95e84f54-e28f-4f21-9432-dd78a7776d22",
+            "inferredDate": "2020-02-24",
+            "weekStartDate": "2020-02-22",
+            "week": 209,
+            "day": 1,
+            "exercise": "dips",
+            "originalExerciseName": "Preacher curl machine",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "Last set triple drop downs of 8 + 8 + 8",
+            "weight": 90,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ],
       "20": [
          {
-            "id": "4f7f5f6e-72a2-4c5b-a2a6-0217434234d8",
+            "id": "5dd476ae-d7b9-4af3-a306-b4086248902f",
+            "inferredDate": "2017-08-26",
+            "weekStartDate": "2017-08-20",
             "week": 102,
             "day": 4,
             "exercise": "dips",
@@ -8966,7 +11900,9 @@ export const repPrs = {
    "tricep pushdown (rope)": {
       "6": [
          {
-            "id": "433e47e2-3b01-472e-8ba3-6c7685cfd98d",
+            "id": "f3e1d257-bc2e-4ea5-b543-d64b013bc4d0",
+            "inferredDate": "2017-02-10",
+            "weekStartDate": "2017-02-04",
             "week": 73,
             "day": 4,
             "exercise": "tricep pushdown (rope)",
@@ -8984,7 +11920,9 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "caba3ceb-7247-46df-a0c6-29e033bc69a7",
+            "id": "173f35f5-388a-4303-9d52-b1148268a815",
+            "inferredDate": "2017-02-10",
+            "weekStartDate": "2017-02-04",
             "week": 73,
             "day": 4,
             "exercise": "tricep pushdown (rope)",
@@ -9002,7 +11940,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "bbae6e0b-d657-44eb-83f3-7172a570c2e1",
+            "id": "b33181f2-2bf6-4a12-a075-5b6aa2568d6f",
+            "inferredDate": "2016-06-14",
+            "weekStartDate": "2016-06-11",
             "week": 40,
             "day": 2,
             "exercise": "tricep pushdown (rope)",
@@ -9020,7 +11960,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "8e683c79-8c8a-4596-bf8c-eaa51caafb4c",
+            "id": "72b39442-f878-46af-bd6a-e682b666d8e7",
+            "inferredDate": "2016-08-09",
+            "weekStartDate": "2016-08-06",
             "week": 48,
             "day": 2,
             "exercise": "tricep pushdown (rope)",
@@ -9038,7 +11980,9 @@ export const repPrs = {
       ],
       "15": [
          {
-            "id": "d0c7143f-6778-4126-bc20-a990a56286de",
+            "id": "bce5cb16-1eaa-4afc-9f5a-cd38b5c45e90",
+            "inferredDate": "2016-12-02",
+            "weekStartDate": "2016-11-26",
             "week": 68,
             "day": 4,
             "exercise": "tricep pushdown (rope)",
@@ -9054,7 +11998,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "e059b4a8-eeb9-4073-99f3-981fb034da60",
+            "id": "269af6ed-15fb-4394-a1de-aea18f613301",
+            "inferredDate": "2017-05-26",
+            "weekStartDate": "2017-05-20",
             "week": 89,
             "day": 4,
             "exercise": "tricep pushdown (rope)",
@@ -9068,11 +12014,31 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "9b33178e-7e40-4a03-b45c-e1f4af4f72be",
+            "inferredDate": "2019-04-19",
+            "weekStartDate": "2019-04-13",
+            "week": 165,
+            "day": 4,
+            "exercise": "tricep pushdown (rope)",
+            "originalExerciseName": "Cable Rope Pressdowns",
+            "setNumber": 1,
+            "reps": 15,
+            "instructions": "",
+            "weight": 57.5,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ],
       "20": [
          {
-            "id": "0e5ac460-d2cd-42d6-8af1-ed714fc3077a",
+            "id": "7af68a7e-ace8-49d2-8bdb-03d066fdc7f5",
+            "inferredDate": "2016-03-01",
+            "weekStartDate": "2016-02-27",
             "week": 25,
             "day": 2,
             "exercise": "tricep pushdown (rope)",
@@ -9088,7 +12054,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "76e26311-cbbd-452c-aedd-90465f6ffc99",
+            "id": "c718e7f1-984f-4932-9cd1-c32fb1939178",
+            "inferredDate": "2016-04-12",
+            "weekStartDate": "2016-04-09",
             "week": 31,
             "day": 2,
             "exercise": "tricep pushdown (rope)",
@@ -9104,7 +12072,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "96eb6c29-df1e-4c55-af29-fb13dcaed810",
+            "id": "1e3618e6-301c-4cb8-b73c-3fcfb94d8045",
+            "inferredDate": "2016-07-12",
+            "weekStartDate": "2016-07-09",
             "week": 44,
             "day": 2,
             "exercise": "tricep pushdown (rope)",
@@ -9122,7 +12092,9 @@ export const repPrs = {
       ],
       "21": [
          {
-            "id": "3099d37d-6862-47d3-85d2-9dfc64b0329b",
+            "id": "3fe2a949-ac33-4444-9080-38216337f65e",
+            "inferredDate": "2016-11-11",
+            "weekStartDate": "2016-11-05",
             "week": 65,
             "day": 4,
             "exercise": "tricep pushdown (rope)",
@@ -9140,7 +12112,9 @@ export const repPrs = {
       ],
       "25": [
          {
-            "id": "225f16a3-061b-44ab-b5d0-cf4d8562ca44",
+            "id": "c076c4af-c1be-4360-b792-b18de131d690",
+            "inferredDate": "2016-01-05",
+            "weekStartDate": "2016-01-02",
             "week": 19,
             "day": 2,
             "exercise": "tricep pushdown (rope)",
@@ -9158,7 +12132,9 @@ export const repPrs = {
       ],
       "30": [
          {
-            "id": "c7b0ad12-45fa-4252-af24-ea2497c13878",
+            "id": "707a8fef-b466-4151-afcc-67da5670c635",
+            "inferredDate": "2016-05-17",
+            "weekStartDate": "2016-05-14",
             "week": 36,
             "day": 2,
             "exercise": "tricep pushdown (rope)",
@@ -9178,7 +12154,9 @@ export const repPrs = {
    "db split squats": {
       "15": [
          {
-            "id": "3933d55f-62f4-4d89-976b-1d25214747e9",
+            "id": "d7497fa4-3f97-4b95-b0ff-bb08aaacd1a2",
+            "inferredDate": "2016-01-11",
+            "weekStartDate": "2016-01-09",
             "week": 20,
             "day": 1,
             "exercise": "db split squats",
@@ -9196,14 +12174,77 @@ export const repPrs = {
       ]
    },
    "db romanian deadlift": {
+      "1": [
+         {
+            "id": "274840e5-4294-4472-9ad0-8e1c14834842",
+            "inferredDate": "2020-03-23",
+            "weekStartDate": "2020-03-21",
+            "week": 213,
+            "day": 1,
+            "exercise": "db romanian deadlift",
+            "originalExerciseName": "Bike sprints",
+            "setNumber": 0,
+            "reps": 1,
+            "instructions": "",
+            "weight": 0,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "true",
+            "strategyUsed": "catchAllStrategy",
+            "dropSetId": "",
+            "field17": "[object Object]"
+         }
+      ],
+      "5": [
+         {
+            "id": "fb2488a1-9966-448f-b91f-1c02fc5a4d70",
+            "inferredDate": "2020-03-23",
+            "weekStartDate": "2020-03-21",
+            "week": 213,
+            "day": 1,
+            "exercise": "db romanian deadlift",
+            "originalExerciseName": "High Bar Back Squats",
+            "setNumber": 1,
+            "reps": 5,
+            "instructions": "",
+            "weight": 315,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "6": [
+         {
+            "id": "4c87c1c8-c7fb-4aec-a3e0-7c341fedf1b5",
+            "inferredDate": "2020-04-06",
+            "weekStartDate": "2020-04-04",
+            "week": 215,
+            "day": 1,
+            "exercise": "db romanian deadlift",
+            "originalExerciseName": "High Bar Back Squats",
+            "setNumber": 1,
+            "reps": 6,
+            "instructions": "",
+            "weight": 315,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
       "8": [
          {
-            "id": "f10146a6-a3c5-4e85-8416-c0cc0db97993",
+            "id": "72405c70-94c5-4b7a-a83a-1fb556855d76",
+            "inferredDate": "2016-03-14",
+            "weekStartDate": "2016-03-12",
             "week": 27,
             "day": 1,
             "exercise": "db romanian deadlift",
             "originalExerciseName": "DB RDLs",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 8,
             "instructions": "",
             "weight": 110,
@@ -9214,7 +12255,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "d5403c53-9846-4bb6-868e-8c43f89815cc",
+            "id": "13877148-4b4c-4e27-a126-eb5310f2c2d6",
+            "inferredDate": "2016-03-21",
+            "weekStartDate": "2016-03-19",
             "week": 28,
             "day": 1,
             "exercise": "db romanian deadlift",
@@ -9230,7 +12273,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "65163075-ba10-4188-88b4-5c05d61817c3",
+            "id": "ebc9c81a-771e-473a-baf9-c0b1b5db8da2",
+            "inferredDate": "2016-07-18",
+            "weekStartDate": "2016-07-16",
             "week": 45,
             "day": 1,
             "exercise": "db romanian deadlift",
@@ -9248,7 +12293,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "3e1ad21e-d24f-4be8-975e-5983121402bb",
+            "id": "9aae3a5e-a1d7-4bdc-9539-628e4082a947",
+            "inferredDate": "2016-01-11",
+            "weekStartDate": "2016-01-09",
             "week": 20,
             "day": 1,
             "exercise": "db romanian deadlift",
@@ -9264,7 +12311,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "4aa01676-666a-44da-9be4-7f4906e7b5a6",
+            "id": "e681a341-6e9e-47dd-aa2f-bfc72460946f",
+            "inferredDate": "2016-01-18",
+            "weekStartDate": "2016-01-16",
             "week": 21,
             "day": 1,
             "exercise": "db romanian deadlift",
@@ -9280,12 +12329,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "5af3de9c-f85e-4ddd-9ffa-8726339e28d5",
+            "id": "2cfdca3a-2050-4a06-8392-ef74d811086f",
+            "inferredDate": "2016-01-25",
+            "weekStartDate": "2016-01-23",
             "week": 22,
             "day": 1,
             "exercise": "db romanian deadlift",
             "originalExerciseName": "DB RDLs",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "",
             "weight": 85,
@@ -9296,12 +12347,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "86f18527-61a8-4f82-be42-92f8bc8b5e27",
+            "id": "c36dadd5-d460-4652-8395-0e4b0a246e4c",
+            "inferredDate": "2016-02-01",
+            "weekStartDate": "2016-01-30",
             "week": 23,
             "day": 1,
             "exercise": "db romanian deadlift",
             "originalExerciseName": "DB RDLs",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "",
             "weight": 90,
@@ -9312,7 +12365,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "8fe5135a-89f3-488e-bda0-fc6e2dd074e5",
+            "id": "6cd32bae-8519-43bd-9645-d928fcce4380",
+            "inferredDate": "2016-02-29",
+            "weekStartDate": "2016-02-27",
             "week": 25,
             "day": 1,
             "exercise": "db romanian deadlift",
@@ -9328,7 +12383,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "91401757-e765-4790-96cb-0740a2404ea9",
+            "id": "dc330f7e-fc0f-45ac-b553-392008582a4e",
+            "inferredDate": "2016-06-13",
+            "weekStartDate": "2016-06-11",
             "week": 40,
             "day": 1,
             "exercise": "db romanian deadlift",
@@ -9346,7 +12403,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "719ec4f6-e845-4472-a248-1b171b1fd62b",
+            "id": "9d56fddc-ba3e-4a33-bfb5-be86c9ee97f0",
+            "inferredDate": "2017-02-06",
+            "weekStartDate": "2017-02-04",
             "week": 73,
             "day": 1,
             "exercise": "db romanian deadlift",
@@ -9362,12 +12421,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "140ff36c-e04f-45f6-9e0e-b04c932e7068",
+            "id": "a53a0b76-3a03-418d-b942-1a5964f2dc7c",
+            "inferredDate": "2017-02-13",
+            "weekStartDate": "2017-02-11",
             "week": 74,
             "day": 1,
             "exercise": "db romanian deadlift",
             "originalExerciseName": "DB RDLs",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 115,
@@ -9380,7 +12441,9 @@ export const repPrs = {
       ],
       "15": [
          {
-            "id": "486dd2d2-7c55-4698-a213-6471cff10fc5",
+            "id": "2536b467-2363-431c-b9a2-d86573ba960f",
+            "inferredDate": "2016-05-10",
+            "weekStartDate": "2016-05-07",
             "week": 35,
             "day": 1,
             "exercise": "db romanian deadlift",
@@ -9398,12 +12461,14 @@ export const repPrs = {
       ],
       "20": [
          {
-            "id": "c07fc3a0-277a-4e19-8e5d-11ba2208f6e2",
+            "id": "b60a9a96-8b5f-4992-a5d3-3ab20bfb9086",
+            "inferredDate": "2018-08-20",
+            "weekStartDate": "2018-08-18",
             "week": 131,
             "day": 1,
             "exercise": "db romanian deadlift",
             "originalExerciseName": "DB RDLs",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 20,
             "instructions": "",
             "weight": 60,
@@ -9414,7 +12479,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "24b38fef-207e-484e-ba8b-8a8f0efc9427",
+            "id": "143628f8-c3ba-48e7-86f7-c1ae8c0cac09",
+            "inferredDate": "2018-11-26",
+            "weekStartDate": "2018-11-24",
             "week": 145,
             "day": 1,
             "exercise": "db romanian deadlift",
@@ -9423,7 +12490,45 @@ export const repPrs = {
             "reps": 20,
             "instructions": "just a partial range of motion here",
             "weight": 70,
-            "notes": "Went lighter due to the high reps",
+            "notes": "Went lighter due to the high reps ",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "100": [
+         {
+            "id": "bef535c3-aee3-4737-8bb6-8f2358d6ca7a",
+            "inferredDate": "2020-03-24",
+            "weekStartDate": "2020-03-21",
+            "week": 213,
+            "day": 2,
+            "exercise": "db romanian deadlift",
+            "originalExerciseName": "Banded tricep push down",
+            "setNumber": 1,
+            "reps": 100,
+            "instructions": "Giant set",
+            "weight": 0,
+            "notes": ".5 inch band, giant set",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "noWeightStraightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "05a88908-0c82-496e-bfcb-d66121fbfd74",
+            "inferredDate": "2020-03-24",
+            "weekStartDate": "2020-03-21",
+            "week": 213,
+            "day": 2,
+            "exercise": "db romanian deadlift",
+            "originalExerciseName": "Straight bar curl",
+            "setNumber": 1,
+            "reps": 100,
+            "instructions": "Giant set ",
+            "weight": 45,
+            "notes": "",
             "supersetId": "",
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
@@ -9434,7 +12539,9 @@ export const repPrs = {
    "weighted pull ups": {
       "8": [
          {
-            "id": "47d20b6c-6cee-4b64-9aee-bc00d24bab3d",
+            "id": "6e6fe910-936b-4f55-a40a-b838339a8e7d",
+            "inferredDate": "2016-01-14",
+            "weekStartDate": "2016-01-09",
             "week": 20,
             "day": 3,
             "exercise": "weighted pull ups",
@@ -9450,7 +12557,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "0d964161-fcd6-4157-97d2-9c6c3425fe99",
+            "id": "9a152d34-fe36-482f-8234-dff6048a2262",
+            "inferredDate": "2017-10-06",
+            "weekStartDate": "2017-10-01",
             "week": 109,
             "day": 3,
             "exercise": "weighted pull ups",
@@ -9467,10 +12576,34 @@ export const repPrs = {
          }
       ]
    },
+   "tempo squats": {
+      "8": [
+         {
+            "id": "14130d93-7637-4860-8a56-478ec308d575",
+            "inferredDate": "2016-01-18",
+            "weekStartDate": "2016-01-16",
+            "week": 21,
+            "day": 1,
+            "exercise": "tempo squats",
+            "originalExerciseName": "TEMPO Squats",
+            "setNumber": 1,
+            "reps": 8,
+            "instructions": "Using 60% of your 1 RM, 3-0-3",
+            "weight": 260,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ]
+   },
    "bulgarian split squats": {
       "8": [
          {
-            "id": "009e12a3-802d-4c32-8b29-0123583c515c",
+            "id": "f8edb6e7-7b37-46bb-a634-fbce1b611ffb",
+            "inferredDate": "2016-01-18",
+            "weekStartDate": "2016-01-16",
             "week": 21,
             "day": 1,
             "exercise": "bulgarian split squats",
@@ -9486,7 +12619,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "58d7532b-f72e-4017-82b5-e31dcf8ff29e",
+            "id": "03649f01-fcdf-4591-bd3b-fa7c24bffe6f",
+            "inferredDate": "2016-04-11",
+            "weekStartDate": "2016-04-09",
             "week": 31,
             "day": 1,
             "exercise": "bulgarian split squats",
@@ -9502,12 +12637,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "b2570734-8ad5-49df-afe0-e390c537df33",
+            "id": "35953522-89b5-4225-bf95-772393a5ca3d",
+            "inferredDate": "2017-02-06",
+            "weekStartDate": "2017-02-04",
             "week": 73,
             "day": 1,
             "exercise": "bulgarian split squats",
             "originalExerciseName": "Bulgarian Split Squats",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 8,
             "instructions": "",
             "weight": 75,
@@ -9520,7 +12657,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "8d31bacd-652f-47b5-a554-fdae8692c86d",
+            "id": "d4cc6ec7-3ca4-46b1-afa9-731fe57d34be",
+            "inferredDate": "2016-02-08",
+            "weekStartDate": "2016-02-06",
             "week": 24,
             "day": 1,
             "exercise": "bulgarian split squats",
@@ -9536,7 +12675,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "96afe9e4-cf01-4a05-9691-22d5d7e0c96d",
+            "id": "22fdb9c2-c32d-4c50-adf2-5ad7cf6426d5",
+            "inferredDate": "2016-05-02",
+            "weekStartDate": "2016-04-30",
             "week": 34,
             "day": 1,
             "exercise": "bulgarian split squats",
@@ -9552,7 +12693,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "245972e7-0139-46c8-a5b4-6badb5d6d482",
+            "id": "7e9ef26d-8f5b-42d2-9fdd-8313fc715a88",
+            "inferredDate": "2016-07-11",
+            "weekStartDate": "2016-07-09",
             "week": 44,
             "day": 1,
             "exercise": "bulgarian split squats",
@@ -9568,7 +12711,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "e32c40bf-90d7-4698-bd28-f49ba7ee2f3e",
+            "id": "9dad926f-3d62-406b-948a-3f598469839a",
+            "inferredDate": "2017-06-05",
+            "weekStartDate": "2017-06-03",
             "week": 91,
             "day": 1,
             "exercise": "bulgarian split squats",
@@ -9582,11 +12727,31 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "finalSetDropSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "e195eb6d-5ef1-4808-b987-543b3ad97621",
+            "inferredDate": "2020-04-06",
+            "weekStartDate": "2020-04-04",
+            "week": 215,
+            "day": 1,
+            "exercise": "bulgarian split squats",
+            "originalExerciseName": "Bulgarian split squats",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "",
+            "weight": 45,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ],
       "12": [
          {
-            "id": "097153d2-12d0-4d0e-a12c-13afdb4ebe09",
+            "id": "4065011f-f72b-4c18-be24-35f250a7f3f2",
+            "inferredDate": "2018-07-16",
+            "weekStartDate": "2018-07-14",
             "week": 126,
             "day": 1,
             "exercise": "bulgarian split squats",
@@ -9603,30 +12768,12 @@ export const repPrs = {
          }
       ]
    },
-   "tempo squats": {
-      "8": [
-         {
-            "id": "05c25ae5-88ca-4735-8027-735fb6c00bfd",
-            "week": 21,
-            "day": 1,
-            "exercise": "tempo squats",
-            "originalExerciseName": "TEMPO Squats",
-            "setNumber": 3,
-            "reps": 8,
-            "instructions": "Using 60% of your 1 RM, 3-0-3",
-            "weight": 260,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         }
-      ]
-   },
    "incline db fly": {
       "6": [
          {
-            "id": "b9208a8e-cef8-448f-a326-12a2409d4b9e",
+            "id": "f48c916e-a06b-4970-9c83-9c7904cfe112",
+            "inferredDate": "2018-10-16",
+            "weekStartDate": "2018-10-13",
             "week": 139,
             "day": 2,
             "exercise": "incline db fly",
@@ -9639,12 +12786,14 @@ export const repPrs = {
             "supersetId": "",
             "anomalous": "",
             "strategyUsed": "delimitedRepsDropSetStrategy",
-            "dropSetId": "f22567e2-1a26-4823-8da1-f1ba801e60bb"
+            "dropSetId": "08cd794b-e7a7-4e9e-a0cf-6d4091596888"
          }
       ],
       "8": [
          {
-            "id": "0e87da53-1324-48e3-bdb5-4d413e3c763d",
+            "id": "c49d4dbd-9e03-4ccd-a976-2ce73cfdc37c",
+            "inferredDate": "2016-10-25",
+            "weekStartDate": "2016-10-22",
             "week": 63,
             "day": 2,
             "exercise": "incline db fly",
@@ -9657,17 +12806,19 @@ export const repPrs = {
             "supersetId": "",
             "anomalous": "",
             "strategyUsed": "delimitedRepsDropSetStrategy",
-            "dropSetId": "255bbf1f-61c5-4473-a391-97d9b6ada49d"
+            "dropSetId": "91837658-f5f1-4299-a586-845e00d487f8"
          }
       ],
       "10": [
          {
-            "id": "0600d6e1-e32e-4b61-b1bb-71dd1461bbe2",
+            "id": "d118ffe3-ef50-4cfc-abda-460c20d88d33",
+            "inferredDate": "2016-09-30",
+            "weekStartDate": "2016-09-24",
             "week": 58,
             "day": 4,
             "exercise": "incline db fly",
             "originalExerciseName": "Incline DB Flyes",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "",
             "weight": 35,
@@ -9678,12 +12829,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "ab24afa2-cdee-4b7f-be44-ce3ca59be0b7",
+            "id": "dac33569-401d-404f-8213-8eb9163a7d56",
+            "inferredDate": "2017-02-14",
+            "weekStartDate": "2017-02-11",
             "week": 74,
             "day": 2,
             "exercise": "incline db fly",
             "originalExerciseName": "Incline DB Flyes",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "After each set do a 10 second isohold halway through the ROM",
             "weight": 40,
@@ -9694,7 +12847,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "655e29c3-98cb-431d-afa1-3817787a923a",
+            "id": "8d9ca3e5-29fc-45a2-aceb-9ed6fc153fa9",
+            "inferredDate": "2018-10-16",
+            "weekStartDate": "2018-10-13",
             "week": 139,
             "day": 2,
             "exercise": "incline db fly",
@@ -9707,12 +12862,14 @@ export const repPrs = {
             "supersetId": "",
             "anomalous": "",
             "strategyUsed": "delimitedRepsDropSetStrategy",
-            "dropSetId": "f22567e2-1a26-4823-8da1-f1ba801e60bb"
+            "dropSetId": "08cd794b-e7a7-4e9e-a0cf-6d4091596888"
          }
       ],
       "12": [
          {
-            "id": "351b66c2-4725-4b88-9621-b70fb1e0a033",
+            "id": "37b0673d-c6ad-44fd-84e6-8e60eed8e963",
+            "inferredDate": "2016-01-19",
+            "weekStartDate": "2016-01-16",
             "week": 21,
             "day": 2,
             "exercise": "incline db fly",
@@ -9728,7 +12885,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "d430bb15-2706-4af9-8e8b-f1cf5c15ae6d",
+            "id": "4faba98c-93c2-4e24-83c0-748d634a4917",
+            "inferredDate": "2016-04-15",
+            "weekStartDate": "2016-04-09",
             "week": 31,
             "day": 4,
             "exercise": "incline db fly",
@@ -9744,7 +12903,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "48f16338-966d-4ee7-a137-ff10e98b4b42",
+            "id": "298ccea9-9adf-4f52-9c3e-37c32a1dae42",
+            "inferredDate": "2016-04-29",
+            "weekStartDate": "2016-04-23",
             "week": 33,
             "day": 3,
             "exercise": "incline db fly",
@@ -9760,7 +12921,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "0bffc50f-634d-47c6-a76f-00d613ab6f08",
+            "id": "a010af0f-2eaa-4d31-933c-24bc55761e32",
+            "inferredDate": "2016-07-26",
+            "weekStartDate": "2016-07-23",
             "week": 46,
             "day": 2,
             "exercise": "incline db fly",
@@ -9776,7 +12939,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "d13727cb-3383-4931-81ad-a5c02dbf30f8",
+            "id": "2d57fec8-b2ef-4322-ae15-2d003d8c6574",
+            "inferredDate": "2018-10-30",
+            "weekStartDate": "2018-10-27",
             "week": 141,
             "day": 2,
             "exercise": "incline db fly",
@@ -9790,11 +12955,31 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "5f36364b-2c12-460c-b5bc-53528df62f86",
+            "inferredDate": "2019-11-27",
+            "weekStartDate": "2019-11-23",
+            "week": 196,
+            "day": 2,
+            "exercise": "incline db fly",
+            "originalExerciseName": "Incline DB Flyes",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 50,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ],
       "15": [
          {
-            "id": "38af6d96-7580-4f58-8bfc-b686ef2c7dc8",
+            "id": "41e828c7-0495-4846-83f0-b8fcec577b8e",
+            "inferredDate": "2016-08-02",
+            "weekStartDate": "2016-07-30",
             "week": 50,
             "day": 2,
             "exercise": "incline db fly",
@@ -9812,7 +12997,9 @@ export const repPrs = {
       ],
       "30": [
          {
-            "id": "16073bdd-206c-45a8-8cd6-09dfa13ee65d",
+            "id": "a4a8c0d9-47b7-4103-aa0e-8dbc3eb40bba",
+            "inferredDate": "2016-12-13",
+            "weekStartDate": "2016-12-10",
             "week": 70,
             "day": 2,
             "exercise": "incline db fly",
@@ -9830,7 +13017,9 @@ export const repPrs = {
       ],
       "2008": [
          {
-            "id": "38c05924-8cda-4073-a6b4-db2d11c8ec1f",
+            "id": "30d32821-b7ba-45c8-bf89-7c8f2bf0a368",
+            "inferredDate": "2016-11-15",
+            "weekStartDate": "2016-11-12",
             "week": 66,
             "day": 2,
             "exercise": "incline db fly",
@@ -9843,19 +13032,21 @@ export const repPrs = {
             "supersetId": "",
             "anomalous": "",
             "strategyUsed": "delimitedRepsDropSetStrategy",
-            "dropSetId": "c4443e39-ce32-47fe-ad05-6a6dc8211f3c"
+            "dropSetId": "e3451eab-42c4-4b8f-8379-b418855405a7"
          }
       ]
    },
    "sumo deadlifts": {
       "1": [
          {
-            "id": "0ec69f2c-4a88-4aea-a46b-5a88e71c89c7",
+            "id": "3a9b4e19-c071-4d93-8ba0-3469f3ea3f06",
+            "inferredDate": "2016-03-10",
+            "weekStartDate": "2016-03-05",
             "week": 26,
             "day": 3,
             "exercise": "sumo deadlifts",
             "originalExerciseName": "Sumo Deadlifts",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 1,
             "instructions": "Using 85% of your 1 RM, pull SUMO",
             "weight": 415,
@@ -9868,12 +13059,14 @@ export const repPrs = {
       ],
       "2": [
          {
-            "id": "956a1122-d999-40a0-995b-32177d5dc308",
+            "id": "4e837951-1cec-454b-a379-17c53b5e1a84",
+            "inferredDate": "2016-01-21",
+            "weekStartDate": "2016-01-16",
             "week": 21,
             "day": 3,
             "exercise": "sumo deadlifts",
             "originalExerciseName": "Sumo Deadlifts",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 2,
             "instructions": "Using 80% of your 1 RM, pull SUMO",
             "weight": 395,
@@ -9884,7 +13077,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "b75d4483-a727-44c1-9910-98c06ce5bc61",
+            "id": "2b9e1aef-9961-4cb3-9eca-765827665030",
+            "inferredDate": "2018-11-29",
+            "weekStartDate": "2018-11-24",
             "week": 145,
             "day": 3,
             "exercise": "sumo deadlifts",
@@ -9900,7 +13095,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "9812d5f7-9f81-436d-9312-a057daf2bd21",
+            "id": "90c1ff0c-6248-4134-98a8-ff84a7940b86",
+            "inferredDate": "2018-12-06",
+            "weekStartDate": "2018-12-01",
             "week": 146,
             "day": 3,
             "exercise": "sumo deadlifts",
@@ -9918,12 +13115,14 @@ export const repPrs = {
       ],
       "3": [
          {
-            "id": "d8225f8c-4471-4e6a-974e-56789127c009",
+            "id": "82112fc4-8f64-4cf6-81c8-3685439dab09",
+            "inferredDate": "2016-01-28",
+            "weekStartDate": "2016-01-23",
             "week": 22,
             "day": 3,
             "exercise": "sumo deadlifts",
             "originalExerciseName": "Sumo Deadlifts",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 3,
             "instructions": "Using 75% of your 1 RM, pull SUMO",
             "weight": 365,
@@ -9936,7 +13135,9 @@ export const repPrs = {
       ],
       "6": [
          {
-            "id": "f9e8def5-8092-4f3d-b88d-9dd2e08e591a",
+            "id": "3e268bb9-304f-4663-b331-bd575035590d",
+            "inferredDate": "2016-02-11",
+            "weekStartDate": "2016-02-06",
             "week": 24,
             "day": 3,
             "exercise": "sumo deadlifts",
@@ -9956,12 +13157,14 @@ export const repPrs = {
    "lat pulldowns": {
       "8": [
          {
-            "id": "e6d75753-fb7c-4b2c-b2d8-39218821e68b",
+            "id": "4e7e2383-92bc-436f-806b-2dde17101b9a",
+            "inferredDate": "2016-03-03",
+            "weekStartDate": "2016-02-27",
             "week": 25,
             "day": 3,
             "exercise": "lat pulldowns",
             "originalExerciseName": "Lat Pulldowns",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 8,
             "instructions": "",
             "weight": 170,
@@ -9972,7 +13175,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "827e724e-3d10-4ab5-acd2-7ba3173234ad",
+            "id": "179b4b8b-bd8a-4339-a2e3-12def313679d",
+            "inferredDate": "2017-08-18",
+            "weekStartDate": "2017-08-13",
             "week": 101,
             "day": 3,
             "exercise": "lat pulldowns",
@@ -9988,7 +13193,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "5fd6b526-c24a-4235-8b90-c89559536712",
+            "id": "3eb8b3f4-1dc9-44aa-af17-3798dbc43f36",
+            "inferredDate": "2018-01-05",
+            "weekStartDate": "2017-12-31",
             "week": 122,
             "day": 3,
             "exercise": "lat pulldowns",
@@ -10004,7 +13211,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "2165bcb0-e385-4186-919f-bb07873f55fb",
+            "id": "d6936104-a6d7-4f3c-8f8d-0d8d396d21d8",
+            "inferredDate": "2019-01-03",
+            "weekStartDate": "2018-12-29",
             "week": 150,
             "day": 3,
             "exercise": "lat pulldowns",
@@ -10022,7 +13231,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "9c0c8c7d-2112-4ae5-939b-cfbc5722c0a9",
+            "id": "8c991176-d794-48b8-8792-665e173b9713",
+            "inferredDate": "2016-05-05",
+            "weekStartDate": "2016-04-30",
             "week": 34,
             "day": 3,
             "exercise": "lat pulldowns",
@@ -10038,12 +13249,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "b9c3145b-2d67-49e9-bba7-d240de262072",
+            "id": "047e0b47-99a6-4683-8a0f-b595754e2f87",
+            "inferredDate": "2016-06-30",
+            "weekStartDate": "2016-06-25",
             "week": 42,
             "day": 3,
             "exercise": "lat pulldowns",
             "originalExerciseName": "Lat Pulldowns",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "",
             "weight": 180,
@@ -10054,7 +13267,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "47ee7806-c04b-4eea-a5d0-317f9db4027c",
+            "id": "fbb03efa-dd9b-4349-8c92-fac302674629",
+            "inferredDate": "2018-09-27",
+            "weekStartDate": "2018-09-22",
             "week": 136,
             "day": 3,
             "exercise": "lat pulldowns",
@@ -10070,7 +13285,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "cfd09618-070a-4a5e-95ca-384883e625a2",
+            "id": "767e8862-360d-44e8-b9cc-56428d6263a9",
+            "inferredDate": "2019-01-24",
+            "weekStartDate": "2019-01-19",
             "week": 153,
             "day": 3,
             "exercise": "lat pulldowns",
@@ -10088,7 +13305,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "5ea77954-5366-4774-bea1-9e61ca68c160",
+            "id": "3ddf14e2-5162-448e-996f-bf5ac72e4197",
+            "inferredDate": "2016-01-28",
+            "weekStartDate": "2016-01-23",
             "week": 22,
             "day": 3,
             "exercise": "lat pulldowns",
@@ -10104,7 +13323,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "82e7399a-b23c-4dc7-b9a8-33481239a162",
+            "id": "30cab8ce-d203-4cf3-a674-9d611db596f7",
+            "inferredDate": "2016-03-31",
+            "weekStartDate": "2016-03-26",
             "week": 29,
             "day": 3,
             "exercise": "lat pulldowns",
@@ -10120,7 +13341,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "c55b56f9-740d-4d48-8bd7-066ae0df941e",
+            "id": "9c2d8078-e178-4fd8-b42f-0fef17723bd3",
+            "inferredDate": "2017-05-25",
+            "weekStartDate": "2017-05-20",
             "week": 89,
             "day": 3,
             "exercise": "lat pulldowns",
@@ -10136,7 +13359,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "829af30e-8eb2-4be1-ab43-8c75f1780042",
+            "id": "490b999b-6583-43ab-88de-05e66b7ca665",
+            "inferredDate": "2018-12-13",
+            "weekStartDate": "2018-12-08",
             "week": 147,
             "day": 3,
             "exercise": "lat pulldowns",
@@ -10150,11 +13375,31 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "899a85b4-d252-42fc-afd4-d5c445ee50e9",
+            "inferredDate": "2019-06-27",
+            "weekStartDate": "2019-06-22",
+            "week": 174,
+            "day": 3,
+            "exercise": "lat pulldowns",
+            "originalExerciseName": "machine row",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 270,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ],
       "15": [
          {
-            "id": "3b548b63-5bf8-43ae-bc45-9db3f2366a1a",
+            "id": "6e19b082-2d90-48b5-ba18-0cc956087839",
+            "inferredDate": "2016-01-21",
+            "weekStartDate": "2016-01-16",
             "week": 21,
             "day": 3,
             "exercise": "lat pulldowns",
@@ -10172,12 +13417,14 @@ export const repPrs = {
       ],
       "16": [
          {
-            "id": "b162bf86-fd6d-4743-a43a-05fa56ce5d31",
+            "id": "4426f950-b158-488b-bbac-59472dcc1f2a",
+            "inferredDate": "2018-07-19",
+            "weekStartDate": "2018-07-14",
             "week": 126,
             "day": 3,
             "exercise": "lat pulldowns",
             "originalExerciseName": "Lat Pulldowns",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 16,
             "instructions": "Lat Pulldowns With a very wide pronated grip, then a close supine grip",
             "weight": 145,
@@ -10188,7 +13435,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "2b76bb52-1f50-4f86-9586-e83eff5913df",
+            "id": "74263816-4a94-4f2c-8d0c-193b5d3d73bf",
+            "inferredDate": "2019-01-10",
+            "weekStartDate": "2019-01-05",
             "week": 151,
             "day": 3,
             "exercise": "lat pulldowns",
@@ -10208,7 +13457,9 @@ export const repPrs = {
    "close stance leg press": {
       "8": [
          {
-            "id": "35bca7b3-7fcc-438a-a717-f9b090c280ce",
+            "id": "f90a2f7c-82ce-4185-b1c8-476acb6f73cb",
+            "inferredDate": "2016-01-25",
+            "weekStartDate": "2016-01-23",
             "week": 22,
             "day": 1,
             "exercise": "close stance leg press",
@@ -10226,7 +13477,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "91a35747-d0aa-46a4-b138-37fef0fa379b",
+            "id": "506e7add-8821-4ff2-add5-5793444633e7",
+            "inferredDate": "2016-02-01",
+            "weekStartDate": "2016-01-30",
             "week": 23,
             "day": 1,
             "exercise": "close stance leg press",
@@ -10243,146 +13496,12 @@ export const repPrs = {
          }
       ]
    },
-   "hex db bench press": {
-      "8": [
-         {
-            "id": "9790cbe3-05ce-4769-960f-1162656e699d",
-            "week": 111,
-            "day": 2,
-            "exercise": "hex db bench press",
-            "originalExerciseName": "Hex DB Bench Press",
-            "setNumber": 1,
-            "reps": 8,
-            "instructions": "",
-            "weight": 60,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "c4825270-c0a2-4ea3-99cb-8ed84eccd5f1",
-            "week": 146,
-            "day": 2,
-            "exercise": "hex db bench press",
-            "originalExerciseName": "Hex DB Bench Press",
-            "setNumber": 1,
-            "reps": 8,
-            "instructions": "",
-            "weight": 65,
-            "notes": "I rarely get these for less than 10 reps, so went a little heavier. I should also start using 55s as my default for these, as I’ve been using 50s for like a year",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "10": [
-         {
-            "id": "00dd1a0c-539e-446e-bf46-1a90f9f43bf4",
-            "week": 40,
-            "day": 2,
-            "exercise": "hex db bench press",
-            "originalExerciseName": "Hex DB Press",
-            "setNumber": 1,
-            "reps": 10,
-            "instructions": "Jam blood in pecs don't go heavy after the flat bench",
-            "weight": 45,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "8ca65630-0e51-4643-b7de-a9a6ebf2ea22",
-            "week": 65,
-            "day": 4,
-            "exercise": "hex db bench press",
-            "originalExerciseName": "Hex DB Press",
-            "setNumber": 1,
-            "reps": 10,
-            "instructions": "",
-            "weight": 50,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "repRangeInParenthesisStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "12": [
-         {
-            "id": "04c33a0a-629e-4b5c-a558-4a74f460fe4b",
-            "week": 22,
-            "day": 2,
-            "exercise": "hex db bench press",
-            "originalExerciseName": "Flat Hex DB Press",
-            "setNumber": 3,
-            "reps": 12,
-            "instructions": "",
-            "weight": 30,
-            "notes": "These were hard because my gym only has round steel DBs. Bashed my thumb a couple times trying to feel the squeeze in my chest. Would using kettle bells be an acceptable alternative??",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "2824f298-4c8a-49b0-85f9-955ca1a50e4b",
-            "week": 37,
-            "day": 2,
-            "exercise": "hex db bench press",
-            "originalExerciseName": "Hex DB Press",
-            "setNumber": 2,
-            "reps": 12,
-            "instructions": "",
-            "weight": 45,
-            "notes": "Ran out of time, so had to do these and the tricep extensions on wednesday",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "1982937e-2374-42c4-a4d6-ef4bc5697970",
-            "week": 37,
-            "day": 2,
-            "exercise": "hex db bench press",
-            "originalExerciseName": "Hex DB Press",
-            "setNumber": 3,
-            "reps": 12,
-            "instructions": "",
-            "weight": 50,
-            "notes": "Ran out of time, so had to do these and the tricep extensions on wednesday",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "de4df584-476e-48fa-9779-21360d0f6ac3",
-            "week": 133,
-            "day": 4,
-            "exercise": "hex db bench press",
-            "originalExerciseName": "Hex DB Bench Press",
-            "setNumber": 3,
-            "reps": 12,
-            "instructions": "",
-            "weight": 60,
-            "notes": "Went a little heavier since these usually aren’t the first chest movement of the day",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         }
-      ]
-   },
    "close grip swiss bar floor press": {
       "1": [
          {
-            "id": "6fe4c70d-6f7f-4e9c-9ba7-c619d3a1c3fc",
+            "id": "0363aa99-4777-45e9-b4d6-500567dfdca5",
+            "inferredDate": "2016-03-15",
+            "weekStartDate": "2016-03-12",
             "week": 27,
             "day": 2,
             "exercise": "close grip swiss bar floor press",
@@ -10400,7 +13519,9 @@ export const repPrs = {
       ],
       "2": [
          {
-            "id": "b6ce7106-fd2e-438a-ad1e-74cde4184d7c",
+            "id": "a2bbe1f7-e4d0-4126-b0c7-0dfaaad13183",
+            "inferredDate": "2016-03-08",
+            "weekStartDate": "2016-03-05",
             "week": 26,
             "day": 2,
             "exercise": "close grip swiss bar floor press",
@@ -10418,7 +13539,9 @@ export const repPrs = {
       ],
       "3": [
          {
-            "id": "b72c0c67-c94f-4bd9-a7e5-e78a5b62d10a",
+            "id": "ef5c1226-1562-4b19-95b4-b3d404e1dda0",
+            "inferredDate": "2016-03-01",
+            "weekStartDate": "2016-02-27",
             "week": 25,
             "day": 2,
             "exercise": "close grip swiss bar floor press",
@@ -10436,7 +13559,9 @@ export const repPrs = {
       ],
       "5": [
          {
-            "id": "74252be9-744b-4a4b-b5f5-a033fb03bafd",
+            "id": "98a65601-5be3-4ff8-94b0-f28c70c3cbf8",
+            "inferredDate": "2016-02-09",
+            "weekStartDate": "2016-02-06",
             "week": 24,
             "day": 2,
             "exercise": "close grip swiss bar floor press",
@@ -10454,7 +13579,9 @@ export const repPrs = {
       ],
       "6": [
          {
-            "id": "a0eb8c1b-232f-4c66-b138-ff84f757561e",
+            "id": "4a3ec639-085c-48c5-aa08-869028222101",
+            "inferredDate": "2016-02-02",
+            "weekStartDate": "2016-01-30",
             "week": 23,
             "day": 2,
             "exercise": "close grip swiss bar floor press",
@@ -10472,12 +13599,14 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "8ac5e05f-505a-42cf-93fa-ea9e2cf677d4",
+            "id": "87519026-ec21-43ab-99c8-3bca261e2eb3",
+            "inferredDate": "2016-01-26",
+            "weekStartDate": "2016-01-23",
             "week": 22,
             "day": 2,
             "exercise": "close grip swiss bar floor press",
             "originalExerciseName": "Close Grip Swiss Bar Floor Press",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 8,
             "instructions": "Using 60% of your 1 RM",
             "weight": 195,
@@ -10489,15 +13618,225 @@ export const repPrs = {
          }
       ]
    },
+   "hex db bench press": {
+      "8": [
+         {
+            "id": "bc94963b-a110-4e3a-876a-a7ffb7b2b569",
+            "inferredDate": "2017-10-18",
+            "weekStartDate": "2017-10-15",
+            "week": 111,
+            "day": 2,
+            "exercise": "hex db bench press",
+            "originalExerciseName": "Hex DB Bench Press",
+            "setNumber": 1,
+            "reps": 8,
+            "instructions": "",
+            "weight": 60,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "e87f7007-cc6a-45bf-a8f5-ad606066f767",
+            "inferredDate": "2018-12-04",
+            "weekStartDate": "2018-12-01",
+            "week": 146,
+            "day": 2,
+            "exercise": "hex db bench press",
+            "originalExerciseName": "Hex DB Bench Press",
+            "setNumber": 1,
+            "reps": 8,
+            "instructions": "",
+            "weight": 65,
+            "notes": "I rarely get these for less than 10 reps, so went a little heavier. I should also start using 55s as my default for these, as I’ve been using 50s for like a year",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "10": [
+         {
+            "id": "6247043b-e664-4a44-8f5b-9a58d317b8ee",
+            "inferredDate": "2016-06-14",
+            "weekStartDate": "2016-06-11",
+            "week": 40,
+            "day": 2,
+            "exercise": "hex db bench press",
+            "originalExerciseName": "Hex DB Press",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "Jam blood in pecs don't go heavy after the flat bench",
+            "weight": 45,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "d5c4f5c8-aeab-47fd-8dca-ae87e73eab9f",
+            "inferredDate": "2016-11-11",
+            "weekStartDate": "2016-11-05",
+            "week": 65,
+            "day": 4,
+            "exercise": "hex db bench press",
+            "originalExerciseName": "Hex DB Press",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "",
+            "weight": 50,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "repRangeInParenthesisStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "12": [
+         {
+            "id": "0ca0cf87-5537-423b-8a36-b20fa3d03cf1",
+            "inferredDate": "2016-01-26",
+            "weekStartDate": "2016-01-23",
+            "week": 22,
+            "day": 2,
+            "exercise": "hex db bench press",
+            "originalExerciseName": "Flat Hex DB Press",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 30,
+            "notes": "These were hard because my gym only has round steel DBs. Bashed my thumb a couple times trying to feel the squeeze in my chest. Would using kettle bells be an acceptable alternative??",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "a024397b-75d4-40dc-b02b-ef65d17f4221",
+            "inferredDate": "2016-05-24",
+            "weekStartDate": "2016-05-21",
+            "week": 37,
+            "day": 2,
+            "exercise": "hex db bench press",
+            "originalExerciseName": "Hex DB Press",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 40,
+            "notes": "Ran out of time, so had to do these and the tricep extensions on wednesday",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "18b9a8bd-178c-465c-93a7-29ef740b54ef",
+            "inferredDate": "2016-05-24",
+            "weekStartDate": "2016-05-21",
+            "week": 37,
+            "day": 2,
+            "exercise": "hex db bench press",
+            "originalExerciseName": "Hex DB Press",
+            "setNumber": 2,
+            "reps": 12,
+            "instructions": "",
+            "weight": 45,
+            "notes": "Ran out of time, so had to do these and the tricep extensions on wednesday",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "34b1a8d6-dc96-4084-92b5-b74338d3fd0f",
+            "inferredDate": "2016-05-24",
+            "weekStartDate": "2016-05-21",
+            "week": 37,
+            "day": 2,
+            "exercise": "hex db bench press",
+            "originalExerciseName": "Hex DB Press",
+            "setNumber": 3,
+            "reps": 12,
+            "instructions": "",
+            "weight": 50,
+            "notes": "Ran out of time, so had to do these and the tricep extensions on wednesday",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "8fc0ee27-4498-4256-a912-590a655e9942",
+            "inferredDate": "2018-09-07",
+            "weekStartDate": "2018-09-01",
+            "week": 133,
+            "day": 4,
+            "exercise": "hex db bench press",
+            "originalExerciseName": "Hex DB Bench Press",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 60,
+            "notes": "Went a little heavier since these usually aren’t the first chest movement of the day",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "15": [
+         {
+            "id": "48686da4-6dec-427f-bfe3-408e00c39690",
+            "inferredDate": "2019-10-21",
+            "weekStartDate": "2019-10-19",
+            "week": 191,
+            "day": 1,
+            "exercise": "hex db bench press",
+            "originalExerciseName": "Pec deck",
+            "setNumber": 1,
+            "reps": 15,
+            "instructions": "",
+            "weight": 120,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "63d97069-7050-4e64-a636-c03248fe92b4",
+            "inferredDate": "2019-10-30",
+            "weekStartDate": "2019-10-26",
+            "week": 192,
+            "day": 2,
+            "exercise": "hex db bench press",
+            "originalExerciseName": "Pec deck",
+            "setNumber": 1,
+            "reps": 15,
+            "instructions": "",
+            "weight": 130,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ]
+   },
    "db twist and press": {
       "10": [
          {
-            "id": "185f62c5-a5f9-4b47-8860-983bd1b4d81e",
+            "id": "7d6dac68-edc1-4d5e-a5f8-ea6cf4381b5a",
+            "inferredDate": "2016-11-04",
+            "weekStartDate": "2016-10-29",
             "week": 64,
             "day": 4,
             "exercise": "db twist and press",
             "originalExerciseName": "DB Twist Press",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "",
             "weight": 75,
@@ -10510,7 +13849,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "9275a442-2d95-4011-b887-0f04620f5110",
+            "id": "18d0dbfc-0ced-4476-bda6-2f313d398784",
+            "inferredDate": "2016-02-02",
+            "weekStartDate": "2016-01-30",
             "week": 23,
             "day": 2,
             "exercise": "db twist and press",
@@ -10526,12 +13867,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "8353e732-a789-4bac-a8fe-feff5c550659",
+            "id": "3d515893-dbcc-496d-9b6c-ab4aaea21be3",
+            "inferredDate": "2016-09-09",
+            "weekStartDate": "2016-09-03",
             "week": 55,
             "day": 4,
             "exercise": "db twist and press",
             "originalExerciseName": "DB Twist and Press",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 75,
@@ -10546,7 +13889,9 @@ export const repPrs = {
    "db bench press": {
       "4": [
          {
-            "id": "892dcd9a-95ea-4ed2-9ad9-56aaad4b7ef1",
+            "id": "2505f0bb-f286-4159-9c6a-17437da65176",
+            "inferredDate": "2018-11-27",
+            "weekStartDate": "2018-11-24",
             "week": 145,
             "day": 2,
             "exercise": "db bench press",
@@ -10559,12 +13904,14 @@ export const repPrs = {
             "supersetId": "",
             "anomalous": "",
             "strategyUsed": "finalSetDoubleDropSetStrategy",
-            "dropSetId": "0e5d4854-d370-4040-ab33-d0c933d4ff1e"
+            "dropSetId": "361bc3f8-e527-41cd-b4fc-229aef394fd0"
          }
       ],
       "6": [
          {
-            "id": "c570f6ca-3a30-4b11-b7fd-c3c459d2a3aa",
+            "id": "51246024-2a1e-4e19-a15a-f7fc7294751d",
+            "inferredDate": "2016-05-17",
+            "weekStartDate": "2016-05-14",
             "week": 36,
             "day": 2,
             "exercise": "db bench press",
@@ -10580,12 +13927,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "9891b096-7fc0-4fc6-962a-2ad1fb94a7eb",
+            "id": "73cdb691-a581-45bd-be16-926e61491d2e",
+            "inferredDate": "2016-08-09",
+            "weekStartDate": "2016-08-06",
             "week": 48,
             "day": 2,
             "exercise": "db bench press",
             "originalExerciseName": "Flat DB Bench",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 6,
             "instructions": "",
             "weight": 110,
@@ -10596,7 +13945,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "04212bac-035f-4908-8c7e-ffe8793632c1",
+            "id": "37c661f7-032c-4283-a15e-f04ea3a9a0a3",
+            "inferredDate": "2016-09-06",
+            "weekStartDate": "2016-09-03",
             "week": 55,
             "day": 2,
             "exercise": "db bench press",
@@ -10614,7 +13965,9 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "c0ab75a8-aabb-4e72-849f-fbe16177dd2f",
+            "id": "07571420-c0e4-4f16-bd6e-7f5e3e28183e",
+            "inferredDate": "2016-03-15",
+            "weekStartDate": "2016-03-12",
             "week": 27,
             "day": 2,
             "exercise": "db bench press",
@@ -10630,7 +13983,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "16eef597-160e-4523-b71a-2efc7ce89488",
+            "id": "219cfebb-11df-49da-aa3f-209ca1f4f925",
+            "inferredDate": "2016-04-05",
+            "weekStartDate": "2016-04-02",
             "week": 30,
             "day": 2,
             "exercise": "db bench press",
@@ -10646,7 +14001,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "ffe031a6-0f46-4df9-a082-420b32fdc32d",
+            "id": "a081f34f-2870-46c9-9625-83c0c34ea98f",
+            "inferredDate": "2016-04-05",
+            "weekStartDate": "2016-04-02",
             "week": 30,
             "day": 2,
             "exercise": "db bench press",
@@ -10662,7 +14019,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "4641e37e-8441-441c-ae7b-922b8e993e0f",
+            "id": "33fd7f9c-8769-4772-9a54-5f1a16bc24d9",
+            "inferredDate": "2016-08-09",
+            "weekStartDate": "2016-08-06",
             "week": 51,
             "day": 2,
             "exercise": "db bench press",
@@ -10678,12 +14037,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "3407adff-f3a3-49b2-aa76-29439d226f3f",
+            "id": "96d205c7-303f-4f23-b2a1-cb97d34abb66",
+            "inferredDate": "2018-11-06",
+            "weekStartDate": "2018-11-03",
             "week": 142,
             "day": 2,
             "exercise": "db bench press",
             "originalExerciseName": "Flat DB Bench Press",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 8,
             "instructions": "Just work up here",
             "weight": 120,
@@ -10694,12 +14055,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "71cd26fd-97a8-453c-a57e-72be7f077744",
+            "id": "abe6d36b-7f77-42e1-824d-3caab9317eb3",
+            "inferredDate": "2018-12-25",
+            "weekStartDate": "2018-12-22",
             "week": 149,
             "day": 2,
             "exercise": "db bench press",
             "originalExerciseName": "Flat DB Bench Press",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 8,
             "instructions": "Work up heavy this week",
             "weight": 125,
@@ -10712,7 +14075,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "aeba8775-4405-40cc-bf22-eab94cf0db11",
+            "id": "f1d48046-e61e-48b4-98de-75beb71aeb6f",
+            "inferredDate": "2016-03-01",
+            "weekStartDate": "2016-02-27",
             "week": 25,
             "day": 2,
             "exercise": "db bench press",
@@ -10728,7 +14093,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "e4043db0-517d-4384-9fc0-cf995d0ce18d",
+            "id": "3feccbcd-6cc9-4239-8ed2-e1db0ce2cec0",
+            "inferredDate": "2016-03-08",
+            "weekStartDate": "2016-03-05",
             "week": 26,
             "day": 2,
             "exercise": "db bench press",
@@ -10744,7 +14111,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "677b80d2-12a7-464e-95d0-9d953b3b9911",
+            "id": "fcb49b4f-42c3-4659-b47e-6acccfd1dd26",
+            "inferredDate": "2016-05-12",
+            "weekStartDate": "2016-05-07",
             "week": 35,
             "day": 2,
             "exercise": "db bench press",
@@ -10760,7 +14129,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "aad3c5f4-3fd7-43fe-809a-7896b701a055",
+            "id": "a4ec56f1-2564-4167-ac26-18f94a524100",
+            "inferredDate": "2016-06-14",
+            "weekStartDate": "2016-06-11",
             "week": 40,
             "day": 2,
             "exercise": "db bench press",
@@ -10776,7 +14147,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "9c4a4271-22bf-4a02-b9e2-fc67b539acbd",
+            "id": "37b1fb2f-8076-495c-9316-dfd49e64d855",
+            "inferredDate": "2016-08-02",
+            "weekStartDate": "2016-07-30",
             "week": 47,
             "day": 2,
             "exercise": "db bench press",
@@ -10792,7 +14165,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "67bb2fe6-059c-4ae0-b1de-25e21a26e20f",
+            "id": "a8522066-9a71-4ee6-b369-4db5871ed901",
+            "inferredDate": "2017-06-09",
+            "weekStartDate": "2017-06-03",
             "week": 91,
             "day": 4,
             "exercise": "db bench press",
@@ -10808,7 +14183,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "077ef385-abd7-405a-9f06-5de9bf539f65",
+            "id": "51e86563-96f0-46cf-9608-85a112293381",
+            "inferredDate": "2017-06-23",
+            "weekStartDate": "2017-06-17",
             "week": 93,
             "day": 4,
             "exercise": "db bench press",
@@ -10824,7 +14201,27 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "1db22e32-2cc6-4849-afc1-2a9f67436957",
+            "id": "c665bd91-8ff7-4d1c-98b0-3461cab67edf",
+            "inferredDate": "2018-10-02",
+            "weekStartDate": "2018-09-29",
+            "week": 137,
+            "day": 2,
+            "exercise": "db bench press",
+            "originalExerciseName": "Flat DB Bench Press",
+            "setNumber": 2,
+            "reps": 10,
+            "instructions": "Work up heavy",
+            "weight": 115,
+            "notes": "Previous 8 rep PR was 120, so getting 120x10x2 is pretty cool.",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "5b2c679e-35a7-48dd-9b2a-d9ef263bdf8b",
+            "inferredDate": "2018-10-02",
+            "weekStartDate": "2018-09-29",
             "week": 137,
             "day": 2,
             "exercise": "db bench press",
@@ -10842,7 +14239,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "bffeccaa-5240-4c77-9ae8-fd4910f6242d",
+            "id": "9b704580-bc5c-45db-b4c8-172d16f6338b",
+            "inferredDate": "2016-02-09",
+            "weekStartDate": "2016-02-06",
             "week": 24,
             "day": 2,
             "exercise": "db bench press",
@@ -10858,12 +14257,32 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "43aa6dc9-0eeb-4ffa-87b3-1d394844d8be",
+            "id": "d6f3421f-5522-4bed-804c-8a506722ba6c",
+            "inferredDate": "2016-11-15",
+            "weekStartDate": "2016-11-12",
             "week": 66,
             "day": 2,
             "exercise": "db bench press",
             "originalExerciseName": "Flat DB Bench Press",
-            "setNumber": 4,
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 90,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "2f279ece-3114-414d-8b41-35a23e2d59d6",
+            "inferredDate": "2016-11-15",
+            "weekStartDate": "2016-11-12",
+            "week": 66,
+            "day": 2,
+            "exercise": "db bench press",
+            "originalExerciseName": "Flat DB Bench Press",
+            "setNumber": 2,
             "reps": 12,
             "instructions": "",
             "weight": 95,
@@ -10874,7 +14293,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "89a6fa89-76e6-4c15-b9dd-a5387ee18b1a",
+            "id": "ddcc41c6-ad4d-4f65-bf8e-316222f070a3",
+            "inferredDate": "2017-01-31",
+            "weekStartDate": "2017-01-28",
             "week": 72,
             "day": 2,
             "exercise": "db bench press",
@@ -10890,7 +14311,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "3547d765-6fc0-4cfb-8081-0a92484d5df3",
+            "id": "5e1e56ae-122f-459f-ada6-87a74355fe17",
+            "inferredDate": "2018-11-13",
+            "weekStartDate": "2018-11-10",
             "week": 143,
             "day": 2,
             "exercise": "db bench press",
@@ -10906,12 +14329,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "a43d44a2-06b9-46fb-8056-8b9cf4b0dccc",
+            "id": "2426fed9-efcf-4712-a94e-41199d4413a9",
+            "inferredDate": "2019-02-05",
+            "weekStartDate": "2019-02-02",
             "week": 155,
             "day": 2,
             "exercise": "db bench press",
             "originalExerciseName": "Flat DB Bench Press",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 115,
@@ -10924,7 +14349,9 @@ export const repPrs = {
       ],
       "15": [
          {
-            "id": "20d3f798-03e4-4f21-a8f7-368c39816016",
+            "id": "0b147a59-f545-4027-9a07-f41d8b0531ba",
+            "inferredDate": "2016-05-24",
+            "weekStartDate": "2016-05-21",
             "week": 37,
             "day": 2,
             "exercise": "db bench press",
@@ -10940,23 +14367,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "ee100649-3412-4914-b1c0-e0f86065597e",
-            "week": 67,
-            "day": 2,
-            "exercise": "db bench press",
-            "originalExerciseName": "Flat DB Bench",
-            "setNumber": 4,
-            "reps": 15,
-            "instructions": "",
-            "weight": 90,
-            "notes": "Got 15 reps with 100s on the first set, but 3 more did not seem likely.",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "032d91ee-c138-4116-92c2-a907688e5765",
+            "id": "107f331d-d65a-40c7-abcd-4d30e7904482",
+            "inferredDate": "2016-11-22",
+            "weekStartDate": "2016-11-19",
             "week": 67,
             "day": 2,
             "exercise": "db bench press",
@@ -10976,7 +14389,9 @@ export const repPrs = {
    "db squats": {
       "10": [
          {
-            "id": "b2aaacb6-028a-4016-a909-5453a269c5af",
+            "id": "c6bab0e4-2d33-4764-9a73-0c0a16c54a82",
+            "inferredDate": "2016-02-29",
+            "weekStartDate": "2016-02-27",
             "week": 25,
             "day": 1,
             "exercise": "db squats",
@@ -10992,7 +14407,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "d8b79aac-580c-4555-938e-6d374a1293cb",
+            "id": "ac4e4f96-2eb5-484a-a2b3-e5b244403ed5",
+            "inferredDate": "2016-03-07",
+            "weekStartDate": "2016-03-05",
             "week": 26,
             "day": 1,
             "exercise": "db squats",
@@ -11008,12 +14425,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "fa2085ea-aaf6-444d-b662-0f2343fcb8ce",
+            "id": "98c374df-b520-4b26-be28-adafb9d4b111",
+            "inferredDate": "2016-04-18",
+            "weekStartDate": "2016-04-16",
             "week": 32,
             "day": 1,
             "exercise": "db squats",
             "originalExerciseName": "DB Squats",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "Hold DBs at your sides",
             "weight": 90,
@@ -11026,12 +14445,14 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "5f0ffa9c-e19d-4cfc-bc55-ad6429e84357",
+            "id": "a102014a-419e-4089-be69-c2f0ac440608",
+            "inferredDate": "2016-07-25",
+            "weekStartDate": "2016-07-23",
             "week": 46,
             "day": 1,
             "exercise": "db squats",
             "originalExerciseName": "DB Squats",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 50,
@@ -11044,9 +14465,31 @@ export const repPrs = {
       ]
    },
    "meadows row": {
+      "5": [
+         {
+            "id": "6192b1ce-6b20-4843-bc8a-68b7041a391b",
+            "inferredDate": "2019-08-05",
+            "weekStartDate": "2019-08-03",
+            "week": 180,
+            "day": 1,
+            "exercise": "meadows row",
+            "originalExerciseName": "Front lever",
+            "setNumber": 1,
+            "reps": 5,
+            "instructions": "",
+            "weight": 0,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "noWeightStraightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
       "6": [
          {
-            "id": "db17b2dc-cc03-42d4-9e3d-835f4fe43dbe",
+            "id": "9fb5a34f-7a57-4fcb-80ab-f7590f0c73a5",
+            "inferredDate": "2017-03-30",
+            "weekStartDate": "2017-03-25",
             "week": 80,
             "day": 3,
             "exercise": "meadows row",
@@ -11064,7 +14507,9 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "554a0b4b-4ee8-4bfa-9bf4-692e9f009392",
+            "id": "186608e5-75b4-4272-979e-fb300810dfdf",
+            "inferredDate": "2016-03-03",
+            "weekStartDate": "2016-02-27",
             "week": 25,
             "day": 3,
             "exercise": "meadows row",
@@ -11080,7 +14525,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "0655488a-dc3d-4192-949e-10beb86f586b",
+            "id": "dda0230e-be8f-4164-966a-44d2852d1c8d",
+            "inferredDate": "2018-08-02",
+            "weekStartDate": "2018-07-28",
             "week": 128,
             "day": 3,
             "exercise": "meadows row",
@@ -11096,7 +14543,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "2b390687-26b8-4d81-8975-1599fe5a7c1e",
+            "id": "3a0c3835-9916-45dc-8a59-fac6ac916409",
+            "inferredDate": "2018-12-27",
+            "weekStartDate": "2018-12-22",
             "week": 149,
             "day": 3,
             "exercise": "meadows row",
@@ -11114,7 +14563,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "d101f3fe-d3b6-4ccb-a6f0-cb57cfbbef74",
+            "id": "1b783323-4452-4568-97c2-4d5005e861cd",
+            "inferredDate": "2018-09-13",
+            "weekStartDate": "2018-09-08",
             "week": 134,
             "day": 3,
             "exercise": "meadows row",
@@ -11132,15 +14583,35 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "a01aafbd-a0b4-4ea0-b741-b451293e2005",
+            "id": "fe7f9c44-fa50-444f-ae6f-24d522a34f84",
+            "inferredDate": "2017-03-09",
+            "weekStartDate": "2017-03-04",
             "week": 77,
             "day": 3,
             "exercise": "meadows row",
             "originalExerciseName": "Meadows Rows",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 50,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "002c2fc3-77c4-442e-97aa-d6d72d015d6b",
+            "inferredDate": "2019-05-02",
+            "weekStartDate": "2019-04-27",
+            "week": 167,
+            "day": 3,
+            "exercise": "meadows row",
+            "originalExerciseName": "Meadows Rows",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 75,
             "notes": "",
             "supersetId": "",
             "anomalous": "",
@@ -11152,15 +14623,35 @@ export const repPrs = {
    "goblet squats": {
       "10": [
          {
-            "id": "5086d227-485d-48c3-a0f5-b7c44c5bf52f",
+            "id": "a6b95921-da12-41ef-8a70-7bfd1bf88b1c",
+            "inferredDate": "2017-05-15",
+            "weekStartDate": "2017-05-13",
             "week": 88,
             "day": 1,
             "exercise": "goblet squats",
             "originalExerciseName": "Goblet Squats",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "",
             "weight": 100,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "00e0ece1-91a0-43a0-9215-ff8a90df01d7",
+            "inferredDate": "2020-04-13",
+            "weekStartDate": "2020-04-11",
+            "week": 216,
+            "day": 1,
+            "exercise": "goblet squats",
+            "originalExerciseName": "goblet squats",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "",
+            "weight": 105,
             "notes": "",
             "supersetId": "",
             "anomalous": "",
@@ -11170,7 +14661,9 @@ export const repPrs = {
       ],
       "15": [
          {
-            "id": "ec667848-0ed3-4473-ba16-9b7357349387",
+            "id": "2217da74-4b8b-4730-be4c-137bbf3b64a2",
+            "inferredDate": "2016-03-14",
+            "weekStartDate": "2016-03-12",
             "week": 27,
             "day": 1,
             "exercise": "goblet squats",
@@ -11188,12 +14681,14 @@ export const repPrs = {
       ],
       "20": [
          {
-            "id": "1c1e1575-69ae-4fcf-affe-5243dc8c1662",
+            "id": "ac4eaba7-c64a-4e86-b9cc-06695a7902dc",
+            "inferredDate": "2016-04-25",
+            "weekStartDate": "2016-04-23",
             "week": 33,
             "day": 1,
             "exercise": "goblet squats",
             "originalExerciseName": "Goblet Squats",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 20,
             "instructions": "",
             "weight": 88.18,
@@ -11208,7 +14703,9 @@ export const repPrs = {
    "wide grip lat pulldowns": {
       "10": [
          {
-            "id": "2a01db70-96dc-47d7-90a7-1b362e89b014",
+            "id": "e64317b6-75ef-4cae-903c-3e6053db3566",
+            "inferredDate": "2016-07-21",
+            "weekStartDate": "2016-07-16",
             "week": 45,
             "day": 3,
             "exercise": "wide grip lat pulldowns",
@@ -11224,7 +14721,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "80342390-b034-4497-ac4a-ac1e6f5ee805",
+            "id": "cfb665d6-84ff-45d8-9546-3cb52e65a939",
+            "inferredDate": "2016-07-21",
+            "weekStartDate": "2016-07-16",
             "week": 45,
             "day": 3,
             "exercise": "wide grip lat pulldowns",
@@ -11240,7 +14739,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "eb1bd80c-3844-4ca5-a174-c7420efbd275",
+            "id": "5ba7c722-d955-460c-a46c-1dae9dc6c67c",
+            "inferredDate": "2016-07-28",
+            "weekStartDate": "2016-07-23",
             "week": 46,
             "day": 3,
             "exercise": "wide grip lat pulldowns",
@@ -11256,7 +14757,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "0a0ca012-b933-4eee-8ce2-bf8604b57411",
+            "id": "4b2850e3-4ce2-4a96-8b57-2b5388d9b246",
+            "inferredDate": "2016-07-28",
+            "weekStartDate": "2016-07-23",
             "week": 46,
             "day": 3,
             "exercise": "wide grip lat pulldowns",
@@ -11274,7 +14777,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "1d6046df-5bb6-4208-bdef-567e72be1b3c",
+            "id": "cc633f2c-e212-4301-a966-ae51625ce69a",
+            "inferredDate": "2016-03-17",
+            "weekStartDate": "2016-03-12",
             "week": 27,
             "day": 3,
             "exercise": "wide grip lat pulldowns",
@@ -11294,7 +14799,9 @@ export const repPrs = {
    "suitcase rows": {
       "12": [
          {
-            "id": "92324f38-a292-4651-b9b0-6424197272aa",
+            "id": "282774ba-6d44-4d5a-9405-24f1dd94ad74",
+            "inferredDate": "2016-03-17",
+            "weekStartDate": "2016-03-12",
             "week": 27,
             "day": 3,
             "exercise": "suitcase rows",
@@ -11314,7 +14821,9 @@ export const repPrs = {
    "back squats (reverse bands)": {
       "1": [
          {
-            "id": "6ecf320d-835f-4511-997c-a3c746573a7a",
+            "id": "9b37f9f1-0891-4676-bb81-1b1aeebfe60b",
+            "inferredDate": "2016-03-21",
+            "weekStartDate": "2016-03-19",
             "week": 28,
             "day": 1,
             "exercise": "back squats (reverse bands)",
@@ -11330,7 +14839,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "a2b8f087-ab9d-42c9-a450-966f04f7f3e9",
+            "id": "17624f2c-3910-4608-add2-fe86fc028643",
+            "inferredDate": "2016-03-21",
+            "weekStartDate": "2016-03-19",
             "week": 28,
             "day": 1,
             "exercise": "back squats (reverse bands)",
@@ -11347,262 +14858,12 @@ export const repPrs = {
          }
       ]
    },
-   "leg extensions": {
-      "8": [
-         {
-            "id": "4ad9f0d8-ed51-420d-8168-2d784ebe54fc",
-            "week": 65,
-            "day": 1,
-            "exercise": "leg extensions",
-            "originalExerciseName": "Leg Extensions",
-            "setNumber": 4,
-            "reps": 8,
-            "instructions": "Hold each rep for 1 second flex pyramid up in weight",
-            "weight": 110,
-            "notes": "Matrix machine",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentRepsEachSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "794cd5f7-ddc7-4d28-8f00-a4e27c6299c1",
-            "week": 68,
-            "day": 1,
-            "exercise": "leg extensions",
-            "originalExerciseName": "Leg Extensions",
-            "setNumber": 4,
-            "reps": 8,
-            "instructions": "",
-            "weight": 120,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "2de4f4f9-1731-4144-a566-da0e21299ef8",
-            "week": 89,
-            "day": 1,
-            "exercise": "leg extensions",
-            "originalExerciseName": "Leg Extensions",
-            "setNumber": 1,
-            "reps": 8,
-            "instructions": "",
-            "weight": 130,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "d96b0a24-1340-43c9-b3b4-d06c1669106a",
-            "week": 144,
-            "day": 1,
-            "exercise": "leg extensions",
-            "originalExerciseName": "Leg Extensions",
-            "setNumber": 1,
-            "reps": 8,
-            "instructions": "2 second pause at the top",
-            "weight": 140,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "10": [
-         {
-            "id": "e4730461-6d62-47c1-baee-4ca480589dbb",
-            "week": 65,
-            "day": 1,
-            "exercise": "leg extensions",
-            "originalExerciseName": "Leg Extensions",
-            "setNumber": 3,
-            "reps": 10,
-            "instructions": "Hold each rep for 1 second flex pyramid up in weight",
-            "weight": 100,
-            "notes": "Matrix machine",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentRepsEachSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "6b65bad0-a7a7-4224-ab32-9a3682c5d11c",
-            "week": 104,
-            "day": 1,
-            "exercise": "leg extensions",
-            "originalExerciseName": "Leg Extensions",
-            "setNumber": 1,
-            "reps": 10,
-            "instructions": "occluded",
-            "weight": 140,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "12": [
-         {
-            "id": "a33c89a9-e385-426d-90f9-40af6c336aff",
-            "week": 30,
-            "day": 1,
-            "exercise": "leg extensions",
-            "originalExerciseName": "Leg Extensions",
-            "setNumber": 1,
-            "reps": 12,
-            "instructions": "Occluded!!!",
-            "weight": 90,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "dd77a671-511c-4d06-9240-3b7f4b5a456f",
-            "week": 43,
-            "day": 2,
-            "exercise": "leg extensions",
-            "originalExerciseName": "Leg Extensions",
-            "setNumber": 1,
-            "reps": 12,
-            "instructions": "",
-            "weight": 120,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "4f47b880-9647-4263-8975-9d1511631976",
-            "week": 139,
-            "day": 1,
-            "exercise": "leg extensions",
-            "originalExerciseName": "Leg Extensions",
-            "setNumber": 1,
-            "reps": 12,
-            "instructions": "On the final set do a double dropdown of 12 and 12",
-            "weight": 130,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "finalSetDropSetStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "15": [
-         {
-            "id": "62b029e4-55be-48b2-9c6e-2248070cd21b",
-            "week": 29,
-            "day": 1,
-            "exercise": "leg extensions",
-            "originalExerciseName": "Leg Extensions",
-            "setNumber": 3,
-            "reps": 15,
-            "instructions": "Pause each rep at the top, keep your toes pointed back",
-            "weight": 65,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "b2d38067-9998-4521-9486-1accff732dc3",
-            "week": 49,
-            "day": 1,
-            "exercise": "leg extensions",
-            "originalExerciseName": "Leg Extensions",
-            "setNumber": 1,
-            "reps": 15,
-            "instructions": "",
-            "weight": 90,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "005aa970-182d-49b5-9f86-81b362f7f082",
-            "week": 63,
-            "day": 1,
-            "exercise": "leg extensions",
-            "originalExerciseName": "Leg Extensions",
-            "setNumber": 1,
-            "reps": 15,
-            "instructions": "",
-            "weight": 100,
-            "notes": "Same deal as leg press",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "6df42b81-4674-4087-8f2e-fe5ca5e1c946",
-            "week": 85,
-            "day": 1,
-            "exercise": "leg extensions",
-            "originalExerciseName": "Leg Extensions",
-            "setNumber": 2,
-            "reps": 15,
-            "instructions": "",
-            "weight": 110,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "20": [
-         {
-            "id": "901284f1-b527-4d3d-a3fb-e695db3bdd26",
-            "week": 42,
-            "day": 1,
-            "exercise": "leg extensions",
-            "originalExerciseName": "Leg Extensions",
-            "setNumber": 1,
-            "reps": 20,
-            "instructions": "",
-            "weight": 110,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "f2e59ff6-12f4-41e9-881e-f884f760c0a7",
-            "week": 145,
-            "day": 1,
-            "exercise": "leg extensions",
-            "originalExerciseName": "Leg Extensions",
-            "setNumber": 1,
-            "reps": 20,
-            "instructions": "10 full reps plus 10 partial reps",
-            "weight": 120,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "compoundSetStrategy",
-            "dropSetId": ""
-         }
-      ]
-   },
    "leg press": {
       "2": [
          {
-            "id": "0291c192-703e-4cb6-97c9-37362a8b145e",
+            "id": "95759289-886b-4de7-a191-dbf4849894f2",
+            "inferredDate": "2017-06-26",
+            "weekStartDate": "2017-06-24",
             "week": 94,
             "day": 1,
             "exercise": "leg press",
@@ -11620,57 +14881,29 @@ export const repPrs = {
       ],
       "6": [
          {
-            "id": "8324c930-c1bf-4048-88e5-cb9a59f8e7b9",
-            "week": 68,
-            "day": 1,
-            "exercise": "leg press",
-            "originalExerciseName": "Leg Press",
-            "setNumber": 3,
-            "reps": 6,
-            "instructions": "Drop Set!",
-            "weight": 450,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "delimitedRepsDropSetStrategy",
-            "dropSetId": "0d7c6fd6-47e1-4d3e-bdd4-3bae38460e34"
-         },
-         {
-            "id": "ca3df81d-b3f9-40b7-b118-74bff4ba0007",
-            "week": 68,
-            "day": 1,
-            "exercise": "leg press",
-            "originalExerciseName": "Leg Press",
-            "setNumber": 2,
-            "reps": 6,
-            "instructions": "Drop Set!",
-            "weight": 500,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "delimitedRepsDropSetStrategy",
-            "dropSetId": "0d7c6fd6-47e1-4d3e-bdd4-3bae38460e34"
-         },
-         {
-            "id": "10484c83-23f6-440a-b5c0-61a83ece3a10",
+            "id": "c7f6d497-af0a-45e9-84c7-1d7ba2115e01",
+            "inferredDate": "2016-11-28",
+            "weekStartDate": "2016-11-26",
             "week": 68,
             "day": 1,
             "exercise": "leg press",
             "originalExerciseName": "Leg Press",
             "setNumber": 1,
             "reps": 6,
-            "instructions": "Drop Set!",
+            "instructions": "",
             "weight": 550,
-            "notes": "",
+            "notes": "Was at a different golds today and the leg press was very soft.",
             "supersetId": "",
             "anomalous": "",
-            "strategyUsed": "delimitedRepsDropSetStrategy",
-            "dropSetId": "0d7c6fd6-47e1-4d3e-bdd4-3bae38460e34"
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ],
       "8": [
          {
-            "id": "2095232c-ebf6-42c0-8d00-b7c12084fc95",
+            "id": "2ec28e0d-bc6e-40bb-9a70-4a2c701f7177",
+            "inferredDate": "2016-04-18",
+            "weekStartDate": "2016-04-16",
             "week": 32,
             "day": 1,
             "exercise": "leg press",
@@ -11686,7 +14919,27 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "83bec494-d212-4913-9457-af32028a23c1",
+            "id": "bbbe15e2-94c2-4ec1-beb3-b65287908329",
+            "inferredDate": "2016-04-18",
+            "weekStartDate": "2016-04-16",
+            "week": 32,
+            "day": 1,
+            "exercise": "leg press",
+            "originalExerciseName": "Leg Press",
+            "setNumber": 2,
+            "reps": 8,
+            "instructions": "Work up to a final hard set",
+            "weight": 490,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "37f726f9-d944-4506-bff1-f83c17512fbf",
+            "inferredDate": "2016-04-18",
+            "weekStartDate": "2016-04-16",
             "week": 32,
             "day": 1,
             "exercise": "leg press",
@@ -11702,7 +14955,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "bbad2a45-7d6e-4962-9c95-df53ac6e0955",
+            "id": "174ae9d4-582e-4c47-9cd6-363fa70cd560",
+            "inferredDate": "2018-10-22",
+            "weekStartDate": "2018-10-20",
             "week": 140,
             "day": 1,
             "exercise": "leg press",
@@ -11718,12 +14973,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "9a61539f-9af1-446e-a741-8753c9efab7d",
+            "id": "8d1071b9-aa52-4598-b804-043f794b5b83",
+            "inferredDate": "2019-02-18",
+            "weekStartDate": "2019-02-16",
             "week": 157,
             "day": 1,
             "exercise": "leg press",
             "originalExerciseName": "Leg Press",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 8,
             "instructions": "Just work up solid and heavy here",
             "weight": 680,
@@ -11736,7 +14993,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "5005f1f5-afba-4a74-938c-982c0789a448",
+            "id": "cc6f4fc2-0a90-495a-b7dd-e68a48e49060",
+            "inferredDate": "2016-05-02",
+            "weekStartDate": "2016-04-30",
             "week": 34,
             "day": 1,
             "exercise": "leg press",
@@ -11752,7 +15011,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "860762e2-fe3c-478a-891b-a749543098dc",
+            "id": "104103dd-a8a4-42c1-966b-8c49623e0661",
+            "inferredDate": "2017-08-15",
+            "weekStartDate": "2017-08-13",
             "week": 101,
             "day": 1,
             "exercise": "leg press",
@@ -11768,7 +15029,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "ddcb008e-339a-4c62-9318-990fb1316b48",
+            "id": "0a71be5f-5187-4746-8b19-3f9d3bafb055",
+            "inferredDate": "2018-12-10",
+            "weekStartDate": "2018-12-08",
             "week": 147,
             "day": 1,
             "exercise": "leg press",
@@ -11786,7 +15049,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "bc33634f-41ec-46ea-affe-884c56158adf",
+            "id": "b95f4d55-ce2c-46d8-b77f-900acbd35eed",
+            "inferredDate": "2016-05-02",
+            "weekStartDate": "2016-04-30",
             "week": 34,
             "day": 1,
             "exercise": "leg press",
@@ -11802,12 +15067,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "84cecf7e-12fe-463c-96fd-703fc0a4926e",
+            "id": "f485277e-9d23-411f-aa44-eacd11d40746",
+            "inferredDate": "2017-02-20",
+            "weekStartDate": "2017-02-18",
             "week": 75,
             "day": 1,
             "exercise": "leg press",
             "originalExerciseName": "Leg Press",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 540,
@@ -11818,7 +15085,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "1aba3bac-857f-432e-94a6-a591b24f210b",
+            "id": "3a4d358f-c415-4bca-bd33-3077a066db8a",
+            "inferredDate": "2018-11-05",
+            "weekStartDate": "2018-11-03",
             "week": 142,
             "day": 1,
             "exercise": "leg press",
@@ -11836,7 +15105,9 @@ export const repPrs = {
       ],
       "15": [
          {
-            "id": "1606557c-aba4-476a-a10f-28feec9946f3",
+            "id": "55890bb1-05f9-42f7-9f77-51f4384b9ab4",
+            "inferredDate": "2016-05-02",
+            "weekStartDate": "2016-04-30",
             "week": 34,
             "day": 1,
             "exercise": "leg press",
@@ -11850,16 +15121,36 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "differentRepsEachSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "d304a294-1441-415d-b974-d2d692a6921e",
+            "inferredDate": "2019-07-22",
+            "weekStartDate": "2019-07-20",
+            "week": 178,
+            "day": 1,
+            "exercise": "leg press",
+            "originalExerciseName": "leg press",
+            "setNumber": 1,
+            "reps": 15,
+            "instructions": "",
+            "weight": 450,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ],
       "20": [
          {
-            "id": "c83cd727-2562-4487-8ff3-e69d27799d42",
+            "id": "4336a5ad-8348-440e-bc16-4ada12390455",
+            "inferredDate": "2016-03-28",
+            "weekStartDate": "2016-03-26",
             "week": 29,
             "day": 1,
             "exercise": "leg press",
             "originalExerciseName": "Leg Press",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 20,
             "instructions": "Using 5 plates",
             "weight": 360,
@@ -11868,11 +15159,31 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "d574f46a-dbb3-4e92-aab4-8180c158cb03",
+            "inferredDate": "2019-03-11",
+            "weekStartDate": "2019-03-09",
+            "week": 160,
+            "day": 1,
+            "exercise": "leg press",
+            "originalExerciseName": "Leg Press",
+            "setNumber": 1,
+            "reps": 20,
+            "instructions": "Close stance, toes pointing out. Hammer your VMOs",
+            "weight": 450,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ],
       "30": [
          {
-            "id": "a65226c2-654a-4841-9371-cda0d805d2d4",
+            "id": "f15eca90-63eb-477d-8f16-5f7c8e11f945",
+            "inferredDate": "2017-05-01",
+            "weekStartDate": "2017-04-29",
             "week": 86,
             "day": 1,
             "exercise": "leg press",
@@ -11890,7 +15201,9 @@ export const repPrs = {
       ],
       "2006": [
          {
-            "id": "5388bc8e-a786-408e-8f04-068abdc3c922",
+            "id": "f87fc091-3163-46d6-8131-e240ddff1d2f",
+            "inferredDate": "2017-05-22",
+            "weekStartDate": "2017-05-20",
             "week": 89,
             "day": 1,
             "exercise": "leg press",
@@ -11903,14 +15216,374 @@ export const repPrs = {
             "supersetId": "",
             "anomalous": "",
             "strategyUsed": "delimitedRepsDropSetStrategy",
-            "dropSetId": "ce8588d7-c847-4825-9db3-5781d988551b"
+            "dropSetId": "9419c016-8406-4444-81fe-0ec66b109bce"
+         }
+      ]
+   },
+   "leg extensions": {
+      "8": [
+         {
+            "id": "0baab840-66e3-4a26-86bb-0ac1dbff6fc6",
+            "inferredDate": "2016-11-07",
+            "weekStartDate": "2016-11-05",
+            "week": 65,
+            "day": 1,
+            "exercise": "leg extensions",
+            "originalExerciseName": "Leg Extensions",
+            "setNumber": 4,
+            "reps": 8,
+            "instructions": "Hold each rep for 1 second flex pyramid up in weight",
+            "weight": 110,
+            "notes": "Matrix machine",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentRepsEachSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "09ab2ca5-37fb-4520-84f8-57cc2791ff59",
+            "inferredDate": "2016-11-28",
+            "weekStartDate": "2016-11-26",
+            "week": 68,
+            "day": 1,
+            "exercise": "leg extensions",
+            "originalExerciseName": "Leg Extensions",
+            "setNumber": 1,
+            "reps": 8,
+            "instructions": "",
+            "weight": 120,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "98ccd789-d555-4b4c-b1f4-7c5adfdf8723",
+            "inferredDate": "2017-05-22",
+            "weekStartDate": "2017-05-20",
+            "week": 89,
+            "day": 1,
+            "exercise": "leg extensions",
+            "originalExerciseName": "Leg Extensions",
+            "setNumber": 1,
+            "reps": 8,
+            "instructions": "",
+            "weight": 130,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "dc738986-8e45-43dc-80ec-5322eca4c9f0",
+            "inferredDate": "2018-11-19",
+            "weekStartDate": "2018-11-17",
+            "week": 144,
+            "day": 1,
+            "exercise": "leg extensions",
+            "originalExerciseName": "Leg Extensions",
+            "setNumber": 1,
+            "reps": 8,
+            "instructions": "2 second pause at the top",
+            "weight": 140,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "10": [
+         {
+            "id": "437d6da0-455d-47ab-b0a6-0d46dd3be66a",
+            "inferredDate": "2016-11-07",
+            "weekStartDate": "2016-11-05",
+            "week": 65,
+            "day": 1,
+            "exercise": "leg extensions",
+            "originalExerciseName": "Leg Extensions",
+            "setNumber": 3,
+            "reps": 10,
+            "instructions": "Hold each rep for 1 second flex pyramid up in weight",
+            "weight": 100,
+            "notes": "Matrix machine",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentRepsEachSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "cdf3d9ad-0d40-44bd-b90a-592e4db8f775",
+            "inferredDate": "2017-08-29",
+            "weekStartDate": "2017-08-27",
+            "week": 104,
+            "day": 1,
+            "exercise": "leg extensions",
+            "originalExerciseName": "Leg Extensions",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "occluded",
+            "weight": 140,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "12": [
+         {
+            "id": "ab2398c0-7cbd-432f-85bf-4dafb7d49e8b",
+            "inferredDate": "2016-04-04",
+            "weekStartDate": "2016-04-02",
+            "week": 30,
+            "day": 1,
+            "exercise": "leg extensions",
+            "originalExerciseName": "Leg Extensions",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "Occluded!!!",
+            "weight": 90,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "497ac12d-3372-4725-8fc6-efe5d1e38b34",
+            "inferredDate": "2016-07-07",
+            "weekStartDate": "2016-07-02",
+            "week": 43,
+            "day": 2,
+            "exercise": "leg extensions",
+            "originalExerciseName": "Leg Extensions",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 120,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "a4f119ba-b8d9-4182-8c91-6f35c0d6db02",
+            "inferredDate": "2018-10-15",
+            "weekStartDate": "2018-10-13",
+            "week": 139,
+            "day": 1,
+            "exercise": "leg extensions",
+            "originalExerciseName": "Leg Extensions",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "On the final set do a double dropdown of 12 and 12",
+            "weight": 130,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "finalSetDropSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "15": [
+         {
+            "id": "e5d026f3-89b8-4d49-a9f4-d5f8aa55a51c",
+            "inferredDate": "2016-03-28",
+            "weekStartDate": "2016-03-26",
+            "week": 29,
+            "day": 1,
+            "exercise": "leg extensions",
+            "originalExerciseName": "Leg Extensions",
+            "setNumber": 1,
+            "reps": 15,
+            "instructions": "Pause each rep at the top, keep your toes pointed back",
+            "weight": 65,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "9e8cea41-5535-4cda-85ac-8511167a447d",
+            "inferredDate": "2016-08-15",
+            "weekStartDate": "2016-08-13",
+            "week": 49,
+            "day": 1,
+            "exercise": "leg extensions",
+            "originalExerciseName": "Leg Extensions",
+            "setNumber": 1,
+            "reps": 15,
+            "instructions": "",
+            "weight": 90,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "af38b49b-dfd9-46ad-9ba1-cfebdb550e9d",
+            "inferredDate": "2016-10-24",
+            "weekStartDate": "2016-10-22",
+            "week": 63,
+            "day": 1,
+            "exercise": "leg extensions",
+            "originalExerciseName": "Leg Extensions",
+            "setNumber": 1,
+            "reps": 15,
+            "instructions": "",
+            "weight": 100,
+            "notes": "Same deal as leg press",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "28a60101-a05f-42c7-9441-c563ac74b3b7",
+            "inferredDate": "2017-04-24",
+            "weekStartDate": "2017-04-22",
+            "week": 85,
+            "day": 1,
+            "exercise": "leg extensions",
+            "originalExerciseName": "Leg Extensions",
+            "setNumber": 1,
+            "reps": 15,
+            "instructions": "",
+            "weight": 110,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "371a6c00-d027-4dd9-a4e8-fdddd9a4c2f3",
+            "inferredDate": "2019-07-01",
+            "weekStartDate": "2019-06-29",
+            "week": 175,
+            "day": 1,
+            "exercise": "leg extensions",
+            "originalExerciseName": "Leg Extension",
+            "setNumber": 1,
+            "reps": 15,
+            "instructions": "",
+            "weight": 120,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "38af5ad3-42c4-4583-8e47-61113e9750ff",
+            "inferredDate": "2019-07-22",
+            "weekStartDate": "2019-07-20",
+            "week": 178,
+            "day": 1,
+            "exercise": "leg extensions",
+            "originalExerciseName": "Seated leg curl",
+            "setNumber": 1,
+            "reps": 15,
+            "instructions": "",
+            "weight": 140,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "20": [
+         {
+            "id": "eed2fb7d-40f1-43cd-804d-19c7e1bf9338",
+            "inferredDate": "2016-06-27",
+            "weekStartDate": "2016-06-25",
+            "week": 42,
+            "day": 1,
+            "exercise": "leg extensions",
+            "originalExerciseName": "Leg Extensions",
+            "setNumber": 1,
+            "reps": 20,
+            "instructions": "",
+            "weight": 110,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "28d44466-1e0b-4d2d-8dcd-6fb5d70217d1",
+            "inferredDate": "2018-11-26",
+            "weekStartDate": "2018-11-24",
+            "week": 145,
+            "day": 1,
+            "exercise": "leg extensions",
+            "originalExerciseName": "Leg Extensions",
+            "setNumber": 1,
+            "reps": 20,
+            "instructions": "10 full reps plus 10 partial reps",
+            "weight": 120,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "compoundSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "30": [
+         {
+            "id": "f0b337d4-68d8-4403-b3b5-ba1e56348d8f",
+            "inferredDate": "2019-04-01",
+            "weekStartDate": "2019-03-30",
+            "week": 163,
+            "day": 1,
+            "exercise": "leg extensions",
+            "originalExerciseName": "Leg Extensions",
+            "setNumber": 1,
+            "reps": 30,
+            "instructions": "pump it up!",
+            "weight": 100,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ]
    },
    "seated hamstring curls": {
+      "1": [
+         {
+            "id": "4fd37d92-a635-4e76-8cbb-e47673be1c01",
+            "inferredDate": "2019-10-25",
+            "weekStartDate": "2019-10-19",
+            "week": 191,
+            "day": 3,
+            "exercise": "seated hamstring curls",
+            "originalExerciseName": "Barbell Bench Press",
+            "setNumber": 1,
+            "reps": 1,
+            "instructions": "",
+            "weight": 315,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
       "5": [
          {
-            "id": "8df925c0-6e54-40e1-8783-783a4e1c147e",
+            "id": "9fc51c32-28ba-4361-97fa-d2e15ae078b7",
+            "inferredDate": "2016-11-21",
+            "weekStartDate": "2016-11-19",
             "week": 67,
             "day": 1,
             "exercise": "seated hamstring curls",
@@ -11923,12 +15596,32 @@ export const repPrs = {
             "supersetId": "",
             "anomalous": "",
             "strategyUsed": "delimitedRepsDropSetStrategy",
-            "dropSetId": "bfb0c57c-7b0e-4b65-828a-124cc7d55b2a"
+            "dropSetId": "4fd54d63-6a0a-4be4-8084-30c58f37bdae"
+         },
+         {
+            "id": "48bb43a8-96d3-44bb-9dbf-6bd005b2307f",
+            "inferredDate": "2019-10-25",
+            "weekStartDate": "2019-10-19",
+            "week": 191,
+            "day": 3,
+            "exercise": "seated hamstring curls",
+            "originalExerciseName": "Barbell Bench Press",
+            "setNumber": 1,
+            "reps": 5,
+            "instructions": "",
+            "weight": 275,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ],
       "8": [
          {
-            "id": "ccb283cc-77ab-4ed4-ba23-5af754330de3",
+            "id": "616b01b5-59f3-4746-98b8-c3831f936478",
+            "inferredDate": "2016-06-27",
+            "weekStartDate": "2016-06-25",
             "week": 42,
             "day": 1,
             "exercise": "seated hamstring curls",
@@ -11944,7 +15637,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "d98d065d-08a7-4274-9868-8a3521f30f2d",
+            "id": "f548fb8a-934f-45ad-a138-2f2b62e9e5f5",
+            "inferredDate": "2016-07-25",
+            "weekStartDate": "2016-07-23",
             "week": 46,
             "day": 1,
             "exercise": "seated hamstring curls",
@@ -11960,7 +15655,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "3b787727-be85-4e21-8aa4-6f8c8d079cac",
+            "id": "97c7e864-f849-4f8f-ad7e-7e5c34b5340f",
+            "inferredDate": "2018-11-12",
+            "weekStartDate": "2018-11-10",
             "week": 143,
             "day": 1,
             "exercise": "seated hamstring curls",
@@ -11978,7 +15675,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "806cd5e1-dc59-45fa-8e36-982d2f14d9c3",
+            "id": "f8140250-826b-4967-af84-97ae8cbf71eb",
+            "inferredDate": "2016-11-07",
+            "weekStartDate": "2016-11-05",
             "week": 65,
             "day": 1,
             "exercise": "seated hamstring curls",
@@ -11994,7 +15693,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "e70070d0-2819-4a5a-9e0a-87c803389eea",
+            "id": "e492c366-2afb-4042-ae6d-d5766aa4381f",
+            "inferredDate": "2017-05-08",
+            "weekStartDate": "2017-05-06",
             "week": 87,
             "day": 1,
             "exercise": "seated hamstring curls",
@@ -12010,7 +15711,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "5af0dbdd-1f1c-46b8-9897-1a2343a89ee3",
+            "id": "5b0f401a-f816-45c5-a7d2-e8825e0668e3",
+            "inferredDate": "2018-07-09",
+            "weekStartDate": "2018-07-07",
             "week": 125,
             "day": 1,
             "exercise": "seated hamstring curls",
@@ -12020,13 +15723,15 @@ export const repPrs = {
             "instructions": "10 full reps, 10 partial reps, 10 second isohold on each set",
             "weight": 120,
             "notes": "",
-            "supersetId": "95fffcfd-672e-4ef6-a1d4-0728cbbc0c7b",
+            "supersetId": "e34e7d5b-eb97-4069-8ee0-d79e7df9a313",
             "anomalous": "",
             "strategyUsed": "partialRepsStrategy",
             "dropSetId": ""
          },
          {
-            "id": "a6ed141c-5263-47a3-80f5-23b6559bb248",
+            "id": "12399e37-c0b1-47c6-8bbb-2b12e0ea5b70",
+            "inferredDate": "2018-11-12",
+            "weekStartDate": "2018-11-10",
             "week": 143,
             "day": 1,
             "exercise": "seated hamstring curls",
@@ -12044,7 +15749,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "c20be923-57d2-48ef-be2b-1be6e43d4dc7",
+            "id": "53d2cd36-0c66-4337-a3d1-f0acc628014b",
+            "inferredDate": "2016-03-28",
+            "weekStartDate": "2016-03-26",
             "week": 29,
             "day": 1,
             "exercise": "seated hamstring curls",
@@ -12060,7 +15767,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "3e0b79f5-ab40-4189-956c-ea41a76b5dde",
+            "id": "2956dd94-dcfd-4a13-8cc3-6e4752304400",
+            "inferredDate": "2016-04-04",
+            "weekStartDate": "2016-04-02",
             "week": 30,
             "day": 1,
             "exercise": "seated hamstring curls",
@@ -12076,7 +15785,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "1c5cd566-3b83-4497-802d-bb68586f2938",
+            "id": "66fbb529-bb73-46b8-9ecc-3d2359dcc4fb",
+            "inferredDate": "2016-08-22",
+            "weekStartDate": "2016-08-20",
             "week": 53,
             "day": 1,
             "exercise": "seated hamstring curls",
@@ -12092,7 +15803,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "b5f089c3-ec16-43c6-8f4c-c8ca1e7d1ef5",
+            "id": "b80be68e-f22a-4e37-b3e6-507b11ef1d8f",
+            "inferredDate": "2016-09-12",
+            "weekStartDate": "2016-09-10",
             "week": 56,
             "day": 1,
             "exercise": "seated hamstring curls",
@@ -12108,7 +15821,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "7df98059-a0c4-46ee-95fb-95697c41b9f3",
+            "id": "d4a1b3e3-e8b7-4158-89c4-f08347d311f2",
+            "inferredDate": "2018-08-20",
+            "weekStartDate": "2018-08-18",
             "week": 131,
             "day": 1,
             "exercise": "seated hamstring curls",
@@ -12124,7 +15839,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "7ed6a8fe-d2bb-429f-ae41-3ea08f3c9f64",
+            "id": "29e23026-38a6-407f-85fc-62b4afc31ba4",
+            "inferredDate": "2018-08-27",
+            "weekStartDate": "2018-08-25",
             "week": 132,
             "day": 1,
             "exercise": "seated hamstring curls",
@@ -12140,7 +15857,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "12c2d6df-f6d0-4638-8691-652fdba62137",
+            "id": "b9c0e394-f642-4dce-817f-0dddc86c581f",
+            "inferredDate": "2018-09-24",
+            "weekStartDate": "2018-09-22",
             "week": 136,
             "day": 1,
             "exercise": "seated hamstring curls",
@@ -12158,7 +15877,9 @@ export const repPrs = {
       ],
       "15": [
          {
-            "id": "bdbbac8c-e39a-483e-af97-6501e6728f0e",
+            "id": "c14307e8-1e2c-4c80-8a4a-ded3d5faabf3",
+            "inferredDate": "2016-04-11",
+            "weekStartDate": "2016-04-09",
             "week": 31,
             "day": 1,
             "exercise": "seated hamstring curls",
@@ -12174,7 +15895,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "c0033f06-32bd-400d-b216-ee308b6e1d57",
+            "id": "6b944162-417b-41c6-8f3a-bf74ab2be248",
+            "inferredDate": "2016-04-18",
+            "weekStartDate": "2016-04-16",
             "week": 32,
             "day": 1,
             "exercise": "seated hamstring curls",
@@ -12190,12 +15913,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "4fb1f7a9-3d3b-4f0f-b340-8bb4ff3a5292",
+            "id": "780e65cb-519b-45b0-8219-cd0738b468b3",
+            "inferredDate": "2016-10-31",
+            "weekStartDate": "2016-10-29",
             "week": 64,
             "day": 1,
             "exercise": "seated hamstring curls",
             "originalExerciseName": "Hamstrings Curls",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 15,
             "instructions": "",
             "weight": 140,
@@ -12206,7 +15931,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "55fe5d55-ae4f-4cbe-81e9-0dc9e8e2a260",
+            "id": "ceda1ec8-5ffb-4e75-ba14-3cf4d3fadf7b",
+            "inferredDate": "2018-11-12",
+            "weekStartDate": "2018-11-10",
             "week": 143,
             "day": 1,
             "exercise": "seated hamstring curls",
@@ -12224,7 +15951,9 @@ export const repPrs = {
       ],
       "2008": [
          {
-            "id": "a342d928-5e7c-405c-beb5-f6c37fd8aed2",
+            "id": "ab86a949-ca36-44df-afa9-5596debbf5d7",
+            "inferredDate": "2016-11-21",
+            "weekStartDate": "2016-11-19",
             "week": 67,
             "day": 1,
             "exercise": "seated hamstring curls",
@@ -12237,14 +15966,16 @@ export const repPrs = {
             "supersetId": "",
             "anomalous": "",
             "strategyUsed": "delimitedRepsDropSetStrategy",
-            "dropSetId": "8b0ca032-f8dc-4d0f-b2ee-234818481b11"
+            "dropSetId": "875f26f0-3d6e-4d5a-8823-5ee0db492fd4"
          }
       ]
    },
    "hammer curls": {
       "8": [
          {
-            "id": "cc6fae9f-7960-4672-8069-eac3a73dcc89",
+            "id": "a01b6bdd-cfdc-4e19-925a-f7ebd7363534",
+            "inferredDate": "2016-07-19",
+            "weekStartDate": "2016-07-16",
             "week": 45,
             "day": 2,
             "exercise": "hammer curls",
@@ -12260,12 +15991,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "7b993432-8dd8-41a7-b204-38824a63edeb",
+            "id": "9768841b-3850-4a4e-bd49-5eb630e9a437",
+            "inferredDate": "2017-02-17",
+            "weekStartDate": "2017-02-11",
             "week": 74,
             "day": 4,
             "exercise": "hammer curls",
             "originalExerciseName": "Hammer Curls",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 8,
             "instructions": "",
             "weight": 40,
@@ -12278,7 +16011,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "995a1e58-e719-4c8b-b6fc-fdc47b43cce3",
+            "id": "9c480f96-c00e-4fb2-a8cf-a2f561a53ea8",
+            "inferredDate": "2016-03-29",
+            "weekStartDate": "2016-03-26",
             "week": 29,
             "day": 2,
             "exercise": "hammer curls",
@@ -12294,7 +16029,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "559e11d0-c49a-48c3-a02c-d698eedd53a1",
+            "id": "40599364-d35b-41aa-9370-c28398d8e6fd",
+            "inferredDate": "2018-07-13",
+            "weekStartDate": "2018-07-07",
             "week": 125,
             "day": 4,
             "exercise": "hammer curls",
@@ -12310,7 +16047,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "dea8f9c2-555d-4139-9cb5-c5b00eb5af97",
+            "id": "73cd63e1-bcf7-480c-8e9d-14fb63e06e4e",
+            "inferredDate": "2019-02-08",
+            "weekStartDate": "2019-02-02",
             "week": 155,
             "day": 4,
             "exercise": "hammer curls",
@@ -12328,7 +16067,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "b240c310-6b4a-4f73-b2c6-42a5ab3b7b9e",
+            "id": "25e83e44-90e1-49a6-881c-8815f0c7dbad",
+            "inferredDate": "2016-04-19",
+            "weekStartDate": "2016-04-16",
             "week": 32,
             "day": 2,
             "exercise": "hammer curls",
@@ -12344,7 +16085,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "bd34fc99-f65f-45b0-972d-4c004b6af30b",
+            "id": "4c7ba593-fe48-40df-8ca0-44fabc56db4b",
+            "inferredDate": "2018-12-07",
+            "weekStartDate": "2018-12-01",
             "week": 146,
             "day": 4,
             "exercise": "hammer curls",
@@ -12362,7 +16105,9 @@ export const repPrs = {
       ],
       "15": [
          {
-            "id": "b9664738-e41b-48d5-95ff-6c5d97d02e17",
+            "id": "a25ad4b5-012d-40d6-9605-51a0d92e9fd4",
+            "inferredDate": "2017-07-14",
+            "weekStartDate": "2017-07-08",
             "week": 96,
             "day": 4,
             "exercise": "hammer curls",
@@ -12380,7 +16125,9 @@ export const repPrs = {
       ],
       "18": [
          {
-            "id": "9cc55c35-96a8-4a9b-9e9e-1593835b9a34",
+            "id": "0faf4457-de58-44bd-a7e8-a6e96a1491b0",
+            "inferredDate": "2018-11-30",
+            "weekStartDate": "2018-11-24",
             "week": 145,
             "day": 4,
             "exercise": "hammer curls",
@@ -12395,12 +16142,34 @@ export const repPrs = {
             "strategyUsed": "compoundSetStrategy",
             "dropSetId": ""
          }
+      ],
+      "20": [
+         {
+            "id": "d12f0767-02cf-4a22-9ffe-1fe3211dbf09",
+            "inferredDate": "2019-04-26",
+            "weekStartDate": "2019-04-20",
+            "week": 166,
+            "day": 4,
+            "exercise": "hammer curls",
+            "originalExerciseName": "Hammer Curls",
+            "setNumber": 1,
+            "reps": 20,
+            "instructions": "10 reps plus 10 partials",
+            "weight": 40,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "compoundSetStrategy",
+            "dropSetId": ""
+         }
       ]
    },
    "hammer rope curls": {
       "8": [
          {
-            "id": "f66c938c-f2b5-4eea-b55a-001e72f9a5e8",
+            "id": "57ac43dd-6587-4105-8aad-f479ea1e6b08",
+            "inferredDate": "2016-03-29",
+            "weekStartDate": "2016-03-26",
             "week": 29,
             "day": 2,
             "exercise": "hammer rope curls",
@@ -12418,7 +16187,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "ea3c1e59-e611-4ff5-98fa-621d9403f834",
+            "id": "f5518d11-cff4-43fd-bdd7-27c5c3f628ce",
+            "inferredDate": "2016-12-09",
+            "weekStartDate": "2016-12-03",
             "week": 69,
             "day": 4,
             "exercise": "hammer rope curls",
@@ -12438,7 +16209,9 @@ export const repPrs = {
    "close grip ez bar bench press": {
       "20": [
          {
-            "id": "8557c0a0-1e7f-4f6e-b24d-2e8cc5a9a259",
+            "id": "d121e416-0f44-46ff-9bc9-c6580097490e",
+            "inferredDate": "2016-03-29",
+            "weekStartDate": "2016-03-26",
             "week": 29,
             "day": 2,
             "exercise": "close grip ez bar bench press",
@@ -12458,7 +16231,9 @@ export const repPrs = {
    "hyperextensions": {
       "8": [
          {
-            "id": "e0e5d210-74fc-498c-bf8b-272f22599414",
+            "id": "f4cc5c34-a6a8-487a-b6c2-56b32ee9d976",
+            "inferredDate": "2016-05-19",
+            "weekStartDate": "2016-05-14",
             "week": 36,
             "day": 3,
             "exercise": "hyperextensions",
@@ -12476,7 +16251,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "74c83508-858b-469b-b3a9-899851fb08d6",
+            "id": "d8487d98-1820-4edb-a522-de76ae111cdf",
+            "inferredDate": "2016-12-01",
+            "weekStartDate": "2016-11-26",
             "week": 68,
             "day": 3,
             "exercise": "hyperextensions",
@@ -12492,15 +16269,35 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "fd964d8d-8723-4945-ad9e-1b07ff1b684a",
+            "id": "1cffc25e-086e-4a3a-a43e-1e450454ea0e",
+            "inferredDate": "2019-02-14",
+            "weekStartDate": "2019-02-09",
             "week": 156,
             "day": 3,
             "exercise": "hyperextensions",
             "originalExerciseName": "Hyperextensions",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "",
             "weight": 10,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "3ff1d410-1db4-4cfe-b624-b3ceae8a7f7e",
+            "inferredDate": "2019-06-13",
+            "weekStartDate": "2019-06-08",
+            "week": 172,
+            "day": 3,
+            "exercise": "hyperextensions",
+            "originalExerciseName": "Hyperextensions",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "",
+            "weight": 25,
             "notes": "",
             "supersetId": "",
             "anomalous": "",
@@ -12510,7 +16307,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "2c036d07-b00d-4b06-a4e7-f3b120814455",
+            "id": "7ea46c8a-8564-4338-8b38-17527336c684",
+            "inferredDate": "2016-05-05",
+            "weekStartDate": "2016-04-30",
             "week": 34,
             "day": 3,
             "exercise": "hyperextensions",
@@ -12524,11 +16323,31 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "dc289db2-be88-4f77-8289-7f291f8f0c28",
+            "inferredDate": "2020-02-03",
+            "weekStartDate": "2020-02-01",
+            "week": 206,
+            "day": 1,
+            "exercise": "hyperextensions",
+            "originalExerciseName": "Hyper Extensions",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 35,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ],
       "15": [
          {
-            "id": "682ce727-6327-4413-8523-7a4ae3b8d2c1",
+            "id": "0925cf39-466d-41fd-8edf-374a5b1da8a8",
+            "inferredDate": "2016-03-31",
+            "weekStartDate": "2016-03-26",
             "week": 29,
             "day": 3,
             "exercise": "hyperextensions",
@@ -12544,7 +16363,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "c89a0923-0ac9-4aa0-accf-bd29cddc55b9",
+            "id": "792cc2fb-52db-4174-a4c2-98e5ebb730aa",
+            "inferredDate": "2016-04-07",
+            "weekStartDate": "2016-04-02",
             "week": 30,
             "day": 3,
             "exercise": "hyperextensions",
@@ -12562,12 +16383,14 @@ export const repPrs = {
       ],
       "20": [
          {
-            "id": "995db2b3-f104-4b6f-80e3-e0c70d08ac59",
+            "id": "d0aa7af0-db3b-4b91-a277-184edf35b68d",
+            "inferredDate": "2016-12-08",
+            "weekStartDate": "2016-12-03",
             "week": 69,
             "day": 3,
             "exercise": "hyperextensions",
             "originalExerciseName": "Hyper Extensions",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 20,
             "instructions": "",
             "weight": 0,
@@ -12578,7 +16401,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "e02a71d3-0726-4440-9e2d-6156fea93895",
+            "id": "0aa1f34e-0f46-49b9-aa8b-46acef5d4cd7",
+            "inferredDate": "2019-02-07",
+            "weekStartDate": "2019-02-02",
             "week": 155,
             "day": 3,
             "exercise": "hyperextensions",
@@ -12596,12 +16421,14 @@ export const repPrs = {
       ],
       "30": [
          {
-            "id": "497742e2-d5cd-4444-89ec-6f42d1b9fc7c",
+            "id": "88a03bde-f89e-430b-81f2-48e915203a9f",
+            "inferredDate": "2016-10-27",
+            "weekStartDate": "2016-10-22",
             "week": 63,
             "day": 3,
             "exercise": "hyperextensions",
             "originalExerciseName": "Hyper Extensions",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 30,
             "instructions": "Use a light band to get some blood flowing through",
             "weight": 0,
@@ -12616,7 +16443,9 @@ export const repPrs = {
    "single leg leg press": {
       "10": [
          {
-            "id": "bfb8e0b1-e5e2-43dd-bd59-1e804f8ac003",
+            "id": "6a50a431-c692-4bf6-9246-2429b357d42d",
+            "inferredDate": "2016-04-04",
+            "weekStartDate": "2016-04-02",
             "week": 30,
             "day": 1,
             "exercise": "single leg leg press",
@@ -12634,12 +16463,14 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "5f819e36-30c5-4b6e-ad1a-7f608c43c8c0",
+            "id": "9d7b3af4-871c-4904-83ee-660438cda393",
+            "inferredDate": "2017-12-26",
+            "weekStartDate": "2017-12-24",
             "week": 121,
             "day": 1,
             "exercise": "single leg leg press",
             "originalExerciseName": "Single Legged Leg Press",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 90,
@@ -12654,7 +16485,9 @@ export const repPrs = {
    "seated incline db curls": {
       "0": [
          {
-            "id": "b2545337-0bef-4986-8f01-da43e6e7112c",
+            "id": "331662b2-a0d0-4467-9743-fd866a5654ab",
+            "inferredDate": "2016-10-28",
+            "weekStartDate": "2016-10-22",
             "week": 63,
             "day": 4,
             "exercise": "seated incline db curls",
@@ -12672,7 +16505,9 @@ export const repPrs = {
       ],
       "6": [
          {
-            "id": "fe649c1c-5294-4d01-be23-c11bdfd6651e",
+            "id": "415ade3b-7bb3-4b5a-8f3a-5fc9a0b8cd7e",
+            "inferredDate": "2017-05-12",
+            "weekStartDate": "2017-05-06",
             "week": 87,
             "day": 4,
             "exercise": "seated incline db curls",
@@ -12690,7 +16525,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "b5d09293-f985-48d1-80c3-81d7dd9bbe56",
+            "id": "f3de024a-8430-42f0-ba66-73e9e9634c77",
+            "inferredDate": "2016-04-05",
+            "weekStartDate": "2016-04-02",
             "week": 30,
             "day": 2,
             "exercise": "seated incline db curls",
@@ -12708,7 +16545,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "f831d2cf-776d-4eba-885b-889a3798881a",
+            "id": "ae8acc76-de6b-4713-bd78-b6c9b8afd487",
+            "inferredDate": "2017-04-28",
+            "weekStartDate": "2017-04-22",
             "week": 85,
             "day": 4,
             "exercise": "seated incline db curls",
@@ -12726,12 +16565,14 @@ export const repPrs = {
       ],
       "15": [
          {
-            "id": "c07c70b5-33ae-45d2-a5fd-961b304042a3",
+            "id": "aafb4a8c-e750-4aed-9a86-db2e4184e0ad",
+            "inferredDate": "2016-10-28",
+            "weekStartDate": "2016-10-22",
             "week": 63,
             "day": 4,
             "exercise": "seated incline db curls",
             "originalExerciseName": "Seated Incline DB Curls",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 15,
             "instructions": "Alternating, Supinated grip",
             "weight": 25,
@@ -12742,12 +16583,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "128647a8-a2ed-4429-86cf-ff7ae7bf1923",
+            "id": "b78156bb-9591-43ae-92fb-3290a5014b1a",
+            "inferredDate": "2016-11-04",
+            "weekStartDate": "2016-10-29",
             "week": 64,
             "day": 4,
             "exercise": "seated incline db curls",
             "originalExerciseName": "Seated Incline DB Curl",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 15,
             "instructions": "",
             "weight": 30,
@@ -12760,14 +16603,76 @@ export const repPrs = {
       ]
    },
    "ez bar reverse curls": {
+      "1": [
+         {
+            "id": "079645cb-241f-4d7d-a179-4adc71b898cd",
+            "inferredDate": "2020-03-10",
+            "weekStartDate": "2020-03-07",
+            "week": 211,
+            "day": 1,
+            "exercise": "ez bar reverse curls",
+            "originalExerciseName": "High Bar Back Squats",
+            "setNumber": 1,
+            "reps": 1,
+            "instructions": "Using 80% of your 1 RM",
+            "weight": 365,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "2": [
+         {
+            "id": "c47a0df8-9469-4176-914f-b2840063bf9f",
+            "inferredDate": "2019-10-02",
+            "weekStartDate": "2019-09-28",
+            "week": 188,
+            "day": 2,
+            "exercise": "ez bar reverse curls",
+            "originalExerciseName": "High Bar Back Squats",
+            "setNumber": 1,
+            "reps": 2,
+            "instructions": "Using 75% of your 1 RM",
+            "weight": 335,
+            "notes": "Copied from week 135",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "3": [
+         {
+            "id": "cc61cb47-8615-463c-8c51-1d8b02ca04d8",
+            "inferredDate": "2020-03-10",
+            "weekStartDate": "2020-03-07",
+            "week": 211,
+            "day": 1,
+            "exercise": "ez bar reverse curls",
+            "originalExerciseName": "High Bar Back Squats",
+            "setNumber": 1,
+            "reps": 3,
+            "instructions": "using 70% of 1RM",
+            "weight": 315,
+            "notes": "Counted a warm up triple as one of the sets of 4",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
       "8": [
          {
-            "id": "e2b0efcc-7050-4661-aa2f-2f6c7d9299ef",
+            "id": "5a6b3eaa-b071-44c8-8262-a75ccc646fc8",
+            "inferredDate": "2017-08-04",
+            "weekStartDate": "2017-07-29",
             "week": 99,
             "day": 4,
             "exercise": "ez bar reverse curls",
             "originalExerciseName": "Reverse EZ Bar Curls",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 8,
             "instructions": "",
             "weight": 50,
@@ -12780,7 +16685,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "748851f9-dfff-4b1e-9544-2c5c11129d02",
+            "id": "ca46c1ff-1c7d-40f1-b0cd-a28ffd7dfec4",
+            "inferredDate": "2016-04-05",
+            "weekStartDate": "2016-04-02",
             "week": 30,
             "day": 2,
             "exercise": "ez bar reverse curls",
@@ -12796,7 +16703,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "bb507490-df7d-4f85-b27c-85cc72fe5b1c",
+            "id": "118c7a1b-283a-4888-b5d9-506b3d1f309b",
+            "inferredDate": "2018-12-14",
+            "weekStartDate": "2018-12-08",
             "week": 147,
             "day": 4,
             "exercise": "ez bar reverse curls",
@@ -12810,11 +16719,49 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "d6434657-21ce-485a-8af2-a4f0066eac27",
+            "inferredDate": "2019-10-02",
+            "weekStartDate": "2019-09-28",
+            "week": 188,
+            "day": 2,
+            "exercise": "ez bar reverse curls",
+            "originalExerciseName": "Lying Leg Curl",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 100,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "0829f084-94eb-4ec1-b0f0-ed030fe30382",
+            "inferredDate": "2020-03-10",
+            "weekStartDate": "2020-03-07",
+            "week": 211,
+            "day": 1,
+            "exercise": "ez bar reverse curls",
+            "originalExerciseName": "Lying Leg Curl",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 120,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ],
       "15": [
          {
-            "id": "50be1563-8495-431a-a207-27194beb2b12",
+            "id": "50613515-eb36-4e2a-921b-a779e0d3f0ec",
+            "inferredDate": "2018-01-13",
+            "weekStartDate": "2018-01-07",
             "week": 123,
             "day": 4,
             "exercise": "ez bar reverse curls",
@@ -12830,7 +16777,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "d0db5ddf-8caf-4680-bac4-4952311a8ec0",
+            "id": "296036c4-8f9f-43e5-9f80-8fc75576bdd2",
+            "inferredDate": "2018-10-12",
+            "weekStartDate": "2018-10-06",
             "week": 138,
             "day": 4,
             "exercise": "ez bar reverse curls",
@@ -12846,7 +16795,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "bd112f53-83d9-436c-8d0d-8242eb55f888",
+            "id": "680834a9-c703-484b-95c6-006867ecf04c",
+            "inferredDate": "2018-11-16",
+            "weekStartDate": "2018-11-10",
             "week": 143,
             "day": 4,
             "exercise": "ez bar reverse curls",
@@ -12864,7 +16815,9 @@ export const repPrs = {
       ],
       "20": [
          {
-            "id": "fd0e4cab-7c38-48ba-a394-6715ecb879ff",
+            "id": "1cd5eb61-7675-420a-8bfd-586dda903b7a",
+            "inferredDate": "2016-05-17",
+            "weekStartDate": "2016-05-14",
             "week": 36,
             "day": 2,
             "exercise": "ez bar reverse curls",
@@ -12882,14 +16835,56 @@ export const repPrs = {
       ]
    },
    "pec deck": {
+      "6": [
+         {
+            "id": "de1603d4-76d3-4289-82a8-5d3b3de0be66",
+            "inferredDate": "2020-02-28",
+            "weekStartDate": "2020-02-22",
+            "week": 209,
+            "day": 3,
+            "exercise": "pec deck",
+            "originalExerciseName": "Seated Overhead press",
+            "setNumber": 1,
+            "reps": 6,
+            "instructions": "",
+            "weight": 135,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "8": [
+         {
+            "id": "cdce3561-9127-4a78-95c5-70e5e03c001e",
+            "inferredDate": "2020-03-12",
+            "weekStartDate": "2020-03-07",
+            "week": 211,
+            "day": 2,
+            "exercise": "pec deck",
+            "originalExerciseName": "Bent over lateral raise",
+            "setNumber": 1,
+            "reps": 8,
+            "instructions": "",
+            "weight": 25,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
       "10": [
          {
-            "id": "3693ac71-03e6-42f2-a95b-ae137a15d612",
+            "id": "bdb23b5c-7667-4e5d-bdca-16742cd8bc3d",
+            "inferredDate": "2016-07-01",
+            "weekStartDate": "2016-06-25",
             "week": 42,
             "day": 4,
             "exercise": "pec deck",
             "originalExerciseName": "Fly Machine",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "Hold each rep for a 2 count",
             "weight": 0,
@@ -12900,7 +16895,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "c2cb627e-f65f-450a-a0ab-2a96c759c524",
+            "id": "7bb80e13-b736-4e90-9d8e-a4b4af8fc73f",
+            "inferredDate": "2016-10-07",
+            "weekStartDate": "2016-10-01",
             "week": 59,
             "day": 4,
             "exercise": "pec deck",
@@ -12916,7 +16913,27 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "8f5f8ebc-b0df-43ec-bab6-dd755dd19082",
+            "id": "f5bc09ff-a3ee-4d64-a2d1-7204f2ffc6d9",
+            "inferredDate": "2016-10-07",
+            "weekStartDate": "2016-10-01",
+            "week": 59,
+            "day": 4,
+            "exercise": "pec deck",
+            "originalExerciseName": "Machine Flyes",
+            "setNumber": 2,
+            "reps": 10,
+            "instructions": "",
+            "weight": 160,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "051cb1d4-5595-4fc3-a4ff-6abe8f0e3855",
+            "inferredDate": "2016-10-07",
+            "weekStartDate": "2016-10-01",
             "week": 59,
             "day": 4,
             "exercise": "pec deck",
@@ -12932,7 +16949,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "016e5f7f-8a2d-4385-a74c-508c49b62179",
+            "id": "60991c78-cbb5-46a1-b2fa-3778af2a3115",
+            "inferredDate": "2016-10-07",
+            "weekStartDate": "2016-10-01",
             "week": 59,
             "day": 4,
             "exercise": "pec deck",
@@ -12950,23 +16969,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "fb42543d-798f-4bd7-a5b1-afcc26418334",
-            "week": 38,
-            "day": 4,
-            "exercise": "pec deck",
-            "originalExerciseName": "Fly Machine",
-            "setNumber": 2,
-            "reps": 12,
-            "instructions": "After final rep open half way and hold there for a 10 count",
-            "weight": 140,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "7e00cbd7-cce2-44ff-aa4f-9547ee88b63e",
+            "id": "ab42d89c-1a14-47d6-85c5-f0f1447648d8",
+            "inferredDate": "2016-06-03",
+            "weekStartDate": "2016-05-28",
             "week": 38,
             "day": 4,
             "exercise": "pec deck",
@@ -12982,7 +16987,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "4c006b54-feda-4279-8b7c-fce2bbb3b1e1",
+            "id": "17e7bcd8-26a4-474d-86fd-a4891788b572",
+            "inferredDate": "2017-08-16",
+            "weekStartDate": "2017-08-13",
             "week": 101,
             "day": 2,
             "exercise": "pec deck",
@@ -12998,7 +17005,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "9449009c-3072-4148-822c-5490d64081b6",
+            "id": "5f69b297-9446-4875-a09f-e48b61ae0cbe",
+            "inferredDate": "2018-01-17",
+            "weekStartDate": "2018-01-14",
             "week": 124,
             "day": 2,
             "exercise": "pec deck",
@@ -13016,12 +17025,14 @@ export const repPrs = {
       ],
       "15": [
          {
-            "id": "18308414-de9c-45b1-b4a3-46dd634160d4",
+            "id": "5271d471-f09c-4aa3-9eb6-5632cbb929d5",
+            "inferredDate": "2016-06-17",
+            "weekStartDate": "2016-06-11",
             "week": 40,
             "day": 4,
             "exercise": "pec deck",
             "originalExerciseName": "Fly Machine",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 15,
             "instructions": "After the last rep of each set lower halfway and do a 10 second isohold",
             "weight": 140,
@@ -13032,12 +17043,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "2ad00db1-bced-47aa-84b0-fec85609e34d",
+            "id": "aa59ddbb-a18d-4dc9-a08c-e00290f2a1fb",
+            "inferredDate": "2017-06-20",
+            "weekStartDate": "2017-06-17",
             "week": 93,
             "day": 2,
             "exercise": "pec deck",
             "originalExerciseName": "Machine Flyes",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 15,
             "instructions": "",
             "weight": 150,
@@ -13048,7 +17061,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "30a7c1ef-36ce-4c37-ac08-9d284dbbb4d4",
+            "id": "36621f96-5993-42e6-ad0b-31f915051d23",
+            "inferredDate": "2018-10-16",
+            "weekStartDate": "2018-10-13",
             "week": 139,
             "day": 2,
             "exercise": "pec deck",
@@ -13066,7 +17081,9 @@ export const repPrs = {
       ],
       "20": [
          {
-            "id": "f171de49-ef77-4bd2-b0c6-72517830c0e8",
+            "id": "9bd079c1-cba7-41e9-b9dc-0dacc835ccce",
+            "inferredDate": "2016-04-08",
+            "weekStartDate": "2016-04-02",
             "week": 30,
             "day": 4,
             "exercise": "pec deck",
@@ -13082,7 +17099,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "e2a52a83-9b28-42d8-88f9-2e141888cafe",
+            "id": "f249f261-a835-4708-9e57-bc762dac3a0a",
+            "inferredDate": "2016-06-10",
+            "weekStartDate": "2016-06-04",
             "week": 39,
             "day": 4,
             "exercise": "pec deck",
@@ -13100,7 +17119,9 @@ export const repPrs = {
       ],
       "25": [
          {
-            "id": "53afa92e-ea63-4704-81fd-a6ebf3e6075b",
+            "id": "2a085231-db93-4a3b-9865-6a34c2223087",
+            "inferredDate": "2016-09-13",
+            "weekStartDate": "2016-09-10",
             "week": 56,
             "day": 2,
             "exercise": "pec deck",
@@ -13118,12 +17139,14 @@ export const repPrs = {
       ],
       "30": [
          {
-            "id": "874e885c-1574-4839-a792-1f932d6c9b87",
+            "id": "1a92ba75-3817-4144-963e-d94cf21a64bd",
+            "inferredDate": "2017-05-16",
+            "weekStartDate": "2017-05-13",
             "week": 88,
             "day": 2,
             "exercise": "pec deck",
             "originalExerciseName": "Machine Flyes",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 30,
             "instructions": "",
             "weight": 100,
@@ -13136,12 +17159,14 @@ export const repPrs = {
       ],
       "40": [
          {
-            "id": "750a4e3f-1a89-4785-b651-39602fe6d661",
+            "id": "22a0d6a9-b098-4ee6-8068-c0d12b533cdf",
+            "inferredDate": "2017-02-28",
+            "weekStartDate": "2017-02-25",
             "week": 76,
             "day": 2,
             "exercise": "pec deck",
             "originalExerciseName": "Machine Flyes",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 40,
             "instructions": "",
             "weight": 90,
@@ -13156,7 +17181,9 @@ export const repPrs = {
    "hack squat": {
       "6": [
          {
-            "id": "7e891672-3eb8-43b9-bf4d-5a67b9d0d214",
+            "id": "56a9d16c-a748-40a0-9ad6-ad10bc65d51c",
+            "inferredDate": "2016-12-05",
+            "weekStartDate": "2016-12-03",
             "week": 69,
             "day": 1,
             "exercise": "hack squat",
@@ -13172,7 +17199,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "97d55c10-dbf2-4b6e-888e-9ac7db8af727",
+            "id": "38bcad29-e3c2-48e1-b839-a98cb5dfa36b",
+            "inferredDate": "2016-12-05",
+            "weekStartDate": "2016-12-03",
             "week": 69,
             "day": 1,
             "exercise": "hack squat",
@@ -13188,7 +17217,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "88f48c37-640a-4a3a-ad77-1df790a3f238",
+            "id": "67acc20b-24c4-40dc-803c-e93faecea4de",
+            "inferredDate": "2016-12-05",
+            "weekStartDate": "2016-12-03",
             "week": 69,
             "day": 1,
             "exercise": "hack squat",
@@ -13204,7 +17235,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "f56b4c08-bd66-4047-84cc-f2133a9a1336",
+            "id": "1b8765df-48cb-4f9b-9c02-2afe54544937",
+            "inferredDate": "2016-12-05",
+            "weekStartDate": "2016-12-03",
             "week": 69,
             "day": 1,
             "exercise": "hack squat",
@@ -13222,7 +17255,9 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "3f139438-177b-4034-af89-34eb42a3eeac",
+            "id": "4a6155e0-d6be-4e8d-9739-7bf07f870ce4",
+            "inferredDate": "2018-09-24",
+            "weekStartDate": "2018-09-22",
             "week": 136,
             "day": 1,
             "exercise": "hack squat",
@@ -13240,7 +17275,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "6fcbe6c4-d083-454f-9a73-2796929c737e",
+            "id": "504ac60b-a914-4121-86b9-a237659838c8",
+            "inferredDate": "2016-04-11",
+            "weekStartDate": "2016-04-09",
             "week": 31,
             "day": 1,
             "exercise": "hack squat",
@@ -13258,7 +17295,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "31766ab9-8be2-4ed2-a3f6-7e28b91bf953",
+            "id": "65bbc7dc-0d47-4a7e-b691-e1bcc6c91486",
+            "inferredDate": "2018-10-01",
+            "weekStartDate": "2018-09-29",
             "week": 137,
             "day": 1,
             "exercise": "hack squat",
@@ -13276,23 +17315,27 @@ export const repPrs = {
       ],
       "20": [
          {
-            "id": "73cac660-edb8-4bd5-9442-13879e55d244",
+            "id": "916b5cf3-8ffa-4d36-966f-a621e0f3b4fb",
+            "inferredDate": "2017-01-30",
+            "weekStartDate": "2017-01-28",
             "week": 72,
             "day": 1,
             "exercise": "hack squat",
             "originalExerciseName": "Hack Squats",
             "setNumber": 1,
             "reps": 20,
-            "instructions": "Do 20 reps then rest 15 seconds then do 10 more, rest 15 seconds do 10 more",
+            "instructions": "Feet together, toes out, come to your toes at the bottom.",
             "weight": 50,
-            "notes": "META: original data \t\t1\t20, 10, 10\tDo 20 reps then rest 15 seconds then do 10 more, rest 15 seconds do 10 more\t50, 50, 50",
+            "notes": "Wow, 50lbs was plenty on these!",
             "supersetId": "",
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
          },
          {
-            "id": "303c6803-6266-487c-b4f1-67f0e11e0946",
+            "id": "59951ed3-14fc-469e-b4c0-9371c16e6997",
+            "inferredDate": "2018-08-20",
+            "weekStartDate": "2018-08-18",
             "week": 131,
             "day": 1,
             "exercise": "hack squat",
@@ -13310,7 +17353,9 @@ export const repPrs = {
       ],
       "30": [
          {
-            "id": "308a3fb9-8fe5-4eb7-86d9-9bd67d4fbbf3",
+            "id": "d467d481-6dba-4b70-840a-e1c5298d9803",
+            "inferredDate": "2016-06-13",
+            "weekStartDate": "2016-06-11",
             "week": 40,
             "day": 1,
             "exercise": "hack squat",
@@ -13330,7 +17375,9 @@ export const repPrs = {
    "incline db hammer curls": {
       "10": [
          {
-            "id": "0b52e941-3466-4272-81f3-bd0a1b7c439f",
+            "id": "db397e51-d093-4ca5-8fec-a5bc76dae44a",
+            "inferredDate": "2016-04-12",
+            "weekStartDate": "2016-04-09",
             "week": 31,
             "day": 2,
             "exercise": "incline db hammer curls",
@@ -13350,7 +17397,9 @@ export const repPrs = {
    "ez bar preacher curls": {
       "8": [
          {
-            "id": "fcb9aa5b-3744-4311-8804-9b434d41a917",
+            "id": "f1944d45-ec77-48f1-8f1d-b605ad2fcf4b",
+            "inferredDate": "2016-12-02",
+            "weekStartDate": "2016-11-26",
             "week": 68,
             "day": 4,
             "exercise": "ez bar preacher curls",
@@ -13366,7 +17415,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "b81730e9-d394-4394-98a5-c6c6bf3e5a2a",
+            "id": "9fffe922-690b-4d1e-b7df-62b23faff2e3",
+            "inferredDate": "2017-02-10",
+            "weekStartDate": "2017-02-04",
             "week": 73,
             "day": 4,
             "exercise": "ez bar preacher curls",
@@ -13382,7 +17433,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "356cb398-56c6-4e88-a060-4f35eb82b7df",
+            "id": "bd1a51d2-e1b6-482d-8349-35dbb0a9634d",
+            "inferredDate": "2019-01-04",
+            "weekStartDate": "2018-12-29",
             "week": 150,
             "day": 4,
             "exercise": "ez bar preacher curls",
@@ -13400,7 +17453,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "f21cf798-5453-4dd5-8b9a-28bb8395bfba",
+            "id": "eff61679-cc49-4123-831c-21615e243e93",
+            "inferredDate": "2017-09-16",
+            "weekStartDate": "2017-09-10",
             "week": 106,
             "day": 4,
             "exercise": "ez bar preacher curls",
@@ -13414,11 +17469,31 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "f8167aff-ec0e-484d-9bdf-b75ace92ec22",
+            "inferredDate": "2019-05-17",
+            "weekStartDate": "2019-05-11",
+            "week": 169,
+            "day": 4,
+            "exercise": "ez bar preacher curls",
+            "originalExerciseName": "EZ Bar Preacher Curls",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "",
+            "weight": 70,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ],
       "12": [
          {
-            "id": "f9b27d1f-51e7-41c5-bb74-73ee68c26921",
+            "id": "d4fe0e00-89cd-4688-b9aa-ce73ef64986b",
+            "inferredDate": "2016-04-12",
+            "weekStartDate": "2016-04-09",
             "week": 31,
             "day": 2,
             "exercise": "ez bar preacher curls",
@@ -13434,7 +17509,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "1d0e76a9-346a-4696-94f9-5dcd3a5561c1",
+            "id": "ce5d51f9-ee93-4e91-b021-7ed8bf0ec070",
+            "inferredDate": "2016-05-03",
+            "weekStartDate": "2016-04-30",
             "week": 34,
             "day": 2,
             "exercise": "ez bar preacher curls",
@@ -13448,11 +17525,49 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "95594a56-7a91-4cda-8ef8-a4e6c2015734",
+            "inferredDate": "2019-05-31",
+            "weekStartDate": "2019-05-25",
+            "week": 171,
+            "day": 4,
+            "exercise": "ez bar preacher curls",
+            "originalExerciseName": "EZ Bar Preacher Curls",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 70,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "136d9b86-35fc-4b0d-bfd3-321d518a7bb8",
+            "inferredDate": "2020-02-05",
+            "weekStartDate": "2020-02-01",
+            "week": 206,
+            "day": 2,
+            "exercise": "ez bar preacher curls",
+            "originalExerciseName": "EZ Bar Preacher Curls",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 75,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ],
       "15": [
          {
-            "id": "579a7410-b152-4244-b176-7b72637d3eef",
+            "id": "f51ee634-7992-48ae-92e7-2ee1f7d4c869",
+            "inferredDate": "2017-08-19",
+            "weekStartDate": "2017-08-13",
             "week": 101,
             "day": 4,
             "exercise": "ez bar preacher curls",
@@ -13470,12 +17585,14 @@ export const repPrs = {
       ],
       "20": [
          {
-            "id": "c1c7d6a1-136b-4dd8-a56f-5560237da836",
+            "id": "407a14e5-386d-43dd-a9ff-9a61bc934a01",
+            "inferredDate": "2016-10-28",
+            "weekStartDate": "2016-10-22",
             "week": 63,
             "day": 4,
             "exercise": "ez bar preacher curls",
             "originalExerciseName": "EZ bar preacher curl",
-            "setNumber": 5,
+            "setNumber": 1,
             "reps": 20,
             "instructions": "Don't go too heavy, get a nice rhythm going",
             "weight": 30,
@@ -13486,12 +17603,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "e6d223de-5593-41f4-8ea4-4bd2187820a0",
+            "id": "4452a094-4f57-443b-82a5-61d95ec3ce7c",
+            "inferredDate": "2017-01-27",
+            "weekStartDate": "2017-01-21",
             "week": 71,
             "day": 4,
             "exercise": "ez bar preacher curls",
             "originalExerciseName": "EZ bar preacher curl",
-            "setNumber": 5,
+            "setNumber": 1,
             "reps": 20,
             "instructions": "Don't go too heavy, get a nice rhythm going",
             "weight": 40,
@@ -13502,7 +17621,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "6ae5ec40-0cfd-43d3-8b33-821f9c758d7c",
+            "id": "55973db4-ad85-4404-b710-de3914fd33b0",
+            "inferredDate": "2017-06-09",
+            "weekStartDate": "2017-06-03",
             "week": 91,
             "day": 4,
             "exercise": "ez bar preacher curls",
@@ -13520,9 +17641,91 @@ export const repPrs = {
       ]
    },
    "tate presses": {
+      "1": [
+         {
+            "id": "c9ec2ed6-01c9-4edf-87d7-f4d7a1af481b",
+            "inferredDate": "2020-02-26",
+            "weekStartDate": "2020-02-22",
+            "week": 209,
+            "day": 2,
+            "exercise": "tate presses",
+            "originalExerciseName": "High Bar Back Squats",
+            "setNumber": 1,
+            "reps": 1,
+            "instructions": "Using 80% of your 1 RM",
+            "weight": 355,
+            "notes": "INFLECTION POINT: its time to lower volume to make room for climbing training.",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "2": [
+         {
+            "id": "4fb52708-01ec-414f-abf5-2a567a3dc606",
+            "inferredDate": "2019-12-18",
+            "weekStartDate": "2019-12-14",
+            "week": 199,
+            "day": 2,
+            "exercise": "tate presses",
+            "originalExerciseName": "High Bar Back Squats",
+            "setNumber": 1,
+            "reps": 2,
+            "instructions": "Using 75% of your 1 RM",
+            "weight": 335,
+            "notes": "Taken from week 142",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "3": [
+         {
+            "id": "135237eb-c842-4879-a02e-ab7bc6d24c34",
+            "inferredDate": "2020-02-26",
+            "weekStartDate": "2020-02-22",
+            "week": 209,
+            "day": 2,
+            "exercise": "tate presses",
+            "originalExerciseName": "High Bar Back Squats",
+            "setNumber": 1,
+            "reps": 3,
+            "instructions": "using 70% of 1RM",
+            "weight": 315,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "6": [
+         {
+            "id": "024b7249-65d8-40df-b946-3803bc752a94",
+            "inferredDate": "2020-02-17",
+            "weekStartDate": "2020-02-15",
+            "week": 208,
+            "day": 1,
+            "exercise": "tate presses",
+            "originalExerciseName": "High Bar Back Squats",
+            "setNumber": 1,
+            "reps": 6,
+            "instructions": "Using 75% of your 1 RM",
+            "weight": 335,
+            "notes": "Taken from week 148. Took long tests: hard climbing day yesterday",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
       "10": [
          {
-            "id": "6eba9969-7369-4e11-a87b-aec9f82e28d5",
+            "id": "7d76dada-23d5-4287-b68b-32621b4c09e5",
+            "inferredDate": "2016-08-23",
+            "weekStartDate": "2016-08-20",
             "week": 53,
             "day": 2,
             "exercise": "tate presses",
@@ -13540,7 +17743,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "cbfa9b84-7d72-4be0-bb51-ad5151522e6e",
+            "id": "02f09391-b22b-4a51-bd71-99e1b9bd3af1",
+            "inferredDate": "2016-04-12",
+            "weekStartDate": "2016-04-09",
             "week": 31,
             "day": 2,
             "exercise": "tate presses",
@@ -13556,7 +17761,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "2efa6436-448f-4a74-93bb-8efeb6331cb7",
+            "id": "c171c1fb-f826-48df-a8cc-1e97fb20fd42",
+            "inferredDate": "2016-05-03",
+            "weekStartDate": "2016-04-30",
             "week": 34,
             "day": 2,
             "exercise": "tate presses",
@@ -13572,7 +17779,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "5faecd28-d5c6-4272-aae0-59f5e84bf109",
+            "id": "640c5cc9-9e4e-4391-ad04-f9144d148d4b",
+            "inferredDate": "2018-08-10",
+            "weekStartDate": "2018-08-04",
             "week": 129,
             "day": 4,
             "exercise": "tate presses",
@@ -13586,13 +17795,33 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "7e41ddb1-dd6f-4256-97ec-c6cffea9a12b",
+            "inferredDate": "2019-12-18",
+            "weekStartDate": "2019-12-14",
+            "week": 199,
+            "day": 2,
+            "exercise": "tate presses",
+            "originalExerciseName": "Seated leg curl",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 120,
+            "notes": "Stupid hoist machine. Who knows how much this was",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ]
    },
    "one arm cable rows": {
       "8": [
          {
-            "id": "bea5df77-555f-477f-b0a0-fa3ec06a0b9f",
+            "id": "4a1fd1bb-a01e-46d3-b3e5-afc4e9e20c44",
+            "inferredDate": "2016-08-18",
+            "weekStartDate": "2016-08-13",
             "week": 49,
             "day": 3,
             "exercise": "one arm cable rows",
@@ -13610,7 +17839,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "64c4ea76-c6a8-45fd-b8f0-b9c8e715bdf0",
+            "id": "16c89263-2dd9-4e6a-81a9-c2a136dcc682",
+            "inferredDate": "2016-04-14",
+            "weekStartDate": "2016-04-09",
             "week": 31,
             "day": 3,
             "exercise": "one arm cable rows",
@@ -13628,9 +17859,49 @@ export const repPrs = {
       ]
    },
    "t-bar rows": {
+      "10": [
+         {
+            "id": "748989bd-a580-4c2b-9851-107e6b3e2be9",
+            "inferredDate": "2019-10-07",
+            "weekStartDate": "2019-10-05",
+            "week": 189,
+            "day": 1,
+            "exercise": "t-bar rows",
+            "originalExerciseName": "T-Bar Rows",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "",
+            "weight": 90,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "795448db-591e-49c5-9b08-5de03cfdcda3",
+            "inferredDate": "2019-11-06",
+            "weekStartDate": "2019-11-02",
+            "week": 193,
+            "day": 2,
+            "exercise": "t-bar rows",
+            "originalExerciseName": "T-Bar Rows",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "",
+            "weight": 100,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
       "12": [
          {
-            "id": "b6609ab8-f81a-48b8-ba1b-0ac57fb808ab",
+            "id": "a265b291-1dde-4a5f-9bb4-2d98c82270a3",
+            "inferredDate": "2016-04-14",
+            "weekStartDate": "2016-04-09",
             "week": 31,
             "day": 3,
             "exercise": "t-bar rows",
@@ -13650,7 +17921,9 @@ export const repPrs = {
    "leg press w/ bands": {
       "8": [
          {
-            "id": "18e92da1-5c18-4ccf-8c8b-6538c02ebfdd",
+            "id": "37190f41-b933-4fa8-8a26-38846b07a876",
+            "inferredDate": "2016-12-12",
+            "weekStartDate": "2016-12-10",
             "week": 70,
             "day": 1,
             "exercise": "leg press w/ bands",
@@ -13668,12 +17941,14 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "a49708a0-699e-40e1-9ba1-241d95e77d90",
+            "id": "23bec2c7-bbe9-4abb-97d5-5dc191c9c3f9",
+            "inferredDate": "2016-04-25",
+            "weekStartDate": "2016-04-23",
             "week": 33,
             "day": 1,
             "exercise": "leg press w/ bands",
             "originalExerciseName": "Leg Press w/ bands",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "Work up to a final hard set",
             "weight": 0,
@@ -13686,7 +17961,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "e838d8b4-1f13-49d9-a291-568ead4bdefe",
+            "id": "85bf7475-668e-4655-9a37-1ee9c7c73d8c",
+            "inferredDate": "2018-08-20",
+            "weekStartDate": "2018-08-18",
             "week": 131,
             "day": 1,
             "exercise": "leg press w/ bands",
@@ -13706,7 +17983,9 @@ export const repPrs = {
    "db floor press": {
       "5": [
          {
-            "id": "0c3d7c1a-1eef-43f1-8f08-b39322ea1b57",
+            "id": "9185f059-712d-441e-9994-18f61f3d60f2",
+            "inferredDate": "2016-05-17",
+            "weekStartDate": "2016-05-14",
             "week": 36,
             "day": 2,
             "exercise": "db floor press",
@@ -13722,7 +18001,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "49197512-bf87-47ad-bcd2-f3eb59913874",
+            "id": "864facb7-c9a6-4347-8090-4aee563991d3",
+            "inferredDate": "2016-05-17",
+            "weekStartDate": "2016-05-14",
             "week": 36,
             "day": 2,
             "exercise": "db floor press",
@@ -13738,7 +18019,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "83f5380c-b19c-4e54-b93b-050fccfa97c0",
+            "id": "dead6440-697e-4910-bd5d-045b59768c5f",
+            "inferredDate": "2016-05-17",
+            "weekStartDate": "2016-05-14",
             "week": 36,
             "day": 2,
             "exercise": "db floor press",
@@ -13754,7 +18037,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "9163a62c-c6b2-42f7-828c-10240feedb14",
+            "id": "e178d28a-0c2f-4009-bc38-1254a30554ab",
+            "inferredDate": "2016-05-17",
+            "weekStartDate": "2016-05-14",
             "week": 36,
             "day": 2,
             "exercise": "db floor press",
@@ -13770,7 +18055,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "e391239c-aaf4-4e56-80d1-ce28f77a9e9e",
+            "id": "807ed084-4888-4203-bde4-0af11f370254",
+            "inferredDate": "2016-05-17",
+            "weekStartDate": "2016-05-14",
             "week": 36,
             "day": 2,
             "exercise": "db floor press",
@@ -13788,7 +18075,9 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "bd871778-605d-4716-8846-44113f25238f",
+            "id": "4c36122a-2664-4e13-85d9-869e897d991f",
+            "inferredDate": "2016-05-03",
+            "weekStartDate": "2016-04-30",
             "week": 34,
             "day": 2,
             "exercise": "db floor press",
@@ -13804,7 +18093,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "0ebdb546-551c-4b3b-aa61-5be7724df8e7",
+            "id": "e64671ec-f24e-4e2f-8b88-40319ee0b683",
+            "inferredDate": "2016-05-03",
+            "weekStartDate": "2016-04-30",
             "week": 34,
             "day": 2,
             "exercise": "db floor press",
@@ -13820,7 +18111,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "2a51431c-f5ef-4900-9b6f-872ff10067c2",
+            "id": "a0a00cb8-8e1b-4b1c-bf3e-db86c55b9d3e",
+            "inferredDate": "2016-05-03",
+            "weekStartDate": "2016-04-30",
             "week": 34,
             "day": 2,
             "exercise": "db floor press",
@@ -13836,7 +18129,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "0d14bd4d-53d9-4e81-bfcd-c3baf3b59a66",
+            "id": "6929378b-e3f4-42d9-a990-264018c14415",
+            "inferredDate": "2016-05-03",
+            "weekStartDate": "2016-04-30",
             "week": 34,
             "day": 2,
             "exercise": "db floor press",
@@ -13854,7 +18149,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "aea8b95a-973e-45f7-b58c-8c0f0393a807",
+            "id": "d0138f39-9844-4b9f-9e0f-4ed647604e86",
+            "inferredDate": "2016-04-27",
+            "weekStartDate": "2016-04-23",
             "week": 33,
             "day": 2,
             "exercise": "db floor press",
@@ -13870,7 +18167,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "632db5f7-a1f9-4ffe-a1cf-e2c57f42443d",
+            "id": "01f1b336-1575-4c38-bab9-cbb143e6c1f7",
+            "inferredDate": "2016-04-27",
+            "weekStartDate": "2016-04-23",
             "week": 33,
             "day": 2,
             "exercise": "db floor press",
@@ -13886,7 +18185,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "8bf441d1-6637-4f6d-8fa1-b9f4f31d85cd",
+            "id": "a37ace1d-4fdb-4c53-8c70-ce1fc741c00d",
+            "inferredDate": "2016-04-27",
+            "weekStartDate": "2016-04-23",
             "week": 33,
             "day": 2,
             "exercise": "db floor press",
@@ -13902,7 +18203,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "f9711d54-9ec5-4f75-b1df-fc85fef6c46c",
+            "id": "3c9ea9e6-8e18-4604-b80e-86206ac259c5",
+            "inferredDate": "2016-04-27",
+            "weekStartDate": "2016-04-23",
             "week": 33,
             "day": 2,
             "exercise": "db floor press",
@@ -13920,7 +18223,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "2dd35b7c-52f6-4c0c-baea-8b7f9e8f032e",
+            "id": "f81c5d55-d256-47a9-abd9-d2731a294c5e",
+            "inferredDate": "2016-07-22",
+            "weekStartDate": "2016-07-16",
             "week": 45,
             "day": 4,
             "exercise": "db floor press",
@@ -13938,7 +18243,9 @@ export const repPrs = {
       ],
       "15": [
          {
-            "id": "e640b873-5af3-4d1e-8d67-67e56fb48b36",
+            "id": "96e6135f-7fba-49e1-b2e5-f0d691864c68",
+            "inferredDate": "2016-07-15",
+            "weekStartDate": "2016-07-09",
             "week": 44,
             "day": 4,
             "exercise": "db floor press",
@@ -13954,7 +18261,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "4ba85a2c-f772-4454-a1fc-d72c911ab417",
+            "id": "0eb310c8-062e-4f8c-892c-c95c762b3bc4",
+            "inferredDate": "2016-07-15",
+            "weekStartDate": "2016-07-09",
             "week": 44,
             "day": 4,
             "exercise": "db floor press",
@@ -13974,7 +18283,9 @@ export const repPrs = {
    "seated hammer curls": {
       "8": [
          {
-            "id": "a35a0044-eded-4ab5-a32b-53a378a956ec",
+            "id": "b646ebfd-b8b5-400b-bd02-3c93450526f7",
+            "inferredDate": "2016-06-28",
+            "weekStartDate": "2016-06-25",
             "week": 42,
             "day": 2,
             "exercise": "seated hammer curls",
@@ -13990,7 +18301,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "80bb1ab6-8797-40bc-aa7e-582e757c89ec",
+            "id": "1a1d0ead-9b19-4d5a-aef9-e874c2434a69",
+            "inferredDate": "2017-03-24",
+            "weekStartDate": "2017-03-18",
             "week": 79,
             "day": 4,
             "exercise": "seated hammer curls",
@@ -14008,7 +18321,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "4c79b2a0-eb03-4c80-aa1e-9e265ce59dbe",
+            "id": "d021f3e0-95a0-4ce7-b1e9-76869a386891",
+            "inferredDate": "2016-09-06",
+            "weekStartDate": "2016-09-03",
             "week": 55,
             "day": 2,
             "exercise": "seated hammer curls",
@@ -14024,7 +18339,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "c255a24e-a981-4c06-a765-0e7fe0b9a57d",
+            "id": "9cbf198c-9d1b-4299-b466-9ee10dc851df",
+            "inferredDate": "2018-01-20",
+            "weekStartDate": "2018-01-14",
             "week": 124,
             "day": 4,
             "exercise": "seated hammer curls",
@@ -14040,7 +18357,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "143c63f6-2731-4f8d-a6c2-bba99bad5069",
+            "id": "986d15ae-6941-401b-a7ec-1796c741cac9",
+            "inferredDate": "2019-02-01",
+            "weekStartDate": "2019-01-26",
             "week": 154,
             "day": 4,
             "exercise": "seated hammer curls",
@@ -14058,7 +18377,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "7605195d-ed97-4ee3-8cfb-e61779a23d93",
+            "id": "fe6e79a6-159d-404c-adab-2b744682177f",
+            "inferredDate": "2016-04-27",
+            "weekStartDate": "2016-04-23",
             "week": 33,
             "day": 2,
             "exercise": "seated hammer curls",
@@ -14074,7 +18395,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "2940d5ce-6988-4f89-9548-ff7cbf0a39dd",
+            "id": "09b49800-9e33-4f4d-ae2d-ed8d31061b40",
+            "inferredDate": "2016-05-03",
+            "weekStartDate": "2016-04-30",
             "week": 34,
             "day": 2,
             "exercise": "seated hammer curls",
@@ -14090,7 +18413,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "3b16835a-c61e-44fb-bedc-501193c39c34",
+            "id": "ee6e2aa3-57cb-49e1-a297-868319171a81",
+            "inferredDate": "2019-02-15",
+            "weekStartDate": "2019-02-09",
             "week": 156,
             "day": 4,
             "exercise": "seated hammer curls",
@@ -14104,11 +18429,49 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "5d46c4f2-6a4c-435f-888b-0ce3822163f0",
+            "inferredDate": "2019-03-22",
+            "weekStartDate": "2019-03-16",
+            "week": 161,
+            "day": 4,
+            "exercise": "seated hammer curls",
+            "originalExerciseName": "Seated Hammer Curls",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 45,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "d2f6dadd-e6e0-45d1-b6ed-bc3d43284c1e",
+            "inferredDate": "2019-04-05",
+            "weekStartDate": "2019-03-30",
+            "week": 163,
+            "day": 4,
+            "exercise": "seated hammer curls",
+            "originalExerciseName": "Overhead EZ Bar Triceps Ext",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 80,
+            "notes": "I liked these. More comfortable on my shoulders than overhead DB extensions. Next time I can definitely go to 90 too",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ],
       "15": [
          {
-            "id": "01a28c9f-1031-4930-b13b-1ddbdedc4db1",
+            "id": "e5affd1c-951d-4ce9-b6f6-4d66edc94c24",
+            "inferredDate": "2017-08-19",
+            "weekStartDate": "2017-08-13",
             "week": 101,
             "day": 4,
             "exercise": "seated hammer curls",
@@ -14122,11 +18485,31 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "a0e857e0-0d6a-4e68-88c3-16878cdf8a3b",
+            "inferredDate": "2019-04-05",
+            "weekStartDate": "2019-03-30",
+            "week": 163,
+            "day": 4,
+            "exercise": "seated hammer curls",
+            "originalExerciseName": "Drag Curls",
+            "setNumber": 1,
+            "reps": 15,
+            "instructions": "",
+            "weight": 40,
+            "notes": "Light and cautious",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ],
       "20": [
          {
-            "id": "1397ab17-b1a6-411b-abec-47c5bc4a1acf",
+            "id": "781350f9-b7c4-43d0-b366-07df39049d2b",
+            "inferredDate": "2016-05-17",
+            "weekStartDate": "2016-05-14",
             "week": 36,
             "day": 2,
             "exercise": "seated hammer curls",
@@ -14146,7 +18529,9 @@ export const repPrs = {
    "cable rope curls": {
       "8": [
          {
-            "id": "57c84e0f-644f-4e4f-835c-23af49aafde6",
+            "id": "86e51e2a-22d5-4c47-a479-2371d6a0326b",
+            "inferredDate": "2017-07-07",
+            "weekStartDate": "2017-07-01",
             "week": 95,
             "day": 4,
             "exercise": "cable rope curls",
@@ -14164,7 +18549,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "8047c679-cddd-4186-bb9c-71e8b124d614",
+            "id": "81e15022-16f5-4260-afeb-c41f48918f4a",
+            "inferredDate": "2016-08-23",
+            "weekStartDate": "2016-08-20",
             "week": 53,
             "day": 2,
             "exercise": "cable rope curls",
@@ -14182,7 +18569,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "81dcffdb-8749-4d90-9620-5fc110f5bec4",
+            "id": "cfbcb229-0ee7-4a92-956a-fdfffb959324",
+            "inferredDate": "2016-04-27",
+            "weekStartDate": "2016-04-23",
             "week": 33,
             "day": 2,
             "exercise": "cable rope curls",
@@ -14198,7 +18587,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "8faf2f03-8fe2-4f51-8efd-fbacafdabd04",
+            "id": "418ab2a4-0986-435b-8303-b85458345827",
+            "inferredDate": "2016-04-27",
+            "weekStartDate": "2016-04-23",
             "week": 33,
             "day": 2,
             "exercise": "cable rope curls",
@@ -14214,7 +18605,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "2976285c-b5db-425b-b1c0-b064218288a1",
+            "id": "c347d458-f879-465d-b354-52e5e8391068",
+            "inferredDate": "2016-04-27",
+            "weekStartDate": "2016-04-23",
             "week": 33,
             "day": 2,
             "exercise": "cable rope curls",
@@ -14229,12 +18622,34 @@ export const repPrs = {
             "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
          }
+      ],
+      "15": [
+         {
+            "id": "6743eea2-b188-4d58-ac83-4093d61c28da",
+            "inferredDate": "2019-04-19",
+            "weekStartDate": "2019-04-13",
+            "week": 165,
+            "day": 4,
+            "exercise": "cable rope curls",
+            "originalExerciseName": "Spider DB Curls",
+            "setNumber": 1,
+            "reps": 15,
+            "instructions": "Face Down on incline bench with DBs touching side to side",
+            "weight": 20,
+            "notes": "these were really good: I could actually get a good contraction and pump without hurting my forearm",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
       ]
    },
    "reverse db lunges": {
       "8": [
          {
-            "id": "73580fe0-559f-4d9f-80bf-982e251bd8ac",
+            "id": "f9652274-a476-44b7-b70b-bd0cd5d9114d",
+            "inferredDate": "2016-08-08",
+            "weekStartDate": "2016-08-06",
             "week": 48,
             "day": 1,
             "exercise": "reverse db lunges",
@@ -14252,12 +18667,14 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "95b8f006-059a-4ee9-b5b1-eabcf7e0f5f3",
+            "id": "72b20c47-9e03-47a1-94a4-8b135cd03140",
+            "inferredDate": "2016-05-16",
+            "weekStartDate": "2016-05-14",
             "week": 36,
             "day": 1,
             "exercise": "reverse db lunges",
             "originalExerciseName": "Reverse DB Lunges",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "",
             "weight": 45,
@@ -14268,7 +18685,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "f61901dd-8b5b-4762-bbc8-fd728b501756",
+            "id": "bded2a9c-4ebb-4e30-a4ac-0ae03d38f628",
+            "inferredDate": "2016-08-01",
+            "weekStartDate": "2016-07-30",
             "week": 47,
             "day": 1,
             "exercise": "reverse db lunges",
@@ -14286,7 +18705,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "6d3a5020-b10d-4f81-a829-dfd822d8f6c4",
+            "id": "3159e23d-f000-44dc-86c2-5c103dcef123",
+            "inferredDate": "2018-01-02",
+            "weekStartDate": "2017-12-31",
             "week": 122,
             "day": 1,
             "exercise": "reverse db lunges",
@@ -14306,12 +18727,14 @@ export const repPrs = {
    "snatch grip romanian deadlift": {
       "8": [
          {
-            "id": "5de8d16b-c336-4253-8792-37f4af16b5de",
+            "id": "cbd63a14-2e62-43be-b84c-893c91f2472f",
+            "inferredDate": "2016-05-30",
+            "weekStartDate": "2016-05-28",
             "week": 38,
             "day": 1,
             "exercise": "snatch grip romanian deadlift",
             "originalExerciseName": "Snatch Grip RDLs",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 8,
             "instructions": "",
             "weight": 235,
@@ -14324,12 +18747,14 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "fc5a5cd9-8c74-48c3-ad5a-fe51f03b0992",
+            "id": "e13767db-b569-4948-8e80-d5e0e937a322",
+            "inferredDate": "2017-02-27",
+            "weekStartDate": "2017-02-25",
             "week": 76,
             "day": 1,
             "exercise": "snatch grip romanian deadlift",
             "originalExerciseName": "Snatch Grip RDLs",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "",
             "weight": 245,
@@ -14340,7 +18765,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "29236c8a-a1e6-44ee-b742-59e06a4b1efc",
+            "id": "ab52035a-3f92-43fd-88c0-e27df83eadc3",
+            "inferredDate": "2017-03-27",
+            "weekStartDate": "2017-03-25",
             "week": 80,
             "day": 1,
             "exercise": "snatch grip romanian deadlift",
@@ -14358,7 +18785,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "be7cffd6-0f21-458b-838a-b289f1afd0b1",
+            "id": "3c7fc3b2-39e1-4eda-91b7-c09c5e0c6814",
+            "inferredDate": "2016-05-16",
+            "weekStartDate": "2016-05-14",
             "week": 36,
             "day": 1,
             "exercise": "snatch grip romanian deadlift",
@@ -14374,12 +18803,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "3217edf2-571f-4f67-8dcd-2811077badfb",
+            "id": "73c9bf9a-3f3e-42f3-afa9-b7042183d07a",
+            "inferredDate": "2017-03-02",
+            "weekStartDate": "2017-02-25",
             "week": 76,
             "day": 3,
             "exercise": "snatch grip romanian deadlift",
             "originalExerciseName": "Snatch Grip RDLs",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 245,
@@ -14394,7 +18825,9 @@ export const repPrs = {
    "pullups": {
       "0": [
          {
-            "id": "89b8d43f-4cf1-4bdd-b4e7-374a09f658ae",
+            "id": "2b0b7e06-492e-4879-8602-870ca71768ba",
+            "inferredDate": "2016-06-30",
+            "weekStartDate": "2016-06-25",
             "week": 42,
             "day": 3,
             "exercise": "pullups",
@@ -14412,7 +18845,9 @@ export const repPrs = {
       ],
       "6": [
          {
-            "id": "8fd5f02d-1198-4be7-8a2a-36f7120ee0c8",
+            "id": "5a4e0397-2b18-4092-a3a4-78303e0af335",
+            "inferredDate": "2016-06-23",
+            "weekStartDate": "2016-06-18",
             "week": 41,
             "day": 3,
             "exercise": "pullups",
@@ -14430,7 +18865,9 @@ export const repPrs = {
       ],
       "7": [
          {
-            "id": "b354be29-1300-401d-83bc-ac372d48bb4f",
+            "id": "9061d4bc-504f-47be-b16c-c6369847e5c1",
+            "inferredDate": "2016-06-16",
+            "weekStartDate": "2016-06-11",
             "week": 40,
             "day": 3,
             "exercise": "pullups",
@@ -14448,7 +18885,9 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "fdd61d84-4460-4732-a8ba-f61dc4b24561",
+            "id": "1457479a-0842-4f92-94d2-382e42efd7ba",
+            "inferredDate": "2016-05-26",
+            "weekStartDate": "2016-05-21",
             "week": 37,
             "day": 3,
             "exercise": "pullups",
@@ -14466,7 +18905,9 @@ export const repPrs = {
       ],
       "9": [
          {
-            "id": "5a87fd41-6d03-4097-80d8-197aeed46118",
+            "id": "c70a7ebf-5700-495d-af9a-8875e033e82e",
+            "inferredDate": "2016-06-02",
+            "weekStartDate": "2016-05-28",
             "week": 38,
             "day": 3,
             "exercise": "pullups",
@@ -14484,7 +18925,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "7b4aa57b-9cce-4126-b6bd-fb15c5fb64f9",
+            "id": "e5c82db1-325d-4bbe-8b6c-4660992f5817",
+            "inferredDate": "2016-05-26",
+            "weekStartDate": "2016-05-21",
             "week": 37,
             "day": 3,
             "exercise": "pullups",
@@ -14502,7 +18945,9 @@ export const repPrs = {
       ],
       "11": [
          {
-            "id": "300cf64d-f886-440a-abe6-f22b26dc88ee",
+            "id": "059644f2-d2d8-4791-8db0-a8de08a73439",
+            "inferredDate": "2016-05-19",
+            "weekStartDate": "2016-05-14",
             "week": 36,
             "day": 3,
             "exercise": "pullups",
@@ -14520,7 +18965,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "08dc92f6-19da-43d7-bbbe-f238924ee2be",
+            "id": "9ba5ca9c-7eef-4d22-a39d-e2856bf03c9f",
+            "inferredDate": "2016-05-26",
+            "weekStartDate": "2016-05-21",
             "week": 37,
             "day": 3,
             "exercise": "pullups",
@@ -14538,7 +18985,9 @@ export const repPrs = {
       ],
       "16": [
          {
-            "id": "180a3fce-c6ed-4325-9476-970330bd48e6",
+            "id": "5da1c1c9-d3e3-48bd-a23c-596871c355e0",
+            "inferredDate": "2016-05-19",
+            "weekStartDate": "2016-05-14",
             "week": 36,
             "day": 3,
             "exercise": "pullups",
@@ -14558,7 +19007,9 @@ export const repPrs = {
    "chinups": {
       "0": [
          {
-            "id": "4b09f578-38cb-4bc3-973d-36bde9962bbb",
+            "id": "e75adde8-e548-4d66-955a-b85451b456d7",
+            "inferredDate": "2016-05-26",
+            "weekStartDate": "2016-05-21",
             "week": 37,
             "day": 3,
             "exercise": "chinups",
@@ -14576,7 +19027,9 @@ export const repPrs = {
       ],
       "7": [
          {
-            "id": "446b82ec-e8d1-4061-8c03-e71e71a1b51f",
+            "id": "3901deab-b872-43be-a799-9e20b5c4afc0",
+            "inferredDate": "2016-06-16",
+            "weekStartDate": "2016-06-11",
             "week": 40,
             "day": 3,
             "exercise": "chinups",
@@ -14594,7 +19047,9 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "5fd9c305-e695-4b85-8006-81c61b052079",
+            "id": "42cf2f8f-bdce-462a-ab88-86c115a4f918",
+            "inferredDate": "2016-05-26",
+            "weekStartDate": "2016-05-21",
             "week": 37,
             "day": 3,
             "exercise": "chinups",
@@ -14612,7 +19067,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "b4864ddc-72d0-47dc-865d-57e5ff10fd0a",
+            "id": "31ae7605-d037-43a5-a97c-e16b5c9e9993",
+            "inferredDate": "2016-05-19",
+            "weekStartDate": "2016-05-14",
             "week": 36,
             "day": 3,
             "exercise": "chinups",
@@ -14630,7 +19087,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "43026936-714d-4d0a-847b-5747fc7a5ede",
+            "id": "0f79c33c-1695-461a-840d-7ca8da748260",
+            "inferredDate": "2016-05-19",
+            "weekStartDate": "2016-05-14",
             "week": 36,
             "day": 3,
             "exercise": "chinups",
@@ -14648,7 +19107,9 @@ export const repPrs = {
       ],
       "2008": [
          {
-            "id": "dc722570-6b68-43c5-880b-4551bbb81334",
+            "id": "ca6498a4-7c84-4344-8794-78dd62563d00",
+            "inferredDate": "2016-06-02",
+            "weekStartDate": "2016-05-28",
             "week": 38,
             "day": 3,
             "exercise": "chinups",
@@ -14668,7 +19129,9 @@ export const repPrs = {
    "pendlay row": {
       "8": [
          {
-            "id": "b019bcd5-d017-4178-a13a-015eb79895f4",
+            "id": "76518491-cb5f-4608-b6b6-b3cdda4af2eb",
+            "inferredDate": "2016-05-19",
+            "weekStartDate": "2016-05-14",
             "week": 36,
             "day": 3,
             "exercise": "pendlay row",
@@ -14686,7 +19149,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "a21b0571-e0d5-47fb-99cc-a65bb9c50ace",
+            "id": "dfcd04e9-bca2-44b1-82e6-5ac04a38f206",
+            "inferredDate": "2017-05-18",
+            "weekStartDate": "2017-05-13",
             "week": 88,
             "day": 3,
             "exercise": "pendlay row",
@@ -14704,12 +19169,14 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "e1e401c4-cb88-4026-a289-3ae37b313537",
+            "id": "b359c334-06ae-469f-ac46-efc6829137a2",
+            "inferredDate": "2016-09-08",
+            "weekStartDate": "2016-09-03",
             "week": 55,
             "day": 3,
             "exercise": "pendlay row",
             "originalExerciseName": "Pendlay Rows",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 185,
@@ -14724,7 +19191,9 @@ export const repPrs = {
    "cable crossovers": {
       "8": [
          {
-            "id": "89e80be9-3722-4b94-965f-e6dd4d1cab8e",
+            "id": "5f5e9243-e81d-4908-9503-1c55b503ad07",
+            "inferredDate": "2016-12-16",
+            "weekStartDate": "2016-12-10",
             "week": 70,
             "day": 4,
             "exercise": "cable crossovers",
@@ -14742,7 +19211,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "38b39675-8621-471c-a5aa-0957f953c33c",
+            "id": "e661f790-7825-44d1-8c62-96f9c3021df1",
+            "inferredDate": "2016-06-28",
+            "weekStartDate": "2016-06-25",
             "week": 42,
             "day": 2,
             "exercise": "cable crossovers",
@@ -14760,7 +19231,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "24a2d105-cc96-4ce4-948d-90371a9426a4",
+            "id": "913eea66-ba40-494e-a5c4-3d7b3b5261e2",
+            "inferredDate": "2016-05-20",
+            "weekStartDate": "2016-05-14",
             "week": 36,
             "day": 4,
             "exercise": "cable crossovers",
@@ -14776,7 +19249,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "133aa496-8df4-4d36-bd7d-76b670a4a2d9",
+            "id": "a322a1e1-8c92-4df2-91b4-a6272028a722",
+            "inferredDate": "2016-07-12",
+            "weekStartDate": "2016-07-09",
             "week": 44,
             "day": 2,
             "exercise": "cable crossovers",
@@ -14796,7 +19271,9 @@ export const repPrs = {
    "one arm db preacher curls": {
       "12": [
          {
-            "id": "b1540244-f89b-42dd-8b7e-bf51c180b6c1",
+            "id": "603a3a40-8f88-4ba4-90c4-6675dda7a10d",
+            "inferredDate": "2016-05-24",
+            "weekStartDate": "2016-05-21",
             "week": 37,
             "day": 2,
             "exercise": "one arm db preacher curls",
@@ -14816,7 +19293,9 @@ export const repPrs = {
    "preacher machine curls": {
       "10": [
          {
-            "id": "e43705cd-0bbf-430f-9741-dc77716a8aa3",
+            "id": "2a3e410b-e2b6-42cb-96b7-a28334764992",
+            "inferredDate": "2016-09-06",
+            "weekStartDate": "2016-09-03",
             "week": 55,
             "day": 2,
             "exercise": "preacher machine curls",
@@ -14834,7 +19313,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "770d8383-bf64-465a-9347-38a1e05f8445",
+            "id": "cb6c97cd-8a50-40da-9881-c4a19d044266",
+            "inferredDate": "2016-06-28",
+            "weekStartDate": "2016-06-25",
             "week": 42,
             "day": 2,
             "exercise": "preacher machine curls",
@@ -14852,7 +19333,9 @@ export const repPrs = {
       ],
       "15": [
          {
-            "id": "e451b16b-3e0c-4b03-81b6-93e67dcb2062",
+            "id": "3ee46cd3-5907-4840-93d1-11edb76b9b70",
+            "inferredDate": "2016-05-24",
+            "weekStartDate": "2016-05-21",
             "week": 37,
             "day": 2,
             "exercise": "preacher machine curls",
@@ -14868,7 +19351,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "15d3f3db-8307-47e6-b18b-eaa22711cd01",
+            "id": "36b47636-5741-47e2-bf98-e8fde6af3d38",
+            "inferredDate": "2016-05-24",
+            "weekStartDate": "2016-05-21",
             "week": 37,
             "day": 2,
             "exercise": "preacher machine curls",
@@ -14884,7 +19369,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "ed284799-271a-45fa-a142-df0b3cc8958c",
+            "id": "00e9cb26-de64-416c-b1d4-6603946e62f3",
+            "inferredDate": "2016-05-31",
+            "weekStartDate": "2016-05-28",
             "week": 38,
             "day": 2,
             "exercise": "preacher machine curls",
@@ -14902,7 +19389,9 @@ export const repPrs = {
       ],
       "20": [
          {
-            "id": "22d5ec88-3119-4f0d-ad28-c424164118f3",
+            "id": "e4f8d175-c75c-4f33-8671-0e6777529972",
+            "inferredDate": "2016-11-11",
+            "weekStartDate": "2016-11-05",
             "week": 65,
             "day": 4,
             "exercise": "preacher machine curls",
@@ -14922,7 +19411,9 @@ export const repPrs = {
    "good mornings": {
       "6": [
          {
-            "id": "0f143f1c-cb21-4846-980b-1bade0a7e59d",
+            "id": "e711f73d-b3c7-4bc8-b385-a6eb592cc23d",
+            "inferredDate": "2017-03-30",
+            "weekStartDate": "2017-03-25",
             "week": 80,
             "day": 3,
             "exercise": "good mornings",
@@ -14940,7 +19431,9 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "ec14f509-4b1d-42be-8b72-eab96871ef60",
+            "id": "204dc07e-1c0b-43cd-ad03-382f2dd07da8",
+            "inferredDate": "2016-05-26",
+            "weekStartDate": "2016-05-21",
             "week": 37,
             "day": 3,
             "exercise": "good mornings",
@@ -14958,7 +19451,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "1bf92db3-9c31-496f-99ba-d749f23ce97a",
+            "id": "598625a4-8d91-4a9d-b676-2b95d3a281d5",
+            "inferredDate": "2017-02-23",
+            "weekStartDate": "2017-02-18",
             "week": 75,
             "day": 3,
             "exercise": "good mornings",
@@ -14974,12 +19469,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "76363092-113b-49f0-82e9-8e5e96b4406a",
+            "id": "7e28e976-9d11-4e74-a28a-265ddd4515b5",
+            "inferredDate": "2017-03-02",
+            "weekStartDate": "2017-02-25",
             "week": 76,
             "day": 3,
             "exercise": "good mornings",
             "originalExerciseName": "Good Mornings",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 155,
@@ -14992,9 +19489,31 @@ export const repPrs = {
       ]
    },
    "cable rope pullthroughs": {
+      "5": [
+         {
+            "id": "10184a01-0eb6-4f1a-b804-4aa55099b4ca",
+            "inferredDate": "2019-11-11",
+            "weekStartDate": "2019-11-09",
+            "week": 194,
+            "day": 1,
+            "exercise": "cable rope pullthroughs",
+            "originalExerciseName": "Front levers",
+            "setNumber": 1,
+            "reps": 5,
+            "instructions": "",
+            "weight": 0,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "noWeightStraightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
       "12": [
          {
-            "id": "f8f0acfc-1a0d-423c-ace7-bfc04b25da73",
+            "id": "8b223649-9986-42b1-9b62-f1bdbcad2c36",
+            "inferredDate": "2016-06-02",
+            "weekStartDate": "2016-05-28",
             "week": 38,
             "day": 3,
             "exercise": "cable rope pullthroughs",
@@ -15010,7 +19529,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "b0308f9d-7190-4ec3-acb5-7d61a143f47e",
+            "id": "aaeeabfe-1e7a-4d9f-8c83-1bba436d4d85",
+            "inferredDate": "2016-06-02",
+            "weekStartDate": "2016-05-28",
             "week": 38,
             "day": 3,
             "exercise": "cable rope pullthroughs",
@@ -15026,7 +19547,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "ad3e6c3f-10e8-407f-a717-4dd35b802c7c",
+            "id": "e67739ea-33a1-44e1-aad9-4e01ceb3a622",
+            "inferredDate": "2016-06-02",
+            "weekStartDate": "2016-05-28",
             "week": 38,
             "day": 3,
             "exercise": "cable rope pullthroughs",
@@ -15042,7 +19565,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "48bf81db-1c86-44a3-93f7-1327ccdf217e",
+            "id": "c09a7f4c-927e-45fd-bbb3-63087cbd63f7",
+            "inferredDate": "2016-06-02",
+            "weekStartDate": "2016-05-28",
             "week": 38,
             "day": 3,
             "exercise": "cable rope pullthroughs",
@@ -15062,7 +19587,9 @@ export const repPrs = {
    "flat db fly": {
       "10": [
          {
-            "id": "661404a8-6258-48af-8224-28cacffa698d",
+            "id": "ee441dfb-db62-4cb3-a90c-5a0f8436ddad",
+            "inferredDate": "2016-06-07",
+            "weekStartDate": "2016-06-04",
             "week": 39,
             "day": 2,
             "exercise": "flat db fly",
@@ -15078,7 +19605,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "7da83ba3-75ea-4e56-9637-412ca90d3b57",
+            "id": "24ca4501-e8f5-4f22-98e4-0bf1d21deef0",
+            "inferredDate": "2017-09-09",
+            "weekStartDate": "2017-09-03",
             "week": 105,
             "day": 4,
             "exercise": "flat db fly",
@@ -15092,11 +19621,31 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "failureSpecifiedInRepsColumnWithWeightStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "03540985-2561-4800-a72b-d7ad829923cf",
+            "inferredDate": "2019-11-13",
+            "weekStartDate": "2019-11-09",
+            "week": 194,
+            "day": 2,
+            "exercise": "flat db fly",
+            "originalExerciseName": "Arnold press",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "",
+            "weight": 45,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ],
       "12": [
          {
-            "id": "44d8c348-67b9-4658-b054-902c2c7109fe",
+            "id": "0521d484-ca30-4489-9dcf-d18f086fa7d9",
+            "inferredDate": "2016-11-11",
+            "weekStartDate": "2016-11-05",
             "week": 65,
             "day": 4,
             "exercise": "flat db fly",
@@ -15112,7 +19661,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "b86d1172-7023-47ed-bb7c-542a8eb63b23",
+            "id": "22ffd0f3-e75d-428f-b389-041aefa3487c",
+            "inferredDate": "2017-10-25",
+            "weekStartDate": "2017-10-22",
             "week": 112,
             "day": 2,
             "exercise": "flat db fly",
@@ -15128,7 +19679,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "1586b2af-d9ce-478d-9916-56d3fd3d4871",
+            "id": "bb95d1a0-1aa8-4ce7-9092-2ca7b1e016cb",
+            "inferredDate": "2018-08-10",
+            "weekStartDate": "2018-08-04",
             "week": 129,
             "day": 4,
             "exercise": "flat db fly",
@@ -15144,7 +19697,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "c7acdb24-8d05-4b9f-97c8-3f767a05168a",
+            "id": "6507651b-a51e-41ce-9b19-48b6cc4e3e14",
+            "inferredDate": "2018-09-14",
+            "weekStartDate": "2018-09-08",
             "week": 134,
             "day": 4,
             "exercise": "flat db fly",
@@ -15162,7 +19717,9 @@ export const repPrs = {
       ],
       "15": [
          {
-            "id": "c262867a-de9a-4d21-aae4-6744096d277e",
+            "id": "6c14b56b-a67a-4591-8ffc-b56134c2d1c2",
+            "inferredDate": "2019-03-05",
+            "weekStartDate": "2019-03-02",
             "week": 159,
             "day": 2,
             "exercise": "flat db fly",
@@ -15180,7 +19737,9 @@ export const repPrs = {
       ],
       "16": [
          {
-            "id": "580ea7b1-b272-4f85-947e-2efbf65d5e23",
+            "id": "f83352b1-5c6d-467a-8c7d-d5654dfc4c00",
+            "inferredDate": "2019-01-08",
+            "weekStartDate": "2019-01-05",
             "week": 151,
             "day": 2,
             "exercise": "flat db fly",
@@ -15198,9 +19757,31 @@ export const repPrs = {
       ]
    },
    "kettlebell swings": {
+      "10": [
+         {
+            "id": "3e20e93b-b9e1-40bd-af69-2893506d1267",
+            "inferredDate": "2020-04-13",
+            "weekStartDate": "2020-04-11",
+            "week": 216,
+            "day": 1,
+            "exercise": "kettlebell swings",
+            "originalExerciseName": "Kettlebell swings",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "",
+            "weight": 105,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
       "25": [
          {
-            "id": "9973ec47-45e5-46ca-a5e4-9594f83b1b86",
+            "id": "527eb769-8aea-4dea-bd33-32a7def35430",
+            "inferredDate": "2016-06-09",
+            "weekStartDate": "2016-06-04",
             "week": 39,
             "day": 3,
             "exercise": "kettlebell swings",
@@ -15220,7 +19801,27 @@ export const repPrs = {
    "wide stanced smith machine squats": {
       "12": [
          {
-            "id": "a51f6f6f-4f5c-4bce-b276-987405aca76b",
+            "id": "b7ff67b5-5085-42d4-9e3e-c7e62b34a159",
+            "inferredDate": "2016-06-13",
+            "weekStartDate": "2016-06-11",
+            "week": 40,
+            "day": 1,
+            "exercise": "wide stanced smith machine squats",
+            "originalExerciseName": "Wide Stanced Smith Machine Squats",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "Feet up a bit drive back into the bar",
+            "weight": 220,
+            "notes": "No smith machine at the gym I'm at so I used a Freemotion squat machine",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "2789281d-5fc6-41bf-9d50-517ab2a9bf15",
+            "inferredDate": "2016-06-13",
+            "weekStartDate": "2016-06-11",
             "week": 40,
             "day": 1,
             "exercise": "wide stanced smith machine squats",
@@ -15236,7 +19837,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "9fa8d8ac-0161-46ed-9df8-5964663b0d06",
+            "id": "e6eeec5a-9a97-4839-9432-eb2c9ece58d5",
+            "inferredDate": "2016-06-13",
+            "weekStartDate": "2016-06-11",
             "week": 40,
             "day": 1,
             "exercise": "wide stanced smith machine squats",
@@ -15252,7 +19855,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "efa18f16-1f92-4da1-9c45-0df3449fe961",
+            "id": "a194cf9c-64cc-432f-9b40-16d7c55969c7",
+            "inferredDate": "2016-06-13",
+            "weekStartDate": "2016-06-11",
             "week": 40,
             "day": 1,
             "exercise": "wide stanced smith machine squats",
@@ -15272,7 +19877,9 @@ export const repPrs = {
    "concentration curls": {
       "8": [
          {
-            "id": "fa52ed23-c167-420e-908c-17142c6a6185",
+            "id": "988f0c82-4e05-47af-a476-c568dc30d91b",
+            "inferredDate": "2016-06-14",
+            "weekStartDate": "2016-06-11",
             "week": 40,
             "day": 2,
             "exercise": "concentration curls",
@@ -15292,7 +19899,9 @@ export const repPrs = {
    "ez bar cable curls": {
       "6": [
          {
-            "id": "c58de339-c1b1-4855-b512-ea83ffc82951",
+            "id": "5059c539-b15d-4ba0-b2a1-112b86ee0c3d",
+            "inferredDate": "2017-10-14",
+            "weekStartDate": "2017-10-08",
             "week": 110,
             "day": 4,
             "exercise": "ez bar cable curls",
@@ -15308,7 +19917,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "b89abe67-3e32-4e23-becf-9e7abb8497ea",
+            "id": "d04abe6e-39b3-4010-9749-88ed90247dbb",
+            "inferredDate": "2017-11-11",
+            "weekStartDate": "2017-11-05",
             "week": 114,
             "day": 4,
             "exercise": "ez bar cable curls",
@@ -15326,7 +19937,9 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "4353ae6c-dc4e-4d21-be51-a31126735c8a",
+            "id": "53b30fb3-3686-45c3-a903-e3822f287672",
+            "inferredDate": "2016-08-09",
+            "weekStartDate": "2016-08-06",
             "week": 48,
             "day": 2,
             "exercise": "ez bar cable curls",
@@ -15342,7 +19955,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "2556d86b-eef1-4295-8bb7-8b8c92f67b39",
+            "id": "6dccfe02-3b71-46a3-b112-ad14931b51ca",
+            "inferredDate": "2017-03-03",
+            "weekStartDate": "2017-02-25",
             "week": 76,
             "day": 4,
             "exercise": "ez bar cable curls",
@@ -15358,7 +19973,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "ac3d32b0-b52e-4bfd-9548-5922e5bdf674",
+            "id": "eab94b90-f321-400a-9ca2-56f1d4bbfdea",
+            "inferredDate": "2017-03-03",
+            "weekStartDate": "2017-02-25",
             "week": 76,
             "day": 4,
             "exercise": "ez bar cable curls",
@@ -15372,11 +19989,31 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "1b607dac-4d7a-479d-8b58-5a71728cc5f7",
+            "inferredDate": "2019-03-08",
+            "weekStartDate": "2019-03-02",
+            "week": 159,
+            "day": 4,
+            "exercise": "ez bar cable curls",
+            "originalExerciseName": "EZ Bar Curls",
+            "setNumber": 1,
+            "reps": 8,
+            "instructions": "",
+            "weight": 100,
+            "notes": "Misread the sheet and did standing EZ bar curls instead",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ],
       "10": [
          {
-            "id": "2338545f-e860-481b-862f-8d4ed53f64e1",
+            "id": "173f7c21-e6b5-4526-a300-c4b2baf9d6ea",
+            "inferredDate": "2016-08-30",
+            "weekStartDate": "2016-08-27",
             "week": 54,
             "day": 2,
             "exercise": "ez bar cable curls",
@@ -15392,7 +20029,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "f57e1618-b4da-4d44-9ec7-02b9afd6c836",
+            "id": "cbb8a613-8f13-42ce-9de7-03398404c18b",
+            "inferredDate": "2018-01-13",
+            "weekStartDate": "2018-01-07",
             "week": 123,
             "day": 4,
             "exercise": "ez bar cable curls",
@@ -15408,7 +20047,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "913fd2b2-47b7-492a-b981-888bcf336276",
+            "id": "e704b57d-7e1c-46b3-b274-7d99ed899d0d",
+            "inferredDate": "2018-09-07",
+            "weekStartDate": "2018-09-01",
             "week": 133,
             "day": 4,
             "exercise": "ez bar cable curls",
@@ -15426,7 +20067,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "c73b11df-e410-488e-8848-a7b771f011fa",
+            "id": "964a6509-9fbd-48aa-9ee5-6abe5bd93df1",
+            "inferredDate": "2016-06-14",
+            "weekStartDate": "2016-06-11",
             "week": 40,
             "day": 2,
             "exercise": "ez bar cable curls",
@@ -15442,7 +20085,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "23d9146c-b06a-4595-97a6-21f4de404795",
+            "id": "a389c3b0-f6b0-4ba5-83f1-639d6329d344",
+            "inferredDate": "2016-07-19",
+            "weekStartDate": "2016-07-16",
             "week": 45,
             "day": 2,
             "exercise": "ez bar cable curls",
@@ -15458,7 +20103,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "28b342ca-3ac5-4766-b849-92afa862dde6",
+            "id": "bd45f2fe-a0ec-4de9-a930-0f7d4cb4bcff",
+            "inferredDate": "2018-10-26",
+            "weekStartDate": "2018-10-20",
             "week": 140,
             "day": 4,
             "exercise": "ez bar cable curls",
@@ -15476,12 +20123,14 @@ export const repPrs = {
       ],
       "15": [
          {
-            "id": "334490cf-7f96-4423-ab93-9313c27104e9",
+            "id": "9567b6c6-3f68-40f7-9f63-03ea399b8156",
+            "inferredDate": "2016-11-04",
+            "weekStartDate": "2016-10-29",
             "week": 64,
             "day": 4,
             "exercise": "ez bar cable curls",
             "originalExerciseName": "EZ BAR CABLE CURLS",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 15,
             "instructions": "45 seconds rest",
             "weight": 35,
@@ -15492,7 +20141,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "89eea934-5eea-4c83-8724-a9590b8d8441",
+            "id": "705913ab-7222-413a-affe-9921d3e10aa7",
+            "inferredDate": "2016-12-02",
+            "weekStartDate": "2016-11-26",
             "week": 68,
             "day": 4,
             "exercise": "ez bar cable curls",
@@ -15508,7 +20159,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "cfda1966-47c7-4ac2-a8a0-617c49873cf2",
+            "id": "b3aba5a3-2c83-47b8-a015-0dc32e1d4c99",
+            "inferredDate": "2017-05-26",
+            "weekStartDate": "2017-05-20",
             "week": 89,
             "day": 4,
             "exercise": "ez bar cable curls",
@@ -15524,12 +20177,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "574f6c97-ffcc-4f55-80b1-b5268c921644",
+            "id": "456eddd3-f1ca-47ea-96e8-e2f51591ead2",
+            "inferredDate": "2017-06-30",
+            "weekStartDate": "2017-06-24",
             "week": 94,
             "day": 4,
             "exercise": "ez bar cable curls",
             "originalExerciseName": "EZ Bar Curls",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 15,
             "instructions": "45 seconds rest",
             "weight": 50,
@@ -15540,12 +20195,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "70b724d0-9e74-4b2b-bde4-9a65c7952a12",
+            "id": "30d4edb4-7369-4926-b1d6-4beebbd1426e",
+            "inferredDate": "2017-07-14",
+            "weekStartDate": "2017-07-08",
             "week": 96,
             "day": 4,
             "exercise": "ez bar cable curls",
             "originalExerciseName": "EZ Bar Curls",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 15,
             "instructions": "",
             "weight": 60,
@@ -15558,7 +20215,9 @@ export const repPrs = {
       ],
       "18": [
          {
-            "id": "54f068a3-d119-4440-8e9b-f4d097f5f70a",
+            "id": "31107b8f-b35b-4121-8776-afdbdfccf6dc",
+            "inferredDate": "2018-11-30",
+            "weekStartDate": "2018-11-24",
             "week": 145,
             "day": 4,
             "exercise": "ez bar cable curls",
@@ -15576,7 +20235,9 @@ export const repPrs = {
       ],
       "20": [
          {
-            "id": "f634ce23-7031-4da3-a4c8-98e49fcf8bf8",
+            "id": "0a9eed13-2de5-4ae5-8562-4301eddb9ebe",
+            "inferredDate": "2018-08-31",
+            "weekStartDate": "2018-08-25",
             "week": 132,
             "day": 4,
             "exercise": "ez bar cable curls",
@@ -15596,7 +20257,9 @@ export const repPrs = {
    "cable rows": {
       "10": [
          {
-            "id": "df6f63f0-b88a-4d92-8c4f-4bf9645dc509",
+            "id": "75f6f2f9-ddb2-43c1-942b-e29720043d2f",
+            "inferredDate": "2016-06-16",
+            "weekStartDate": "2016-06-11",
             "week": 40,
             "day": 3,
             "exercise": "cable rows",
@@ -15612,7 +20275,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "0f1bf28e-be5b-48cb-bfea-4a24a8d67dc3",
+            "id": "ef47fd69-ef50-4d14-8b9e-2d386f21c616",
+            "inferredDate": "2016-06-16",
+            "weekStartDate": "2016-06-11",
             "week": 40,
             "day": 3,
             "exercise": "cable rows",
@@ -15628,7 +20293,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "66f42774-7bb4-40b2-8846-8b3f89ca4ee9",
+            "id": "aa6ba4f8-520e-4e27-9194-cb8f23d65ce0",
+            "inferredDate": "2016-06-16",
+            "weekStartDate": "2016-06-11",
             "week": 40,
             "day": 3,
             "exercise": "cable rows",
@@ -15644,7 +20311,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "2ad9ef81-975b-4d2c-82cb-d819b1e39903",
+            "id": "2d4a36f5-d8ab-493a-a6a4-c4d481316b63",
+            "inferredDate": "2016-06-16",
+            "weekStartDate": "2016-06-11",
             "week": 40,
             "day": 3,
             "exercise": "cable rows",
@@ -15660,7 +20329,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "bed839ad-689d-4c10-a8cc-a0f9ed82c347",
+            "id": "a6fb9e9e-f707-45d4-b13a-99da50ffb614",
+            "inferredDate": "2016-06-16",
+            "weekStartDate": "2016-06-11",
             "week": 40,
             "day": 3,
             "exercise": "cable rows",
@@ -15678,12 +20349,14 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "1b9171d5-f685-4940-9cb1-1caeddf65446",
+            "id": "63f0cd62-53e6-4a7d-a5e1-f52d11d9cf5a",
+            "inferredDate": "2016-06-30",
+            "weekStartDate": "2016-06-25",
             "week": 42,
             "day": 3,
             "exercise": "cable rows",
             "originalExerciseName": "Cable Rows",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "Use two single handles so you can rotate through the ROM",
             "weight": 180,
@@ -15694,7 +20367,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "26173152-be88-460e-8199-0542bc57cf7a",
+            "id": "3a597a57-a203-46af-bcdb-62998ff3d2f1",
+            "inferredDate": "2018-08-02",
+            "weekStartDate": "2018-07-28",
             "week": 128,
             "day": 3,
             "exercise": "cable rows",
@@ -15714,7 +20389,9 @@ export const repPrs = {
    "wide grip chest supported row": {
       "10": [
          {
-            "id": "5fbc614b-f235-4b75-96eb-3e5657699180",
+            "id": "ff31481f-210e-4050-91c8-0ea47878803d",
+            "inferredDate": "2016-06-23",
+            "weekStartDate": "2016-06-18",
             "week": 41,
             "day": 3,
             "exercise": "wide grip chest supported row",
@@ -15734,7 +20411,9 @@ export const repPrs = {
    "lying hamstring curl": {
       "8": [
          {
-            "id": "dcd6384a-70b2-4d6f-984b-ebcc12fc4074",
+            "id": "9378a054-0369-4e7e-baf8-aae9d9379d8b",
+            "inferredDate": "2016-12-12",
+            "weekStartDate": "2016-12-10",
             "week": 70,
             "day": 1,
             "exercise": "lying hamstring curl",
@@ -15744,7 +20423,7 @@ export const repPrs = {
             "instructions": "Lots of warm ups, then 8 reps and 8 partials each set",
             "weight": 130,
             "notes": "",
-            "supersetId": "40ac2724-7067-4c37-b8dd-bc59487ba97c",
+            "supersetId": "2d7522de-6a20-4228-9b30-38a606ba7840",
             "anomalous": "",
             "strategyUsed": "partialRepsStrategy",
             "dropSetId": ""
@@ -15752,7 +20431,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "4dd80309-6d2e-44df-8399-2ca3d53d6510",
+            "id": "945c826c-0272-4cc4-a2f8-e0d36763aef7",
+            "inferredDate": "2016-06-27",
+            "weekStartDate": "2016-06-25",
             "week": 42,
             "day": 1,
             "exercise": "lying hamstring curl",
@@ -15766,27 +20447,13 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
-         },
-         {
-            "id": "e71fd105-0295-4fc2-828d-7297765076c4",
-            "week": 42,
-            "day": 1,
-            "exercise": "lying hamstring curl",
-            "originalExerciseName": "*Standing calf raise",
-            "setNumber": 1,
-            "reps": 10,
-            "instructions": "",
-            "weight": 300,
-            "notes": "No adductor machine at my gym, so I bro'd out on calves",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
          }
       ],
       "12": [
          {
-            "id": "f0a52754-fe3b-45c2-adcd-ed426b05ba2c",
+            "id": "53898913-36d0-440c-8319-4c081c43a682",
+            "inferredDate": "2016-07-11",
+            "weekStartDate": "2016-07-09",
             "week": 44,
             "day": 1,
             "exercise": "lying hamstring curl",
@@ -15802,12 +20469,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "ef357925-0278-4fd4-afcb-dfbcd7b96dd6",
+            "id": "84ad197c-199a-42ef-bc73-8de450c1a396",
+            "inferredDate": "2016-10-24",
+            "weekStartDate": "2016-10-22",
             "week": 63,
             "day": 1,
             "exercise": "lying hamstring curl",
             "originalExerciseName": "Lying Hamstrings Curls",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 110,
@@ -15818,12 +20487,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "7d0ad8f1-f0d8-4d49-81ae-cdb986f6c8a6",
+            "id": "7957f0b3-0f4a-4b71-887c-791ef7738e52",
+            "inferredDate": "2016-11-28",
+            "weekStartDate": "2016-11-26",
             "week": 68,
             "day": 1,
             "exercise": "lying hamstring curl",
             "originalExerciseName": "Lying Hamstrings Curls",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "As a warm up",
             "weight": 115,
@@ -15834,12 +20505,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "4be0bd24-daa7-4830-b983-2ed2a956b643",
+            "id": "7afba5a8-3ff6-41bc-91df-dd09eb39856c",
+            "inferredDate": "2017-06-19",
+            "weekStartDate": "2017-06-17",
             "week": 93,
             "day": 1,
             "exercise": "lying hamstring curl",
             "originalExerciseName": "Lying Hamstrings Curls",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 120,
@@ -15850,15 +20523,35 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "299d6f26-8a81-450c-a1eb-ae3343e547b3",
+            "id": "9aa48c31-b561-4b96-9648-0faa36d27bd5",
+            "inferredDate": "2018-11-26",
+            "weekStartDate": "2018-11-24",
             "week": 145,
             "day": 1,
             "exercise": "lying hamstring curl",
             "originalExerciseName": "Lying Hamstrings Curls",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 125,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "f834c141-8523-4233-a337-550b7dbe5229",
+            "inferredDate": "2019-06-10",
+            "weekStartDate": "2019-06-08",
+            "week": 172,
+            "day": 1,
+            "exercise": "lying hamstring curl",
+            "originalExerciseName": "Lying Hamstrings Curls",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 130,
             "notes": "",
             "supersetId": "",
             "anomalous": "",
@@ -15868,7 +20561,9 @@ export const repPrs = {
       ],
       "15": [
          {
-            "id": "8d3f1034-aab9-411c-ad26-415d4cacfd74",
+            "id": "eba0f3c2-8bbb-4dce-97ca-a18bb8811372",
+            "inferredDate": "2017-09-12",
+            "weekStartDate": "2017-09-10",
             "week": 106,
             "day": 1,
             "exercise": "lying hamstring curl",
@@ -15884,7 +20579,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "6ff8f39d-130d-4fa4-bc85-ce0d1f75e798",
+            "id": "145fa094-e38f-4f96-9d47-bc8837a98f58",
+            "inferredDate": "2018-11-05",
+            "weekStartDate": "2018-11-03",
             "week": 142,
             "day": 1,
             "exercise": "lying hamstring curl",
@@ -15902,12 +20599,14 @@ export const repPrs = {
       ],
       "16": [
          {
-            "id": "ffa17cb2-63fa-440e-8fcc-18913cd95d5f",
+            "id": "34a59c5f-9486-45a7-87ae-33b8e1ed334e",
+            "inferredDate": "2018-12-24",
+            "weekStartDate": "2018-12-22",
             "week": 149,
             "day": 1,
             "exercise": "lying hamstring curl",
             "originalExerciseName": "Lying Hamstrings Curls",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 16,
             "instructions": "10 full reps, 6 partial reps for every set",
             "weight": 120,
@@ -15918,9 +20617,31 @@ export const repPrs = {
             "dropSetId": ""
          }
       ],
+      "18": [
+         {
+            "id": "8d24b389-b093-401f-acf2-077a1c1fa653",
+            "inferredDate": "2019-04-29",
+            "weekStartDate": "2019-04-27",
+            "week": 167,
+            "day": 1,
+            "exercise": "lying hamstring curl",
+            "originalExerciseName": "Lying Hamstrings Curls",
+            "setNumber": 1,
+            "reps": 18,
+            "instructions": "12 Full Reps Plus 6 Partials on every set",
+            "weight": 120,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "compoundSetStrategy",
+            "dropSetId": ""
+         }
+      ],
       "20": [
          {
-            "id": "40c3584a-2b21-410b-8066-20c29c4f27ca",
+            "id": "35da6c34-4a4e-40eb-91c2-350300479b96",
+            "inferredDate": "2016-11-07",
+            "weekStartDate": "2016-11-05",
             "week": 65,
             "day": 1,
             "exercise": "lying hamstring curl",
@@ -15936,7 +20657,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "c2a3890b-cc00-4a7a-96ce-b69b0e0361c2",
+            "id": "ad7b2bb9-eaac-4fa1-b5f0-14d7e28f24e1",
+            "inferredDate": "2017-11-14",
+            "weekStartDate": "2017-11-12",
             "week": 115,
             "day": 1,
             "exercise": "lying hamstring curl",
@@ -15952,15 +20675,35 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "963e9265-291e-4d76-868e-2d333d8ad664",
+            "id": "1183392a-0bcf-4832-bb56-bb6ac0eec893",
+            "inferredDate": "2018-10-08",
+            "weekStartDate": "2018-10-06",
             "week": 138,
             "day": 1,
             "exercise": "lying hamstring curl",
             "originalExerciseName": "Lying Hamstrings Curls",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 20,
             "instructions": "10 reps then 10 partials on all sets",
             "weight": 100,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "compoundSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "cd1675bf-00c9-4ea3-8fcb-3a590d719af7",
+            "inferredDate": "2019-04-08",
+            "weekStartDate": "2019-04-06",
+            "week": 164,
+            "day": 1,
+            "exercise": "lying hamstring curl",
+            "originalExerciseName": "Lying Hamstrings Curls",
+            "setNumber": 1,
+            "reps": 20,
+            "instructions": "10 full reps plus 10 partial reps",
+            "weight": 120,
             "notes": "",
             "supersetId": "",
             "anomalous": "",
@@ -15970,7 +20713,9 @@ export const repPrs = {
       ],
       "25": [
          {
-            "id": "518f0005-2139-41b2-8fcb-bf4ddb017b48",
+            "id": "f6917922-07cc-46b3-a53e-c4fa67a71bd1",
+            "inferredDate": "2016-06-23",
+            "weekStartDate": "2016-06-18",
             "week": 41,
             "day": 3,
             "exercise": "lying hamstring curl",
@@ -15987,15 +20732,39 @@ export const repPrs = {
          }
       ]
    },
+   "standing calf raise": {
+      "10": [
+         {
+            "id": "e87b45e5-a212-4735-ac46-888bd56576ad",
+            "inferredDate": "2016-06-27",
+            "weekStartDate": "2016-06-25",
+            "week": 42,
+            "day": 1,
+            "exercise": "standing calf raise",
+            "originalExerciseName": "Standing calf raise",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "",
+            "weight": 300,
+            "notes": "No adductor machine at my gym, so I bro'd out on calves",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ]
+   },
    "feet up bench press": {
       "10": [
          {
-            "id": "b8ba6fba-d8c1-4a5b-8105-3affc6c99740",
+            "id": "785bd4e1-64f7-48ae-b9ec-c55e50f45ecd",
+            "inferredDate": "2016-06-28",
+            "weekStartDate": "2016-06-25",
             "week": 42,
             "day": 2,
             "exercise": "feet up bench press",
             "originalExerciseName": "Feet Up Bench Press",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "Using 60% of your 1 RM",
             "weight": 205,
@@ -16010,7 +20779,27 @@ export const repPrs = {
    "hammer strength bench press": {
       "8": [
          {
-            "id": "25952c4b-8873-4bba-b329-df0f396b9448",
+            "id": "94636340-5808-4bb1-9bc2-ab3cf924641b",
+            "inferredDate": "2018-01-17",
+            "weekStartDate": "2018-01-14",
+            "week": 124,
+            "day": 2,
+            "exercise": "hammer strength bench press",
+            "originalExerciseName": "Hammer Strength Chest Press",
+            "setNumber": 1,
+            "reps": 8,
+            "instructions": "Work up to a hard final 8",
+            "weight": 230,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "5d7eb785-ba76-436a-b102-830c61f70107",
+            "inferredDate": "2018-01-17",
+            "weekStartDate": "2018-01-14",
             "week": 124,
             "day": 2,
             "exercise": "hammer strength bench press",
@@ -16026,7 +20815,27 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "23fb9cee-b617-4fd7-a0e7-02a9a9f5beb7",
+            "id": "dd36bd89-18b0-44b7-80c3-7d13fa1506b6",
+            "inferredDate": "2018-01-17",
+            "weekStartDate": "2018-01-14",
+            "week": 124,
+            "day": 2,
+            "exercise": "hammer strength bench press",
+            "originalExerciseName": "Hammer Strength Chest Press",
+            "setNumber": 3,
+            "reps": 8,
+            "instructions": "Work up to a hard final 8",
+            "weight": 270,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "d44541fb-9fc4-44c4-a8fa-db45d6a2df7a",
+            "inferredDate": "2018-01-17",
+            "weekStartDate": "2018-01-14",
             "week": 124,
             "day": 2,
             "exercise": "hammer strength bench press",
@@ -16044,12 +20853,14 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "b20d1901-7faf-453f-bca5-ff5865ee9b43",
+            "id": "67c5f73c-a549-42d2-b368-44bb3a275b3e",
+            "inferredDate": "2016-06-28",
+            "weekStartDate": "2016-06-25",
             "week": 42,
             "day": 2,
             "exercise": "hammer strength bench press",
             "originalExerciseName": "Hammer Strength Bench Press",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "",
             "weight": 200,
@@ -16060,7 +20871,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "7ff0cfc5-11ac-4fcc-aeb8-468f7fe3ea12",
+            "id": "2c364f33-340b-4f83-84a4-588ec91d4771",
+            "inferredDate": "2016-12-09",
+            "weekStartDate": "2016-12-03",
             "week": 69,
             "day": 4,
             "exercise": "hammer strength bench press",
@@ -16076,7 +20889,45 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "78e844b7-6177-489f-9f02-e2d09a63821f",
+            "id": "0496628f-5079-40be-9102-db1a9419c622",
+            "inferredDate": "2017-01-27",
+            "weekStartDate": "2017-01-21",
+            "week": 71,
+            "day": 4,
+            "exercise": "hammer strength bench press",
+            "originalExerciseName": "Hammer Machine Chest Press",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "Do lots of warm ups, take small jumps in poundage",
+            "weight": 220,
+            "notes": "Had to use incline hammer machine, which strangely felt more forgiving than the flat one.Worked up from 50lbs in 20ish lb increments",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "21ea2291-8b4a-4b08-8319-5e778bf81b5b",
+            "inferredDate": "2017-01-27",
+            "weekStartDate": "2017-01-21",
+            "week": 71,
+            "day": 4,
+            "exercise": "hammer strength bench press",
+            "originalExerciseName": "Hammer Machine Chest Press",
+            "setNumber": 2,
+            "reps": 10,
+            "instructions": "Do lots of warm ups, take small jumps in poundage",
+            "weight": 230,
+            "notes": "Had to use incline hammer machine, which strangely felt more forgiving than the flat one.Worked up from 50lbs in 20ish lb increments",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "55d07bfa-d427-42f2-a52f-3cf35b04ca8e",
+            "inferredDate": "2017-01-27",
+            "weekStartDate": "2017-01-21",
             "week": 71,
             "day": 4,
             "exercise": "hammer strength bench press",
@@ -16092,7 +20943,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "358eac5a-891f-435b-864a-1b6fe36ec344",
+            "id": "85c423e6-a2f2-4aca-a152-9f53f5f2fea3",
+            "inferredDate": "2017-07-28",
+            "weekStartDate": "2017-07-22",
             "week": 98,
             "day": 4,
             "exercise": "hammer strength bench press",
@@ -16108,7 +20961,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "87d2b5e7-b8f7-4d18-bf66-7efd46d4096b",
+            "id": "d5d99567-0427-4531-932d-7bcd04faa833",
+            "inferredDate": "2019-01-08",
+            "weekStartDate": "2019-01-05",
             "week": 151,
             "day": 2,
             "exercise": "hammer strength bench press",
@@ -16126,7 +20981,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "9579aefa-a9dc-46db-8e03-cc56254b85ce",
+            "id": "83b22ae7-17ac-4beb-9b91-2be3c5bdf0ac",
+            "inferredDate": "2016-08-12",
+            "weekStartDate": "2016-08-06",
             "week": 51,
             "day": 4,
             "exercise": "hammer strength bench press",
@@ -16142,12 +20999,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "0c53540c-fa37-4a50-b834-b7ef8b2b9577",
+            "id": "d2e9d240-d7e4-4ecf-ae94-1e0f6786287c",
+            "inferredDate": "2017-06-30",
+            "weekStartDate": "2017-06-24",
             "week": 94,
             "day": 4,
             "exercise": "hammer strength bench press",
             "originalExerciseName": "Hammer Strength Bench Press",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 180,
@@ -16158,7 +21017,27 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "0f8df93d-fa5c-44a5-ad2e-b6dedb649509",
+            "id": "a81acb19-770c-4fe8-8968-103eeaec2692",
+            "inferredDate": "2017-07-04",
+            "weekStartDate": "2017-07-01",
+            "week": 95,
+            "day": 2,
+            "exercise": "hammer strength bench press",
+            "originalExerciseName": "Hammer Bench Press",
+            "setNumber": 2,
+            "reps": 12,
+            "instructions": "Keep tension throughout, lots of warmups",
+            "weight": 190,
+            "notes": "Had to use a wide grip hammer bench machine because the other one was camped out. Started at 50lbs, 10lb jumps all the way up. Seemed like i had more mechanical advantage with this machine",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "d43e8164-7b0a-48e5-829b-1e53a862b180",
+            "inferredDate": "2017-07-04",
+            "weekStartDate": "2017-07-01",
             "week": 95,
             "day": 2,
             "exercise": "hammer strength bench press",
@@ -16174,12 +21053,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "e9dbd95a-4dd1-4de6-8013-7b69b046765a",
+            "id": "6fd5031b-2c6a-4146-819b-4eedcdf19b8b",
+            "inferredDate": "2018-08-24",
+            "weekStartDate": "2018-08-18",
             "week": 131,
             "day": 4,
             "exercise": "hammer strength bench press",
             "originalExerciseName": "Hammer Strength Chest Press",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 230,
@@ -16192,7 +21073,9 @@ export const repPrs = {
       ],
       "25": [
          {
-            "id": "4d1f4bb6-f331-444a-b24f-56d2e7a55289",
+            "id": "ce309791-b1d7-4a5e-b8de-87365ddc0560",
+            "inferredDate": "2016-08-19",
+            "weekStartDate": "2016-08-13",
             "week": 52,
             "day": 4,
             "exercise": "hammer strength bench press",
@@ -16212,7 +21095,9 @@ export const repPrs = {
    "bench dips": {
       "10": [
          {
-            "id": "a4022c12-94c2-498e-85fe-3dbd22897407",
+            "id": "a34ff81d-9fc6-48c5-937d-5c97817e78d1",
+            "inferredDate": "2016-12-02",
+            "weekStartDate": "2016-11-26",
             "week": 68,
             "day": 4,
             "exercise": "bench dips",
@@ -16230,12 +21115,14 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "af016acf-1204-4e69-8be7-59deb5748ed2",
+            "id": "b4c16371-c438-439f-bcd3-6266f49db54c",
+            "inferredDate": "2016-07-12",
+            "weekStartDate": "2016-07-09",
             "week": 44,
             "day": 2,
             "exercise": "bench dips",
             "originalExerciseName": "Bench Dips",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 45,
@@ -16248,7 +21135,9 @@ export const repPrs = {
       ],
       "15": [
          {
-            "id": "9f57988a-5215-4918-932c-bcdb8418a27b",
+            "id": "8d78e2f5-0683-4c94-8e35-6a836658bcfc",
+            "inferredDate": "2016-07-19",
+            "weekStartDate": "2016-07-16",
             "week": 45,
             "day": 2,
             "exercise": "bench dips",
@@ -16266,7 +21155,9 @@ export const repPrs = {
       ],
       "16": [
          {
-            "id": "710e1225-d99c-4d7f-8579-828310a2485c",
+            "id": "ba954188-7a89-44a7-aa09-e408f8412133",
+            "inferredDate": "2016-08-09",
+            "weekStartDate": "2016-08-06",
             "week": 48,
             "day": 2,
             "exercise": "bench dips",
@@ -16284,7 +21175,9 @@ export const repPrs = {
       ],
       "20": [
          {
-            "id": "d18312e6-912c-4595-b3a7-4e4b4e483ba4",
+            "id": "272cee97-361a-47c2-b3c9-17ff07940111",
+            "inferredDate": "2016-06-28",
+            "weekStartDate": "2016-06-25",
             "week": 42,
             "day": 2,
             "exercise": "bench dips",
@@ -16302,7 +21195,9 @@ export const repPrs = {
       ],
       "25": [
          {
-            "id": "4be5c7ca-3d9a-432c-a3e3-808f87954ccc",
+            "id": "06122bcf-5f3d-4480-a58c-fd826b012695",
+            "inferredDate": "2016-08-09",
+            "weekStartDate": "2016-08-06",
             "week": 48,
             "day": 2,
             "exercise": "bench dips",
@@ -16322,7 +21217,9 @@ export const repPrs = {
    "straight arm lat pulldowns": {
       "10": [
          {
-            "id": "a477cf45-eef7-46e3-b3d0-e3f8f3bc5b32",
+            "id": "b777a01a-6711-46ee-91c9-9831e8bd5709",
+            "inferredDate": "2016-08-18",
+            "weekStartDate": "2016-08-13",
             "week": 52,
             "day": 3,
             "exercise": "straight arm lat pulldowns",
@@ -16338,7 +21235,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "31e17c04-f9a9-400a-8a0a-cfc3c9359c41",
+            "id": "9f2cb03d-6b26-40c1-9570-68f068cbb786",
+            "inferredDate": "2016-09-22",
+            "weekStartDate": "2016-09-17",
             "week": 57,
             "day": 3,
             "exercise": "straight arm lat pulldowns",
@@ -16354,12 +21253,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "7ddca24f-384f-4d8e-bf17-018fd123ff09",
+            "id": "a4cfe3e3-cbd0-4507-8819-b3ec5b503242",
+            "inferredDate": "2016-11-17",
+            "weekStartDate": "2016-11-12",
             "week": 66,
             "day": 3,
             "exercise": "straight arm lat pulldowns",
             "originalExerciseName": "Straight Arm Lat Pulldowns",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "",
             "weight": 80,
@@ -16372,12 +21273,14 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "f8554a84-a0e8-4f74-ac1c-e48ecf2a3e5c",
+            "id": "16f33572-9473-4c54-9d03-9955d0065545",
+            "inferredDate": "2016-06-30",
+            "weekStartDate": "2016-06-25",
             "week": 42,
             "day": 3,
             "exercise": "straight arm lat pulldowns",
             "originalExerciseName": "Straight Arm Lat Pulldowns",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 100,
@@ -16388,11 +21291,13 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "696174a5-1996-4aa1-85fa-e8f2a0f7b38c",
+            "id": "e69f160b-6130-406f-ab86-a149b83a2778",
+            "inferredDate": "2018-10-25",
+            "weekStartDate": "2018-10-20",
             "week": 140,
             "day": 3,
             "exercise": "straight arm lat pulldowns",
-            "originalExerciseName": "V bar lat pulldowns",
+            "originalExerciseName": "V bar lat pulldowns ",
             "setNumber": 1,
             "reps": 12,
             "instructions": "",
@@ -16406,7 +21311,9 @@ export const repPrs = {
       ],
       "15": [
          {
-            "id": "b3ac7fcc-4732-4a6a-8323-68a5c0054482",
+            "id": "0f97ae00-b053-4e8a-bcb0-c0897bf9e078",
+            "inferredDate": "2016-07-14",
+            "weekStartDate": "2016-07-09",
             "week": 44,
             "day": 3,
             "exercise": "straight arm lat pulldowns",
@@ -16424,12 +21331,14 @@ export const repPrs = {
       ],
       "20": [
          {
-            "id": "bda216da-47f8-40b7-91d8-a5122fb3c9b3",
+            "id": "e2797e16-26a9-4b52-8d00-f8c3635d989e",
+            "inferredDate": "2016-12-01",
+            "weekStartDate": "2016-11-26",
             "week": 68,
             "day": 3,
             "exercise": "straight arm lat pulldowns",
             "originalExerciseName": "Straight Arm Lat pulldowns",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 20,
             "instructions": "",
             "weight": 65,
@@ -16444,12 +21353,14 @@ export const repPrs = {
    "smith machine shoulder press": {
       "8": [
          {
-            "id": "4b21aa20-f227-4300-9c67-97cadb611569",
+            "id": "ae21143a-f9bd-4e14-a5cb-dd1fcf49c0db",
+            "inferredDate": "2016-07-01",
+            "weekStartDate": "2016-06-25",
             "week": 42,
             "day": 4,
             "exercise": "smith machine shoulder press",
             "originalExerciseName": "Smith Machine Shoulder Press",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 8,
             "instructions": "",
             "weight": 0,
@@ -16460,7 +21371,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "b906a589-83ce-41fa-8e6a-c5a00a064b01",
+            "id": "f6b96e30-ee5e-4d92-8cfc-baf38923d900",
+            "inferredDate": "2016-08-05",
+            "weekStartDate": "2016-07-30",
             "week": 50,
             "day": 4,
             "exercise": "smith machine shoulder press",
@@ -16478,7 +21391,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "d0aebead-50fd-4df3-b47a-92e565e201a9",
+            "id": "fd5ddd2c-5868-4e91-a7a5-f82e89e50eb0",
+            "inferredDate": "2016-08-05",
+            "weekStartDate": "2016-07-30",
             "week": 50,
             "day": 4,
             "exercise": "smith machine shoulder press",
@@ -16496,7 +21411,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "de319089-d06d-4e0a-ab52-f48eee6405ba",
+            "id": "030ecc97-b925-407f-bc07-2ef13becd292",
+            "inferredDate": "2016-08-05",
+            "weekStartDate": "2016-07-30",
             "week": 50,
             "day": 4,
             "exercise": "smith machine shoulder press",
@@ -16514,7 +21431,9 @@ export const repPrs = {
       ],
       "15": [
          {
-            "id": "9c26cc76-b4b7-4b22-a9bf-9fc706ac0565",
+            "id": "95266377-d6b2-4b13-8b4f-45d1281c6dba",
+            "inferredDate": "2016-08-05",
+            "weekStartDate": "2016-07-30",
             "week": 50,
             "day": 4,
             "exercise": "smith machine shoulder press",
@@ -16532,7 +21451,9 @@ export const repPrs = {
       ],
       "2008": [
          {
-            "id": "b11b97ed-1ce8-401f-a775-90d5e0456b95",
+            "id": "4bc0292d-b1d5-490e-b215-eda64bbe7ee4",
+            "inferredDate": "2017-02-07",
+            "weekStartDate": "2017-02-04",
             "week": 73,
             "day": 2,
             "exercise": "smith machine shoulder press",
@@ -16552,12 +21473,14 @@ export const repPrs = {
    "eccentric back squats": {
       "10": [
          {
-            "id": "8e02c364-8cfd-4456-93e1-f4f54de90b04",
+            "id": "abd572f7-4e2c-4938-b9fd-ab15620cdfba",
+            "inferredDate": "2016-07-07",
+            "weekStartDate": "2016-07-02",
             "week": 43,
             "day": 2,
             "exercise": "eccentric back squats",
             "originalExerciseName": "Eccentric Back Squats",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "Using 50% of your 1 RM, 3 second eccentrics",
             "weight": 225,
@@ -16572,7 +21495,9 @@ export const repPrs = {
    "smith machine split squats": {
       "10": [
          {
-            "id": "1989b8bd-8635-40ff-8307-0a3e1d9b71ce",
+            "id": "3027ae59-ddd8-4eb3-a3ad-4eeaa57bc6d1",
+            "inferredDate": "2016-07-07",
+            "weekStartDate": "2016-07-02",
             "week": 43,
             "day": 2,
             "exercise": "smith machine split squats",
@@ -16590,12 +21515,14 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "4b020445-be6e-496c-9df7-ce59d18223b7",
+            "id": "64da50f0-88dc-49a9-a239-569b57b7b35e",
+            "inferredDate": "2016-07-25",
+            "weekStartDate": "2016-07-23",
             "week": 46,
             "day": 1,
             "exercise": "smith machine split squats",
             "originalExerciseName": "Smith Machine Split Squats",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 35,
@@ -16610,7 +21537,9 @@ export const repPrs = {
    "supinated db curls": {
       "8": [
          {
-            "id": "6c34a3f5-e616-4a8d-a815-0bbe0649f82a",
+            "id": "4a17a30c-7651-4c82-8fcb-5234de53a0de",
+            "inferredDate": "2016-07-12",
+            "weekStartDate": "2016-07-09",
             "week": 44,
             "day": 2,
             "exercise": "supinated db curls",
@@ -16627,82 +21556,12 @@ export const repPrs = {
          }
       ]
    },
-   "face pulls": {
-      "12": [
-         {
-            "id": "a3e884d7-d855-478c-9b3e-6e4c1091d0c4",
-            "week": 49,
-            "day": 3,
-            "exercise": "face pulls",
-            "originalExerciseName": "Face Pulls",
-            "setNumber": 1,
-            "reps": 12,
-            "instructions": "",
-            "weight": 40,
-            "notes": "New machine",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "ec4a0cf7-d2bc-41a2-bccb-ed3fe9aa34e6",
-            "week": 49,
-            "day": 3,
-            "exercise": "face pulls",
-            "originalExerciseName": "Face Pulls",
-            "setNumber": 2,
-            "reps": 12,
-            "instructions": "",
-            "weight": 55,
-            "notes": "New machine",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "15": [
-         {
-            "id": "83fa4aa8-7783-45e1-9921-b1d98465e56b",
-            "week": 44,
-            "day": 3,
-            "exercise": "face pulls",
-            "originalExerciseName": "Face Pulls",
-            "setNumber": 3,
-            "reps": 15,
-            "instructions": "",
-            "weight": 40,
-            "notes": "This pulley is easier than the one in MKE",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "20": [
-         {
-            "id": "324e7f92-8e6f-493b-80c8-633c7eb9cd6a",
-            "week": 45,
-            "day": 3,
-            "exercise": "face pulls",
-            "originalExerciseName": "Face Pulls",
-            "setNumber": 1,
-            "reps": 20,
-            "instructions": "",
-            "weight": 40,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         }
-      ]
-   },
    "wide grip cable rows": {
       "10": [
          {
-            "id": "4bc02ac0-0c1b-43e6-96bf-702ebed41048",
+            "id": "747dd32d-6958-430f-9160-aaf6b9405126",
+            "inferredDate": "2016-07-14",
+            "weekStartDate": "2016-07-09",
             "week": 44,
             "day": 3,
             "exercise": "wide grip cable rows",
@@ -16722,7 +21581,9 @@ export const repPrs = {
    "supinated lat pulldowns": {
       "8": [
          {
-            "id": "01ddbc63-ebd9-4da5-9e87-a6ea03d331b0",
+            "id": "ca857e4d-8243-4de0-b7f2-1725fbf4ef89",
+            "inferredDate": "2017-08-03",
+            "weekStartDate": "2017-07-29",
             "week": 99,
             "day": 3,
             "exercise": "supinated lat pulldowns",
@@ -16738,7 +21599,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "ee30461c-cb5e-4a2c-aa0d-f685005a3a15",
+            "id": "810f4602-cbb9-42d3-b775-1224930952bd",
+            "inferredDate": "2019-02-07",
+            "weekStartDate": "2019-02-02",
             "week": 155,
             "day": 3,
             "exercise": "supinated lat pulldowns",
@@ -16756,7 +21619,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "b9a67b53-0491-4096-bbe3-5ab241fd1c7e",
+            "id": "8d99e366-593b-46af-a945-8a37f13df8ff",
+            "inferredDate": "2016-07-14",
+            "weekStartDate": "2016-07-09",
             "week": 44,
             "day": 3,
             "exercise": "supinated lat pulldowns",
@@ -16772,7 +21637,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "c10e208c-bc34-4fd6-a2bb-5a6ee41e94d6",
+            "id": "7673782e-e0ea-4628-9cdd-bb6429abd4b1",
+            "inferredDate": "2019-03-07",
+            "weekStartDate": "2019-03-02",
             "week": 159,
             "day": 3,
             "exercise": "supinated lat pulldowns",
@@ -16789,10 +21656,146 @@ export const repPrs = {
          }
       ]
    },
+   "face pulls": {
+      "12": [
+         {
+            "id": "9e562125-15b3-4669-bbfb-a7a6eeb705ee",
+            "inferredDate": "2016-08-18",
+            "weekStartDate": "2016-08-13",
+            "week": 49,
+            "day": 3,
+            "exercise": "face pulls",
+            "originalExerciseName": "Face Pulls",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 40,
+            "notes": "New machine",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "af21a59c-dc77-4be2-8e9c-e65b4d4a563b",
+            "inferredDate": "2016-08-18",
+            "weekStartDate": "2016-08-13",
+            "week": 49,
+            "day": 3,
+            "exercise": "face pulls",
+            "originalExerciseName": "Face Pulls",
+            "setNumber": 2,
+            "reps": 12,
+            "instructions": "",
+            "weight": 55,
+            "notes": "New machine",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "15": [
+         {
+            "id": "3372b59f-acb4-451d-b097-f67a762cdfb2",
+            "inferredDate": "2016-07-14",
+            "weekStartDate": "2016-07-09",
+            "week": 44,
+            "day": 3,
+            "exercise": "face pulls",
+            "originalExerciseName": "Face Pulls",
+            "setNumber": 1,
+            "reps": 15,
+            "instructions": "",
+            "weight": 30,
+            "notes": "This pulley is easier than the one in MKE",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "fa995065-ab5c-4182-bb39-0714fdcad657",
+            "inferredDate": "2016-07-14",
+            "weekStartDate": "2016-07-09",
+            "week": 44,
+            "day": 3,
+            "exercise": "face pulls",
+            "originalExerciseName": "Face Pulls",
+            "setNumber": 2,
+            "reps": 15,
+            "instructions": "",
+            "weight": 40,
+            "notes": "This pulley is easier than the one in MKE",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "309f3a6d-cb40-404c-88e6-ca9feff68115",
+            "inferredDate": "2019-12-30",
+            "weekStartDate": "2019-12-28",
+            "week": 201,
+            "day": 1,
+            "exercise": "face pulls",
+            "originalExerciseName": "Face Pulls",
+            "setNumber": 1,
+            "reps": 15,
+            "instructions": "",
+            "weight": 44,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "7b57d25a-d207-459a-84ed-3907f4485686",
+            "inferredDate": "2020-02-10",
+            "weekStartDate": "2020-02-08",
+            "week": 207,
+            "day": 1,
+            "exercise": "face pulls",
+            "originalExerciseName": "Face Pulls",
+            "setNumber": 1,
+            "reps": 15,
+            "instructions": "",
+            "weight": 55,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "20": [
+         {
+            "id": "54d519c0-a6de-4819-b6f8-03a51c5f716e",
+            "inferredDate": "2016-07-21",
+            "weekStartDate": "2016-07-16",
+            "week": 45,
+            "day": 3,
+            "exercise": "face pulls",
+            "originalExerciseName": "Face Pulls",
+            "setNumber": 1,
+            "reps": 20,
+            "instructions": "",
+            "weight": 40,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ]
+   },
    "arnold presses": {
       "6": [
          {
-            "id": "a7377dbb-0951-4270-bb09-568d34a1763d",
+            "id": "d0112059-0398-491c-b52b-ec3fbfebda9f",
+            "inferredDate": "2016-08-05",
+            "weekStartDate": "2016-07-30",
             "week": 47,
             "day": 4,
             "exercise": "arnold presses",
@@ -16808,12 +21811,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "6c364976-c832-4b6a-8534-7cb763fe0ef6",
+            "id": "d29e0e6e-add7-41f3-919e-324549f19ec2",
+            "inferredDate": "2016-08-12",
+            "weekStartDate": "2016-08-06",
             "week": 48,
             "day": 4,
             "exercise": "arnold presses",
             "originalExerciseName": "Seated Arnold Presses",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 6,
             "instructions": "",
             "weight": 80,
@@ -16826,12 +21831,14 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "8ac71dfa-9789-4837-84fd-f58078866da6",
+            "id": "06c87349-e218-4edd-a2da-f3ceec4e616a",
+            "inferredDate": "2016-07-29",
+            "weekStartDate": "2016-07-23",
             "week": 46,
             "day": 4,
             "exercise": "arnold presses",
             "originalExerciseName": "Seated Arnold Presses",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 8,
             "instructions": "",
             "weight": 65,
@@ -16842,7 +21849,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "f3acd4e4-7aaf-42d2-b51a-9e0b4c253175",
+            "id": "e401c796-b0c8-4891-bcfd-0da9ef7028ec",
+            "inferredDate": "2016-08-19",
+            "weekStartDate": "2016-08-13",
             "week": 49,
             "day": 4,
             "exercise": "arnold presses",
@@ -16860,7 +21869,27 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "545f092c-037a-4970-8eb3-d1cc6b25724b",
+            "id": "f50c52f3-7af3-4c00-9e8a-598826185acf",
+            "inferredDate": "2016-07-22",
+            "weekStartDate": "2016-07-16",
+            "week": 45,
+            "day": 4,
+            "exercise": "arnold presses",
+            "originalExerciseName": "Seated Arnold Presses",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "",
+            "weight": 55,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "d3d600bf-0d6a-4dae-945d-a2ed5a144348",
+            "inferredDate": "2016-07-22",
+            "weekStartDate": "2016-07-16",
             "week": 45,
             "day": 4,
             "exercise": "arnold presses",
@@ -16878,12 +21907,14 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "b130d1fe-f0c2-4076-979b-cbad48870d1a",
+            "id": "62f75335-b693-4309-80b7-55a2277dcc1f",
+            "inferredDate": "2016-07-15",
+            "weekStartDate": "2016-07-09",
             "week": 44,
             "day": 4,
             "exercise": "arnold presses",
             "originalExerciseName": "Seated Arnold Presses",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 50,
@@ -16896,9 +21927,51 @@ export const repPrs = {
       ]
    },
    "db pullovers": {
+      "2": [
+         {
+            "id": "c1754159-83b3-4089-9264-78187c5c74f5",
+            "inferredDate": "2019-10-09",
+            "weekStartDate": "2019-10-05",
+            "week": 189,
+            "day": 2,
+            "exercise": "db pullovers",
+            "originalExerciseName": "High Bar Back Squats",
+            "setNumber": 1,
+            "reps": 2,
+            "instructions": "Using 75% of your 1 RM",
+            "weight": 335,
+            "notes": "Copied from week 135",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "5": [
+         {
+            "id": "c4598991-a16a-4419-bf4b-d4f6e10ee666",
+            "inferredDate": "2019-10-07",
+            "weekStartDate": "2019-10-05",
+            "week": 189,
+            "day": 1,
+            "exercise": "db pullovers",
+            "originalExerciseName": "Front levers",
+            "setNumber": 1,
+            "reps": 5,
+            "instructions": "",
+            "weight": 0,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "noWeightStraightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
       "10": [
          {
-            "id": "ececff5d-b96a-4591-a73a-0a62b3e84a5b",
+            "id": "1f01b3cc-9c04-4d7b-a16f-41a03a4600c3",
+            "inferredDate": "2016-08-25",
+            "weekStartDate": "2016-08-20",
             "week": 53,
             "day": 3,
             "exercise": "db pullovers",
@@ -16914,12 +21987,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "4154cfff-4cfc-436d-82e5-dc3dbab4cee5",
+            "id": "8a45483d-7e36-496d-ad3a-a461204506c0",
+            "inferredDate": "2016-11-24",
+            "weekStartDate": "2016-11-19",
             "week": 67,
             "day": 3,
             "exercise": "db pullovers",
             "originalExerciseName": "DB Pullovers",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "",
             "weight": 75,
@@ -16932,7 +22007,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "4f43c93e-8e9b-4490-b4be-d81ed4c692e1",
+            "id": "b2332b35-79de-4566-92b3-d7f9bae448bc",
+            "inferredDate": "2016-08-18",
+            "weekStartDate": "2016-08-13",
             "week": 49,
             "day": 3,
             "exercise": "db pullovers",
@@ -16948,7 +22025,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "8d880836-d765-4280-a837-17e2f8bd546e",
+            "id": "856d044c-ebc8-47f8-8992-8261a8135d43",
+            "inferredDate": "2016-08-04",
+            "weekStartDate": "2016-07-30",
             "week": 50,
             "day": 3,
             "exercise": "db pullovers",
@@ -16964,12 +22043,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "1be4c198-7272-41de-995a-1a758474f46a",
+            "id": "624dcfc2-7abe-4bc7-9746-2708d991b17e",
+            "inferredDate": "2017-02-09",
+            "weekStartDate": "2017-02-04",
             "week": 73,
             "day": 3,
             "exercise": "db pullovers",
             "originalExerciseName": "DB Pullovers",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 70,
@@ -16980,7 +22061,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "aaea2fdc-f2c9-4a1e-9601-d445b344ebba",
+            "id": "ff537581-401e-49e9-a1a8-39985b3e5ea2",
+            "inferredDate": "2017-06-15",
+            "weekStartDate": "2017-06-10",
             "week": 92,
             "day": 3,
             "exercise": "db pullovers",
@@ -16996,7 +22079,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "60e3c314-0411-45e7-b0d4-81ed7c457a8f",
+            "id": "306ab6ca-f248-4f2d-aad6-50a1fdda02cd",
+            "inferredDate": "2019-02-14",
+            "weekStartDate": "2019-02-09",
             "week": 156,
             "day": 3,
             "exercise": "db pullovers",
@@ -17010,11 +22095,31 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "120ba513-9c17-43e8-b5d3-0184a3151739",
+            "inferredDate": "2019-10-09",
+            "weekStartDate": "2019-10-05",
+            "week": 189,
+            "day": 2,
+            "exercise": "db pullovers",
+            "originalExerciseName": "Lying Leg Curl",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 100,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ],
       "15": [
          {
-            "id": "f15df6e7-da91-4175-9ec1-0d842d53d3bc",
+            "id": "5e203fb0-5119-4c64-94a7-a9aa9305cb26",
+            "inferredDate": "2016-07-21",
+            "weekStartDate": "2016-07-16",
             "week": 45,
             "day": 3,
             "exercise": "db pullovers",
@@ -17034,7 +22139,9 @@ export const repPrs = {
    "db preacher curls": {
       "8": [
          {
-            "id": "57afbc0f-64a3-4422-b610-0a314c0a5780",
+            "id": "abf98b84-1134-45d2-9443-d714a7831bc7",
+            "inferredDate": "2018-11-09",
+            "weekStartDate": "2018-11-03",
             "week": 142,
             "day": 4,
             "exercise": "db preacher curls",
@@ -17050,7 +22157,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "c0da8cfa-4bc4-4767-8da1-57065432122b",
+            "id": "e8b69cba-88a4-4758-bb2c-f47d745e91aa",
+            "inferredDate": "2019-02-15",
+            "weekStartDate": "2019-02-09",
             "week": 156,
             "day": 4,
             "exercise": "db preacher curls",
@@ -17064,11 +22173,31 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "b3000429-4087-45d2-a1d3-bdb65f04f032",
+            "inferredDate": "2019-03-22",
+            "weekStartDate": "2019-03-16",
+            "week": 161,
+            "day": 4,
+            "exercise": "db preacher curls",
+            "originalExerciseName": "DB Preacher Curls",
+            "setNumber": 1,
+            "reps": 8,
+            "instructions": "",
+            "weight": 40,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ],
       "15": [
          {
-            "id": "c4343fbe-7396-469f-9810-55227a284604",
+            "id": "0b97ae32-35db-46aa-9eb9-fb8c9fa2c4ef",
+            "inferredDate": "2016-07-26",
+            "weekStartDate": "2016-07-23",
             "week": 46,
             "day": 2,
             "exercise": "db preacher curls",
@@ -17088,7 +22217,9 @@ export const repPrs = {
    "bench dip machine": {
       "20": [
          {
-            "id": "c5ae2b03-1b40-47b6-94a2-48024b20ed92",
+            "id": "f13bcc65-69f7-4a51-a613-8a6afb83727c",
+            "inferredDate": "2016-07-26",
+            "weekStartDate": "2016-07-23",
             "week": 46,
             "day": 2,
             "exercise": "bench dip machine",
@@ -17108,7 +22239,9 @@ export const repPrs = {
    "chest supported db rows": {
       "12": [
          {
-            "id": "4554e4ee-50f3-4562-9ca0-b404f1bfbd1b",
+            "id": "f053f7d5-c7b7-403d-83aa-c0d9a901342c",
+            "inferredDate": "2016-07-28",
+            "weekStartDate": "2016-07-23",
             "week": 46,
             "day": 3,
             "exercise": "chest supported db rows",
@@ -17128,7 +22261,9 @@ export const repPrs = {
    "seated db palms up curls": {
       "10": [
          {
-            "id": "86c4c023-a10b-4adb-99c3-2569ed19ff13",
+            "id": "aa39e7b6-638e-4050-b774-28c8c26e10c4",
+            "inferredDate": "2016-08-02",
+            "weekStartDate": "2016-07-30",
             "week": 47,
             "day": 2,
             "exercise": "seated db palms up curls",
@@ -17146,7 +22281,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "19601f4f-0ff5-43dc-bb7a-6a6663753f89",
+            "id": "814e92f8-fd72-46e2-a055-85e7fc05823c",
+            "inferredDate": "2016-08-16",
+            "weekStartDate": "2016-08-13",
             "week": 49,
             "day": 2,
             "exercise": "seated db palms up curls",
@@ -17166,7 +22303,9 @@ export const repPrs = {
    "incline concentration curls": {
       "12": [
          {
-            "id": "614e12ea-9d2a-4a12-a5bc-12707e7010f4",
+            "id": "798bb450-678f-40a5-a2e5-1047d9403039",
+            "inferredDate": "2016-08-02",
+            "weekStartDate": "2016-07-30",
             "week": 47,
             "day": 2,
             "exercise": "incline concentration curls",
@@ -17186,7 +22325,9 @@ export const repPrs = {
    "close grip pushups": {
       "15": [
          {
-            "id": "2b9b74ea-9d8a-476e-a2d0-e24a1b189ec8",
+            "id": "f38f7f36-7f97-400d-82b6-ad5ba7a1bf0f",
+            "inferredDate": "2016-08-02",
+            "weekStartDate": "2016-07-30",
             "week": 47,
             "day": 2,
             "exercise": "close grip pushups",
@@ -17204,7 +22345,9 @@ export const repPrs = {
       ],
       "20": [
          {
-            "id": "26d5d5ae-5753-487e-aeb1-3e82dec6d113",
+            "id": "8a14ae23-8a2d-4b99-b2e9-5d74e6af96dc",
+            "inferredDate": "2016-08-02",
+            "weekStartDate": "2016-07-30",
             "week": 47,
             "day": 2,
             "exercise": "close grip pushups",
@@ -17222,7 +22365,9 @@ export const repPrs = {
       ],
       "25": [
          {
-            "id": "9a4baf74-24e4-4707-8b61-439f196b8f87",
+            "id": "481e82d5-897b-4c96-aab0-733863a264ac",
+            "inferredDate": "2016-08-02",
+            "weekStartDate": "2016-07-30",
             "week": 47,
             "day": 2,
             "exercise": "close grip pushups",
@@ -17242,7 +22387,9 @@ export const repPrs = {
    "one arm lat pulldowns": {
       "8": [
          {
-            "id": "80d66123-0489-4f08-99a0-3810e4928843",
+            "id": "5f816cd7-13ae-4cb2-a052-d663ba6066d8",
+            "inferredDate": "2016-08-04",
+            "weekStartDate": "2016-07-30",
             "week": 47,
             "day": 3,
             "exercise": "one arm lat pulldowns",
@@ -17262,7 +22409,9 @@ export const repPrs = {
    "barbell floor press": {
       "6": [
          {
-            "id": "fec8a222-3886-4eb7-81fb-903f4a1d2c50",
+            "id": "29f85af3-066a-4c1a-ac72-4eb44daa79de",
+            "inferredDate": "2016-08-12",
+            "weekStartDate": "2016-08-06",
             "week": 48,
             "day": 4,
             "exercise": "barbell floor press",
@@ -17280,7 +22429,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "bb5018fa-e69c-46b1-8a94-cfc351ebd03f",
+            "id": "c52c5c5c-dab5-491e-a906-6e95aeb5b38c",
+            "inferredDate": "2016-08-05",
+            "weekStartDate": "2016-07-30",
             "week": 47,
             "day": 4,
             "exercise": "barbell floor press",
@@ -17300,17 +22451,19 @@ export const repPrs = {
    "reverse fly machine": {
       "10": [
          {
-            "id": "ed406981-7d2e-4010-83fa-1d6418fe855d",
+            "id": "d98383a1-8a83-45a4-98e6-564de8fe737f",
+            "inferredDate": "2017-08-23",
+            "weekStartDate": "2017-08-20",
             "week": 102,
             "day": 2,
             "exercise": "reverse fly machine",
             "originalExerciseName": "Reverse Fly Machine",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "10 full reps then 10 partials",
             "weight": 120,
             "notes": "",
-            "supersetId": "5c36de79-b0d3-44d9-8382-0b2b1836ac63",
+            "supersetId": "d19b8f12-06c8-4034-80ed-5843bc4b0708",
             "anomalous": "",
             "strategyUsed": "partialRepsStrategy",
             "dropSetId": ""
@@ -17318,12 +22471,14 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "2805207d-a967-4ffe-8711-c1c304784f08",
+            "id": "0703a6ea-6c29-426d-9d27-e9b36cb9df59",
+            "inferredDate": "2017-02-07",
+            "weekStartDate": "2017-02-04",
             "week": 73,
             "day": 2,
             "exercise": "reverse fly machine",
             "originalExerciseName": "Rear Delt Machine Flyes",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 100,
@@ -17334,12 +22489,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "8dfc2a93-a82e-46d3-8789-c17cfac94fd6",
+            "id": "2a1e02a7-8dda-4f37-ac3a-fe7b4f82bab1",
+            "inferredDate": "2017-07-25",
+            "weekStartDate": "2017-07-22",
             "week": 98,
             "day": 2,
             "exercise": "reverse fly machine",
             "originalExerciseName": "Reverse Machine Flyes",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 120,
@@ -17350,12 +22507,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "639d5b7b-296a-4443-8c8f-3f31c1ff3250",
+            "id": "0516ec8f-53aa-4273-a1e4-34bb347b8393",
+            "inferredDate": "2017-09-20",
+            "weekStartDate": "2017-09-17",
             "week": 107,
             "day": 2,
             "exercise": "reverse fly machine",
             "originalExerciseName": "Reverse Machine Flyes",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 130,
@@ -17366,7 +22525,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "838bb10b-2ede-4d45-a720-aede72c8b7c4",
+            "id": "5e1d3ff9-e149-4e5c-abe3-7b4d8b5270db",
+            "inferredDate": "2018-10-23",
+            "weekStartDate": "2018-10-20",
             "week": 140,
             "day": 2,
             "exercise": "reverse fly machine",
@@ -17382,7 +22543,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "5fb5099b-2440-4a45-88e2-245ce592cc11",
+            "id": "901a8b25-9b83-4aaf-8914-3d52383ffbc7",
+            "inferredDate": "2018-11-13",
+            "weekStartDate": "2018-11-10",
             "week": 143,
             "day": 2,
             "exercise": "reverse fly machine",
@@ -17400,7 +22563,9 @@ export const repPrs = {
       ],
       "15": [
          {
-            "id": "bc1f6719-38ec-473b-ae00-d9a53928a6db",
+            "id": "8dea1577-b233-4351-888f-789d16c1bf92",
+            "inferredDate": "2016-08-05",
+            "weekStartDate": "2016-07-30",
             "week": 47,
             "day": 4,
             "exercise": "reverse fly machine",
@@ -17416,28 +22581,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "02d891fd-7df2-497e-84c5-e26efd86bc13",
+            "id": "0edb85d9-21d1-4d2d-b74c-d16ebef79bec",
+            "inferredDate": "2016-10-25",
+            "weekStartDate": "2016-10-22",
             "week": 63,
             "day": 2,
             "exercise": "reverse fly machine",
             "originalExerciseName": "Rear Delt Machine",
-            "setNumber": 3,
-            "reps": 15,
-            "instructions": "Hold Each rep flexed for 1 second, only 45 seconds rest",
-            "weight": 100,
-            "notes": "Note to self: use less than 100 lbs next time for better pump",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "ca823349-c1de-4fda-809d-8820bb88d59e",
-            "week": 63,
-            "day": 2,
-            "exercise": "reverse fly machine",
-            "originalExerciseName": "Rear Delt Machine",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 15,
             "instructions": "Hold Each rep flexed for 1 second, only 45 seconds rest",
             "weight": 120,
@@ -17450,7 +22601,9 @@ export const repPrs = {
       ],
       "25": [
          {
-            "id": "cd74c8a1-4001-4348-aeb0-5228e6577604",
+            "id": "a232416d-7bfc-46eb-b496-63ab9be71484",
+            "inferredDate": "2016-11-15",
+            "weekStartDate": "2016-11-12",
             "week": 66,
             "day": 2,
             "exercise": "reverse fly machine",
@@ -17466,7 +22619,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "17aa0145-86aa-4ce6-acbb-80bb26be341c",
+            "id": "49923dbe-169c-4da8-8050-5c2587794af6",
+            "inferredDate": "2017-05-09",
+            "weekStartDate": "2017-05-06",
             "week": 87,
             "day": 2,
             "exercise": "reverse fly machine",
@@ -17486,7 +22641,9 @@ export const repPrs = {
    "db step ups": {
       "12": [
          {
-            "id": "0596961e-6e76-4e9a-8478-937a2ddae55c",
+            "id": "16c34823-8f70-40b6-9077-847a88476ecd",
+            "inferredDate": "2016-08-15",
+            "weekStartDate": "2016-08-13",
             "week": 49,
             "day": 1,
             "exercise": "db step ups",
@@ -17503,84 +22660,12 @@ export const repPrs = {
          }
       ]
    },
-   "close grip triceps pushups": {
-      "12": [
-         {
-            "id": "8c49585e-4e23-4973-88c7-9acce515aaf4",
-            "week": 49,
-            "day": 2,
-            "exercise": "close grip triceps pushups",
-            "originalExerciseName": "Close Grip Triceps Pushups",
-            "setNumber": 4,
-            "reps": 12,
-            "instructions": "",
-            "weight": 0,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "failureSpecifiedInRepsColumnAndNoWeightStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "15": [
-         {
-            "id": "9367bc72-d92e-4c42-b011-d928f13322ac",
-            "week": 49,
-            "day": 2,
-            "exercise": "close grip triceps pushups",
-            "originalExerciseName": "Close Grip Triceps Pushups",
-            "setNumber": 3,
-            "reps": 15,
-            "instructions": "",
-            "weight": 0,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "failureSpecifiedInRepsColumnAndNoWeightStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "16": [
-         {
-            "id": "a9fc96cb-e716-4716-b710-8f25c76a82e2",
-            "week": 49,
-            "day": 2,
-            "exercise": "close grip triceps pushups",
-            "originalExerciseName": "Close Grip Triceps Pushups",
-            "setNumber": 2,
-            "reps": 16,
-            "instructions": "",
-            "weight": 0,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "failureSpecifiedInRepsColumnAndNoWeightStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "26": [
-         {
-            "id": "07fad6ec-8c4e-4a4e-a9a2-4b53d354a71b",
-            "week": 49,
-            "day": 2,
-            "exercise": "close grip triceps pushups",
-            "originalExerciseName": "Close Grip Triceps Pushups",
-            "setNumber": 1,
-            "reps": 26,
-            "instructions": "",
-            "weight": 0,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "failureSpecifiedInRepsColumnAndNoWeightStrategy",
-            "dropSetId": ""
-         }
-      ]
-   },
    "machine preacher curls": {
       "8": [
          {
-            "id": "665cc9c6-4cd8-4b63-9c4d-86247d5b2b9b",
+            "id": "ee841b2c-37f8-4600-b4b7-dea368ae84d3",
+            "inferredDate": "2016-08-16",
+            "weekStartDate": "2016-08-13",
             "week": 49,
             "day": 2,
             "exercise": "machine preacher curls",
@@ -17598,7 +22683,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "4829f3e1-7499-4460-a4e7-de95d5384b4c",
+            "id": "0b7fe969-3293-4599-a462-0b31ce8737d8",
+            "inferredDate": "2018-12-07",
+            "weekStartDate": "2018-12-01",
             "week": 146,
             "day": 4,
             "exercise": "machine preacher curls",
@@ -17615,10 +22702,94 @@ export const repPrs = {
          }
       ]
    },
+   "close grip triceps pushups": {
+      "12": [
+         {
+            "id": "44ac4b87-a816-49d2-b710-6472e2b78f89",
+            "inferredDate": "2016-08-16",
+            "weekStartDate": "2016-08-13",
+            "week": 49,
+            "day": 2,
+            "exercise": "close grip triceps pushups",
+            "originalExerciseName": "Close Grip Triceps Pushups",
+            "setNumber": 4,
+            "reps": 12,
+            "instructions": "",
+            "weight": 0,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "failureSpecifiedInRepsColumnAndNoWeightStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "15": [
+         {
+            "id": "4458a404-2272-4caf-8c6f-8f90707a9582",
+            "inferredDate": "2016-08-16",
+            "weekStartDate": "2016-08-13",
+            "week": 49,
+            "day": 2,
+            "exercise": "close grip triceps pushups",
+            "originalExerciseName": "Close Grip Triceps Pushups",
+            "setNumber": 3,
+            "reps": 15,
+            "instructions": "",
+            "weight": 0,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "failureSpecifiedInRepsColumnAndNoWeightStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "16": [
+         {
+            "id": "0a1a7c51-668b-4fd3-ae1d-2833de83532f",
+            "inferredDate": "2016-08-16",
+            "weekStartDate": "2016-08-13",
+            "week": 49,
+            "day": 2,
+            "exercise": "close grip triceps pushups",
+            "originalExerciseName": "Close Grip Triceps Pushups",
+            "setNumber": 2,
+            "reps": 16,
+            "instructions": "",
+            "weight": 0,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "failureSpecifiedInRepsColumnAndNoWeightStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "26": [
+         {
+            "id": "ce0cdc83-9d72-48c8-8d58-eefd45e8aeab",
+            "inferredDate": "2016-08-16",
+            "weekStartDate": "2016-08-13",
+            "week": 49,
+            "day": 2,
+            "exercise": "close grip triceps pushups",
+            "originalExerciseName": "Close Grip Triceps Pushups",
+            "setNumber": 1,
+            "reps": 26,
+            "instructions": "",
+            "weight": 0,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "failureSpecifiedInRepsColumnAndNoWeightStrategy",
+            "dropSetId": ""
+         }
+      ]
+   },
    "v grip lat pulldowns": {
       "8": [
          {
-            "id": "9d871e3b-0b3e-4bd6-bf57-9176fc36146a",
+            "id": "0b381715-4886-4d76-a345-938e3d143c21",
+            "inferredDate": "2016-08-18",
+            "weekStartDate": "2016-08-13",
             "week": 49,
             "day": 3,
             "exercise": "v grip lat pulldowns",
@@ -17636,7 +22807,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "2d729a48-0c0a-47d1-affe-4dd2c2667bed",
+            "id": "696aacdb-9865-428d-810b-e28c2264761d",
+            "inferredDate": "2018-09-13",
+            "weekStartDate": "2018-09-08",
             "week": 134,
             "day": 3,
             "exercise": "v grip lat pulldowns",
@@ -17652,7 +22825,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "f099f3ac-7747-48d2-ad7e-01e56ec3ff23",
+            "id": "6ad7b886-a22b-43fd-a655-30d934ad1a39",
+            "inferredDate": "2018-11-29",
+            "weekStartDate": "2018-11-24",
             "week": 145,
             "day": 3,
             "exercise": "v grip lat pulldowns",
@@ -17672,7 +22847,9 @@ export const repPrs = {
    "front foot elevated db lunges": {
       "12": [
          {
-            "id": "611f311b-190c-4c61-aa4d-115f1631bd02",
+            "id": "df135510-cac7-48cd-a899-4b652266cf5d",
+            "inferredDate": "2016-08-01",
+            "weekStartDate": "2016-07-30",
             "week": 50,
             "day": 1,
             "exercise": "front foot elevated db lunges",
@@ -17692,7 +22869,9 @@ export const repPrs = {
    "cross body hammer curls": {
       "10": [
          {
-            "id": "adbb44f1-9ab6-4dc4-ba6f-f378181fdf2c",
+            "id": "eb988465-b74a-4958-a623-9eeefa551eeb",
+            "inferredDate": "2016-08-02",
+            "weekStartDate": "2016-07-30",
             "week": 50,
             "day": 2,
             "exercise": "cross body hammer curls",
@@ -17708,7 +22887,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "7ad6b564-0c91-451f-a2cc-bb908c9c1257",
+            "id": "ca2ccf92-8c2d-4f9b-9823-a445b16bb9cd",
+            "inferredDate": "2017-12-30",
+            "weekStartDate": "2017-12-24",
             "week": 121,
             "day": 4,
             "exercise": "cross body hammer curls",
@@ -17726,7 +22907,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "16ff7547-dc0e-49a5-a732-5daa2e02a56c",
+            "id": "06478beb-0d1c-4c0b-b08d-b8cda596cb95",
+            "inferredDate": "2016-08-30",
+            "weekStartDate": "2016-08-27",
             "week": 54,
             "day": 2,
             "exercise": "cross body hammer curls",
@@ -17742,7 +22925,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "6234b593-6825-4d43-9cf7-6a494b3d2bf1",
+            "id": "e1ef5496-3e54-4304-b82d-663dd1c3ca98",
+            "inferredDate": "2019-02-22",
+            "weekStartDate": "2019-02-16",
             "week": 157,
             "day": 4,
             "exercise": "cross body hammer curls",
@@ -17756,13 +22941,33 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "33865982-2c7c-4d79-baff-2864f88155ba",
+            "inferredDate": "2020-03-19",
+            "weekStartDate": "2020-03-14",
+            "week": 212,
+            "day": 2,
+            "exercise": "cross body hammer curls",
+            "originalExerciseName": "Overhead DB Extension",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 90,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ]
    },
    "double pronated db kickabacks": {
       "8": [
          {
-            "id": "76317ee2-4a37-4223-807a-e8042868c536",
+            "id": "a77fd36b-8f20-457a-87f1-a806dca7ee05",
+            "inferredDate": "2016-08-02",
+            "weekStartDate": "2016-07-30",
             "week": 50,
             "day": 2,
             "exercise": "double pronated db kickabacks",
@@ -17782,7 +22987,9 @@ export const repPrs = {
    "zottman curls": {
       "10": [
          {
-            "id": "a6d8a254-4f36-42c0-81f8-6d5b2b3fe14b",
+            "id": "1843c70e-4a29-49ca-9fd0-1647c81f48c6",
+            "inferredDate": "2016-08-09",
+            "weekStartDate": "2016-08-06",
             "week": 51,
             "day": 2,
             "exercise": "zottman curls",
@@ -17800,7 +23007,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "c83d7c9a-5780-441a-917a-eef6841e01c5",
+            "id": "02605686-1250-40a4-86cd-63ad45ef5d1a",
+            "inferredDate": "2017-08-19",
+            "weekStartDate": "2017-08-13",
             "week": 101,
             "day": 4,
             "exercise": "zottman curls",
@@ -17818,12 +23027,14 @@ export const repPrs = {
       ],
       "15": [
          {
-            "id": "a05bef96-e8c4-4037-a095-46d481e1fdd5",
+            "id": "665bef81-fd10-4e4e-addc-9172665c3a8c",
+            "inferredDate": "2017-06-30",
+            "weekStartDate": "2017-06-24",
             "week": 94,
             "day": 4,
             "exercise": "zottman curls",
             "originalExerciseName": "Zottoman Curls",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 15,
             "instructions": "",
             "weight": 20,
@@ -17836,9 +23047,51 @@ export const repPrs = {
       ]
    },
    "cable rope kickbacks": {
+      "3": [
+         {
+            "id": "9ac62f37-bb80-4fca-bc3f-5e733f4d7879",
+            "inferredDate": "2019-11-11",
+            "weekStartDate": "2019-11-09",
+            "week": 194,
+            "day": 1,
+            "exercise": "cable rope kickbacks",
+            "originalExerciseName": "High Bar Back Squats",
+            "setNumber": 1,
+            "reps": 3,
+            "instructions": "Using 85% of your 1 RM",
+            "weight": 355,
+            "notes": "From week 138",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "8": [
+         {
+            "id": "545cfce3-94e6-4e49-a249-8ab80f98f76f",
+            "inferredDate": "2019-11-01",
+            "weekStartDate": "2019-10-26",
+            "week": 192,
+            "day": 3,
+            "exercise": "cable rope kickbacks",
+            "originalExerciseName": "High Bar Back Squats",
+            "setNumber": 1,
+            "reps": 8,
+            "instructions": "Using 75% of your 1 RM",
+            "weight": 315,
+            "notes": "Copied from week 137",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
       "10": [
          {
-            "id": "9c098a6f-953f-4c7c-a921-d5969258363b",
+            "id": "d19e6f07-0e9e-4beb-848d-23c1c3b7a293",
+            "inferredDate": "2016-09-13",
+            "weekStartDate": "2016-09-10",
             "week": 56,
             "day": 2,
             "exercise": "cable rope kickbacks",
@@ -17852,11 +23105,49 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "be2bfcc7-04a2-44b7-8335-dfb21b858b6c",
+            "inferredDate": "2019-10-11",
+            "weekStartDate": "2019-10-05",
+            "week": 189,
+            "day": 3,
+            "exercise": "cable rope kickbacks",
+            "originalExerciseName": "Upright rows",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "",
+            "weight": 50,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "f7b5c43f-19f3-4eb2-92f2-661feb31644f",
+            "inferredDate": "2019-10-21",
+            "weekStartDate": "2019-10-19",
+            "week": 191,
+            "day": 1,
+            "exercise": "cable rope kickbacks",
+            "originalExerciseName": "Trap bar shrugs",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "",
+            "weight": 225,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ],
       "12": [
          {
-            "id": "7a662c0b-4e75-4033-abda-ed9ad74f11ab",
+            "id": "1bf1b2f7-d314-4642-aab4-98d4137722f5",
+            "inferredDate": "2016-08-09",
+            "weekStartDate": "2016-08-06",
             "week": 51,
             "day": 2,
             "exercise": "cable rope kickbacks",
@@ -17870,11 +23161,31 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "70c2fb4b-db1a-4252-a51e-a786c6d4ce71",
+            "inferredDate": "2019-10-23",
+            "weekStartDate": "2019-10-19",
+            "week": 191,
+            "day": 2,
+            "exercise": "cable rope kickbacks",
+            "originalExerciseName": "Lying Leg Curl",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 120,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ],
       "15": [
          {
-            "id": "c9d50413-cc42-4b9e-8b35-ce108f59c319",
+            "id": "c1b1bab1-cc06-4a9e-979a-9a2ac7400aa5",
+            "inferredDate": "2017-09-02",
+            "weekStartDate": "2017-08-27",
             "week": 104,
             "day": 4,
             "exercise": "cable rope kickbacks",
@@ -17894,7 +23205,9 @@ export const repPrs = {
    "one arm supinated pulldowns": {
       "8": [
          {
-            "id": "bc72b216-522b-44c5-84b0-c1eac12125d7",
+            "id": "32624e9b-b6e9-4e0f-9048-ded6fa66d451",
+            "inferredDate": "2016-08-11",
+            "weekStartDate": "2016-08-06",
             "week": 51,
             "day": 3,
             "exercise": "one arm supinated pulldowns",
@@ -17914,7 +23227,9 @@ export const repPrs = {
    "seated one arm cable rows": {
       "8": [
          {
-            "id": "87e69f7e-279a-44d0-a3fd-411c4f2ded55",
+            "id": "74649e71-810d-4d9a-a7b4-f9d3afb95859",
+            "inferredDate": "2016-08-11",
+            "weekStartDate": "2016-08-06",
             "week": 51,
             "day": 3,
             "exercise": "seated one arm cable rows",
@@ -17934,7 +23249,9 @@ export const repPrs = {
    "chin ups": {
       "8": [
          {
-            "id": "06278502-03c2-4bcb-b3a5-792c1a37fe43",
+            "id": "5f770092-a644-45c9-bd64-294366e59758",
+            "inferredDate": "2016-09-08",
+            "weekStartDate": "2016-09-03",
             "week": 55,
             "day": 3,
             "exercise": "chin ups",
@@ -17952,7 +23269,9 @@ export const repPrs = {
       ],
       "9": [
          {
-            "id": "6ecb3599-fa6f-4c51-b2c7-4036e44c2109",
+            "id": "be3d0bf2-afa4-4bdc-8325-a59e147393ed",
+            "inferredDate": "2016-09-08",
+            "weekStartDate": "2016-09-03",
             "week": 55,
             "day": 3,
             "exercise": "chin ups",
@@ -17970,7 +23289,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "5bb62703-52fc-4b73-8c31-158d1b9a1da1",
+            "id": "daeb03fd-4246-4908-8df7-73183e1bbaa3",
+            "inferredDate": "2016-08-11",
+            "weekStartDate": "2016-08-06",
             "week": 51,
             "day": 3,
             "exercise": "chin ups",
@@ -17988,7 +23309,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "f218a408-59fb-41ec-ab46-0fc4b395b325",
+            "id": "3fb467ff-ef39-4c1e-b71a-c7d1b8d1fe2a",
+            "inferredDate": "2016-09-01",
+            "weekStartDate": "2016-08-27",
             "week": 54,
             "day": 3,
             "exercise": "chin ups",
@@ -18006,7 +23329,9 @@ export const repPrs = {
       ],
       "15": [
          {
-            "id": "680e63c4-636d-4b76-9a6d-44e972e51dd8",
+            "id": "3b43e1b7-d146-405d-b8e7-6ca06723c330",
+            "inferredDate": "2016-08-25",
+            "weekStartDate": "2016-08-20",
             "week": 53,
             "day": 3,
             "exercise": "chin ups",
@@ -18026,7 +23351,9 @@ export const repPrs = {
    "push press": {
       "1": [
          {
-            "id": "71e767ec-025b-4afc-badb-5514b3ab318c",
+            "id": "985ace0c-9469-49a5-9467-22d251e7c9fc",
+            "inferredDate": "2016-09-23",
+            "weekStartDate": "2016-09-17",
             "week": 57,
             "day": 4,
             "exercise": "push press",
@@ -18042,7 +23369,27 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "ba80de5c-34d1-428a-8630-f085aba75251",
+            "id": "3469b565-fabd-4b2b-a1ad-59beda625bb2",
+            "inferredDate": "2016-09-23",
+            "weekStartDate": "2016-09-17",
+            "week": 57,
+            "day": 4,
+            "exercise": "push press",
+            "originalExerciseName": "Push Press",
+            "setNumber": 2,
+            "reps": 1,
+            "instructions": "Use 90, 92.5, 95% of your 1 RM",
+            "weight": 210,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "71bd18a7-1fbe-4a7a-b9f8-aab849acd7e5",
+            "inferredDate": "2016-09-23",
+            "weekStartDate": "2016-09-17",
             "week": 57,
             "day": 4,
             "exercise": "push press",
@@ -18060,7 +23407,9 @@ export const repPrs = {
       ],
       "2": [
          {
-            "id": "2239da76-b139-4b52-ae52-c80e4efb8c91",
+            "id": "7ac24b74-a733-4569-8b99-89746b359b1c",
+            "inferredDate": "2016-09-09",
+            "weekStartDate": "2016-09-03",
             "week": 55,
             "day": 4,
             "exercise": "push press",
@@ -18076,12 +23425,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "56dd612f-8506-4c24-99f3-d62f85f53b2a",
+            "id": "e42f447e-706f-487e-b1cb-007077c642ce",
+            "inferredDate": "2016-09-16",
+            "weekStartDate": "2016-09-10",
             "week": 56,
             "day": 4,
             "exercise": "push press",
             "originalExerciseName": "Push Press",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 2,
             "instructions": "Use 90% of your 1 RM",
             "weight": 205,
@@ -18094,7 +23445,9 @@ export const repPrs = {
       ],
       "3": [
          {
-            "id": "8883d439-0086-4341-8a64-85bb8c39beb9",
+            "id": "4e3ac0ab-e70f-40c4-af4c-a9ee3df12c23",
+            "inferredDate": "2016-09-02",
+            "weekStartDate": "2016-08-27",
             "week": 54,
             "day": 4,
             "exercise": "push press",
@@ -18112,12 +23465,14 @@ export const repPrs = {
       ],
       "5": [
          {
-            "id": "e091cd6e-085a-42e0-b7f0-93f7534ee266",
+            "id": "70b918c8-0523-4934-aa3f-b4b8a03f33ec",
+            "inferredDate": "2016-08-26",
+            "weekStartDate": "2016-08-20",
             "week": 53,
             "day": 4,
             "exercise": "push press",
             "originalExerciseName": "Push Press",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 5,
             "instructions": "Use 75% of your 1 RM",
             "weight": 170,
@@ -18130,7 +23485,9 @@ export const repPrs = {
       ],
       "6": [
          {
-            "id": "51b6f645-3851-4a60-8225-d35865d8e135",
+            "id": "fa1f65b3-d10b-42ac-9ad3-54cb8a70ab87",
+            "inferredDate": "2016-08-12",
+            "weekStartDate": "2016-08-06",
             "week": 51,
             "day": 4,
             "exercise": "push press",
@@ -18146,7 +23503,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "5a680c7c-3af4-4dd8-b070-f9d7a991533f",
+            "id": "a67ee58b-d986-45ad-90da-1bab8c4f08e9",
+            "inferredDate": "2016-08-19",
+            "weekStartDate": "2016-08-13",
             "week": 52,
             "day": 4,
             "exercise": "push press",
@@ -18166,12 +23525,14 @@ export const repPrs = {
    "seated db overhead press": {
       "5": [
          {
-            "id": "f4f88704-ab15-4e7f-8851-b108823ed7ce",
+            "id": "0a503803-a85e-437b-a90f-f3d39a2a86c0",
+            "inferredDate": "2016-10-14",
+            "weekStartDate": "2016-10-08",
             "week": 60,
             "day": 4,
             "exercise": "seated db overhead press",
             "originalExerciseName": "Seated DB Presses",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 5,
             "instructions": "",
             "weight": 90,
@@ -18184,7 +23545,9 @@ export const repPrs = {
       ],
       "6": [
          {
-            "id": "592f6b82-d752-4312-bcca-3618e6553644",
+            "id": "b3285b8f-154a-437c-b7b3-06073422ed52",
+            "inferredDate": "2016-09-02",
+            "weekStartDate": "2016-08-27",
             "week": 54,
             "day": 4,
             "exercise": "seated db overhead press",
@@ -18200,12 +23563,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "5d715ba6-b2c0-4e16-925d-2483d0d842f9",
+            "id": "412e0ebf-08b2-42cf-904a-b168d5781a8d",
+            "inferredDate": "2016-09-23",
+            "weekStartDate": "2016-09-17",
             "week": 57,
             "day": 4,
             "exercise": "seated db overhead press",
             "originalExerciseName": "Seated DB Presses",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 6,
             "instructions": "",
             "weight": 85,
@@ -18218,7 +23583,9 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "28aa8031-035c-4db2-a37b-44d0c4fb16af",
+            "id": "8a3151f1-a4fd-4cd6-ac75-92c2e5ddce53",
+            "inferredDate": "2016-08-12",
+            "weekStartDate": "2016-08-06",
             "week": 51,
             "day": 4,
             "exercise": "seated db overhead press",
@@ -18238,7 +23605,9 @@ export const repPrs = {
    "seated palms up db curls": {
       "10": [
          {
-            "id": "3e7505e3-0513-42a1-bca9-563ec8eda334",
+            "id": "03c4843c-b133-4e20-88c8-789dbf257694",
+            "inferredDate": "2016-08-16",
+            "weekStartDate": "2016-08-13",
             "week": 52,
             "day": 2,
             "exercise": "seated palms up db curls",
@@ -18254,7 +23623,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "36d43dcc-f60d-4e14-87f5-9b34813ef3dd",
+            "id": "25f7a904-019f-4b6b-a57f-fde4c27f9df8",
+            "inferredDate": "2018-12-14",
+            "weekStartDate": "2018-12-08",
             "week": 147,
             "day": 4,
             "exercise": "seated palms up db curls",
@@ -18272,7 +23643,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "ca298251-a70f-45f5-b239-fe4d2f47d0e9",
+            "id": "2b54ee94-3bb3-4b18-8678-3b9e50cee842",
+            "inferredDate": "2016-08-23",
+            "weekStartDate": "2016-08-20",
             "week": 53,
             "day": 2,
             "exercise": "seated palms up db curls",
@@ -18288,7 +23661,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "14e553d1-7730-434e-affe-5187e6220fe0",
+            "id": "991a0bf1-2fcf-4d34-b102-1237a3341779",
+            "inferredDate": "2019-02-22",
+            "weekStartDate": "2019-02-16",
             "week": 157,
             "day": 4,
             "exercise": "seated palms up db curls",
@@ -18308,7 +23683,9 @@ export const repPrs = {
    "one arm chest supported rows": {
       "8": [
          {
-            "id": "49244d80-5af5-43d6-b349-742c42df2fce",
+            "id": "6ec74703-e923-4ca7-877b-efef44f7385e",
+            "inferredDate": "2016-08-18",
+            "weekStartDate": "2016-08-13",
             "week": 52,
             "day": 3,
             "exercise": "one arm chest supported rows",
@@ -18328,7 +23705,9 @@ export const repPrs = {
    "narrow grip lat pulldowns": {
       "10": [
          {
-            "id": "83df38d1-2163-4d7a-9290-a4c9af5439b7",
+            "id": "5932dba8-ed92-4544-8a9b-23ab4963dc58",
+            "inferredDate": "2016-08-18",
+            "weekStartDate": "2016-08-13",
             "week": 52,
             "day": 3,
             "exercise": "narrow grip lat pulldowns",
@@ -18348,7 +23727,27 @@ export const repPrs = {
    "single arm db bench press": {
       "10": [
          {
-            "id": "21f9c1d4-587e-4f9a-8e88-d19beebb7be0",
+            "id": "5b4562df-9c39-4083-be68-62d402175d26",
+            "inferredDate": "2017-11-11",
+            "weekStartDate": "2017-11-05",
+            "week": 114,
+            "day": 4,
+            "exercise": "single arm db bench press",
+            "originalExerciseName": "Single Arm DB Bench Press",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "Do lots of warm ups, take small jumps in poundage",
+            "weight": 65,
+            "notes": "I did these by holding a DB in each hand at the top of the press, then doing 10 reps on one arm with the other arm extended. This felt better than a single dumbbell and having an empty hand",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "ea0e1e41-3ee3-4a38-b3ab-76336090a24a",
+            "inferredDate": "2017-11-11",
+            "weekStartDate": "2017-11-05",
             "week": 114,
             "day": 4,
             "exercise": "single arm db bench press",
@@ -18364,7 +23763,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "6874bfcd-34aa-4ad6-888d-03cf7e4fc577",
+            "id": "abfeda6b-0701-4338-a225-9288e8bd4e3f",
+            "inferredDate": "2017-11-11",
+            "weekStartDate": "2017-11-05",
             "week": 114,
             "day": 4,
             "exercise": "single arm db bench press",
@@ -18382,7 +23783,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "a0d7c833-b029-44b6-8e22-193e6527f343",
+            "id": "5f0611b1-fe25-4c77-86a7-4ffd5a7bb1c0",
+            "inferredDate": "2016-09-02",
+            "weekStartDate": "2016-08-27",
             "week": 54,
             "day": 4,
             "exercise": "single arm db bench press",
@@ -18398,12 +23801,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "1e6cdd0a-31c6-417b-a637-9fdaa1e69417",
+            "id": "d34af3a6-d389-4998-b27a-be79fbade8cf",
+            "inferredDate": "2018-08-10",
+            "weekStartDate": "2018-08-04",
             "week": 129,
             "day": 4,
             "exercise": "single arm db bench press",
             "originalExerciseName": "Single Arm DB Bench Press",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 75,
@@ -18418,7 +23823,9 @@ export const repPrs = {
    "db kickbacks": {
       "8": [
          {
-            "id": "ce97b1e9-c63b-4f9a-ac17-19f9eb7c3e6e",
+            "id": "6ce97a60-a007-49b0-af94-ca0908a9ec88",
+            "inferredDate": "2017-07-07",
+            "weekStartDate": "2017-07-01",
             "week": 95,
             "day": 4,
             "exercise": "db kickbacks",
@@ -18436,7 +23843,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "96a913fd-4607-46ce-a2ab-f0277e9f1d9b",
+            "id": "fc1aeaec-c052-4446-93e5-3237a379276c",
+            "inferredDate": "2016-09-06",
+            "weekStartDate": "2016-09-03",
             "week": 55,
             "day": 2,
             "exercise": "db kickbacks",
@@ -18454,9 +23863,31 @@ export const repPrs = {
       ]
    },
    "walking db lunges": {
+      "5": [
+         {
+            "id": "a268445d-f2fa-4352-bf6c-d8f1b99a10b7",
+            "inferredDate": "2019-11-29",
+            "weekStartDate": "2019-11-23",
+            "week": 196,
+            "day": 3,
+            "exercise": "walking db lunges",
+            "originalExerciseName": "Front levers",
+            "setNumber": 1,
+            "reps": 5,
+            "instructions": "",
+            "weight": 0,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "noWeightStraightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
       "8": [
          {
-            "id": "51f4e4da-a7c0-40f5-8b7f-33fe759481d7",
+            "id": "c4c8a8cd-483f-419c-857b-dd326ee55ab8",
+            "inferredDate": "2016-09-26",
+            "weekStartDate": "2016-09-24",
             "week": 58,
             "day": 1,
             "exercise": "walking db lunges",
@@ -18474,12 +23905,14 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "61aa0692-34be-41e0-a815-7a7c44741786",
+            "id": "7ead652c-405f-4e6e-ade0-807b19f44aa7",
+            "inferredDate": "2016-09-12",
+            "weekStartDate": "2016-09-10",
             "week": 56,
             "day": 1,
             "exercise": "walking db lunges",
             "originalExerciseName": "Walking Lunges",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "",
             "weight": 50,
@@ -18492,7 +23925,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "108e6878-60f8-447e-b726-a657784bb280",
+            "id": "9a720100-4338-466a-b1bb-b53d15cab29f",
+            "inferredDate": "2018-09-24",
+            "weekStartDate": "2018-09-22",
             "week": 136,
             "day": 1,
             "exercise": "walking db lunges",
@@ -18506,11 +23941,31 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "6fbc452b-f135-457e-96ea-e5e78c593303",
+            "inferredDate": "2019-11-20",
+            "weekStartDate": "2019-11-16",
+            "week": 195,
+            "day": 2,
+            "exercise": "walking db lunges",
+            "originalExerciseName": "Seated Leg Curl",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 120,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ],
       "20": [
          {
-            "id": "02be9e48-6586-4424-927e-9bfdb301f233",
+            "id": "d535d72d-a711-4460-8200-0226fe6e35b6",
+            "inferredDate": "2017-07-31",
+            "weekStartDate": "2017-07-29",
             "week": 99,
             "day": 1,
             "exercise": "walking db lunges",
@@ -18530,7 +23985,27 @@ export const repPrs = {
    "cable machine curls": {
       "10": [
          {
-            "id": "267b5282-b1f0-483e-90e3-69de00e1999d",
+            "id": "9cc68303-2f6e-4e81-9fd4-bd369fb9d45d",
+            "inferredDate": "2016-09-13",
+            "weekStartDate": "2016-09-10",
+            "week": 56,
+            "day": 2,
+            "exercise": "cable machine curls",
+            "originalExerciseName": "Cable Machine Curls",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "",
+            "weight": 70,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "047fe397-9f7d-4e7d-9b8b-e901f56391ca",
+            "inferredDate": "2016-09-13",
+            "weekStartDate": "2016-09-10",
             "week": 56,
             "day": 2,
             "exercise": "cable machine curls",
@@ -18546,12 +24021,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "d20e2881-0913-4583-bd09-05ab1461e1fe",
+            "id": "69e1c60a-89de-4d5e-8cea-71275a1ebe61",
+            "inferredDate": "2016-09-20",
+            "weekStartDate": "2016-09-17",
             "week": 57,
             "day": 2,
             "exercise": "cable machine curls",
             "originalExerciseName": "Cable Machine Curls",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "",
             "weight": 100,
@@ -18566,7 +24043,9 @@ export const repPrs = {
    "seated palms up curls": {
       "10": [
          {
-            "id": "75aaa739-21e9-4815-a7dc-013f46ee2605",
+            "id": "95b4b26a-7efd-4365-bc98-c6bec820c42c",
+            "inferredDate": "2016-09-13",
+            "weekStartDate": "2016-09-10",
             "week": 56,
             "day": 2,
             "exercise": "seated palms up curls",
@@ -18584,12 +24063,14 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "07101a8e-2154-452a-a801-7a9549e1b62b",
+            "id": "89a536cf-2021-4b43-98e4-27f97c4b5393",
+            "inferredDate": "2017-08-04",
+            "weekStartDate": "2017-07-29",
             "week": 99,
             "day": 4,
             "exercise": "seated palms up curls",
             "originalExerciseName": "Seated Palms Up Curls",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 25,
@@ -18600,7 +24081,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "a83aaeaa-a071-4a05-a8f2-d6db46678210",
+            "id": "4e0b8763-326a-498e-a2fb-1291eacd4b0b",
+            "inferredDate": "2018-11-16",
+            "weekStartDate": "2018-11-10",
             "week": 143,
             "day": 4,
             "exercise": "seated palms up curls",
@@ -18620,7 +24103,9 @@ export const repPrs = {
    "one arm preacher curls": {
       "10": [
          {
-            "id": "063d5012-1a79-4823-a572-497f3071c04a",
+            "id": "41d504e7-bc2b-40c0-82f8-68e654f6e917",
+            "inferredDate": "2016-09-27",
+            "weekStartDate": "2016-09-24",
             "week": 58,
             "day": 2,
             "exercise": "one arm preacher curls",
@@ -18640,7 +24125,9 @@ export const repPrs = {
    "overhead db tricep extension": {
       "10": [
          {
-            "id": "ddb29b36-7aa3-4716-aaa7-6917eca33466",
+            "id": "54ee0cfd-1bd5-45b6-865b-82ff22e3951f",
+            "inferredDate": "2016-09-27",
+            "weekStartDate": "2016-09-24",
             "week": 58,
             "day": 2,
             "exercise": "overhead db tricep extension",
@@ -18658,7 +24145,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "26c85f43-74af-4bfb-b6e4-f840cfea1a6e",
+            "id": "2b15dab3-752d-4d16-af40-e32e34ccb9a5",
+            "inferredDate": "2017-07-28",
+            "weekStartDate": "2017-07-22",
             "week": 98,
             "day": 4,
             "exercise": "overhead db tricep extension",
@@ -18678,7 +24167,9 @@ export const repPrs = {
    "push ups": {
       "9": [
          {
-            "id": "f3fea522-0536-4776-b670-9a4432ce45fc",
+            "id": "642b05e3-ddb1-44ae-92b0-cd180deb86b5",
+            "inferredDate": "2017-10-28",
+            "weekStartDate": "2017-10-22",
             "week": 112,
             "day": 4,
             "exercise": "push ups",
@@ -18696,7 +24187,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "9a8f0a8c-67cd-4132-a508-4a5abf044389",
+            "id": "e121bfd8-71b0-45bf-9062-4dbc078d871f",
+            "inferredDate": "2017-03-21",
+            "weekStartDate": "2017-03-18",
             "week": 79,
             "day": 2,
             "exercise": "push ups",
@@ -18714,7 +24207,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "3fb2408c-268a-4a25-a5ed-666b28b96d35",
+            "id": "c7311a44-6c8e-417e-bee8-68b6e8fe1275",
+            "inferredDate": "2017-08-23",
+            "weekStartDate": "2017-08-20",
             "week": 102,
             "day": 2,
             "exercise": "push ups",
@@ -18732,7 +24227,9 @@ export const repPrs = {
       ],
       "13": [
          {
-            "id": "f18ba24b-16ba-475f-9579-3193ae183efc",
+            "id": "45afbf27-41fe-41ec-abb1-3074cbdad894",
+            "inferredDate": "2017-02-28",
+            "weekStartDate": "2017-02-25",
             "week": 76,
             "day": 2,
             "exercise": "push ups",
@@ -18750,12 +24247,14 @@ export const repPrs = {
       ],
       "15": [
          {
-            "id": "ed2c6c83-131d-4b72-ad18-72278f03af77",
+            "id": "27f35da0-b503-49e0-8e97-668bf0de58b6",
+            "inferredDate": "2017-02-21",
+            "weekStartDate": "2017-02-18",
             "week": 75,
             "day": 2,
             "exercise": "push ups",
             "originalExerciseName": "Push Ups",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 15,
             "instructions": "",
             "weight": 0,
@@ -18768,7 +24267,9 @@ export const repPrs = {
       ],
       "16": [
          {
-            "id": "6419ae7b-1925-46c9-be78-58dab492790c",
+            "id": "979a5e65-2bce-4b1d-81ca-84fe931f3e9c",
+            "inferredDate": "2017-03-07",
+            "weekStartDate": "2017-03-04",
             "week": 77,
             "day": 2,
             "exercise": "push ups",
@@ -18786,7 +24287,9 @@ export const repPrs = {
       ],
       "17": [
          {
-            "id": "661a9568-85ac-4f57-8f7d-0b0c352d5a9e",
+            "id": "d10d311e-0599-409b-8195-f72c0b0c8698",
+            "inferredDate": "2017-07-14",
+            "weekStartDate": "2017-07-08",
             "week": 96,
             "day": 4,
             "exercise": "push ups",
@@ -18804,7 +24307,9 @@ export const repPrs = {
       ],
       "18": [
          {
-            "id": "c6eaa241-ce2e-400d-8ac9-3169f84617da",
+            "id": "a3cc9b8b-f06f-4b2f-a874-d1a8c855a5e4",
+            "inferredDate": "2017-02-28",
+            "weekStartDate": "2017-02-25",
             "week": 76,
             "day": 2,
             "exercise": "push ups",
@@ -18822,7 +24327,9 @@ export const repPrs = {
       ],
       "19": [
          {
-            "id": "be49365e-f028-4c9f-979d-8b14ed703dc8",
+            "id": "a7d8c587-31c7-4201-906f-1d79688d1811",
+            "inferredDate": "2017-07-14",
+            "weekStartDate": "2017-07-08",
             "week": 96,
             "day": 4,
             "exercise": "push ups",
@@ -18840,7 +24347,9 @@ export const repPrs = {
       ],
       "20": [
          {
-            "id": "e545325a-4ee6-432c-9664-c5c04212b280",
+            "id": "b6fd3f0b-bfea-4695-b999-3bdc60dc46d5",
+            "inferredDate": "2017-03-07",
+            "weekStartDate": "2017-03-04",
             "week": 77,
             "day": 2,
             "exercise": "push ups",
@@ -18858,7 +24367,9 @@ export const repPrs = {
       ],
       "22": [
          {
-            "id": "e815b906-ea3b-449e-97c3-6c34c6251209",
+            "id": "33c3eeb0-e79b-4157-9599-7717cde8456f",
+            "inferredDate": "2017-04-18",
+            "weekStartDate": "2017-04-15",
             "week": 83,
             "day": 2,
             "exercise": "push ups",
@@ -18876,12 +24387,14 @@ export const repPrs = {
       ],
       "25": [
          {
-            "id": "1c08e438-e1c4-4ab0-ad8d-8a035b45521d",
+            "id": "4e3ad651-d2e3-4b61-a221-6b6d9d7409eb",
+            "inferredDate": "2016-10-07",
+            "weekStartDate": "2016-10-01",
             "week": 59,
             "day": 4,
             "exercise": "push ups",
             "originalExerciseName": "Push Ups",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 25,
             "instructions": "",
             "weight": 0,
@@ -18896,12 +24409,14 @@ export const repPrs = {
    "db stiff legged deadlift": {
       "8": [
          {
-            "id": "c1480b9f-8255-4256-b6d7-13f4b74dd895",
+            "id": "d9380ef2-8afd-4690-8df4-fbb0714ce7df",
+            "inferredDate": "2016-10-24",
+            "weekStartDate": "2016-10-22",
             "week": 63,
             "day": 1,
             "exercise": "db stiff legged deadlift",
             "originalExerciseName": "DB Stiff Legged DL",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 8,
             "instructions": "",
             "weight": 125,
@@ -18916,7 +24431,9 @@ export const repPrs = {
    "Partial incline db bench press": {
       "10": [
          {
-            "id": "1e705f28-067b-4591-8fa8-138d571cacd9",
+            "id": "05817e44-2260-4945-8972-46fbef9315b9",
+            "inferredDate": "2016-10-25",
+            "weekStartDate": "2016-10-22",
             "week": 63,
             "day": 2,
             "exercise": "Partial incline db bench press",
@@ -18926,13 +24443,15 @@ export const repPrs = {
             "instructions": "10 full reps then 10 partial reps in the bottom",
             "weight": 60,
             "notes": "Had to rest pause the partials. It felt strange not finishing the ROM, and it seemed harder than just finishing the press",
-            "supersetId": "7e52ae37-e341-4529-9e3c-023c1797e375",
+            "supersetId": "53ee3509-8667-4c28-99d6-eabf7f33d88c",
             "anomalous": "",
             "strategyUsed": "partialRepsStrategy",
             "dropSetId": ""
          },
          {
-            "id": "40735189-e7be-4c19-aa2e-7f62e4fecb9f",
+            "id": "8ded0984-d818-431f-9c65-4da80e23e632",
+            "inferredDate": "2017-04-25",
+            "weekStartDate": "2017-04-22",
             "week": 85,
             "day": 2,
             "exercise": "Partial incline db bench press",
@@ -18942,9 +24461,49 @@ export const repPrs = {
             "instructions": "10 full reps then 10 partial reps in the bottom",
             "weight": 80,
             "notes": "",
-            "supersetId": "65b2abb3-3cd6-4476-982d-32f8ea9cf913",
+            "supersetId": "31abeb86-05a6-4e74-8926-9861d3b6a63e",
             "anomalous": "",
             "strategyUsed": "partialRepsStrategy",
+            "dropSetId": ""
+         }
+      ]
+   },
+   "db swings": {
+      "20": [
+         {
+            "id": "03b399c8-4e5a-4363-bf41-26ddd4923d19",
+            "inferredDate": "2016-10-25",
+            "weekStartDate": "2016-10-22",
+            "week": 63,
+            "day": 2,
+            "exercise": "db swings",
+            "originalExerciseName": "DB Swings",
+            "setNumber": 1,
+            "reps": 20,
+            "instructions": "These are basically heavy DB side lateral partials",
+            "weight": 40,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "cd5b6c38-9575-4808-a020-90aa0de09f57",
+            "inferredDate": "2017-01-24",
+            "weekStartDate": "2017-01-21",
+            "week": 71,
+            "day": 2,
+            "exercise": "db swings",
+            "originalExerciseName": "DB Swings",
+            "setNumber": 1,
+            "reps": 20,
+            "instructions": "heavy DB partials, just slightly bent over, head cocked back",
+            "weight": 45,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
          }
       ]
@@ -18952,12 +24511,14 @@ export const repPrs = {
    "bradford press": {
       "6": [
          {
-            "id": "916d00bc-d6ea-41f3-b334-b9f0e8394283",
+            "id": "06ae599a-af3e-4494-86b5-a3608bebd2f6",
+            "inferredDate": "2016-10-25",
+            "weekStartDate": "2016-10-22",
             "week": 63,
             "day": 2,
             "exercise": "bradford press",
             "originalExerciseName": "Bradford Presses",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 6,
             "instructions": "Don't go heavy you'll be smoked by the time you get to this just finish your shoulders off",
             "weight": 95,
@@ -18970,7 +24531,9 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "88c39ddb-ea19-4db7-95b1-90a3d728aac2",
+            "id": "2984d3e3-4e88-47ed-93df-20d1885639a6",
+            "inferredDate": "2017-03-24",
+            "weekStartDate": "2017-03-18",
             "week": 79,
             "day": 4,
             "exercise": "bradford press",
@@ -18988,7 +24551,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "b07050f2-5190-4b88-9a93-561aa779a39f",
+            "id": "fec03c1a-3250-46c0-aae9-b0462e883313",
+            "inferredDate": "2017-10-04",
+            "weekStartDate": "2017-10-01",
             "week": 109,
             "day": 2,
             "exercise": "bradford press",
@@ -19006,12 +24571,14 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "a4015cae-b964-4c5e-9f3c-9b0a5cb7d910",
+            "id": "00d1e220-2015-40c0-a806-1afda9945182",
+            "inferredDate": "2018-07-17",
+            "weekStartDate": "2018-07-14",
             "week": 126,
             "day": 2,
             "exercise": "bradford press",
             "originalExerciseName": "Bradford Presses",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 40,
@@ -19022,7 +24589,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "42eb3472-4d6a-4ae4-95ae-7e4823e36f78",
+            "id": "604d32c2-d88f-4d48-9636-c0358b487d47",
+            "inferredDate": "2018-07-24",
+            "weekStartDate": "2018-07-21",
             "week": 127,
             "day": 2,
             "exercise": "bradford press",
@@ -19038,7 +24607,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "20af340b-0689-4aa9-93ae-10175df76ff3",
+            "id": "a92ff601-f784-46cf-b5ee-b8cc83e224a4",
+            "inferredDate": "2018-07-31",
+            "weekStartDate": "2018-07-28",
             "week": 128,
             "day": 2,
             "exercise": "bradford press",
@@ -19054,7 +24625,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "b5de8f25-099f-4c4d-95f8-9707fbf01042",
+            "id": "abed265e-b5d3-4b63-b733-03fb05baa1b0",
+            "inferredDate": "2018-09-11",
+            "weekStartDate": "2018-09-08",
             "week": 134,
             "day": 2,
             "exercise": "bradford press",
@@ -19072,7 +24645,9 @@ export const repPrs = {
       ],
       "15": [
          {
-            "id": "15a01b9d-9e5c-4818-93b5-c41d37fc98ff",
+            "id": "9cdc0715-e3b1-4690-882f-948292e07474",
+            "inferredDate": "2018-10-09",
+            "weekStartDate": "2018-10-06",
             "week": 138,
             "day": 2,
             "exercise": "bradford press",
@@ -19089,34 +24664,58 @@ export const repPrs = {
          }
       ]
    },
-   "db swings": {
-      "20": [
+   "db hex press": {
+      "8": [
          {
-            "id": "f01a5f95-4fd5-4bb6-aaf1-82f614a3ff7d",
-            "week": 63,
-            "day": 2,
-            "exercise": "db swings",
-            "originalExerciseName": "DB Swings",
-            "setNumber": 2,
-            "reps": 20,
-            "instructions": "These are basically heavy DB side lateral partials",
-            "weight": 40,
-            "notes": "",
+            "id": "1c07d9aa-088d-4e32-b1d5-5afcce21612a",
+            "inferredDate": "2016-11-18",
+            "weekStartDate": "2016-11-12",
+            "week": 66,
+            "day": 4,
+            "exercise": "db hex press",
+            "originalExerciseName": "DB Hex Press",
+            "setNumber": 1,
+            "reps": 8,
+            "instructions": "",
+            "weight": 50,
+            "notes": "Did these slow and squeeze-y, which didn't leave much gas for push-ups, but that's probably fine.",
             "supersetId": "",
             "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
+            "strategyUsed": "repRangeInParenthesisStrategy",
             "dropSetId": ""
          },
          {
-            "id": "81c26573-3ea9-489b-84ab-831de08053fd",
-            "week": 71,
-            "day": 2,
-            "exercise": "db swings",
-            "originalExerciseName": "DB Swings",
+            "id": "22f61f83-d60f-4a04-95da-be4a66434983",
+            "inferredDate": "2017-06-02",
+            "weekStartDate": "2017-05-27",
+            "week": 90,
+            "day": 4,
+            "exercise": "db hex press",
+            "originalExerciseName": "DB Hex Press",
             "setNumber": 1,
-            "reps": 20,
-            "instructions": "heavy DB partials, just slightly bent over, head cocked back",
-            "weight": 45,
+            "reps": 8,
+            "instructions": "",
+            "weight": 60,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "repRangeInParenthesisStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "12": [
+         {
+            "id": "aa38648c-affc-4cb9-a7b9-60676c236b95",
+            "inferredDate": "2016-10-28",
+            "weekStartDate": "2016-10-22",
+            "week": 63,
+            "day": 4,
+            "exercise": "db hex press",
+            "originalExerciseName": "DB Hex Press",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "Pause the DB on the chest, Flex hard at the top",
+            "weight": 50,
             "notes": "",
             "supersetId": "",
             "anomalous": "",
@@ -19128,12 +24727,14 @@ export const repPrs = {
    "pec minor dips": {
       "10": [
          {
-            "id": "2ca39b64-ea09-42d7-8287-7b9490dd23cf",
+            "id": "1668b06c-1117-42b5-9e84-814a79deb9bf",
+            "inferredDate": "2017-08-04",
+            "weekStartDate": "2017-07-29",
             "week": 99,
             "day": 4,
             "exercise": "pec minor dips",
             "originalExerciseName": "Pec Minor Dips",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "",
             "weight": 0,
@@ -19146,7 +24747,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "4274ff86-d8b1-4162-9e94-7f72583962df",
+            "id": "f435b171-e5b3-480f-86c9-35e5e14fcba9",
+            "inferredDate": "2017-12-30",
+            "weekStartDate": "2017-12-24",
             "week": 121,
             "day": 4,
             "exercise": "pec minor dips",
@@ -19164,12 +24767,14 @@ export const repPrs = {
       ],
       "15": [
          {
-            "id": "03bf1d79-7924-439d-9864-e255709d2f44",
+            "id": "92b4fce6-bed0-47e3-9967-bcc89c19bef5",
+            "inferredDate": "2016-10-28",
+            "weekStartDate": "2016-10-22",
             "week": 63,
             "day": 4,
             "exercise": "pec minor dips",
             "originalExerciseName": "Pic Minor Dips",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 15,
             "instructions": "",
             "weight": 0,
@@ -19182,7 +24787,9 @@ export const repPrs = {
       ],
       "20": [
          {
-            "id": "a4af62d9-7dcc-41f8-8ca1-599010201681",
+            "id": "45acc6f9-2108-4698-83f9-f723e1058004",
+            "inferredDate": "2016-12-02",
+            "weekStartDate": "2016-11-26",
             "week": 68,
             "day": 4,
             "exercise": "pec minor dips",
@@ -19200,7 +24807,9 @@ export const repPrs = {
       ],
       "25": [
          {
-            "id": "1380cd3c-09da-4530-a61c-4a975b1df87d",
+            "id": "5af5864e-56fc-49fc-b3d4-35f62e40f117",
+            "inferredDate": "2017-06-09",
+            "weekStartDate": "2017-06-03",
             "week": 91,
             "day": 4,
             "exercise": "pec minor dips",
@@ -19220,7 +24829,9 @@ export const repPrs = {
    "tricep pushdowns straight bar": {
       "5": [
          {
-            "id": "5546d155-eaac-4662-b279-993fb5d4f153",
+            "id": "8826d25c-f589-41ca-b842-54836a75ce89",
+            "inferredDate": "2016-10-28",
+            "weekStartDate": "2016-10-22",
             "week": 63,
             "day": 4,
             "exercise": "tricep pushdowns straight bar",
@@ -19233,12 +24844,14 @@ export const repPrs = {
             "supersetId": "",
             "anomalous": "",
             "strategyUsed": "delimitedRepsDropSetStrategy",
-            "dropSetId": "2f204212-2500-47c6-a1f7-2acad03b2e18"
+            "dropSetId": "5b974ed0-0e36-4ced-9994-5a8ed7a2451c"
          }
       ],
       "6": [
          {
-            "id": "d7786a48-0dd2-4210-93c6-2827dea28207",
+            "id": "970d7215-6391-4718-ac9d-10a1c09f1cc2",
+            "inferredDate": "2016-12-02",
+            "weekStartDate": "2016-11-26",
             "week": 68,
             "day": 4,
             "exercise": "tricep pushdowns straight bar",
@@ -19254,7 +24867,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "b2bb73c8-e0e8-4dbd-b8b6-39938b4d70bc",
+            "id": "7ca0525c-600f-4c29-8540-a7313b720f4b",
+            "inferredDate": "2017-05-26",
+            "weekStartDate": "2017-05-20",
             "week": 89,
             "day": 4,
             "exercise": "tricep pushdowns straight bar",
@@ -19270,7 +24885,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "dc61b296-13bc-4feb-9246-a65581af805d",
+            "id": "117b040b-dc20-49a3-8be0-32d687d42155",
+            "inferredDate": "2017-06-02",
+            "weekStartDate": "2017-05-27",
             "week": 90,
             "day": 4,
             "exercise": "tricep pushdowns straight bar",
@@ -19288,7 +24905,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "6b6768aa-c6ee-4d0a-bbf4-26f2df61ad76",
+            "id": "24fd23e5-b3b2-4a93-8a80-54cc30728bb2",
+            "inferredDate": "2016-11-25",
+            "weekStartDate": "2016-11-19",
             "week": 67,
             "day": 4,
             "exercise": "tricep pushdowns straight bar",
@@ -19301,17 +24920,19 @@ export const repPrs = {
             "supersetId": "",
             "anomalous": "",
             "strategyUsed": "delimitedRepsDropSetStrategy",
-            "dropSetId": "27f6e6ed-960f-45ba-b019-de8d8b962339"
+            "dropSetId": "ce35859b-9b3b-4913-b3ef-2ce5bd542acd"
          }
       ],
       "30": [
          {
-            "id": "44cc5671-4ba5-4b33-8dac-dbb8fd874241",
+            "id": "3143964e-7bf7-454a-8f94-a8de5f479164",
+            "inferredDate": "2016-10-28",
+            "weekStartDate": "2016-10-22",
             "week": 63,
             "day": 4,
             "exercise": "tricep pushdowns straight bar",
             "originalExerciseName": "Pushdowns Straight Bar",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 30,
             "instructions": "",
             "weight": 100,
@@ -19323,64 +24944,12 @@ export const repPrs = {
          }
       ]
    },
-   "db hex press": {
-      "8": [
-         {
-            "id": "59ae46ed-42d5-4979-94f4-5c045933ff9f",
-            "week": 66,
-            "day": 4,
-            "exercise": "db hex press",
-            "originalExerciseName": "DB Hex Press",
-            "setNumber": 1,
-            "reps": 8,
-            "instructions": "",
-            "weight": 50,
-            "notes": "Did these slow and squeeze-y, which didn't leave much gas for push-ups, but that's probably fine.",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "repRangeInParenthesisStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "458c4e33-2023-4120-8c24-ce76576c1461",
-            "week": 90,
-            "day": 4,
-            "exercise": "db hex press",
-            "originalExerciseName": "DB Hex Press",
-            "setNumber": 1,
-            "reps": 8,
-            "instructions": "",
-            "weight": 60,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "repRangeInParenthesisStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "12": [
-         {
-            "id": "e5cdfb85-abcb-4be1-b76c-bec30ad5bf2a",
-            "week": 63,
-            "day": 4,
-            "exercise": "db hex press",
-            "originalExerciseName": "DB Hex Press",
-            "setNumber": 4,
-            "reps": 12,
-            "instructions": "Pause the DB on the chest, Flex hard at the top",
-            "weight": 50,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         }
-      ]
-   },
    "seated db lateral raises": {
       "8": [
          {
-            "id": "26404e33-d6d9-433d-86e4-2c4957f06290",
+            "id": "0b3d6571-f9f7-4733-996b-b8de49c7905a",
+            "inferredDate": "2017-02-07",
+            "weekStartDate": "2017-02-04",
             "week": 73,
             "day": 2,
             "exercise": "seated db lateral raises",
@@ -19398,7 +24967,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "179099a1-8b13-4c78-a7dc-1efc16b38378",
+            "id": "75dcd103-7630-41c6-baef-4d3643d20bd8",
+            "inferredDate": "2016-12-13",
+            "weekStartDate": "2016-12-10",
             "week": 70,
             "day": 2,
             "exercise": "seated db lateral raises",
@@ -19414,7 +24985,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "8a5ad836-6b31-4751-a38e-2038bf3321bc",
+            "id": "4648439e-d5d1-42ff-83f9-0b6a72c42c63",
+            "inferredDate": "2018-01-03",
+            "weekStartDate": "2017-12-31",
             "week": 122,
             "day": 2,
             "exercise": "seated db lateral raises",
@@ -19427,12 +25000,14 @@ export const repPrs = {
             "supersetId": "",
             "anomalous": "",
             "strategyUsed": "delimitedRepsDropSetStrategy",
-            "dropSetId": "cc5ccf70-7624-4c06-91e1-132eb422ff8b"
+            "dropSetId": "e49c4799-8bb9-4916-af2d-21c07af09c14"
          }
       ],
       "12": [
          {
-            "id": "7fe300f2-0f3b-49a5-8ad0-abd6e2a7be16",
+            "id": "68153047-be52-4f09-9e14-9baf5433fabb",
+            "inferredDate": "2016-11-01",
+            "weekStartDate": "2016-10-29",
             "week": 64,
             "day": 2,
             "exercise": "seated db lateral raises",
@@ -19448,7 +25023,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "26c66cde-9e04-41d1-8b9d-31f4284d6454",
+            "id": "3508cc3b-32b3-4753-a44f-b237580df63c",
+            "inferredDate": "2017-04-25",
+            "weekStartDate": "2017-04-22",
             "week": 85,
             "day": 2,
             "exercise": "seated db lateral raises",
@@ -19464,7 +25041,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "ffcc547e-f054-47f0-89b8-8f729ade54dd",
+            "id": "aa132250-e03f-4e93-8819-d5ef51e8510e",
+            "inferredDate": "2018-01-17",
+            "weekStartDate": "2018-01-14",
             "week": 124,
             "day": 2,
             "exercise": "seated db lateral raises",
@@ -19482,12 +25061,14 @@ export const repPrs = {
       ],
       "30": [
          {
-            "id": "1d1b1e37-451a-435d-b16a-f76b2c73c4b2",
+            "id": "a6573f04-5272-4e6c-8e19-f7e6e9d54869",
+            "inferredDate": "2018-07-17",
+            "weekStartDate": "2018-07-14",
             "week": 126,
             "day": 2,
             "exercise": "seated db lateral raises",
             "originalExerciseName": "Seated DB Laterals",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 30,
             "instructions": "10 on one side then switch to the other side and do 10, keep alternating until you hit 30 on both sides",
             "weight": 15,
@@ -19502,7 +25083,9 @@ export const repPrs = {
    "cage press": {
       "5": [
          {
-            "id": "3fece55f-a983-4034-a75c-f27eb3cab70b",
+            "id": "c86138d4-24bb-4349-82cc-1d716371f91b",
+            "inferredDate": "2016-11-01",
+            "weekStartDate": "2016-10-29",
             "week": 64,
             "day": 2,
             "exercise": "cage press",
@@ -19518,23 +25101,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "7b5f5bae-3db1-415c-afae-cec22480e7b5",
-            "week": 65,
-            "day": 2,
-            "exercise": "cage press",
-            "originalExerciseName": "Cage Press",
-            "setNumber": 5,
-            "reps": 5,
-            "instructions": "",
-            "weight": 115,
-            "notes": "95 was a little too easy, 135 was a little too hard. Definitely had more energy for overhead pressing this week than last",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "a0405e92-f6d3-478d-94bb-d9b48994bb5d",
+            "id": "17112538-1423-4aeb-9afb-4a9f20f02355",
+            "inferredDate": "2016-11-08",
+            "weekStartDate": "2016-11-05",
             "week": 65,
             "day": 2,
             "exercise": "cage press",
@@ -19552,7 +25121,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "4a46692b-dc3b-4b43-b76b-1df2797a5605",
+            "id": "03c97cd9-969c-4842-8649-d76968562ada",
+            "inferredDate": "2017-05-16",
+            "weekStartDate": "2017-05-13",
             "week": 88,
             "day": 2,
             "exercise": "cage press",
@@ -19568,7 +25139,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "a608f9c8-66f0-41af-9101-feb9c8e1a1ff",
+            "id": "d9591dfe-9a93-4987-8962-2c737b44f384",
+            "inferredDate": "2017-05-16",
+            "weekStartDate": "2017-05-13",
             "week": 88,
             "day": 2,
             "exercise": "cage press",
@@ -19586,7 +25159,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "5463ded4-6435-4c35-84f6-8b4d18dcb6ae",
+            "id": "830143dc-14e5-409c-a4cb-a6ea51acab58",
+            "inferredDate": "2016-12-13",
+            "weekStartDate": "2016-12-10",
             "week": 70,
             "day": 2,
             "exercise": "cage press",
@@ -19604,7 +25179,9 @@ export const repPrs = {
       ],
       "20": [
          {
-            "id": "5c76b882-7322-4910-a93b-770d8f9dd65a",
+            "id": "2a7b759b-3fa8-4928-bcc0-1fddd23d2d71",
+            "inferredDate": "2016-11-22",
+            "weekStartDate": "2016-11-19",
             "week": 67,
             "day": 2,
             "exercise": "cage press",
@@ -19624,7 +25201,9 @@ export const repPrs = {
    "deficit push ups": {
       "0": [
          {
-            "id": "4d433ce9-a863-4be4-b478-2ab1da7a001b",
+            "id": "73a3bb8b-5661-46ea-adab-315706b24627",
+            "inferredDate": "2016-11-04",
+            "weekStartDate": "2016-10-29",
             "week": 64,
             "day": 4,
             "exercise": "deficit push ups",
@@ -19642,7 +25221,9 @@ export const repPrs = {
       ],
       "3": [
          {
-            "id": "72090640-be5d-4342-9882-08d7727083d1",
+            "id": "765adaf4-8edd-4d9e-97a0-b53f7b800c7f",
+            "inferredDate": "2017-05-12",
+            "weekStartDate": "2017-05-06",
             "week": 87,
             "day": 4,
             "exercise": "deficit push ups",
@@ -19660,7 +25241,9 @@ export const repPrs = {
       ],
       "4": [
          {
-            "id": "d7e240cb-f164-4241-8083-607be2589a71",
+            "id": "1597109c-d057-498f-91a4-58366f8f36b2",
+            "inferredDate": "2016-11-18",
+            "weekStartDate": "2016-11-12",
             "week": 66,
             "day": 4,
             "exercise": "deficit push ups",
@@ -19678,7 +25261,9 @@ export const repPrs = {
       ],
       "5": [
          {
-            "id": "f28c3ace-3194-42f8-be64-6ed6f724164f",
+            "id": "2fcd8bf3-cdba-4d55-9506-e1e227dc441d",
+            "inferredDate": "2016-11-18",
+            "weekStartDate": "2016-11-12",
             "week": 66,
             "day": 4,
             "exercise": "deficit push ups",
@@ -19696,7 +25281,9 @@ export const repPrs = {
       ],
       "6": [
          {
-            "id": "6ad16f8e-fdf5-423f-93b0-c14cf113bf8f",
+            "id": "1f947cbd-3571-4d7a-8146-f738d6a07abe",
+            "inferredDate": "2016-11-18",
+            "weekStartDate": "2016-11-12",
             "week": 66,
             "day": 4,
             "exercise": "deficit push ups",
@@ -19714,7 +25301,9 @@ export const repPrs = {
       ],
       "7": [
          {
-            "id": "a477cac7-0cb0-4b14-b12d-8e33c38dd4ee",
+            "id": "bff80c90-5725-4575-beb0-106014f03a32",
+            "inferredDate": "2017-05-05",
+            "weekStartDate": "2017-04-29",
             "week": 86,
             "day": 4,
             "exercise": "deficit push ups",
@@ -19732,7 +25321,9 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "c759dd7e-e7b1-478e-ac28-bd8e09380fb1",
+            "id": "e73f49c0-553e-4880-91b2-3d9ad9856996",
+            "inferredDate": "2016-12-16",
+            "weekStartDate": "2016-12-10",
             "week": 70,
             "day": 4,
             "exercise": "deficit push ups",
@@ -19750,7 +25341,9 @@ export const repPrs = {
       ],
       "9": [
          {
-            "id": "bbbcde5e-3b6a-4fd2-bca5-1a834bcf0022",
+            "id": "b3bee604-4dfd-480f-9c87-8007877a26ef",
+            "inferredDate": "2017-10-14",
+            "weekStartDate": "2017-10-08",
             "week": 110,
             "day": 4,
             "exercise": "deficit push ups",
@@ -19768,7 +25361,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "d0894b8b-69c9-486c-a8aa-9c9609422fc7",
+            "id": "d026ccb5-02a7-46bf-9080-934b02ff7dce",
+            "inferredDate": "2017-02-10",
+            "weekStartDate": "2017-02-04",
             "week": 73,
             "day": 4,
             "exercise": "deficit push ups",
@@ -19782,11 +25377,49 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "noWeightStraightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "d7119801-f373-40b7-a6fb-26b6b581f3bd",
+            "inferredDate": "2019-06-28",
+            "weekStartDate": "2019-06-22",
+            "week": 174,
+            "day": 4,
+            "exercise": "deficit push ups",
+            "originalExerciseName": "Upright row ",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "",
+            "weight": 75,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "5602df13-6076-4122-9e59-e20d22dd6a92",
+            "inferredDate": "2019-07-29",
+            "weekStartDate": "2019-07-27",
+            "week": 179,
+            "day": 1,
+            "exercise": "deficit push ups",
+            "originalExerciseName": "Upright row ",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "",
+            "weight": 80,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ],
       "12": [
          {
-            "id": "8eb5ed73-d046-4b00-bf4f-0318061a96a4",
+            "id": "913dd948-f516-4fcd-8bd9-fea45bb30747",
+            "inferredDate": "2017-10-14",
+            "weekStartDate": "2017-10-08",
             "week": 110,
             "day": 4,
             "exercise": "deficit push ups",
@@ -19801,12 +25434,54 @@ export const repPrs = {
             "strategyUsed": "failureSpecifiedInRepsColumnAndNoWeightStrategy",
             "dropSetId": ""
          }
+      ],
+      "15": [
+         {
+            "id": "c8d9506a-c4f6-478b-8842-2cda5fccbd10",
+            "inferredDate": "2019-09-30",
+            "weekStartDate": "2019-09-28",
+            "week": 188,
+            "day": 1,
+            "exercise": "deficit push ups",
+            "originalExerciseName": "Deficit Push Ups",
+            "setNumber": 2,
+            "reps": 15,
+            "instructions": "",
+            "weight": 0,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "failureSpecifiedInRepsColumnAndNoWeightStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "18": [
+         {
+            "id": "4d7ea14a-8bcb-4e6a-a253-d75fe615494a",
+            "inferredDate": "2019-09-30",
+            "weekStartDate": "2019-09-28",
+            "week": 188,
+            "day": 1,
+            "exercise": "deficit push ups",
+            "originalExerciseName": "Deficit Push Ups",
+            "setNumber": 3,
+            "reps": 18,
+            "instructions": "",
+            "weight": 0,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "failureSpecifiedInRepsColumnAndNoWeightStrategy",
+            "dropSetId": ""
+         }
       ]
    },
    "reverse curls": {
       "15": [
          {
-            "id": "d6f17428-7e9c-4c10-b858-f6eb50aa3cd4",
+            "id": "aeee55c0-c3eb-4462-adde-4af31ad1baa6",
+            "inferredDate": "2016-11-04",
+            "weekStartDate": "2016-10-29",
             "week": 64,
             "day": 4,
             "exercise": "reverse curls",
@@ -19822,7 +25497,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "eaa7ec82-327d-4d94-bfdf-50749e526851",
+            "id": "a4d857b3-58cf-4d0d-9624-a1691b5a45f7",
+            "inferredDate": "2018-12-07",
+            "weekStartDate": "2018-12-01",
             "week": 146,
             "day": 4,
             "exercise": "reverse curls",
@@ -19838,7 +25515,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "5664b93d-0388-490c-9ae2-49bcaa376107",
+            "id": "c9882725-1893-4754-acfe-d8896607906c",
+            "inferredDate": "2019-01-25",
+            "weekStartDate": "2019-01-19",
             "week": 153,
             "day": 4,
             "exercise": "reverse curls",
@@ -19856,7 +25535,9 @@ export const repPrs = {
       ],
       "20": [
          {
-            "id": "b282080a-f9fc-42f1-8375-4b324b63d8d6",
+            "id": "479b7bcd-324c-4c26-96fc-cccb4c94701b",
+            "inferredDate": "2018-11-30",
+            "weekStartDate": "2018-11-24",
             "week": 145,
             "day": 4,
             "exercise": "reverse curls",
@@ -19873,10 +25554,34 @@ export const repPrs = {
          }
       ]
    },
+   "banded 4 ways": {
+      "8": [
+         {
+            "id": "f75e57f5-cdab-4e86-ae84-e94f3995dd23",
+            "inferredDate": "2016-11-08",
+            "weekStartDate": "2016-11-05",
+            "week": 65,
+            "day": 2,
+            "exercise": "banded 4 ways",
+            "originalExerciseName": "Banded 4 Ways",
+            "setNumber": 1,
+            "reps": 8,
+            "instructions": "",
+            "weight": 0,
+            "notes": "Red, 1/2 inch band. Cool movement! Like a front raise and a band pull apart combined",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "noWeightStraightSetStrategy",
+            "dropSetId": ""
+         }
+      ]
+   },
    "bent over lateral raise": {
       "10": [
          {
-            "id": "8042f914-defe-4466-9daa-00bc2c36f580",
+            "id": "51ca589b-2255-4e0e-a1b6-7e92f8e40c95",
+            "inferredDate": "2016-11-08",
+            "weekStartDate": "2016-11-05",
             "week": 65,
             "day": 2,
             "exercise": "bent over lateral raise",
@@ -19892,7 +25597,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "0a979070-2db8-4b91-b17e-ecbf63f3f785",
+            "id": "843fe969-ac2b-4634-8c84-8dd8850337b0",
+            "inferredDate": "2017-08-30",
+            "weekStartDate": "2017-08-27",
             "week": 104,
             "day": 2,
             "exercise": "bent over lateral raise",
@@ -19910,12 +25617,14 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "0fe9c640-234d-4833-874a-081c52661a1d",
+            "id": "36cdb3fb-d00a-470b-9bfd-82636231b546",
+            "inferredDate": "2017-11-01",
+            "weekStartDate": "2017-10-29",
             "week": 113,
             "day": 2,
             "exercise": "bent over lateral raise",
             "originalExerciseName": "Bentover Rear Delt Raises",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 20,
@@ -19928,7 +25637,9 @@ export const repPrs = {
       ],
       "15": [
          {
-            "id": "731986ea-fd04-407d-9494-57af7e195bda",
+            "id": "37b7c7b6-3015-4d8c-bbb6-122678b9fb8e",
+            "inferredDate": "2018-12-25",
+            "weekStartDate": "2018-12-22",
             "week": 149,
             "day": 2,
             "exercise": "bent over lateral raise",
@@ -19944,7 +25655,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "cb5886a6-99b7-4f5b-a23e-f7e7d958c12d",
+            "id": "25952572-0dba-467d-bc11-2a8735804ce2",
+            "inferredDate": "2019-01-01",
+            "weekStartDate": "2018-12-29",
             "week": 150,
             "day": 2,
             "exercise": "bent over lateral raise",
@@ -19962,7 +25675,9 @@ export const repPrs = {
       ],
       "20": [
          {
-            "id": "aa9f423a-c3c1-4b30-a0bb-ef8a6faa9eae",
+            "id": "843afd48-190c-4576-aec4-05c0c75bc0a5",
+            "inferredDate": "2017-05-02",
+            "weekStartDate": "2017-04-29",
             "week": 86,
             "day": 2,
             "exercise": "bent over lateral raise",
@@ -19978,7 +25693,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "aa337202-67f4-4320-b6ad-3dc4ecdcc23b",
+            "id": "9d5f57b8-4815-46b3-bfb0-6858d8d61f69",
+            "inferredDate": "2017-07-11",
+            "weekStartDate": "2017-07-08",
             "week": 96,
             "day": 2,
             "exercise": "bent over lateral raise",
@@ -19996,7 +25713,9 @@ export const repPrs = {
       ],
       "25": [
          {
-            "id": "56e6039a-cf55-423f-86c5-b27635efe6ff",
+            "id": "c0bf19cc-4e87-45a3-8437-d2dc68caa6f9",
+            "inferredDate": "2017-09-27",
+            "weekStartDate": "2017-09-24",
             "week": 108,
             "day": 2,
             "exercise": "bent over lateral raise",
@@ -20014,7 +25733,9 @@ export const repPrs = {
       ],
       "50": [
          {
-            "id": "61d47bf9-4103-4cc3-896d-0e58cea6fdc7",
+            "id": "3d8f51a2-e57f-4ef4-91ca-e9bd9dd50982",
+            "inferredDate": "2018-10-30",
+            "weekStartDate": "2018-10-27",
             "week": 141,
             "day": 2,
             "exercise": "bent over lateral raise",
@@ -20031,35 +25752,17 @@ export const repPrs = {
          }
       ]
    },
-   "banded 4 ways": {
-      "8": [
-         {
-            "id": "ee2448ec-ea4d-49a0-bfd3-e269a0a807f0",
-            "week": 65,
-            "day": 2,
-            "exercise": "banded 4 ways",
-            "originalExerciseName": "Banded 4 Ways",
-            "setNumber": 3,
-            "reps": 8,
-            "instructions": "",
-            "weight": 0,
-            "notes": "Red, 1/2 inch band. Cool movement! Like a front raise and a band pull apart combined",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "noWeightStraightSetStrategy",
-            "dropSetId": ""
-         }
-      ]
-   },
    "close grip cable rows": {
       "12": [
          {
-            "id": "ec98cdbd-33f8-4a93-8ebc-efa27f225865",
+            "id": "5ebe1db5-4477-4d1a-bdc8-6c504ffe7861",
+            "inferredDate": "2016-11-10",
+            "weekStartDate": "2016-11-05",
             "week": 65,
             "day": 3,
             "exercise": "close grip cable rows",
             "originalExerciseName": "Close Grip Cable Rows",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 180,
@@ -20074,7 +25777,9 @@ export const repPrs = {
    "rear facing lat pulldown": {
       "8": [
          {
-            "id": "96b988af-f3fd-498a-b56d-314e92be4f44",
+            "id": "36a2d376-8d73-492b-9ac2-e87507aa0b3e",
+            "inferredDate": "2016-11-10",
+            "weekStartDate": "2016-11-05",
             "week": 65,
             "day": 3,
             "exercise": "rear facing lat pulldown",
@@ -20092,7 +25797,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "5679adfc-1e8b-4682-99ad-0dc38ddc98f3",
+            "id": "ea1f7b38-c5e4-42e5-9abe-33dff7e38f93",
+            "inferredDate": "2018-10-18",
+            "weekStartDate": "2018-10-13",
             "week": 139,
             "day": 3,
             "exercise": "rear facing lat pulldown",
@@ -20110,7 +25817,9 @@ export const repPrs = {
       ],
       "20": [
          {
-            "id": "09fda3be-5df9-46c1-8548-dcc3d2c03511",
+            "id": "2ef8c49f-26f8-4d57-8eb3-3cc565ffa1ec",
+            "inferredDate": "2017-05-04",
+            "weekStartDate": "2017-04-29",
             "week": 86,
             "day": 3,
             "exercise": "rear facing lat pulldown",
@@ -20130,7 +25839,9 @@ export const repPrs = {
    "banded hyperextensions": {
       "15": [
          {
-            "id": "31f1416a-652e-452a-b3c0-ca4ed6632feb",
+            "id": "2a7abaaa-7cbc-4f0f-aae9-605ddbd73dd7",
+            "inferredDate": "2016-11-10",
+            "weekStartDate": "2016-11-05",
             "week": 65,
             "day": 3,
             "exercise": "banded hyperextensions",
@@ -20150,17 +25861,19 @@ export const repPrs = {
    "Partial lying hamstring curl": {
       "8": [
          {
-            "id": "af5ac5ed-d5ad-4792-9a71-fa20e6cf5083",
+            "id": "3a844470-df4c-40f2-b7f6-9259ac6ee13a",
+            "inferredDate": "2016-12-12",
+            "weekStartDate": "2016-12-10",
             "week": 70,
             "day": 1,
             "exercise": "Partial lying hamstring curl",
             "originalExerciseName": "Lying Hamstrings Curls",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 8,
             "instructions": "Lots of warm ups, then 8 reps and 8 partials each set",
             "weight": 130,
             "notes": "",
-            "supersetId": "40ac2724-7067-4c37-b8dd-bc59487ba97c",
+            "supersetId": "2d7522de-6a20-4228-9b30-38a606ba7840",
             "anomalous": "",
             "strategyUsed": "partialRepsStrategy",
             "dropSetId": ""
@@ -20168,55 +25881,21 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "47277058-b191-40cc-b2ae-d53c527d6964",
+            "id": "0d5b05a1-124e-4b9a-a8e0-3aa5f87b3570",
+            "inferredDate": "2016-11-14",
+            "weekStartDate": "2016-11-12",
             "week": 66,
             "day": 1,
             "exercise": "Partial lying hamstring curl",
             "originalExerciseName": "Lying Hamstrings Curls",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "Do 10 reps then do 10 partials in the stretched position",
             "weight": 90,
             "notes": "",
-            "supersetId": "d032031a-9e99-453d-b145-f7e0f10f18bb",
+            "supersetId": "510d099e-803e-4679-ab23-30d7d9ffe5c0",
             "anomalous": "",
             "strategyUsed": "partialRepsStrategy",
-            "dropSetId": ""
-         }
-      ]
-   },
-   "seated db shoulder press": {
-      "8": [
-         {
-            "id": "e36599ea-45e6-436f-bba9-3a8ce903aea4",
-            "week": 66,
-            "day": 2,
-            "exercise": "seated db shoulder press",
-            "originalExerciseName": "Seated DB Shoulder Press",
-            "setNumber": 4,
-            "reps": 8,
-            "instructions": "After the last set do 8",
-            "weight": 50,
-            "notes": "Seriously running low on gas at this point, lol. Kept dropping down in weight so that the last rep or two wasn't ridiculously sloppy. META: original data After the last set do 8 partials",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "a95002c2-47be-4868-b33d-8165f0ba0296",
-            "week": 66,
-            "day": 2,
-            "exercise": "seated db shoulder press",
-            "originalExerciseName": "Seated DB Shoulder Press",
-            "setNumber": 1,
-            "reps": 8,
-            "instructions": "After the last set do 8",
-            "weight": 75,
-            "notes": "Seriously running low on gas at this point, lol. Kept dropping down in weight so that the last rep or two wasn't ridiculously sloppy. META: original data After the last set do 8 partials",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
          }
       ]
@@ -20224,7 +25903,9 @@ export const repPrs = {
    "db 6 ways": {
       "6": [
          {
-            "id": "475fcc38-3dc5-4d8b-a07f-a1f6e2fbb6b4",
+            "id": "f0a8c8e3-692c-47b7-a6fc-5473732484a2",
+            "inferredDate": "2016-11-29",
+            "weekStartDate": "2016-11-26",
             "week": 68,
             "day": 2,
             "exercise": "db 6 ways",
@@ -20240,7 +25921,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "b621237f-8277-4c86-8bf1-6ea57a7dda03",
+            "id": "00640171-a4b1-4fa8-b343-85484b94ad39",
+            "inferredDate": "2017-05-23",
+            "weekStartDate": "2017-05-20",
             "week": 89,
             "day": 2,
             "exercise": "db 6 ways",
@@ -20258,12 +25941,14 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "be878621-42a5-4b6e-91f6-8a18549308eb",
+            "id": "c865ff2c-712d-4cda-8fc4-ad55ea68d801",
+            "inferredDate": "2016-12-06",
+            "weekStartDate": "2016-12-03",
             "week": 69,
             "day": 2,
             "exercise": "db 6 ways",
             "originalExerciseName": "6 Ways",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "",
             "weight": 10,
@@ -20276,7 +25961,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "f660c978-5714-4990-8b75-b54324308fab",
+            "id": "52499f7e-2375-46e4-aeab-e06f7d589ad5",
+            "inferredDate": "2016-11-15",
+            "weekStartDate": "2016-11-12",
             "week": 66,
             "day": 2,
             "exercise": "db 6 ways",
@@ -20293,10 +25980,112 @@ export const repPrs = {
          }
       ]
    },
+   "seated db shoulder press": {
+      "8": [
+         {
+            "id": "863357de-00c2-48df-a4b5-19e36be617bc",
+            "inferredDate": "2016-11-15",
+            "weekStartDate": "2016-11-12",
+            "week": 66,
+            "day": 2,
+            "exercise": "seated db shoulder press",
+            "originalExerciseName": "Seated DB Shoulder Press",
+            "setNumber": 1,
+            "reps": 8,
+            "instructions": "After the last set do 8 ",
+            "weight": 75,
+            "notes": "Seriously running low on gas at this point, lol. Kept dropping down in weight so that the last rep or two wasn't ridiculously sloppy. META: original data After the last set do 8 partials",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "10": [
+         {
+            "id": "c2e3f47c-6b2f-47a2-b619-a5c7851024e0",
+            "inferredDate": "2019-07-02",
+            "weekStartDate": "2019-06-29",
+            "week": 175,
+            "day": 2,
+            "exercise": "seated db shoulder press",
+            "originalExerciseName": "Seated DB shoulder press",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "",
+            "weight": 60,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "f313c248-b5f4-4e80-8331-1a8812b98860",
+            "inferredDate": "2019-08-02",
+            "weekStartDate": "2019-07-27",
+            "week": 179,
+            "day": 3,
+            "exercise": "seated db shoulder press",
+            "originalExerciseName": "Upright row ",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "",
+            "weight": 80,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "15": [
+         {
+            "id": "075eb0aa-078a-427c-a19b-aca96058b3de",
+            "inferredDate": "2019-07-02",
+            "weekStartDate": "2019-06-29",
+            "week": 175,
+            "day": 2,
+            "exercise": "seated db shoulder press",
+            "originalExerciseName": "Lateral raise",
+            "setNumber": 1,
+            "reps": 15,
+            "instructions": "",
+            "weight": 25,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "20": [
+         {
+            "id": "0aa4d21f-10be-431f-8f7e-419e8062ce61",
+            "inferredDate": "2019-07-02",
+            "weekStartDate": "2019-06-29",
+            "week": 175,
+            "day": 2,
+            "exercise": "seated db shoulder press",
+            "originalExerciseName": "Tricep pushdown",
+            "setNumber": 1,
+            "reps": 20,
+            "instructions": "",
+            "weight": 65,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ]
+   },
    "incline sit ups": {
       "12": [
          {
-            "id": "ef0ee6fd-9782-40aa-afc4-c29ee838c691",
+            "id": "97320589-03bd-4946-ac84-e22a3e8f84e4",
+            "inferredDate": "2016-11-17",
+            "weekStartDate": "2016-11-12",
             "week": 66,
             "day": 3,
             "exercise": "incline sit ups",
@@ -20316,7 +26105,9 @@ export const repPrs = {
    "hammer strength shoulder press": {
       "6": [
          {
-            "id": "35d1ea33-8cdb-43a9-ad46-05477124656b",
+            "id": "3bb35bee-8895-40cc-870d-67de74d7c77d",
+            "inferredDate": "2017-07-04",
+            "weekStartDate": "2017-07-01",
             "week": 95,
             "day": 2,
             "exercise": "hammer strength shoulder press",
@@ -20334,12 +26125,14 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "86012646-a1a0-44cf-931d-05fa4976720f",
+            "id": "bdd6531f-10c4-4065-8006-c013a99bdab4",
+            "inferredDate": "2016-11-18",
+            "weekStartDate": "2016-11-12",
             "week": 66,
             "day": 4,
             "exercise": "hammer strength shoulder press",
             "originalExerciseName": "Hammer Press",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 8,
             "instructions": "",
             "weight": 180,
@@ -20350,12 +26143,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "b5920940-dfd4-4ca5-ad31-5b53ba340ca7",
+            "id": "12806804-79d5-494a-9785-08dd682c27dc",
+            "inferredDate": "2017-02-03",
+            "weekStartDate": "2017-01-28",
             "week": 72,
             "day": 4,
             "exercise": "hammer strength shoulder press",
             "originalExerciseName": "Hammer Press",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 8,
             "instructions": "",
             "weight": 190,
@@ -20368,7 +26163,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "eab9a5dc-e761-4f61-b2cd-68b9df22c0dc",
+            "id": "076b6746-393b-4aaf-8e07-a7054e6563d8",
+            "inferredDate": "2017-07-04",
+            "weekStartDate": "2017-07-01",
             "week": 95,
             "day": 2,
             "exercise": "hammer strength shoulder press",
@@ -20384,12 +26181,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "b94ff6da-226e-4726-9a35-e58609ef4dc9",
+            "id": "7861b241-9968-4da7-96ca-1a33d355a50a",
+            "inferredDate": "2018-01-17",
+            "weekStartDate": "2018-01-14",
             "week": 124,
             "day": 2,
             "exercise": "hammer strength shoulder press",
             "originalExerciseName": "Hammer Strength Shoulder Press",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 140,
@@ -20402,7 +26201,9 @@ export const repPrs = {
       ],
       "20": [
          {
-            "id": "14bca7a4-1093-41b8-b85a-9cbf25510264",
+            "id": "44b7568a-f50f-4a78-ac70-96553ef4fcbc",
+            "inferredDate": "2017-07-04",
+            "weekStartDate": "2017-07-01",
             "week": 95,
             "day": 2,
             "exercise": "hammer strength shoulder press",
@@ -20422,7 +26223,9 @@ export const repPrs = {
    "belt squats": {
       "10": [
          {
-            "id": "2c5c4132-ca47-4ee5-9b5b-6ef737cae19d",
+            "id": "9d43dfeb-9523-4270-a238-dc7700621d9c",
+            "inferredDate": "2016-11-21",
+            "weekStartDate": "2016-11-19",
             "week": 67,
             "day": 1,
             "exercise": "belt squats",
@@ -20442,7 +26245,9 @@ export const repPrs = {
    "db front/lateral raise": {
       "10": [
          {
-            "id": "a75a372b-13a1-47f0-8509-a359b959fc7d",
+            "id": "6f9b23e0-d805-42f3-b23f-2e99cce4038b",
+            "inferredDate": "2016-11-22",
+            "weekStartDate": "2016-11-19",
             "week": 67,
             "day": 2,
             "exercise": "db front/lateral raise",
@@ -20462,7 +26267,9 @@ export const repPrs = {
    "band pull aparts": {
       "25": [
          {
-            "id": "c0f83b2d-80de-4ba8-9152-aee728731c41",
+            "id": "7a535fd4-03c0-4ee3-9989-6078dd1cd5e3",
+            "inferredDate": "2016-11-22",
+            "weekStartDate": "2016-11-19",
             "week": 67,
             "day": 2,
             "exercise": "band pull aparts",
@@ -20479,35 +26286,17 @@ export const repPrs = {
          }
       ]
    },
-   "db dead stop rows": {
-      "10": [
-         {
-            "id": "1de4b357-aa54-4070-8381-83f8159b77a1",
-            "week": 67,
-            "day": 3,
-            "exercise": "db dead stop rows",
-            "originalExerciseName": "DB Dead Stop Rows",
-            "setNumber": 3,
-            "reps": 10,
-            "instructions": "",
-            "weight": 100,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         }
-      ]
-   },
    "incline prone db shrugs": {
       "10": [
          {
-            "id": "d2fdf7f8-c479-4a14-b466-45b448dad992",
+            "id": "1b78dfc9-1ae0-4d3e-9bf7-08d3a518bbed",
+            "inferredDate": "2016-11-24",
+            "weekStartDate": "2016-11-19",
             "week": 67,
             "day": 3,
             "exercise": "incline prone db shrugs",
             "originalExerciseName": "Incline Prone DB Shrugs",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "",
             "weight": 80,
@@ -20519,15 +26308,39 @@ export const repPrs = {
          }
       ]
    },
+   "db dead stop rows": {
+      "10": [
+         {
+            "id": "2f8a14cc-a17c-4249-83f5-5e41e68cc785",
+            "inferredDate": "2016-11-24",
+            "weekStartDate": "2016-11-19",
+            "week": 67,
+            "day": 3,
+            "exercise": "db dead stop rows",
+            "originalExerciseName": "DB Dead Stop Rows",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "",
+            "weight": 100,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ]
+   },
    "stiff legged deadlift": {
       "8": [
          {
-            "id": "848edcd1-abb1-40aa-ab83-d6c2ba54bec8",
+            "id": "33b8d998-8331-47fd-b18c-ad6ccb416ba5",
+            "inferredDate": "2016-12-12",
+            "weekStartDate": "2016-12-10",
             "week": 70,
             "day": 1,
             "exercise": "stiff legged deadlift",
             "originalExerciseName": "Barbell Stiff Legged DL",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 8,
             "instructions": "",
             "weight": 275,
@@ -20540,12 +26353,14 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "0fce3176-c62b-49b9-a40c-b0ef18c6f0a1",
+            "id": "b0b54b1f-9449-4b59-a291-62a76d6a8fdd",
+            "inferredDate": "2016-11-28",
+            "weekStartDate": "2016-11-26",
             "week": 68,
             "day": 1,
             "exercise": "stiff legged deadlift",
             "originalExerciseName": "Barbell Stiff Legged DL",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 275,
@@ -20560,7 +26375,9 @@ export const repPrs = {
    "band over and backs": {
       "10": [
          {
-            "id": "6f97dd7e-1883-4da3-9114-be4f2cc76576",
+            "id": "ed506892-f8a2-4b10-a0e2-63ad535bc3a0",
+            "inferredDate": "2016-12-02",
+            "weekStartDate": "2016-11-26",
             "week": 68,
             "day": 4,
             "exercise": "band over and backs",
@@ -20578,7 +26395,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "a5d64521-62dd-4f0c-9b4b-1cbda216c856",
+            "id": "c74060f1-ceae-4bb6-a620-2315dd67e6ba",
+            "inferredDate": "2018-11-13",
+            "weekStartDate": "2018-11-10",
             "week": 143,
             "day": 2,
             "exercise": "band over and backs",
@@ -20598,7 +26417,9 @@ export const repPrs = {
    "lying triceps ext": {
       "10": [
          {
-            "id": "39af2de9-b4d4-4c20-aad6-f307d6c87bcd",
+            "id": "fa2048a8-6c4c-4da7-8982-c691504f4509",
+            "inferredDate": "2016-12-02",
+            "weekStartDate": "2016-11-26",
             "week": 68,
             "day": 4,
             "exercise": "lying triceps ext",
@@ -20618,7 +26439,9 @@ export const repPrs = {
    "lat stretch exercise": {
       "8": [
          {
-            "id": "2acab2da-8028-4a9e-a540-79b367e3bb75",
+            "id": "d8835edd-34ea-4593-a7c1-b0a3928f7bee",
+            "inferredDate": "2016-12-08",
+            "weekStartDate": "2016-12-03",
             "week": 69,
             "day": 3,
             "exercise": "lat stretch exercise",
@@ -20638,7 +26461,9 @@ export const repPrs = {
    "incline seated db curls": {
       "6": [
          {
-            "id": "a34ee439-633e-4be6-8328-ba4d4c8dd008",
+            "id": "659ce666-60d2-4f7d-9963-ddcde667db29",
+            "inferredDate": "2017-10-28",
+            "weekStartDate": "2017-10-22",
             "week": 112,
             "day": 4,
             "exercise": "incline seated db curls",
@@ -20656,7 +26481,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "beef6b00-3a36-4eff-8598-2a8f0868a868",
+            "id": "f456be28-def1-4b4e-8795-8db50d40abc9",
+            "inferredDate": "2016-12-09",
+            "weekStartDate": "2016-12-03",
             "week": 69,
             "day": 4,
             "exercise": "incline seated db curls",
@@ -20676,7 +26503,9 @@ export const repPrs = {
    "incline db skull crushers": {
       "10": [
          {
-            "id": "01fae7b6-468e-40a6-b638-dcf420521887",
+            "id": "b04e001a-320f-46bc-b11c-9bfe82e7a0e7",
+            "inferredDate": "2016-12-09",
+            "weekStartDate": "2016-12-03",
             "week": 69,
             "day": 4,
             "exercise": "incline db skull crushers",
@@ -20696,7 +26525,9 @@ export const repPrs = {
    "seated db front raises": {
       "10": [
          {
-            "id": "1f1d100d-e6d3-4128-9df5-73498e714e9d",
+            "id": "e3ca1da3-e127-4f5a-bd3e-56bbe8cb97d3",
+            "inferredDate": "2016-12-13",
+            "weekStartDate": "2016-12-10",
             "week": 70,
             "day": 2,
             "exercise": "seated db front raises",
@@ -20713,51 +26544,17 @@ export const repPrs = {
          }
       ]
    },
-   "db shrugs": {
-      "10": [
-         {
-            "id": "d301eea1-5641-434c-92a9-5c8976846050",
-            "week": 70,
-            "day": 3,
-            "exercise": "db shrugs",
-            "originalExerciseName": "DB Shrugs",
-            "setNumber": 3,
-            "reps": 10,
-            "instructions": "",
-            "weight": 75,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         },
-         {
-            "id": "d03f065c-97bd-48dd-9f3d-928e675bc0d4",
-            "week": 88,
-            "day": 3,
-            "exercise": "db shrugs",
-            "originalExerciseName": "DB Shrugs",
-            "setNumber": 1,
-            "reps": 10,
-            "instructions": "HEAVY!!",
-            "weight": 150,
-            "notes": "used straps",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         }
-      ]
-   },
    "close grip rear facing lat pulldown": {
       "10": [
          {
-            "id": "fc314531-5017-47bd-b6a1-d62607f7a8cb",
+            "id": "f61bb631-62de-4b8c-af4a-f847849f58ec",
+            "inferredDate": "2016-12-15",
+            "weekStartDate": "2016-12-10",
             "week": 70,
             "day": 3,
             "exercise": "close grip rear facing lat pulldown",
             "originalExerciseName": "Close Grip Pulldowns Facing Away",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "140",
             "weight": 140,
@@ -20768,7 +26565,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "001953ea-5af1-4da6-a66e-3187165545e1",
+            "id": "4fe168a0-3198-48e6-a8d4-614f5f8e760d",
+            "inferredDate": "2017-06-01",
+            "weekStartDate": "2017-05-27",
             "week": 90,
             "day": 3,
             "exercise": "close grip rear facing lat pulldown",
@@ -20785,10 +26584,52 @@ export const repPrs = {
          }
       ]
    },
+   "db shrugs": {
+      "10": [
+         {
+            "id": "3c6c36bd-1627-4220-93c5-72c38d57a73d",
+            "inferredDate": "2016-12-15",
+            "weekStartDate": "2016-12-10",
+            "week": 70,
+            "day": 3,
+            "exercise": "db shrugs",
+            "originalExerciseName": "DB Shrugs",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "",
+            "weight": 75,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "82381c64-a367-4f20-9d83-bfb3839c76f8",
+            "inferredDate": "2017-05-18",
+            "weekStartDate": "2017-05-13",
+            "week": 88,
+            "day": 3,
+            "exercise": "db shrugs",
+            "originalExerciseName": "DB Shrugs",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "HEAVY!!",
+            "weight": 150,
+            "notes": "used straps",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ]
+   },
    "back squats w/ buffalo bar": {
       "6": [
          {
-            "id": "f443085e-6491-4c96-a13c-e40109244f03",
+            "id": "17dc5713-3124-47fb-9a4c-5845e55974e1",
+            "inferredDate": "2017-01-23",
+            "weekStartDate": "2017-01-21",
             "week": 71,
             "day": 1,
             "exercise": "back squats w/ buffalo bar",
@@ -20808,12 +26649,14 @@ export const repPrs = {
    "occluded leg extensions": {
       "15": [
          {
-            "id": "f3dfa2ab-f8d9-47ad-9b08-c047ec6e4dac",
+            "id": "8b33740c-e8e6-47a4-8164-47fd3e0811a8",
+            "inferredDate": "2017-01-23",
+            "weekStartDate": "2017-01-21",
             "week": 71,
             "day": 1,
             "exercise": "occluded leg extensions",
             "originalExerciseName": "Occluded Leg Extensions",
-            "setNumber": 5,
+            "setNumber": 1,
             "reps": 15,
             "instructions": "30 seconds rest, keep it light. Your legs will get so pumped it's painful",
             "weight": 60,
@@ -20828,12 +26671,14 @@ export const repPrs = {
    "cable flyes": {
       "20": [
          {
-            "id": "897f557a-4c75-4e0b-b12d-8fad654a50e1",
+            "id": "5e9779e7-2bf5-4a94-a165-82b5acaed8e6",
+            "inferredDate": "2017-01-24",
+            "weekStartDate": "2017-01-21",
             "week": 71,
             "day": 2,
             "exercise": "cable flyes",
             "originalExerciseName": "Cable Flyes",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 20,
             "instructions": "On the last rep of each set come back halfway and hold for 10 second iso",
             "weight": 25,
@@ -20848,7 +26693,9 @@ export const repPrs = {
    "rear delt cable flyes": {
       "15": [
          {
-            "id": "b9f544f1-1743-4a13-a71d-7e0ed900539a",
+            "id": "26731d42-4319-48ac-a988-9e0a7bcb1d69",
+            "inferredDate": "2017-01-24",
+            "weekStartDate": "2017-01-21",
             "week": 71,
             "day": 2,
             "exercise": "rear delt cable flyes",
@@ -20868,7 +26715,9 @@ export const repPrs = {
    "db curls": {
       "8": [
          {
-            "id": "952daeaf-f143-41ce-a01f-55bf703c1c65",
+            "id": "d4ccc771-e3be-4f18-a325-5c61aad93927",
+            "inferredDate": "2017-02-10",
+            "weekStartDate": "2017-02-04",
             "week": 73,
             "day": 4,
             "exercise": "db curls",
@@ -20888,7 +26737,9 @@ export const repPrs = {
    "ez bar reverse preacher curls": {
       "12": [
          {
-            "id": "0d1a5b69-1779-4eba-b015-28f890808a89",
+            "id": "6c82e753-fcb2-425b-a5af-ce38fc92802f",
+            "inferredDate": "2017-12-23",
+            "weekStartDate": "2017-12-17",
             "week": 120,
             "day": 4,
             "exercise": "ez bar reverse preacher curls",
@@ -20906,7 +26757,9 @@ export const repPrs = {
       ],
       "15": [
          {
-            "id": "17aefa9a-9582-49f3-b4b5-9e786156e83a",
+            "id": "d1731759-493d-4776-8cdb-d1ab68883e72",
+            "inferredDate": "2017-09-16",
+            "weekStartDate": "2017-09-10",
             "week": 106,
             "day": 4,
             "exercise": "ez bar reverse preacher curls",
@@ -20924,7 +26777,9 @@ export const repPrs = {
       ],
       "20": [
          {
-            "id": "29bbd68e-07aa-4bdd-942f-abf149eb6fa0",
+            "id": "500a06b8-7f3d-4871-955e-4eb1800d7662",
+            "inferredDate": "2018-11-02",
+            "weekStartDate": "2018-10-27",
             "week": 141,
             "day": 4,
             "exercise": "ez bar reverse preacher curls",
@@ -20942,7 +26797,9 @@ export const repPrs = {
       ],
       "25": [
          {
-            "id": "9680d28c-14a3-49e6-ab90-b7009411d322",
+            "id": "574ee0f7-fa1f-40a1-ba42-7b0ff2e7f3e6",
+            "inferredDate": "2017-02-10",
+            "weekStartDate": "2017-02-04",
             "week": 73,
             "day": 4,
             "exercise": "ez bar reverse preacher curls",
@@ -20962,7 +26819,9 @@ export const repPrs = {
    "smith machine squats 1.5s": {
       "8": [
          {
-            "id": "b238ac0e-d85e-4e99-8edb-b9cf0853eac5",
+            "id": "2caf4c72-7ffd-44c1-a6a3-6f5653a8cfe8",
+            "inferredDate": "2017-02-13",
+            "weekStartDate": "2017-02-11",
             "week": 74,
             "day": 1,
             "exercise": "smith machine squats 1.5s",
@@ -20982,7 +26841,9 @@ export const repPrs = {
    "ab wheel": {
       "4": [
          {
-            "id": "89f62ad7-cca5-4f7e-a3d4-57eab3b34f4b",
+            "id": "d31b32d5-3f3b-4152-a0f3-7f6e58368a51",
+            "inferredDate": "2017-05-11",
+            "weekStartDate": "2017-05-06",
             "week": 87,
             "day": 3,
             "exercise": "ab wheel",
@@ -21000,12 +26861,14 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "c626cb9c-9e6b-4fab-b3db-92a0c8083c8e",
+            "id": "8651539d-7368-4766-aacc-c1f0ff2ab09e",
+            "inferredDate": "2017-02-16",
+            "weekStartDate": "2017-02-11",
             "week": 74,
             "day": 3,
             "exercise": "ab wheel",
             "originalExerciseName": "Ab Wheel",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "",
             "weight": 0,
@@ -21020,12 +26883,14 @@ export const repPrs = {
    "straight bar curls": {
       "8": [
          {
-            "id": "1dc9627c-d61b-4e08-8459-5142d34cefc5",
+            "id": "531483dd-d3ca-46db-9e8c-2ed32aff1839",
+            "inferredDate": "2017-02-17",
+            "weekStartDate": "2017-02-11",
             "week": 74,
             "day": 4,
             "exercise": "straight bar curls",
             "originalExerciseName": "Straight Bar Curls",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 8,
             "instructions": "",
             "weight": 90,
@@ -21040,12 +26905,14 @@ export const repPrs = {
    "preacher curls": {
       "6": [
          {
-            "id": "ec2334c1-607f-47ba-a1f3-34a2dbe91b86",
+            "id": "13148714-37a5-4e7e-aff7-56878b11bf4c",
+            "inferredDate": "2017-02-17",
+            "weekStartDate": "2017-02-11",
             "week": 74,
             "day": 4,
             "exercise": "preacher curls",
             "originalExerciseName": "Preacher Curls",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 6,
             "instructions": "",
             "weight": 60,
@@ -21058,7 +26925,9 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "0dedec6a-0018-4ed2-bf62-47346cecbbb2",
+            "id": "daf4c771-0fba-46c2-bf56-31f9c3f30f58",
+            "inferredDate": "2018-01-20",
+            "weekStartDate": "2018-01-14",
             "week": 124,
             "day": 4,
             "exercise": "preacher curls",
@@ -21076,7 +26945,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "c3b95a5b-e2a7-43a7-a681-0136563abf0d",
+            "id": "59bc1ddc-84d0-4280-b4fa-d3f79a58cfa7",
+            "inferredDate": "2018-09-14",
+            "weekStartDate": "2018-09-08",
             "week": 134,
             "day": 4,
             "exercise": "preacher curls",
@@ -21091,17 +26962,57 @@ export const repPrs = {
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
          }
+      ],
+      "12": [
+         {
+            "id": "9ecb6265-1cb2-4b07-8ffe-93d4b012cc82",
+            "inferredDate": "2019-03-29",
+            "weekStartDate": "2019-03-23",
+            "week": 162,
+            "day": 4,
+            "exercise": "preacher curls",
+            "originalExerciseName": "Preacher Curls",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 50,
+            "notes": "had to go light to get a bigger ROM that didn’t also hurt my forearm.",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "a3f1f06a-b8cd-458a-8d52-29a731721a58",
+            "inferredDate": "2019-06-14",
+            "weekStartDate": "2019-06-08",
+            "week": 172,
+            "day": 4,
+            "exercise": "preacher curls",
+            "originalExerciseName": "Preacher Curls",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 70,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
       ]
    },
    "single leg db romanian deadlift": {
       "6": [
          {
-            "id": "80261890-2977-461f-a429-80c5ffe238b0",
+            "id": "5c962325-fb0c-4af8-bea7-83bd5d901608",
+            "inferredDate": "2017-03-30",
+            "weekStartDate": "2017-03-25",
             "week": 80,
             "day": 3,
             "exercise": "single leg db romanian deadlift",
             "originalExerciseName": "Single Legged DB RDLs",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 6,
             "instructions": "",
             "weight": 50,
@@ -21114,12 +27025,14 @@ export const repPrs = {
       ],
       "8": [
          {
-            "id": "278af177-0280-4b68-8e14-5298bb96143f",
+            "id": "b1ebf035-958a-4db7-a615-8cbb3f02097e",
+            "inferredDate": "2017-03-16",
+            "weekStartDate": "2017-03-11",
             "week": 78,
             "day": 3,
             "exercise": "single leg db romanian deadlift",
             "originalExerciseName": "Single Legged DB RDLs",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 8,
             "instructions": "",
             "weight": 50,
@@ -21130,12 +27043,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "0261ef10-9a95-4383-aa72-93a34ec0d3aa",
+            "id": "2b95648d-4854-455c-b564-08601f8c6b12",
+            "inferredDate": "2017-04-24",
+            "weekStartDate": "2017-04-22",
             "week": 85,
             "day": 1,
             "exercise": "single leg db romanian deadlift",
             "originalExerciseName": "Single Legged DB RDLs",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 8,
             "instructions": "",
             "weight": 55,
@@ -21148,12 +27063,14 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "a3d871d9-181c-4a32-a537-ac331223cc3b",
+            "id": "ae2a3b93-2c1a-4840-8174-32a87de4c405",
+            "inferredDate": "2017-02-20",
+            "weekStartDate": "2017-02-18",
             "week": 75,
             "day": 1,
             "exercise": "single leg db romanian deadlift",
             "originalExerciseName": "Single Legged DB RDLs",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "",
             "weight": 50,
@@ -21164,7 +27081,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "4666c5f0-26a6-4e5a-b87f-3a826c72d7ae",
+            "id": "b2e60272-0166-4491-b8d6-a3c788a99d3e",
+            "inferredDate": "2017-12-19",
+            "weekStartDate": "2017-12-17",
             "week": 120,
             "day": 1,
             "exercise": "single leg db romanian deadlift",
@@ -21182,7 +27101,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "502d64c1-db4a-44ed-be59-1bb0aa27c35f",
+            "id": "f33cb52f-4db5-45d6-a5ab-588e4d7306e9",
+            "inferredDate": "2017-03-09",
+            "weekStartDate": "2017-03-04",
             "week": 77,
             "day": 3,
             "exercise": "single leg db romanian deadlift",
@@ -21202,7 +27123,9 @@ export const repPrs = {
    "db lateral raise": {
       "8": [
          {
-            "id": "3b1f1ecf-bc59-44f7-8146-57b0447e3a6d",
+            "id": "71c15d68-4667-4173-a3c1-a8a5e9477aab",
+            "inferredDate": "2017-02-24",
+            "weekStartDate": "2017-02-18",
             "week": 75,
             "day": 4,
             "exercise": "db lateral raise",
@@ -21220,7 +27143,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "fb622755-9f9e-4528-8818-de0c081536ef",
+            "id": "cba8fe6b-e3cf-45fb-bbb5-f7575a17b391",
+            "inferredDate": "2017-09-13",
+            "weekStartDate": "2017-09-10",
             "week": 106,
             "day": 2,
             "exercise": "db lateral raise",
@@ -21238,7 +27163,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "99084a30-9a4c-4bd3-aa9c-d57808198b32",
+            "id": "31f55396-b66a-469b-a140-3e6cc02063d5",
+            "inferredDate": "2017-07-25",
+            "weekStartDate": "2017-07-22",
             "week": 98,
             "day": 2,
             "exercise": "db lateral raise",
@@ -21254,7 +27181,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "b5b3fd53-fba4-4c4f-834b-6b3a43a86d1e",
+            "id": "9eb73302-4786-4f81-b6c7-a5edf8620a1d",
+            "inferredDate": "2017-09-27",
+            "weekStartDate": "2017-09-24",
             "week": 108,
             "day": 2,
             "exercise": "db lateral raise",
@@ -21270,7 +27199,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "ce6539da-8e88-4f5b-aa0f-ce309441594e",
+            "id": "e8352ad8-bbd5-46d2-8d53-b5a8fd094638",
+            "inferredDate": "2018-11-20",
+            "weekStartDate": "2018-11-17",
             "week": 144,
             "day": 2,
             "exercise": "db lateral raise",
@@ -21286,9 +27217,49 @@ export const repPrs = {
             "dropSetId": ""
          }
       ],
+      "15": [
+         {
+            "id": "a8a6e4ef-9cae-4d4c-bb44-d408a5ddb69a",
+            "inferredDate": "2019-04-09",
+            "weekStartDate": "2019-04-06",
+            "week": 164,
+            "day": 2,
+            "exercise": "db lateral raise",
+            "originalExerciseName": "DB laterals",
+            "setNumber": 1,
+            "reps": 15,
+            "instructions": "",
+            "weight": 25,
+            "notes": "no lateral machine at this location, but forearm felt ok doing DB laterals with a thumbs up grip",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "0ebab36a-380b-4e66-8c04-cd80961a198c",
+            "inferredDate": "2019-04-30",
+            "weekStartDate": "2019-04-27",
+            "week": 167,
+            "day": 2,
+            "exercise": "db lateral raise",
+            "originalExerciseName": "DB laterals",
+            "setNumber": 1,
+            "reps": 15,
+            "instructions": "",
+            "weight": 30,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
       "20": [
          {
-            "id": "f28d745f-0cfb-46d9-bb53-048bb5510c60",
+            "id": "0f090044-cc94-4d81-8440-a1bef8eb88db",
+            "inferredDate": "2017-11-08",
+            "weekStartDate": "2017-11-05",
             "week": 114,
             "day": 2,
             "exercise": "db lateral raise",
@@ -21301,12 +27272,14 @@ export const repPrs = {
             "supersetId": "",
             "anomalous": "",
             "strategyUsed": "dropSetStrategy",
-            "dropSetId": "03ea7fba-0803-4966-a8cf-ea029b0b587b"
+            "dropSetId": "7890bd49-b3b7-4541-9b8f-8082d8c6e638"
          }
       ],
       "30": [
          {
-            "id": "45a1ae46-35b3-43c1-9557-96bfe8c93c12",
+            "id": "0759127b-161c-4f65-968d-e5ca31501c19",
+            "inferredDate": "2017-10-25",
+            "weekStartDate": "2017-10-22",
             "week": 112,
             "day": 2,
             "exercise": "db lateral raise",
@@ -21323,48 +27296,12 @@ export const repPrs = {
          }
       ]
    },
-   "palms up db curls": {
-      "8": [
-         {
-            "id": "a0e76ae7-e182-4b38-aa9e-1086da40bece",
-            "week": 75,
-            "day": 4,
-            "exercise": "palms up db curls",
-            "originalExerciseName": "Palms Up DB Curls",
-            "setNumber": 3,
-            "reps": 8,
-            "instructions": "",
-            "weight": 35,
-            "notes": "Maybe could have done 40s",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         }
-      ],
-      "10": [
-         {
-            "id": "226f441d-1019-4b0f-aafa-08dca9ca9e20",
-            "week": 154,
-            "day": 4,
-            "exercise": "palms up db curls",
-            "originalExerciseName": "Palms Up DB Curls",
-            "setNumber": 1,
-            "reps": 10,
-            "instructions": "",
-            "weight": 35,
-            "notes": "",
-            "supersetId": "",
-            "anomalous": "",
-            "strategyUsed": "straightSetStrategy",
-            "dropSetId": ""
-         }
-      ]
-   },
    "barbell front raises": {
       "10": [
          {
-            "id": "274172f7-b142-46f6-82b9-e541f01a12cb",
+            "id": "2f2b37bf-deab-4528-b2ee-e24e18c1cf12",
+            "inferredDate": "2017-02-24",
+            "weekStartDate": "2017-02-18",
             "week": 75,
             "day": 4,
             "exercise": "barbell front raises",
@@ -21382,7 +27319,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "cb3202ea-1d4c-44c9-8662-f4eeea01830f",
+            "id": "a262bb42-f634-4a9c-a070-9a03a2349c20",
+            "inferredDate": "2017-07-11",
+            "weekStartDate": "2017-07-08",
             "week": 96,
             "day": 2,
             "exercise": "barbell front raises",
@@ -21398,7 +27337,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "7fa41e1c-bcdd-40a9-99a5-473cbb86376a",
+            "id": "950442e9-f457-4fc2-971c-b453e9a4081e",
+            "inferredDate": "2018-08-15",
+            "weekStartDate": "2018-08-11",
             "week": 130,
             "day": 2,
             "exercise": "barbell front raises",
@@ -21416,12 +27357,14 @@ export const repPrs = {
       ],
       "15": [
          {
-            "id": "cf23663b-de31-44a4-ac6e-4103b34744cb",
+            "id": "e38f0c95-5455-4ce5-b4e6-99d5eb4f5882",
+            "inferredDate": "2018-07-17",
+            "weekStartDate": "2018-07-14",
             "week": 126,
             "day": 2,
             "exercise": "barbell front raises",
             "originalExerciseName": "Barbell Front Raises",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 15,
             "instructions": "Raise All the way overhead",
             "weight": 40,
@@ -21433,15 +27376,59 @@ export const repPrs = {
          }
       ]
    },
+   "palms up db curls": {
+      "8": [
+         {
+            "id": "7c8329a5-a387-4085-9623-ea0a87c08893",
+            "inferredDate": "2017-02-24",
+            "weekStartDate": "2017-02-18",
+            "week": 75,
+            "day": 4,
+            "exercise": "palms up db curls",
+            "originalExerciseName": "Palms Up DB Curls",
+            "setNumber": 1,
+            "reps": 8,
+            "instructions": "",
+            "weight": 35,
+            "notes": "Maybe could have done 40s",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "10": [
+         {
+            "id": "8a128669-668e-4dfd-966e-15795a26a317",
+            "inferredDate": "2019-02-01",
+            "weekStartDate": "2019-01-26",
+            "week": 154,
+            "day": 4,
+            "exercise": "palms up db curls",
+            "originalExerciseName": "Palms Up DB Curls",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "",
+            "weight": 35,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ]
+   },
    "z press": {
       "3": [
          {
-            "id": "850add07-32be-4641-a2a1-9b30d91684a9",
+            "id": "810ed1de-f301-4bd4-bedd-d0797b9ebead",
+            "inferredDate": "2017-03-31",
+            "weekStartDate": "2017-03-25",
             "week": 80,
             "day": 4,
             "exercise": "z press",
             "originalExerciseName": "Z Press",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 3,
             "instructions": "",
             "weight": 155,
@@ -21454,12 +27441,14 @@ export const repPrs = {
       ],
       "5": [
          {
-            "id": "37384016-531e-45c7-a4ec-304b9ca8337b",
+            "id": "7bd086af-be10-4437-927e-2800e039db32",
+            "inferredDate": "2017-03-17",
+            "weekStartDate": "2017-03-11",
             "week": 78,
             "day": 4,
             "exercise": "z press",
             "originalExerciseName": "Z Press",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 5,
             "instructions": "",
             "weight": 145,
@@ -21472,7 +27461,9 @@ export const repPrs = {
       ],
       "6": [
          {
-            "id": "557030df-d627-4986-9a7f-a224c1fd3665",
+            "id": "e952a7f5-d9c1-463f-a747-97ea1dbd5042",
+            "inferredDate": "2017-03-10",
+            "weekStartDate": "2017-03-04",
             "week": 77,
             "day": 4,
             "exercise": "z press",
@@ -21488,7 +27479,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "13178262-64e2-4d6e-ac46-edcbb306ba41",
+            "id": "d906eaa4-e53f-4d58-be43-839d20b8faf7",
+            "inferredDate": "2017-04-07",
+            "weekStartDate": "2017-04-01",
             "week": 81,
             "day": 4,
             "exercise": "z press",
@@ -21508,7 +27501,9 @@ export const repPrs = {
    "seated db curls": {
       "8": [
          {
-            "id": "b42e34c5-020a-4e4c-8e7f-6a6bd45d91c3",
+            "id": "66b8c8b6-6e57-4f3a-8d8c-a73a5544fde9",
+            "inferredDate": "2017-03-17",
+            "weekStartDate": "2017-03-11",
             "week": 78,
             "day": 4,
             "exercise": "seated db curls",
@@ -21526,7 +27521,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "f1f2f39b-93f5-4541-9d78-94ce63010df2",
+            "id": "5eb9042c-18be-4e04-ba12-e652c6ca1234",
+            "inferredDate": "2017-11-18",
+            "weekStartDate": "2017-11-12",
             "week": 115,
             "day": 4,
             "exercise": "seated db curls",
@@ -21542,7 +27539,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "0e0fad01-67fd-4a5a-8ffc-7f9d21ea17bd",
+            "id": "70c6b7fe-8112-4631-b513-c82667c81ae1",
+            "inferredDate": "2017-12-23",
+            "weekStartDate": "2017-12-17",
             "week": 120,
             "day": 4,
             "exercise": "seated db curls",
@@ -21558,7 +27557,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "e6aecbf1-aa73-4f37-bfee-a7d76094f1d6",
+            "id": "b2b32a6c-afee-4f40-9116-7ee1d6451215",
+            "inferredDate": "2018-11-23",
+            "weekStartDate": "2018-11-17",
             "week": 144,
             "day": 4,
             "exercise": "seated db curls",
@@ -21574,7 +27575,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "901b56f2-b586-4ac1-95e4-1a5f3a8a79e6",
+            "id": "e3b0909c-4a0f-48f6-b64f-233a10654fb9",
+            "inferredDate": "2018-11-23",
+            "weekStartDate": "2018-11-17",
             "week": 144,
             "day": 4,
             "exercise": "seated db curls",
@@ -21589,12 +27592,72 @@ export const repPrs = {
             "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
          }
+      ],
+      "12": [
+         {
+            "id": "6833e8b9-2bbe-416a-8996-d3c45f78d88c",
+            "inferredDate": "2019-05-31",
+            "weekStartDate": "2019-05-25",
+            "week": 171,
+            "day": 4,
+            "exercise": "seated db curls",
+            "originalExerciseName": "Seated DB Curls",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 35,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "43c9b1e2-86fc-4412-b95a-df0d3a9ff3c5",
+            "inferredDate": "2019-12-16",
+            "weekStartDate": "2019-12-14",
+            "week": 199,
+            "day": 1,
+            "exercise": "seated db curls",
+            "originalExerciseName": "Reverse Grip Straight Bar Curls",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 65,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "15": [
+         {
+            "id": "79a26b48-02d6-495c-b435-eb20ef161e31",
+            "inferredDate": "2019-12-24",
+            "weekStartDate": "2019-12-21",
+            "week": 200,
+            "day": 2,
+            "exercise": "seated db curls",
+            "originalExerciseName": "Seated DB Curls",
+            "setNumber": 1,
+            "reps": 15,
+            "instructions": "",
+            "weight": 25,
+            "notes": "laziness. Could use 35s for 3x10, but bumped volume instead",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
       ]
    },
    "one arm behind the back cable lateral": {
       "12": [
          {
-            "id": "8390911f-3434-4368-92e9-b44a8a006b5f",
+            "id": "b7beca1f-4b58-4055-91ab-0ee1c0058a9d",
+            "inferredDate": "2017-05-02",
+            "weekStartDate": "2017-04-29",
             "week": 86,
             "day": 2,
             "exercise": "one arm behind the back cable lateral",
@@ -21614,7 +27677,9 @@ export const repPrs = {
    "seated one arm db laterals": {
       "10": [
          {
-            "id": "bda47f45-5061-46de-9feb-68534bca9441",
+            "id": "107eb500-cf0f-4099-83b3-5d06e451de43",
+            "inferredDate": "2017-05-16",
+            "weekStartDate": "2017-05-13",
             "week": 88,
             "day": 2,
             "exercise": "seated one arm db laterals",
@@ -21630,7 +27695,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "8ecbc40a-7477-4db7-a246-1b9573807c5b",
+            "id": "2d2e80e9-9201-4bf4-bcc2-24b7c699a7d9",
+            "inferredDate": "2017-08-30",
+            "weekStartDate": "2017-08-27",
             "week": 104,
             "day": 2,
             "exercise": "seated one arm db laterals",
@@ -21648,7 +27715,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "a1f6bcb1-92f6-4dfd-b8cb-99e0df6b6be2",
+            "id": "4df91ca9-7cb6-427c-8efe-142653ddf5a1",
+            "inferredDate": "2017-07-18",
+            "weekStartDate": "2017-07-15",
             "week": 97,
             "day": 2,
             "exercise": "seated one arm db laterals",
@@ -21664,7 +27733,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "c232fef0-1d8e-49b5-9c9f-7206275d7e94",
+            "id": "c19b46a2-bc76-448b-b248-3944883d524e",
+            "inferredDate": "2017-12-27",
+            "weekStartDate": "2017-12-24",
             "week": 121,
             "day": 2,
             "exercise": "seated one arm db laterals",
@@ -21680,7 +27751,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "99909898-c0c0-4a06-bb0f-54ca4c5f336f",
+            "id": "94bf8c63-330d-42ef-9eba-bb5431084c99",
+            "inferredDate": "2018-09-18",
+            "weekStartDate": "2018-09-15",
             "week": 135,
             "day": 2,
             "exercise": "seated one arm db laterals",
@@ -21698,7 +27771,9 @@ export const repPrs = {
       ],
       "30": [
          {
-            "id": "4a5c64b0-6134-417d-bc93-ce9f1b4e8964",
+            "id": "2628ca3a-a343-4f27-be18-b3a3eac72640",
+            "inferredDate": "2017-05-09",
+            "weekStartDate": "2017-05-06",
             "week": 87,
             "day": 2,
             "exercise": "seated one arm db laterals",
@@ -21718,7 +27793,9 @@ export const repPrs = {
    "single arm cable row": {
       "8": [
          {
-            "id": "1560a6e1-5cc5-4c6d-b9ae-e7ba21667c5e",
+            "id": "ddb15c32-17ea-493e-b9f2-20711e9566e3",
+            "inferredDate": "2019-01-17",
+            "weekStartDate": "2019-01-12",
             "week": 152,
             "day": 3,
             "exercise": "single arm cable row",
@@ -21736,7 +27813,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "4b8f4a6a-8755-48f9-bd34-20994fae3b1f",
+            "id": "aa58c592-9e0d-4119-ab7a-575f5921a8b8",
+            "inferredDate": "2018-01-19",
+            "weekStartDate": "2018-01-14",
             "week": 124,
             "day": 3,
             "exercise": "single arm cable row",
@@ -21752,7 +27831,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "134dc422-dc7f-4664-95be-ed770d2c695f",
+            "id": "2f369e48-99be-469b-b073-5ee28844e5ba",
+            "inferredDate": "2018-07-12",
+            "weekStartDate": "2018-07-07",
             "week": 125,
             "day": 3,
             "exercise": "single arm cable row",
@@ -21770,7 +27851,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "af02be70-f360-4309-9936-6c33ed597caf",
+            "id": "0925b8fc-d390-4178-8a89-55c9319d8d31",
+            "inferredDate": "2017-06-08",
+            "weekStartDate": "2017-06-03",
             "week": 91,
             "day": 3,
             "exercise": "single arm cable row",
@@ -21786,7 +27869,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "a427e45f-5543-4814-b7d8-ca44a9f0ab87",
+            "id": "565440f5-102b-4797-a928-a977f8be4255",
+            "inferredDate": "2018-12-20",
+            "weekStartDate": "2018-12-15",
             "week": 148,
             "day": 3,
             "exercise": "single arm cable row",
@@ -21802,15 +27887,35 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "0ec33032-4cc9-4ac1-ab59-566dd2f9bf19",
+            "id": "7d5813e6-7937-4144-845a-8183c4b1959a",
+            "inferredDate": "2019-03-07",
+            "weekStartDate": "2019-03-02",
             "week": 159,
             "day": 3,
             "exercise": "single arm cable row",
             "originalExerciseName": "Single Arm Cable Rows",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 99,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "cb5273c9-64f3-4b8b-be8b-99284b4e3747",
+            "inferredDate": "2019-04-04",
+            "weekStartDate": "2019-03-30",
+            "week": 163,
+            "day": 3,
+            "exercise": "single arm cable row",
+            "originalExerciseName": "Single Arm Cable Rows",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 100,
             "notes": "",
             "supersetId": "",
             "anomalous": "",
@@ -21822,7 +27927,9 @@ export const repPrs = {
    "single leg extensions": {
       "10": [
          {
-            "id": "1a4c6de0-c962-4ed5-b6cf-dcf7b6e662c5",
+            "id": "19464b66-6169-455d-9193-8fdd37c3417a",
+            "inferredDate": "2017-06-19",
+            "weekStartDate": "2017-06-17",
             "week": 93,
             "day": 1,
             "exercise": "single leg extensions",
@@ -21842,7 +27949,9 @@ export const repPrs = {
    "wide grip btn lat pulldowns": {
       "8": [
          {
-            "id": "9437286b-ed74-4d8d-b20e-11642409c236",
+            "id": "d090b630-93fd-497c-8c7a-fdea58d3d81e",
+            "inferredDate": "2017-06-22",
+            "weekStartDate": "2017-06-17",
             "week": 93,
             "day": 3,
             "exercise": "wide grip btn lat pulldowns",
@@ -21862,7 +27971,9 @@ export const repPrs = {
    "ez bar palms up pressdowns,": {
       "12": [
          {
-            "id": "29e9d7af-1687-4790-b945-cba34a822e71",
+            "id": "200df1f2-913c-49f4-b08c-b4abe2c82a7c",
+            "inferredDate": "2017-07-04",
+            "weekStartDate": "2017-07-01",
             "week": 95,
             "day": 2,
             "exercise": "ez bar palms up pressdowns,",
@@ -21880,7 +27991,9 @@ export const repPrs = {
       ],
       "15": [
          {
-            "id": "96492b0d-518c-495f-a98d-9d1edcda6562",
+            "id": "ea614621-8d30-407d-a334-a9a4bad03fe2",
+            "inferredDate": "2017-09-02",
+            "weekStartDate": "2017-08-27",
             "week": 104,
             "day": 4,
             "exercise": "ez bar palms up pressdowns,",
@@ -21896,12 +28009,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "6203dbc0-9778-451b-8207-0dc8d8791a90",
+            "id": "a676617b-2662-4134-8541-81c8c8aa8312",
+            "inferredDate": "2017-11-11",
+            "weekStartDate": "2017-11-05",
             "week": 114,
             "day": 4,
             "exercise": "ez bar palms up pressdowns,",
             "originalExerciseName": "Palms Up EZ Bar Pressdowns",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 15,
             "instructions": "",
             "weight": 42.5,
@@ -21912,7 +28027,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "d5d75295-7b24-46e7-86a5-b18c3a39863a",
+            "id": "7e8eb1f0-746c-48b2-a99a-4289cd44ed97",
+            "inferredDate": "2017-11-25",
+            "weekStartDate": "2017-11-19",
             "week": 116,
             "day": 4,
             "exercise": "ez bar palms up pressdowns,",
@@ -21932,7 +28049,9 @@ export const repPrs = {
    "neutral grip pullups": {
       "8": [
          {
-            "id": "4e299044-670f-4163-8e54-61561d19037e",
+            "id": "7e015804-b4d0-4c40-a397-f77b86204f76",
+            "inferredDate": "2017-07-06",
+            "weekStartDate": "2017-07-01",
             "week": 95,
             "day": 3,
             "exercise": "neutral grip pullups",
@@ -21952,7 +28071,9 @@ export const repPrs = {
    "straight arm pulldowns": {
       "12": [
          {
-            "id": "5fb957b0-c0a9-4ccd-8b19-7baaaa523e7f",
+            "id": "f88600a5-b3a8-4463-bd47-73b1db5899c3",
+            "inferredDate": "2017-07-06",
+            "weekStartDate": "2017-07-01",
             "week": 95,
             "day": 3,
             "exercise": "straight arm pulldowns",
@@ -21972,7 +28093,9 @@ export const repPrs = {
    "skull crushers": {
       "10": [
          {
-            "id": "227d7b86-6157-49cf-af20-4554ec8d6e67",
+            "id": "fac4cbf7-9dce-42e1-9b2e-01274f875724",
+            "inferredDate": "2017-07-07",
+            "weekStartDate": "2017-07-01",
             "week": 95,
             "day": 4,
             "exercise": "skull crushers",
@@ -21990,7 +28113,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "c4ef8386-467f-439b-9e06-7a8fc4ff90a6",
+            "id": "be4756dd-6b17-4ad8-9ece-f3cbaca0c6bc",
+            "inferredDate": "2017-12-09",
+            "weekStartDate": "2017-12-03",
             "week": 118,
             "day": 4,
             "exercise": "skull crushers",
@@ -22006,7 +28131,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "fa662c8a-728e-48cc-9a51-83e4222c8e4f",
+            "id": "7ddfb54c-6d98-4607-b3a3-8587aa8afd4b",
+            "inferredDate": "2019-01-04",
+            "weekStartDate": "2018-12-29",
             "week": 150,
             "day": 4,
             "exercise": "skull crushers",
@@ -22020,18 +28147,38 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "070d054b-2a7f-496a-8393-5471e058fafc",
+            "inferredDate": "2019-05-31",
+            "weekStartDate": "2019-05-25",
+            "week": 171,
+            "day": 4,
+            "exercise": "skull crushers",
+            "originalExerciseName": "Skull Crushers",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 100,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ]
    },
    "single leg seated hamstring curls": {
       "10": [
          {
-            "id": "38a649df-1bef-4452-ba20-ad4f59962c53",
+            "id": "f973985d-cb9c-4404-a3b8-90c12a6a5024",
+            "inferredDate": "2017-07-10",
+            "weekStartDate": "2017-07-08",
             "week": 96,
             "day": 1,
             "exercise": "single leg seated hamstring curls",
             "originalExerciseName": "Single Leg Hamstrings Curls",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "do 10 each leg then do 10 both legs for each set",
             "weight": 50,
@@ -22044,12 +28191,14 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "b9d442c9-9f36-47e4-a9c5-e65a7e68f3fd",
+            "id": "7b9ec491-9730-4699-9920-ea76770a54c6",
+            "inferredDate": "2018-12-17",
+            "weekStartDate": "2018-12-15",
             "week": 148,
             "day": 1,
             "exercise": "single leg seated hamstring curls",
             "originalExerciseName": "Single Legged Hamstrings Curls",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "Just alternate back and forth no true rest",
             "weight": 60,
@@ -22064,7 +28213,9 @@ export const repPrs = {
    "hammer strength pulldowns": {
       "8": [
          {
-            "id": "bf59d061-5f15-488d-b577-655974508ece",
+            "id": "734319a0-9fa5-43aa-9ad2-edad079568b5",
+            "inferredDate": "2017-07-13",
+            "weekStartDate": "2017-07-08",
             "week": 96,
             "day": 3,
             "exercise": "hammer strength pulldowns",
@@ -22084,7 +28235,9 @@ export const repPrs = {
    "preacher reverse curls": {
       "20": [
          {
-            "id": "f580d5a3-5c6c-4677-8771-8418111aff62",
+            "id": "9156e266-3d75-4873-bdba-3ca3ba162052",
+            "inferredDate": "2017-07-14",
+            "weekStartDate": "2017-07-08",
             "week": 96,
             "day": 4,
             "exercise": "preacher reverse curls",
@@ -22104,7 +28257,9 @@ export const repPrs = {
    "pronated db kickbacks": {
       "12": [
          {
-            "id": "47ccaf23-63d5-4be9-be2a-bf9858958cad",
+            "id": "1479a787-a02f-469a-8af3-dcbcf1404932",
+            "inferredDate": "2017-07-21",
+            "weekStartDate": "2017-07-15",
             "week": 97,
             "day": 4,
             "exercise": "pronated db kickbacks",
@@ -22124,7 +28279,9 @@ export const repPrs = {
    "cable rope hammer curls": {
       "8": [
          {
-            "id": "4b35c3c6-c34c-4a8c-94b9-6b12d5b2f6ad",
+            "id": "eba3ec4c-6b99-46ef-8cfc-7daacb838ce0",
+            "inferredDate": "2017-07-21",
+            "weekStartDate": "2017-07-15",
             "week": 97,
             "day": 4,
             "exercise": "cable rope hammer curls",
@@ -22139,17 +28296,39 @@ export const repPrs = {
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
          }
+      ],
+      "12": [
+         {
+            "id": "33b48db4-487c-4625-86f4-3cb25fa93d6a",
+            "inferredDate": "2019-05-03",
+            "weekStartDate": "2019-04-27",
+            "week": 167,
+            "day": 4,
+            "exercise": "cable rope hammer curls",
+            "originalExerciseName": "Cable Rope Hammer Curls",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 44,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
       ]
    },
    "forward facing hack squats": {
       "8": [
          {
-            "id": "db9e7be3-7572-47f4-b86e-38395b2f4b58",
+            "id": "9c934341-0cd8-453b-b407-b861e9edffe7",
+            "inferredDate": "2017-07-24",
+            "weekStartDate": "2017-07-22",
             "week": 98,
             "day": 1,
             "exercise": "forward facing hack squats",
             "originalExerciseName": "Forward Facing Hack Squats",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 8,
             "instructions": "",
             "weight": 270,
@@ -22162,7 +28341,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "4824ad7d-a129-4123-a7a2-0fe4c601c4a3",
+            "id": "e583653c-ea2c-4366-81e6-5738ec903377",
+            "inferredDate": "2018-10-08",
+            "weekStartDate": "2018-10-06",
             "week": 138,
             "day": 1,
             "exercise": "forward facing hack squats",
@@ -22182,7 +28363,9 @@ export const repPrs = {
    "chest supported rows": {
       "8": [
          {
-            "id": "30dee609-f87a-4f2b-bb54-15067a545f75",
+            "id": "8f73e4aa-cfb0-4b47-9f4f-3ed14077397c",
+            "inferredDate": "2017-07-27",
+            "weekStartDate": "2017-07-22",
             "week": 98,
             "day": 3,
             "exercise": "chest supported rows",
@@ -22198,12 +28381,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "2401531e-06cd-4069-a787-16475e8b77b5",
+            "id": "0d790292-8b52-4461-a733-5bb3ae878d50",
+            "inferredDate": "2017-08-18",
+            "weekStartDate": "2017-08-13",
             "week": 101,
             "day": 3,
             "exercise": "chest supported rows",
             "originalExerciseName": "Hammer Strength Rows",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 8,
             "instructions": "",
             "weight": 230,
@@ -22216,9 +28401,89 @@ export const repPrs = {
       ]
    },
    "db flyes": {
+      "1": [
+         {
+            "id": "fbb0d99c-5464-44a6-b555-e98a17f9f6eb",
+            "inferredDate": "2020-04-14",
+            "weekStartDate": "2020-04-11",
+            "week": 216,
+            "day": 2,
+            "exercise": "db flyes",
+            "originalExerciseName": "crucifix holds",
+            "setNumber": 1,
+            "reps": 1,
+            "instructions": "Go for 60 seconds ",
+            "weight": 15,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "8": [
+         {
+            "id": "9277df55-0f73-4830-921d-18f000e21043",
+            "inferredDate": "2020-03-25",
+            "weekStartDate": "2020-03-21",
+            "week": 213,
+            "day": 3,
+            "exercise": "db flyes",
+            "originalExerciseName": "Bent over lateral raise",
+            "setNumber": 1,
+            "reps": 8,
+            "instructions": "",
+            "weight": 25,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "6a8386a5-18a7-48e5-8021-d926d7d72fb3",
+            "inferredDate": "2020-03-25",
+            "weekStartDate": "2020-03-21",
+            "week": 213,
+            "day": 3,
+            "exercise": "db flyes",
+            "originalExerciseName": "Decline Barbell Face Pull",
+            "setNumber": 1,
+            "reps": 8,
+            "instructions": "",
+            "weight": 45,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "10": [
+         {
+            "id": "5cf69e85-5d27-4fff-a01f-7ae055d4d62a",
+            "inferredDate": "2020-03-25",
+            "weekStartDate": "2020-03-21",
+            "week": 213,
+            "day": 3,
+            "exercise": "db flyes",
+            "originalExerciseName": "Upright row ",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "",
+            "weight": 75,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
       "12": [
          {
-            "id": "696d912e-58d4-45fe-acd4-5ed0c5d9170a",
+            "id": "0f121892-f846-40a9-bee9-816783dc7892",
+            "inferredDate": "2017-07-28",
+            "weekStartDate": "2017-07-22",
             "week": 98,
             "day": 4,
             "exercise": "db flyes",
@@ -22234,7 +28499,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "bfba723f-6822-4337-bb4b-2b4ed38855f0",
+            "id": "a1c53b95-c6c3-4312-85c8-313f2d95196c",
+            "inferredDate": "2019-02-22",
+            "weekStartDate": "2019-02-16",
             "week": 157,
             "day": 4,
             "exercise": "db flyes",
@@ -22248,13 +28515,33 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "562dc3cf-9cea-4df9-b6d6-9d1adb96ab0a",
+            "inferredDate": "2020-03-31",
+            "weekStartDate": "2020-03-28",
+            "week": 214,
+            "day": 2,
+            "exercise": "db flyes",
+            "originalExerciseName": "Upright row ",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 75,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ]
    },
    "alternating db front raises": {
       "12": [
          {
-            "id": "6da86cee-ff0d-4281-af05-5a28df42f9cb",
+            "id": "2a3731be-4269-4689-b9af-5a7010916aa6",
+            "inferredDate": "2017-08-01",
+            "weekStartDate": "2017-07-29",
             "week": 99,
             "day": 2,
             "exercise": "alternating db front raises",
@@ -22274,7 +28561,9 @@ export const repPrs = {
    "barbell rows": {
       "10": [
          {
-            "id": "b963ca00-c084-48ff-968b-9df1f5f9ea24",
+            "id": "00f1ea0a-68af-450d-920a-20d967548f1c",
+            "inferredDate": "2017-08-03",
+            "weekStartDate": "2017-07-29",
             "week": 99,
             "day": 3,
             "exercise": "barbell rows",
@@ -22294,7 +28583,9 @@ export const repPrs = {
    "banded push ups": {
       "8": [
          {
-            "id": "0d7a0f52-9a7f-41bd-8ddd-008c96db704c",
+            "id": "821d21ad-6229-45bc-ae90-c0b2b2553c30",
+            "inferredDate": "2017-11-15",
+            "weekStartDate": "2017-11-12",
             "week": 115,
             "day": 2,
             "exercise": "banded push ups",
@@ -22312,12 +28603,14 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "57277af4-24bc-4e6c-a6d3-82a4bb5b21ef",
+            "id": "bf2874f6-c06b-498e-807b-38fd6a662209",
+            "inferredDate": "2017-08-04",
+            "weekStartDate": "2017-07-29",
             "week": 99,
             "day": 4,
             "exercise": "banded push ups",
             "originalExerciseName": "Banded Push Ups",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 10,
             "instructions": "",
             "weight": 0,
@@ -22332,7 +28625,9 @@ export const repPrs = {
    "db shoulder press": {
       "8": [
          {
-            "id": "acf5e63c-49f6-48ea-b229-fac0ae6fba2f",
+            "id": "54ec01fd-2464-4ac9-8917-2d698ead3dad",
+            "inferredDate": "2017-08-16",
+            "weekStartDate": "2017-08-13",
             "week": 101,
             "day": 2,
             "exercise": "db shoulder press",
@@ -22352,7 +28647,9 @@ export const repPrs = {
    "db skull crushers": {
       "8": [
          {
-            "id": "cb46cb55-9a12-45d3-8cc9-6576bd783f59",
+            "id": "03b18fd1-cd16-4d45-a83a-92cb5b7d1161",
+            "inferredDate": "2017-09-30",
+            "weekStartDate": "2017-09-24",
             "week": 108,
             "day": 4,
             "exercise": "db skull crushers",
@@ -22370,7 +28667,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "fc8c202a-5825-4eac-a654-5e88d3820155",
+            "id": "468ab5e8-4450-4ce1-9eed-f2f87fed80db",
+            "inferredDate": "2017-10-14",
+            "weekStartDate": "2017-10-08",
             "week": 110,
             "day": 4,
             "exercise": "db skull crushers",
@@ -22384,11 +28683,31 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "be068aad-fa6b-4d05-92ce-8b5513f4697d",
+            "inferredDate": "2019-09-30",
+            "weekStartDate": "2019-09-28",
+            "week": 188,
+            "day": 1,
+            "exercise": "db skull crushers",
+            "originalExerciseName": "DB Skull Crushers",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "",
+            "weight": 40,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ],
       "12": [
          {
-            "id": "3eb5d506-7f7d-4552-ac83-373fb47c646b",
+            "id": "98629711-a010-4f04-a04b-d0f8e5fc719f",
+            "inferredDate": "2017-08-19",
+            "weekStartDate": "2017-08-13",
             "week": 101,
             "day": 4,
             "exercise": "db skull crushers",
@@ -22402,13 +28721,33 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "7136d69a-71a4-4959-87ba-08fbee184936",
+            "inferredDate": "2019-05-03",
+            "weekStartDate": "2019-04-27",
+            "week": 167,
+            "day": 4,
+            "exercise": "db skull crushers",
+            "originalExerciseName": "DB Skull Crushers",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 45,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ]
    },
    "Partial reverse fly machine": {
       "10": [
          {
-            "id": "fb9ba881-3c2e-4009-af93-9f43dfadbbed",
+            "id": "f9e93456-9e10-4d3c-bf41-e3556670b00b",
+            "inferredDate": "2017-08-23",
+            "weekStartDate": "2017-08-20",
             "week": 102,
             "day": 2,
             "exercise": "Partial reverse fly machine",
@@ -22418,7 +28757,7 @@ export const repPrs = {
             "instructions": "10 full reps then 10 partials",
             "weight": 120,
             "notes": "",
-            "supersetId": "5c36de79-b0d3-44d9-8382-0b2b1836ac63",
+            "supersetId": "d19b8f12-06c8-4034-80ed-5843bc4b0708",
             "anomalous": "",
             "strategyUsed": "partialRepsStrategy",
             "dropSetId": ""
@@ -22428,7 +28767,9 @@ export const repPrs = {
    "ez bar cable rows": {
       "10": [
          {
-            "id": "ce97fc02-099a-4294-84b6-324c9189106c",
+            "id": "b1c8a512-2ad9-41b2-819f-252e8e95ea18",
+            "inferredDate": "2017-09-01",
+            "weekStartDate": "2017-08-27",
             "week": 104,
             "day": 3,
             "exercise": "ez bar cable rows",
@@ -22448,7 +28789,9 @@ export const repPrs = {
    "leg press 1.5s": {
       "8": [
          {
-            "id": "e36ef881-a9a1-4df6-8878-d140a660f4e4",
+            "id": "b20596b7-66bb-4b15-9b61-10e892e75306",
+            "inferredDate": "2017-09-05",
+            "weekStartDate": "2017-09-03",
             "week": 105,
             "day": 1,
             "exercise": "leg press 1.5s",
@@ -22468,7 +28811,9 @@ export const repPrs = {
    "incline db curls": {
       "10": [
          {
-            "id": "3e7b14e5-cdfd-46be-b39c-a58d8156d52a",
+            "id": "45561799-a482-4a1c-9c50-acba685478a8",
+            "inferredDate": "2017-09-16",
+            "weekStartDate": "2017-09-10",
             "week": 106,
             "day": 4,
             "exercise": "incline db curls",
@@ -22488,7 +28833,9 @@ export const repPrs = {
    "cable pressdowns": {
       "12": [
          {
-            "id": "641b9840-d1b2-4dea-a3a5-5e387436af99",
+            "id": "edee422b-54f6-495e-b063-ef9befab4391",
+            "inferredDate": "2017-12-23",
+            "weekStartDate": "2017-12-17",
             "week": 120,
             "day": 4,
             "exercise": "cable pressdowns",
@@ -22504,7 +28851,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "493b855a-1a42-4008-a647-610c7d3815c5",
+            "id": "7367e811-6125-48f5-9c82-d14b15056c42",
+            "inferredDate": "2018-11-23",
+            "weekStartDate": "2018-11-17",
             "week": 144,
             "day": 4,
             "exercise": "cable pressdowns",
@@ -22520,7 +28869,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "3a8e70dd-cb56-4339-9a70-65b90d189e68",
+            "id": "0d270efb-1c95-4b16-99c4-2a129e9339a0",
+            "inferredDate": "2019-02-01",
+            "weekStartDate": "2019-01-26",
             "week": 154,
             "day": 4,
             "exercise": "cable pressdowns",
@@ -22538,7 +28889,9 @@ export const repPrs = {
       ],
       "20": [
          {
-            "id": "a3ccd24b-983a-424a-a585-0ea1411a85af",
+            "id": "c7579c29-bfc0-4062-b21e-8ef23d2e331f",
+            "inferredDate": "2017-09-16",
+            "weekStartDate": "2017-09-10",
             "week": 106,
             "day": 4,
             "exercise": "cable pressdowns",
@@ -22556,7 +28909,9 @@ export const repPrs = {
       ],
       "25": [
          {
-            "id": "cea2ae94-29fb-4d51-a87d-3dddc47b51f1",
+            "id": "f1571e87-621b-46c9-86fd-a59edcdbbfc8",
+            "inferredDate": "2019-02-22",
+            "weekStartDate": "2019-02-16",
             "week": 157,
             "day": 4,
             "exercise": "cable pressdowns",
@@ -22576,7 +28931,9 @@ export const repPrs = {
    "reverse lunges": {
       "8": [
          {
-            "id": "c3b53bb1-6405-47a6-a6b9-a79e188cf86b",
+            "id": "9d43bc8e-2133-425c-91ab-6f327a94384d",
+            "inferredDate": "2017-09-19",
+            "weekStartDate": "2017-09-17",
             "week": 107,
             "day": 1,
             "exercise": "reverse lunges",
@@ -22596,7 +28953,9 @@ export const repPrs = {
    "arnold press": {
       "8": [
          {
-            "id": "82ee0ccd-b4b5-46c7-8a04-4455cafb511a",
+            "id": "dbc04d63-be26-47e2-b3a3-d78423833877",
+            "inferredDate": "2017-10-18",
+            "weekStartDate": "2017-10-15",
             "week": 111,
             "day": 2,
             "exercise": "arnold press",
@@ -22612,12 +28971,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "2776efa6-db1c-4d5d-8cc0-3e50a3215569",
+            "id": "e565864b-5661-4188-b527-f30e37527cb4",
+            "inferredDate": "2017-11-08",
+            "weekStartDate": "2017-11-05",
             "week": 114,
             "day": 2,
             "exercise": "arnold press",
             "originalExerciseName": "Arnold DB Presses",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 8,
             "instructions": "",
             "weight": 50,
@@ -22628,7 +28989,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "e598c63f-aeab-4691-83a5-50a2d54a3985",
+            "id": "3725897f-002e-479a-9e2c-cba5c2c74892",
+            "inferredDate": "2018-08-28",
+            "weekStartDate": "2018-08-25",
             "week": 132,
             "day": 2,
             "exercise": "arnold press",
@@ -22644,7 +29007,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "ab66b513-4e05-4b07-8990-8ef8aa2588c7",
+            "id": "c7556c5b-b8c7-4140-84f7-f4cc48a9f0c1",
+            "inferredDate": "2018-11-13",
+            "weekStartDate": "2018-11-10",
             "week": 143,
             "day": 2,
             "exercise": "arnold press",
@@ -22662,7 +29027,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "0e5ed8b9-9c63-4643-9fdd-e47c3bd1345b",
+            "id": "03f2af50-f6ef-47e0-9ec6-144da930a2bc",
+            "inferredDate": "2017-09-27",
+            "weekStartDate": "2017-09-24",
             "week": 108,
             "day": 2,
             "exercise": "arnold press",
@@ -22680,7 +29047,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "1157afe5-57e6-408c-8036-a0401548fe90",
+            "id": "96bab4f8-d5d0-4b67-94dd-dea0b1e16745",
+            "inferredDate": "2018-08-21",
+            "weekStartDate": "2018-08-18",
             "week": 131,
             "day": 2,
             "exercise": "arnold press",
@@ -22696,7 +29065,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "a89cf96f-e275-4b32-88d2-d78b8c9c474e",
+            "id": "b7f356ac-884e-4c7a-8912-4c88716da4b9",
+            "inferredDate": "2018-11-06",
+            "weekStartDate": "2018-11-03",
             "week": 142,
             "day": 2,
             "exercise": "arnold press",
@@ -22716,7 +29087,9 @@ export const repPrs = {
    "romanian deadlift": {
       "12": [
          {
-            "id": "e7e16d18-13f4-438c-9b1a-f7d36afb9c0d",
+            "id": "17b472dc-ae61-4da1-9d51-b2af7e82a754",
+            "inferredDate": "2017-10-06",
+            "weekStartDate": "2017-10-01",
             "week": 109,
             "day": 3,
             "exercise": "romanian deadlift",
@@ -22736,7 +29109,9 @@ export const repPrs = {
    "ez bar cable pressdowns": {
       "8": [
          {
-            "id": "528e88f3-3e8f-4942-b41e-e57359c6771d",
+            "id": "75dee3a1-a5e9-4c6e-8007-8e7ea9ab1a20",
+            "inferredDate": "2018-01-13",
+            "weekStartDate": "2018-01-07",
             "week": 123,
             "day": 4,
             "exercise": "ez bar cable pressdowns",
@@ -22754,7 +29129,9 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "d424e947-8f35-43ee-be95-ab61b4f13f46",
+            "id": "fc090cfe-b249-4485-b10c-a003235debc8",
+            "inferredDate": "2018-11-16",
+            "weekStartDate": "2018-11-10",
             "week": 143,
             "day": 4,
             "exercise": "ez bar cable pressdowns",
@@ -22772,7 +29149,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "165a75ca-3879-42e7-a8fa-4c5bf8bacd75",
+            "id": "da61cbf2-bb69-4093-87d9-73535b2e657c",
+            "inferredDate": "2017-11-18",
+            "weekStartDate": "2017-11-12",
             "week": 115,
             "day": 4,
             "exercise": "ez bar cable pressdowns",
@@ -22788,7 +29167,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "17383e8e-94ad-48c7-9e28-7fd57b75594f",
+            "id": "05b091ab-bfb1-424a-97ff-eeae89b9663b",
+            "inferredDate": "2018-01-13",
+            "weekStartDate": "2018-01-07",
             "week": 123,
             "day": 4,
             "exercise": "ez bar cable pressdowns",
@@ -22806,7 +29187,9 @@ export const repPrs = {
       ],
       "15": [
          {
-            "id": "cf672736-4ddc-45aa-b204-eb8925a43439",
+            "id": "831720ae-4b93-498b-8922-53a698894c9b",
+            "inferredDate": "2018-01-13",
+            "weekStartDate": "2018-01-07",
             "week": 123,
             "day": 4,
             "exercise": "ez bar cable pressdowns",
@@ -22826,7 +29209,9 @@ export const repPrs = {
    "db front raises": {
       "12": [
          {
-            "id": "491cd59c-4d73-4944-aa06-f92394b7418e",
+            "id": "22e95f25-c5f8-4252-8f87-c62f9f5ab3cd",
+            "inferredDate": "2017-12-14",
+            "weekStartDate": "2017-12-10",
             "week": 119,
             "day": 2,
             "exercise": "db front raises",
@@ -22846,7 +29231,63 @@ export const repPrs = {
    "banded hammer strength bench press": {
       "8": [
          {
-            "id": "1397efa1-c5c1-47e6-9cc1-8125e80485b3",
+            "id": "0db0f08f-de76-4386-a4e6-21b7661775da",
+            "inferredDate": "2018-11-23",
+            "weekStartDate": "2018-11-17",
+            "week": 144,
+            "day": 4,
+            "exercise": "banded hammer strength bench press",
+            "originalExerciseName": "Banded Hammer Strength Bench Press",
+            "setNumber": 1,
+            "reps": 8,
+            "instructions": "Do lots of warm ups, take small jumps in poundage",
+            "weight": 140,
+            "notes": "different hammer bench plus the bands required a lot less weight",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "2a32ef09-3aa2-43db-959f-437cc7176a26",
+            "inferredDate": "2018-11-23",
+            "weekStartDate": "2018-11-17",
+            "week": 144,
+            "day": 4,
+            "exercise": "banded hammer strength bench press",
+            "originalExerciseName": "Banded Hammer Strength Bench Press",
+            "setNumber": 2,
+            "reps": 8,
+            "instructions": "Do lots of warm ups, take small jumps in poundage",
+            "weight": 145,
+            "notes": "different hammer bench plus the bands required a lot less weight",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "f75eb815-a542-4e4e-b913-b009059e511a",
+            "inferredDate": "2018-11-23",
+            "weekStartDate": "2018-11-17",
+            "week": 144,
+            "day": 4,
+            "exercise": "banded hammer strength bench press",
+            "originalExerciseName": "Banded Hammer Strength Bench Press",
+            "setNumber": 3,
+            "reps": 8,
+            "instructions": "Do lots of warm ups, take small jumps in poundage",
+            "weight": 150,
+            "notes": "different hammer bench plus the bands required a lot less weight",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "fa4f1692-1e73-4749-be0e-f2d59cfcb1ed",
+            "inferredDate": "2018-11-23",
+            "weekStartDate": "2018-11-17",
             "week": 144,
             "day": 4,
             "exercise": "banded hammer strength bench press",
@@ -22862,7 +29303,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "21f3ce22-8d82-4516-8546-567638bc70f5",
+            "id": "d79ea640-87f6-4f25-bc9b-e5db94d9c64b",
+            "inferredDate": "2019-02-01",
+            "weekStartDate": "2019-01-26",
             "week": 154,
             "day": 4,
             "exercise": "banded hammer strength bench press",
@@ -22880,7 +29323,27 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "00e2fb79-c133-40e4-a8c1-bb66d5abdc21",
+            "id": "e11ba974-9e74-4629-84f0-75ae2f41c498",
+            "inferredDate": "2017-12-23",
+            "weekStartDate": "2017-12-17",
+            "week": 120,
+            "day": 4,
+            "exercise": "banded hammer strength bench press",
+            "originalExerciseName": "Banded Hammer Strength Bench Press",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "Do lots of warm ups, take small jumps in poundage",
+            "weight": 130,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "differentWeightsPerSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "5659bbf2-f92d-4f70-882b-7a515bdc7b3e",
+            "inferredDate": "2017-12-23",
+            "weekStartDate": "2017-12-17",
             "week": 120,
             "day": 4,
             "exercise": "banded hammer strength bench press",
@@ -22896,7 +29359,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "e828431d-5433-48e7-a55f-09d62ea3a18f",
+            "id": "68b6e223-830d-4b53-88f9-7a7da977910d",
+            "inferredDate": "2017-12-23",
+            "weekStartDate": "2017-12-17",
             "week": 120,
             "day": 4,
             "exercise": "banded hammer strength bench press",
@@ -22912,7 +29377,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "842b58ce-8db9-4cff-b6d3-40d70d5c8f78",
+            "id": "aa82139e-afed-4ec3-920a-ed813c3018f7",
+            "inferredDate": "2017-12-23",
+            "weekStartDate": "2017-12-17",
             "week": 120,
             "day": 4,
             "exercise": "banded hammer strength bench press",
@@ -22932,7 +29399,9 @@ export const repPrs = {
    "decline barbell bench press": {
       "10": [
          {
-            "id": "65a9d3da-0ae2-4b9b-93e5-2a6c922c830f",
+            "id": "2948d43e-6fe9-4cb7-b2a0-005514782ff1",
+            "inferredDate": "2017-12-27",
+            "weekStartDate": "2017-12-24",
             "week": 121,
             "day": 2,
             "exercise": "decline barbell bench press",
@@ -22948,7 +29417,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "1bccacbc-c9be-460b-9642-6c5771b9bed2",
+            "id": "bf410803-2c44-4cfc-ab3e-5bc9b65a5aaa",
+            "inferredDate": "2017-12-27",
+            "weekStartDate": "2017-12-24",
             "week": 121,
             "day": 2,
             "exercise": "decline barbell bench press",
@@ -22964,7 +29435,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "f2acbed0-06a2-43bf-90b1-8c75c79c0580",
+            "id": "6170ac25-b626-412c-bd55-4b37ff9cc293",
+            "inferredDate": "2017-12-27",
+            "weekStartDate": "2017-12-24",
             "week": 121,
             "day": 2,
             "exercise": "decline barbell bench press",
@@ -22984,7 +29457,9 @@ export const repPrs = {
    "ez bar skull crushers": {
       "10": [
          {
-            "id": "e1497097-b4ad-4c1a-aaa9-757fe20214a1",
+            "id": "210224fb-752a-4603-bedc-bc0e4038d7cf",
+            "inferredDate": "2018-12-28",
+            "weekStartDate": "2018-12-22",
             "week": 149,
             "day": 4,
             "exercise": "ez bar skull crushers",
@@ -23002,12 +29477,14 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "9a0761a6-fa2c-4c2a-8d1e-161867d6738a",
+            "id": "295ceb4c-fb3d-4dec-8fb2-fb072021b8c5",
+            "inferredDate": "2017-12-30",
+            "weekStartDate": "2017-12-24",
             "week": 121,
             "day": 4,
             "exercise": "ez bar skull crushers",
             "originalExerciseName": "EZ Bar Skull Crushers",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 70,
@@ -23022,7 +29499,9 @@ export const repPrs = {
    "seated cable rows": {
       "12": [
          {
-            "id": "2033fce6-875c-4115-a674-4531bc622bcd",
+            "id": "7f383a0d-a347-4afe-96d7-14cbd401dba2",
+            "inferredDate": "2018-01-12",
+            "weekStartDate": "2018-01-07",
             "week": 123,
             "day": 3,
             "exercise": "seated cable rows",
@@ -23038,7 +29517,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "e2d07d15-b391-46ce-8735-7a1cb53e9422",
+            "id": "0c50a2f4-66b6-4db9-bfb8-4918d1215591",
+            "inferredDate": "2018-11-01",
+            "weekStartDate": "2018-10-27",
             "week": 141,
             "day": 3,
             "exercise": "seated cable rows",
@@ -23052,13 +29533,33 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "45f99265-ee23-4c8e-950a-7d0b961599f4",
+            "inferredDate": "2019-04-18",
+            "weekStartDate": "2019-04-13",
+            "week": 165,
+            "day": 3,
+            "exercise": "seated cable rows",
+            "originalExerciseName": "Seated Cable Rows",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 209,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ]
    },
    "overhead cable rope extension": {
       "12": [
          {
-            "id": "7e2936a2-7d4a-4eb3-b802-92936d69cf6f",
+            "id": "52aebbe5-c204-4a4f-9166-8f03995b3aa4",
+            "inferredDate": "2018-01-13",
+            "weekStartDate": "2018-01-07",
             "week": 123,
             "day": 4,
             "exercise": "overhead cable rope extension",
@@ -23072,25 +29573,23 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
-         }
-      ]
-   },
-   "planks": {
-      "60": [
+         },
          {
-            "id": "46104c10-5f15-490c-a24c-f5e4de32e93d",
-            "week": 124,
-            "day": 1,
-            "exercise": "planks",
-            "originalExerciseName": "Planks",
+            "id": "1bbe49a2-6f7c-421a-b48c-f4fc5fb4c029",
+            "inferredDate": "2019-08-07",
+            "weekStartDate": "2019-08-03",
+            "week": 180,
+            "day": 2,
+            "exercise": "overhead cable rope extension",
+            "originalExerciseName": "Skull crushers ",
             "setNumber": 1,
-            "reps": 60,
+            "reps": 12,
             "instructions": "",
-            "weight": 0,
-            "notes": "META: original data 1 minute",
+            "weight": 90,
+            "notes": "",
             "supersetId": "",
             "anomalous": "",
-            "strategyUsed": "noWeightStraightSetStrategy",
+            "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
          }
       ]
@@ -23098,11 +29597,13 @@ export const repPrs = {
    "glute bridge iso holds": {
       "20": [
          {
-            "id": "f86cf49a-2380-498b-8bf7-043883a3fb4b",
+            "id": "ec14e2a7-3cc7-4bc1-8722-5d46cb5d6967",
+            "inferredDate": "2018-01-16",
+            "weekStartDate": "2018-01-14",
             "week": 124,
             "day": 1,
             "exercise": "glute bridge iso holds",
-            "originalExerciseName": "Glute bridges",
+            "originalExerciseName": "Glute bridges ",
             "setNumber": 1,
             "reps": 20,
             "instructions": "Pause at top, no rest at bottom, constant tension",
@@ -23116,7 +29617,9 @@ export const repPrs = {
       ],
       "25": [
          {
-            "id": "dfefa346-90d9-48c6-b3c3-9202bde0a441",
+            "id": "4a29cdfc-c20a-4b1b-9589-3a8a3f374bf4",
+            "inferredDate": "2018-01-16",
+            "weekStartDate": "2018-01-14",
             "week": 124,
             "day": 1,
             "exercise": "glute bridge iso holds",
@@ -23133,10 +29636,34 @@ export const repPrs = {
          }
       ]
    },
+   "planks": {
+      "60": [
+         {
+            "id": "31a7b845-9813-4d8a-9933-0a851fbda316",
+            "inferredDate": "2018-01-16",
+            "weekStartDate": "2018-01-14",
+            "week": 124,
+            "day": 1,
+            "exercise": "planks",
+            "originalExerciseName": "Planks",
+            "setNumber": 1,
+            "reps": 60,
+            "instructions": "",
+            "weight": 0,
+            "notes": "META: original data 1 minute",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "noWeightStraightSetStrategy",
+            "dropSetId": ""
+         }
+      ]
+   },
    "seated single arm db front raise": {
       "12": [
          {
-            "id": "0742754c-92d4-451a-b2e2-b1673f0f542d",
+            "id": "bf040cd7-8718-4cc4-8db8-cdbef73ccdf6",
+            "inferredDate": "2018-01-17",
+            "weekStartDate": "2018-01-14",
             "week": 124,
             "day": 2,
             "exercise": "seated single arm db front raise",
@@ -23156,7 +29683,9 @@ export const repPrs = {
    "single arm lat pulldowns": {
       "10": [
          {
-            "id": "8ea1404d-41c8-42dd-8d01-1db3e17cc8b5",
+            "id": "36956a7d-15ae-437f-a190-ae769541efef",
+            "inferredDate": "2018-01-19",
+            "weekStartDate": "2018-01-14",
             "week": 124,
             "day": 3,
             "exercise": "single arm lat pulldowns",
@@ -23172,7 +29701,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "d0fbf157-8b49-44e4-b89e-2d3bcdb68852",
+            "id": "bfe6391f-70b6-4cea-908d-8aeadba7731e",
+            "inferredDate": "2018-09-20",
+            "weekStartDate": "2018-09-15",
             "week": 135,
             "day": 3,
             "exercise": "single arm lat pulldowns",
@@ -23188,7 +29719,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "d3b476fa-14f0-4bd4-8294-7b38e0b65d4e",
+            "id": "bc1cbabe-67e3-4ccf-abd1-262ee3db478a",
+            "inferredDate": "2019-01-31",
+            "weekStartDate": "2019-01-26",
             "week": 154,
             "day": 3,
             "exercise": "single arm lat pulldowns",
@@ -23206,7 +29739,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "7fdb17a5-452d-407a-aa7d-e887d962984f",
+            "id": "d8436ac4-b474-4614-a2ff-df18fb21019d",
+            "inferredDate": "2018-07-26",
+            "weekStartDate": "2018-07-21",
             "week": 127,
             "day": 3,
             "exercise": "single arm lat pulldowns",
@@ -23222,7 +29757,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "ce7eab04-1787-43bf-afc5-620a9002999c",
+            "id": "9196f3e8-cc5d-46d7-b53e-4cad8414d3c1",
+            "inferredDate": "2018-12-06",
+            "weekStartDate": "2018-12-01",
             "week": 146,
             "day": 3,
             "exercise": "single arm lat pulldowns",
@@ -23236,13 +29773,33 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "3bf6c2a0-95bf-4bbb-b482-1019a4af9d36",
+            "inferredDate": "2019-04-25",
+            "weekStartDate": "2019-04-20",
+            "week": 166,
+            "day": 3,
+            "exercise": "single arm lat pulldowns",
+            "originalExerciseName": "Single Arm Lat Pulldowns",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 100,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ]
    },
    "Partial seated hamstring curls": {
       "10": [
          {
-            "id": "b87ed1ad-da4c-4870-9f32-0f2329269e6d",
+            "id": "47726420-d086-41e6-94e2-8be8a417be79",
+            "inferredDate": "2018-07-09",
+            "weekStartDate": "2018-07-07",
             "week": 125,
             "day": 1,
             "exercise": "Partial seated hamstring curls",
@@ -23252,7 +29809,7 @@ export const repPrs = {
             "instructions": "10 full reps, 10 partial reps, 10 second isohold on each set",
             "weight": 120,
             "notes": "",
-            "supersetId": "95fffcfd-672e-4ef6-a1d4-0728cbbc0c7b",
+            "supersetId": "e34e7d5b-eb97-4069-8ee0-d79e7df9a313",
             "anomalous": "",
             "strategyUsed": "partialRepsStrategy",
             "dropSetId": ""
@@ -23262,7 +29819,9 @@ export const repPrs = {
    "adductor machine": {
       "12": [
          {
-            "id": "11a27fba-ace2-4146-9feb-3f81ae4bc9ef",
+            "id": "3c95e39e-4e4d-4c57-9b6b-9df79c8eef35",
+            "inferredDate": "2018-07-09",
+            "weekStartDate": "2018-07-07",
             "week": 125,
             "day": 1,
             "exercise": "adductor machine",
@@ -23282,7 +29841,9 @@ export const repPrs = {
    "Partial leg extensions": {
       "10": [
          {
-            "id": "b3f2cb0b-4aa3-411e-91b4-28311b917e81",
+            "id": "34811bc0-0617-4abb-9dfc-b580b370fba6",
+            "inferredDate": "2018-07-09",
+            "weekStartDate": "2018-07-07",
             "week": 125,
             "day": 1,
             "exercise": "Partial leg extensions",
@@ -23292,7 +29853,7 @@ export const repPrs = {
             "instructions": "10 full reps, 10 partial reps, 10 second isohold on each set",
             "weight": 120,
             "notes": "",
-            "supersetId": "75f3dd65-aa5e-4a62-9e8b-f2db1c589473",
+            "supersetId": "95c1c1bb-30fd-4142-a9e5-30a7c4356d30",
             "anomalous": "",
             "strategyUsed": "partialRepsStrategy",
             "dropSetId": ""
@@ -23302,12 +29863,14 @@ export const repPrs = {
    "ez bar triceps ext": {
       "12": [
          {
-            "id": "eba3efaa-3786-4149-8cad-133f0118eaeb",
+            "id": "89de69b3-e8c9-4b35-a320-ecb4d5e6c1ad",
+            "inferredDate": "2018-07-20",
+            "weekStartDate": "2018-07-14",
             "week": 126,
             "day": 4,
             "exercise": "ez bar triceps ext",
             "originalExerciseName": "EZ Bar Triceps Ext",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 66,
@@ -23322,12 +29885,14 @@ export const repPrs = {
    "single leg lying hamstring curls": {
       "12": [
          {
-            "id": "97faf39c-01a6-47c3-82b7-57da7b7ca3dc",
+            "id": "9ee46770-7426-4661-a806-1adfdf45f9e4",
+            "inferredDate": "2018-07-23",
+            "weekStartDate": "2018-07-21",
             "week": 127,
             "day": 1,
             "exercise": "single leg lying hamstring curls",
             "originalExerciseName": "Single Legged Lying Hamstrings Curls",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 50,
@@ -23338,7 +29903,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "d7401f6a-a0c7-4396-a471-fad294d1bc02",
+            "id": "cb0088ac-c370-4363-9e9c-49233083a606",
+            "inferredDate": "2018-07-30",
+            "weekStartDate": "2018-07-28",
             "week": 128,
             "day": 1,
             "exercise": "single leg lying hamstring curls",
@@ -23358,7 +29925,9 @@ export const repPrs = {
    "btn seated overhead press": {
       "8": [
          {
-            "id": "6b4ea162-f9e2-4d05-9fa5-af61d0758b54",
+            "id": "f69c44e9-a5c1-4f1c-baf9-78fb389d2837",
+            "inferredDate": "2018-08-07",
+            "weekStartDate": "2018-08-04",
             "week": 129,
             "day": 2,
             "exercise": "btn seated overhead press",
@@ -23374,7 +29943,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "8e82e234-13af-4010-b0e8-68d1ff7ff3bd",
+            "id": "1cf48401-1b36-44fe-bd41-d08058f1a3c3",
+            "inferredDate": "2018-08-07",
+            "weekStartDate": "2018-08-04",
             "week": 129,
             "day": 2,
             "exercise": "btn seated overhead press",
@@ -23394,7 +29965,9 @@ export const repPrs = {
    "smith machine rows": {
       "8": [
          {
-            "id": "d29258a2-a351-4e1b-ad6e-55c7169b2f2e",
+            "id": "47f775c3-be32-4725-af93-20d9e19e11e1",
+            "inferredDate": "2018-10-25",
+            "weekStartDate": "2018-10-20",
             "week": 140,
             "day": 3,
             "exercise": "smith machine rows",
@@ -23412,11 +29985,13 @@ export const repPrs = {
       ],
       "10": [
          {
-            "id": "82c5fbdf-fa20-410c-b81f-bd3ea6fe2408",
+            "id": "9ac565c2-4ecc-4f26-ae3f-f7bfdcda706d",
+            "inferredDate": "2018-09-06",
+            "weekStartDate": "2018-09-01",
             "week": 133,
             "day": 3,
             "exercise": "smith machine rows",
-            "originalExerciseName": "Dumbbell rows",
+            "originalExerciseName": "Dumbbell rows ",
             "setNumber": 1,
             "reps": 10,
             "instructions": "",
@@ -23430,12 +30005,14 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "c7680e4a-17a3-4038-864a-d3fe8effba4e",
+            "id": "b3ce969f-9c60-4679-9a22-944fca8efb73",
+            "inferredDate": "2018-08-09",
+            "weekStartDate": "2018-08-04",
             "week": 129,
             "day": 3,
             "exercise": "smith machine rows",
             "originalExerciseName": "Smith Machine Rows",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 135,
@@ -23450,7 +30027,9 @@ export const repPrs = {
    "ez bar reverse cable curls": {
       "20": [
          {
-            "id": "bd1ed76e-899d-4eb0-a750-f14cdb969e1e",
+            "id": "49d2c889-7ac4-4915-9d21-fb5ec7b44cd2",
+            "inferredDate": "2018-08-10",
+            "weekStartDate": "2018-08-04",
             "week": 129,
             "day": 4,
             "exercise": "ez bar reverse cable curls",
@@ -23470,12 +30049,14 @@ export const repPrs = {
    "strip the rack rows": {
       "12": [
          {
-            "id": "cf13a60f-09fa-4d2f-b04a-26461beff457",
+            "id": "e973525d-96b8-48ae-af1e-2c07b8085a7c",
+            "inferredDate": "2018-08-17",
+            "weekStartDate": "2018-08-11",
             "week": 130,
             "day": 3,
             "exercise": "strip the rack rows",
             "originalExerciseName": "Strip The Rack Rows",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 135,
@@ -23490,7 +30071,9 @@ export const repPrs = {
    "behind the neck lat pulldowns": {
       "8": [
          {
-            "id": "b67fe8ed-fb45-4d65-bd35-77ceecb5e848",
+            "id": "734a2ae8-0f6c-42e2-a978-7f15dc3d77c1",
+            "inferredDate": "2018-10-25",
+            "weekStartDate": "2018-10-20",
             "week": 140,
             "day": 3,
             "exercise": "behind the neck lat pulldowns",
@@ -23508,7 +30091,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "eaafd9bb-395a-4927-aaf0-c15ee829fa64",
+            "id": "411c3808-c1e7-44a3-af44-6fd46d09fffd",
+            "inferredDate": "2018-08-30",
+            "weekStartDate": "2018-08-25",
             "week": 132,
             "day": 3,
             "exercise": "behind the neck lat pulldowns",
@@ -23522,13 +30107,33 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "52733c32-3a91-485f-abe7-f2b8c05d94e6",
+            "inferredDate": "2019-03-21",
+            "weekStartDate": "2019-03-16",
+            "week": 161,
+            "day": 3,
+            "exercise": "behind the neck lat pulldowns",
+            "originalExerciseName": "BTN Lat Pulldowns",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "Don't overdo the ROM",
+            "weight": 165,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ]
    },
    "front loaded db lateral lunges": {
       "12": [
          {
-            "id": "10102777-784b-4bd7-9c6c-7af1e35cecee",
+            "id": "ffdce18f-e59d-4cae-802d-da48470c90c1",
+            "inferredDate": "2018-09-03",
+            "weekStartDate": "2018-09-01",
             "week": 133,
             "day": 1,
             "exercise": "front loaded db lateral lunges",
@@ -23548,7 +30153,9 @@ export const repPrs = {
    "wide grip neutral pulldowns": {
       "12": [
          {
-            "id": "75d5caf8-99ca-48ec-99e1-3698d8e17614",
+            "id": "52008d88-507b-4e6b-92a7-e6db4817c238",
+            "inferredDate": "2018-09-06",
+            "weekStartDate": "2018-09-01",
             "week": 133,
             "day": 3,
             "exercise": "wide grip neutral pulldowns",
@@ -23568,12 +30175,14 @@ export const repPrs = {
    "front loaded db reverse lunges": {
       "12": [
          {
-            "id": "6909ebbf-d513-466b-93f3-0ecbcad4919c",
+            "id": "245316d9-dad5-4bfe-9624-8592c48e61fc",
+            "inferredDate": "2018-09-10",
+            "weekStartDate": "2018-09-08",
             "week": 134,
             "day": 1,
             "exercise": "front loaded db reverse lunges",
             "originalExerciseName": "Front Loaded DB Reverse Lunges",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 40,
@@ -23584,7 +30193,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "cc451544-2cd0-4612-ae10-6cddc321cb6f",
+            "id": "d5c26583-7b79-43f5-923b-368aead483be",
+            "inferredDate": "2018-09-17",
+            "weekStartDate": "2018-09-15",
             "week": 135,
             "day": 1,
             "exercise": "front loaded db reverse lunges",
@@ -23602,9 +30213,31 @@ export const repPrs = {
       ]
    },
    "supine barbell rows": {
+      "5": [
+         {
+            "id": "0068b9e7-fcad-4068-af77-0253d3b4fed1",
+            "inferredDate": "2020-01-01",
+            "weekStartDate": "2019-12-28",
+            "week": 201,
+            "day": 2,
+            "exercise": "supine barbell rows",
+            "originalExerciseName": "Front levers",
+            "setNumber": 1,
+            "reps": 5,
+            "instructions": "",
+            "weight": 0,
+            "notes": "short on time,and sets werentgreat today, so only did 3 sets instead of5",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "noWeightStraightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
       "10": [
          {
-            "id": "3bd34a00-bf1f-419f-85e0-1fc76b6a07c5",
+            "id": "b2fa867f-5d6f-4170-a302-5094a546191b",
+            "inferredDate": "2018-10-04",
+            "weekStartDate": "2018-09-29",
             "week": 137,
             "day": 3,
             "exercise": "supine barbell rows",
@@ -23618,18 +30251,94 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "1c558ecb-6aa6-409b-bdd7-f54dd2b5bb39",
+            "inferredDate": "2019-12-04",
+            "weekStartDate": "2019-11-30",
+            "week": 197,
+            "day": 2,
+            "exercise": "supine barbell rows",
+            "originalExerciseName": "Supine Barbell Rows",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "",
+            "weight": 145,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "3bcca3b8-bba3-497e-b099-c6bb63d49a85",
+            "inferredDate": "2019-12-23",
+            "weekStartDate": "2019-12-21",
+            "week": 200,
+            "day": 1,
+            "exercise": "supine barbell rows",
+            "originalExerciseName": "Supine Barbell Rows",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "",
+            "weight": 155,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "12": [
+         {
+            "id": "b79fa76a-cceb-4b76-8c01-c02304647e79",
+            "inferredDate": "2020-01-03",
+            "weekStartDate": "2019-12-28",
+            "week": 201,
+            "day": 3,
+            "exercise": "supine barbell rows",
+            "originalExerciseName": "Incline DB Hex Bench",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 45,
+            "notes": "Home gym on xmas day, so used 45s instead of loading the adjustable DBs",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "8bd31c12-b288-4fd0-97e9-68ab2af7d10b",
+            "inferredDate": "2020-01-02",
+            "weekStartDate": "2019-12-28",
+            "week": 202,
+            "day": 3,
+            "exercise": "supine barbell rows",
+            "originalExerciseName": "Supine Barbell Rows",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 155,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ]
    },
    "db hex bench": {
       "12": [
          {
-            "id": "33503b6b-956f-4307-b62b-10c1b4493dd0",
+            "id": "aaddb04e-cd7f-4e0b-84a7-73a6fd788696",
+            "inferredDate": "2018-10-05",
+            "weekStartDate": "2018-09-29",
             "week": 137,
             "day": 4,
             "exercise": "db hex bench",
             "originalExerciseName": "DB Hex Bench",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 50,
@@ -23644,7 +30353,9 @@ export const repPrs = {
    "single arm preacher curls": {
       "10": [
          {
-            "id": "f20122c8-880f-443f-b5b9-722d5731c996",
+            "id": "6a1a137b-76cb-4122-ac05-09369665ae44",
+            "inferredDate": "2018-10-05",
+            "weekStartDate": "2018-09-29",
             "week": 137,
             "day": 4,
             "exercise": "single arm preacher curls",
@@ -23664,12 +30375,14 @@ export const repPrs = {
    "front rack bulgarian split squat": {
       "12": [
          {
-            "id": "29133539-8f2c-40a3-ab57-f09345c16745",
+            "id": "fbdf5f5c-a816-41fe-bbce-11349ed821cb",
+            "inferredDate": "2018-10-08",
+            "weekStartDate": "2018-10-06",
             "week": 138,
             "day": 1,
             "exercise": "front rack bulgarian split squat",
             "originalExerciseName": "Front Rack BSS",
-            "setNumber": 4,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 50,
@@ -23684,7 +30397,9 @@ export const repPrs = {
    "flat db twist and press": {
       "10": [
          {
-            "id": "515136a6-55d8-4b4a-9a23-68a6c5d880f5",
+            "id": "a29b9c96-50ec-48ed-8991-7b23a64a1407",
+            "inferredDate": "2018-10-09",
+            "weekStartDate": "2018-10-06",
             "week": 138,
             "day": 2,
             "exercise": "flat db twist and press",
@@ -23704,7 +30419,9 @@ export const repPrs = {
    "supine smith machine rows": {
       "10": [
          {
-            "id": "2b92f0c7-e226-46cf-a2c0-17910ec2bd58",
+            "id": "1563545a-dc16-4cd6-8381-951b3843bd19",
+            "inferredDate": "2018-10-11",
+            "weekStartDate": "2018-10-06",
             "week": 138,
             "day": 3,
             "exercise": "supine smith machine rows",
@@ -23724,12 +30441,14 @@ export const repPrs = {
    "front foot elevated bulgarian split squat": {
       "12": [
          {
-            "id": "73e67706-e15f-4a82-8535-66e5a3f04de9",
+            "id": "fab2cebd-5584-4bdd-a23e-453f0a331aa4",
+            "inferredDate": "2018-10-15",
+            "weekStartDate": "2018-10-13",
             "week": 139,
             "day": 1,
             "exercise": "front foot elevated bulgarian split squat",
             "originalExerciseName": "FFE BSS",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "Front foot elevated bulgarian split squats",
             "weight": 30,
@@ -23744,7 +30463,9 @@ export const repPrs = {
    "v bar cable rows": {
       "8": [
          {
-            "id": "1134ff48-c25e-4a7d-8dfa-3613d358b77b",
+            "id": "4469c555-d510-4456-af92-5e9f77f77421",
+            "inferredDate": "2018-10-18",
+            "weekStartDate": "2018-10-13",
             "week": 139,
             "day": 3,
             "exercise": "v bar cable rows",
@@ -23760,12 +30481,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "86b646c0-f267-4463-857a-838edb1f9731",
+            "id": "bb42c35e-5164-4ea3-a395-349838fcd47f",
+            "inferredDate": "2019-01-31",
+            "weekStartDate": "2019-01-26",
             "week": 154,
             "day": 3,
             "exercise": "v bar cable rows",
             "originalExerciseName": "V Bar Cable Rows",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 8,
             "instructions": "",
             "weight": 209,
@@ -23780,7 +30503,9 @@ export const repPrs = {
    "pistol squats": {
       "8": [
          {
-            "id": "609029fa-be57-4394-8eba-5785fe836c47",
+            "id": "41fb82de-cc0f-4913-aea8-1ddae119d56c",
+            "inferredDate": "2018-10-22",
+            "weekStartDate": "2018-10-20",
             "week": 140,
             "day": 1,
             "exercise": "pistol squats",
@@ -23798,7 +30523,9 @@ export const repPrs = {
       ],
       "12": [
          {
-            "id": "a7e02b82-0100-45ef-887b-c288e68fef4c",
+            "id": "59b05322-eb86-4079-8833-f766c91fb1b1",
+            "inferredDate": "2018-10-29",
+            "weekStartDate": "2018-10-27",
             "week": 141,
             "day": 1,
             "exercise": "pistol squats",
@@ -23812,13 +30539,33 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "noWeightStraightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "757d692d-c344-4961-a28f-ce8a3543b0e7",
+            "inferredDate": "2019-05-20",
+            "weekStartDate": "2019-05-18",
+            "week": 170,
+            "day": 1,
+            "exercise": "pistol squats",
+            "originalExerciseName": "Leg Extension 1.5s",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 100,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ]
    },
    "chest supported hammer strength rows": {
       "8": [
          {
-            "id": "4e3bae0f-84f8-47c5-9770-553c9af0b8de",
+            "id": "c2878629-f360-412e-a515-8cea41bc16f7",
+            "inferredDate": "2018-10-25",
+            "weekStartDate": "2018-10-20",
             "week": 140,
             "day": 3,
             "exercise": "chest supported hammer strength rows",
@@ -23838,7 +30585,9 @@ export const repPrs = {
    "kneeling single leg curl machine": {
       "12": [
          {
-            "id": "33fe192c-702e-4fe2-8f8e-f8cccfe85efd",
+            "id": "78cf204e-6c66-4763-8af0-54477a4d5add",
+            "inferredDate": "2018-10-29",
+            "weekStartDate": "2018-10-27",
             "week": 141,
             "day": 1,
             "exercise": "kneeling single leg curl machine",
@@ -23858,7 +30607,9 @@ export const repPrs = {
    "supinated barbell rows": {
       "12": [
          {
-            "id": "703f2d0a-38ab-4b60-a32c-4ddeacd53c50",
+            "id": "56e34d85-f1c8-4deb-8a93-618744be278c",
+            "inferredDate": "2018-11-01",
+            "weekStartDate": "2018-10-27",
             "week": 141,
             "day": 3,
             "exercise": "supinated barbell rows",
@@ -23872,13 +30623,53 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "270dc903-0e00-4957-afff-a92791cd8fe4",
+            "inferredDate": "2020-03-17",
+            "weekStartDate": "2020-03-14",
+            "week": 212,
+            "day": 1,
+            "exercise": "supinated barbell rows",
+            "originalExerciseName": "Supinated Barbell Rows",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 155,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ]
    },
    "weighted planks": {
+      "12": [
+         {
+            "id": "6f128373-a5d9-447d-87aa-5b5e8fa4e825",
+            "inferredDate": "2019-04-05",
+            "weekStartDate": "2019-03-30",
+            "week": 163,
+            "day": 4,
+            "exercise": "weighted planks",
+            "originalExerciseName": "Incline Hammer Strength Bench",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 200,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
       "30": [
          {
-            "id": "086397ea-98ff-4072-90b4-22b5c3500e72",
+            "id": "a7b704f4-6049-45b7-8172-861282716a13",
+            "inferredDate": "2018-11-01",
+            "weekStartDate": "2018-10-27",
             "week": 141,
             "day": 3,
             "exercise": "weighted planks",
@@ -23898,7 +30689,9 @@ export const repPrs = {
    "single arm seated cable rows": {
       "12": [
          {
-            "id": "f9ded8d0-3f85-49ef-8c2d-2b3fc908c94c",
+            "id": "2d4a2cf7-0fd1-4358-aefd-c26a37251f2e",
+            "inferredDate": "2018-11-08",
+            "weekStartDate": "2018-11-03",
             "week": 142,
             "day": 3,
             "exercise": "single arm seated cable rows",
@@ -23918,12 +30711,14 @@ export const repPrs = {
    "incline hex db bench press": {
       "12": [
          {
-            "id": "e47f6b47-7d59-47b9-9217-41a07756dd29",
+            "id": "72f44f0e-fca1-4704-81ed-faced458990f",
+            "inferredDate": "2018-11-09",
+            "weekStartDate": "2018-11-03",
             "week": 142,
             "day": 4,
             "exercise": "incline hex db bench press",
             "originalExerciseName": "Incline Hex DB Bench Press",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 45,
@@ -23938,7 +30733,9 @@ export const repPrs = {
    "ez bar palms up pressdowns": {
       "12": [
          {
-            "id": "cab835ba-c9d0-4814-bb46-c0b80f33f7ae",
+            "id": "9ea65e3b-eabb-493a-bb43-9e3b33a46f22",
+            "inferredDate": "2018-11-09",
+            "weekStartDate": "2018-11-03",
             "week": 142,
             "day": 4,
             "exercise": "ez bar palms up pressdowns",
@@ -23954,12 +30751,14 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "f67b200e-b604-4eb3-8b37-e125f1846081",
+            "id": "08242dd8-aa81-4335-be55-dbdf04eb992a",
+            "inferredDate": "2019-01-04",
+            "weekStartDate": "2018-12-29",
             "week": 150,
             "day": 4,
             "exercise": "ez bar palms up pressdowns",
             "originalExerciseName": "EZ Bar Palms Up Pressdowns",
-            "setNumber": 2,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 57.5,
@@ -23970,7 +30769,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "455ac0fd-8df4-423b-b126-93a02c181634",
+            "id": "8d605950-1cc6-43bb-9be9-ca9c20ac8415",
+            "inferredDate": "2019-02-15",
+            "weekStartDate": "2019-02-09",
             "week": 156,
             "day": 4,
             "exercise": "ez bar palms up pressdowns",
@@ -23984,13 +30785,33 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "d98b5593-ba47-4aa8-8ae7-774de8f4c233",
+            "inferredDate": "2019-03-22",
+            "weekStartDate": "2019-03-16",
+            "week": 161,
+            "day": 4,
+            "exercise": "ez bar palms up pressdowns",
+            "originalExerciseName": "EZ Bar Palms Up Pressdowns",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 77,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ]
    },
    "db jm presses": {
       "12": [
          {
-            "id": "1e7469ae-1d28-4a0b-b1fe-1b7f567bd3c9",
+            "id": "7f561b76-7fc6-433b-8115-e32b0faadbcd",
+            "inferredDate": "2018-11-23",
+            "weekStartDate": "2018-11-17",
             "week": 144,
             "day": 4,
             "exercise": "db jm presses",
@@ -24010,7 +30831,9 @@ export const repPrs = {
    "single arm cable laterals": {
       "12": [
          {
-            "id": "8763e918-999c-4a13-bf31-15807c6f662a",
+            "id": "245ef4d5-dbd4-4606-9769-31371b868800",
+            "inferredDate": "2018-12-18",
+            "weekStartDate": "2018-12-15",
             "week": 148,
             "day": 2,
             "exercise": "single arm cable laterals",
@@ -24028,9 +30851,127 @@ export const repPrs = {
       ]
    },
    "ez bar jm presses": {
+      "2": [
+         {
+            "id": "adfbc3e3-0754-47c8-950f-f06c2ee4023d",
+            "inferredDate": "2019-12-09",
+            "weekStartDate": "2019-12-07",
+            "week": 198,
+            "day": 1,
+            "exercise": "ez bar jm presses",
+            "originalExerciseName": "High Bar Back Squats",
+            "setNumber": 1,
+            "reps": 2,
+            "instructions": "Using 85% of your 1 RM",
+            "weight": 355,
+            "notes": "From week 141. Tried 365 first set, but it was grindy and my back feels a little weird, so dropped down to 355",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "3": [
+         {
+            "id": "49060142-5522-424b-a84e-8151655eac3d",
+            "inferredDate": "2019-11-20",
+            "weekStartDate": "2019-11-16",
+            "week": 195,
+            "day": 2,
+            "exercise": "ez bar jm presses",
+            "originalExerciseName": "High Bar Back Squats",
+            "setNumber": 1,
+            "reps": 3,
+            "instructions": "Using 70% of your 1 RM",
+            "weight": 315,
+            "notes": "From week 139",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "4": [
+         {
+            "id": "6ba0cd4d-dc47-4367-9975-0acc4e045e7a",
+            "inferredDate": "2019-11-29",
+            "weekStartDate": "2019-11-23",
+            "week": 196,
+            "day": 3,
+            "exercise": "ez bar jm presses",
+            "originalExerciseName": "High Bar Back Squats",
+            "setNumber": 1,
+            "reps": 4,
+            "instructions": "Using 80% of your 1 RM",
+            "weight": 335,
+            "notes": "From week 140",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "10": [
+         {
+            "id": "7cac639c-a046-4928-b55e-826964ec5aae",
+            "inferredDate": "2019-11-18",
+            "weekStartDate": "2019-11-16",
+            "week": 195,
+            "day": 1,
+            "exercise": "ez bar jm presses",
+            "originalExerciseName": "Upright rows",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "",
+            "weight": 65,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "a0a5fa16-d0d9-4b57-ba48-1717017ec84f",
+            "inferredDate": "2019-11-18",
+            "weekStartDate": "2019-11-16",
+            "week": 195,
+            "day": 1,
+            "exercise": "ez bar jm presses",
+            "originalExerciseName": "Trap bar shrugs",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "",
+            "weight": 225,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "7a57fdfc-ec3d-47be-8031-f4bf88925b88",
+            "inferredDate": "2019-11-27",
+            "weekStartDate": "2019-11-23",
+            "week": 196,
+            "day": 2,
+            "exercise": "ez bar jm presses",
+            "originalExerciseName": "Trap bar shrugs",
+            "setNumber": 1,
+            "reps": 10,
+            "instructions": "",
+            "weight": 245,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
       "12": [
          {
-            "id": "4eadd3ad-5bb0-445f-9102-2bbf0c009ce3",
+            "id": "cb4bd561-cfa2-46f9-965b-3623bc7c5c85",
+            "inferredDate": "2018-12-21",
+            "weekStartDate": "2018-12-15",
             "week": 148,
             "day": 4,
             "exercise": "ez bar jm presses",
@@ -24046,7 +30987,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "6bc70f39-48e9-4a00-8146-d2a28855afb6",
+            "id": "4a9e3b24-8f2b-405e-943e-6e8b78b80c8b",
+            "inferredDate": "2018-12-21",
+            "weekStartDate": "2018-12-15",
             "week": 148,
             "day": 4,
             "exercise": "ez bar jm presses",
@@ -24062,7 +31005,9 @@ export const repPrs = {
             "dropSetId": ""
          },
          {
-            "id": "b86f9251-5700-4002-99f3-0a389d022240",
+            "id": "b9d5139d-b039-40cf-b106-33896cfbeccd",
+            "inferredDate": "2018-12-21",
+            "weekStartDate": "2018-12-15",
             "week": 148,
             "day": 4,
             "exercise": "ez bar jm presses",
@@ -24076,18 +31021,38 @@ export const repPrs = {
             "anomalous": "",
             "strategyUsed": "differentWeightsPerSetStrategy",
             "dropSetId": ""
+         },
+         {
+            "id": "78ca8a22-749f-4a40-ac23-763d4ddf02bf",
+            "inferredDate": "2019-11-20",
+            "weekStartDate": "2019-11-16",
+            "week": 195,
+            "day": 2,
+            "exercise": "ez bar jm presses",
+            "originalExerciseName": "Lying Leg Curl",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 120,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
          }
       ]
    },
    "bodyweight tempo squats": {
       "12": [
          {
-            "id": "76851ca2-b4db-476a-8022-93afefc7924f",
+            "id": "e2c91e7d-8c66-4404-82dc-1b577d8f4d40",
+            "inferredDate": "2018-12-24",
+            "weekStartDate": "2018-12-22",
             "week": 149,
             "day": 1,
             "exercise": "bodyweight tempo squats",
             "originalExerciseName": "Bodyweight Tempo Squats",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "3-0-3 Tempo",
             "weight": 0,
@@ -24102,7 +31067,9 @@ export const repPrs = {
    "i, y, ts": {
       "10": [
          {
-            "id": "c8d70100-a511-4ee6-a907-b38a58be1c55",
+            "id": "a3f01385-0c21-4e76-9ecf-4b159c1200ad",
+            "inferredDate": "2019-01-08",
+            "weekStartDate": "2019-01-05",
             "week": 151,
             "day": 2,
             "exercise": "i, y, ts",
@@ -24117,17 +31084,115 @@ export const repPrs = {
             "strategyUsed": "straightSetStrategy",
             "dropSetId": ""
          }
+      ],
+      "12": [
+         {
+            "id": "13a33a6d-1392-4b68-856f-507330913e5c",
+            "inferredDate": "2019-04-09",
+            "weekStartDate": "2019-04-06",
+            "week": 164,
+            "day": 2,
+            "exercise": "i, y, ts",
+            "originalExerciseName": "I, Y, Ts",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "",
+            "weight": 10,
+            "notes": "These were tough after OH DB lunges yesterday ",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "60daf787-da21-4196-98b3-b581cdf53509",
+            "inferredDate": "2019-05-21",
+            "weekStartDate": "2019-05-18",
+            "week": 170,
+            "day": 2,
+            "exercise": "i, y, ts",
+            "originalExerciseName": "Seated DB Shrugs",
+            "setNumber": 1,
+            "reps": 12,
+            "instructions": "3 Second hold",
+            "weight": 70,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
+      "20": [
+         {
+            "id": "e122ef09-d838-4233-be16-1d003f23f3ab",
+            "inferredDate": "2019-04-02",
+            "weekStartDate": "2019-03-30",
+            "week": 163,
+            "day": 2,
+            "exercise": "i, y, ts",
+            "originalExerciseName": "Incline DB Reverse Shrugs",
+            "setNumber": 1,
+            "reps": 20,
+            "instructions": "",
+            "weight": 80,
+            "notes": "when doing this movement, I couldn’t decide if I wanted to emphasize the shrug (bring traps to my earlobes) or pulling my scapulae together. Maybe I should be doing both?",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         },
+         {
+            "id": "cc6e773d-708e-40ba-bb48-c754189d04ae",
+            "inferredDate": "2019-05-14",
+            "weekStartDate": "2019-05-11",
+            "week": 169,
+            "day": 2,
+            "exercise": "i, y, ts",
+            "originalExerciseName": "Seated DB Shrugs",
+            "setNumber": 1,
+            "reps": 20,
+            "instructions": "",
+            "weight": 90,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
       ]
    },
    "single arm db preacher curls": {
+      "8": [
+         {
+            "id": "5aefe74d-8ed0-49e2-88f6-4eae7f5e1b4d",
+            "inferredDate": "2019-04-26",
+            "weekStartDate": "2019-04-20",
+            "week": 166,
+            "day": 4,
+            "exercise": "single arm db preacher curls",
+            "originalExerciseName": "Single Arm DB Preacher Curls",
+            "setNumber": 1,
+            "reps": 8,
+            "instructions": "",
+            "weight": 30,
+            "notes": "",
+            "supersetId": "",
+            "anomalous": "",
+            "strategyUsed": "straightSetStrategy",
+            "dropSetId": ""
+         }
+      ],
       "12": [
          {
-            "id": "d8bec8d1-23d2-4c38-8ebb-efab30364a5c",
+            "id": "75606d2b-4f32-4b18-98c6-0516dfa69a31",
+            "inferredDate": "2019-03-01",
+            "weekStartDate": "2019-02-23",
             "week": 158,
             "day": 4,
             "exercise": "single arm db preacher curls",
             "originalExerciseName": "Single Arm DB Preacher Curls",
-            "setNumber": 3,
+            "setNumber": 1,
             "reps": 12,
             "instructions": "",
             "weight": 35,
@@ -24140,4 +31205,3 @@ export const repPrs = {
       ]
    }
 }
-
